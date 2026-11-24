@@ -1,0 +1,470 @@
+{
+ "g_2000": {
+  "value": 8.6,
+  "how": "China real GDP growth 2000 (WEO Oct 2026)"
+ },
+ "g_2001": {
+  "value": 8.3,
+  "how": "China real GDP growth 2001 (WEO Oct 2026)"
+ },
+ "g_2006": {
+  "value": 12.7,
+  "how": "China real GDP growth 2006 (WEO Oct 2026)"
+ },
+ "g_2007": {
+  "value": 14.2,
+  "how": "China real GDP growth 2007 (WEO Oct 2026)"
+ },
+ "g_2008": {
+  "value": 9.6,
+  "how": "China real GDP growth 2008 (WEO Oct 2026)"
+ },
+ "g_2009": {
+  "value": 9.4,
+  "how": "China real GDP growth 2009 (WEO Oct 2026)"
+ },
+ "g_2010": {
+  "value": 10.6,
+  "how": "China real GDP growth 2010 (WEO Oct 2026)"
+ },
+ "g_2015": {
+  "value": 7.0,
+  "how": "China real GDP growth 2015 (WEO Oct 2026)"
+ },
+ "g_2019": {
+  "value": 6.1,
+  "how": "China real GDP growth 2019 (WEO Oct 2026)"
+ },
+ "g_2020": {
+  "value": 2.3,
+  "how": "China real GDP growth 2020 (WEO Oct 2026)"
+ },
+ "g_2021": {
+  "value": 8.6,
+  "how": "China real GDP growth 2021 (WEO Oct 2026)"
+ },
+ "g_2022": {
+  "value": 3.1,
+  "how": "China real GDP growth 2022 (WEO Oct 2026)"
+ },
+ "g_2023": {
+  "value": 5.4,
+  "how": "China real GDP growth 2023 (WEO Oct 2026)"
+ },
+ "g_2024": {
+  "value": 5.0,
+  "how": "China real GDP growth 2024 (WEO Oct 2026)"
+ },
+ "g_2025": {
+  "value": 5.0,
+  "how": "China real GDP growth 2025 (WEO Oct 2026)"
+ },
+ "g_2026": {
+  "value": 4.5,
+  "how": "China real GDP growth 2026 (WEO Oct 2026, projection)"
+ },
+ "g_2027": {
+  "value": 4.0,
+  "how": "China real GDP growth 2027 (WEO Oct 2026, projection)"
+ },
+ "g_2031": {
+  "value": 3.3,
+  "how": "China real GDP growth 2031 (WEO Oct 2026, projection)"
+ },
+ "g_avg_0011": {
+  "value": 10.3,
+  "how": "China real GDP growth, average 2000-11"
+ },
+ "g_avg_1219": {
+  "value": 7.1,
+  "how": "China real GDP growth, average 2012-19"
+ },
+ "g_avg_2125": {
+  "value": 5.4,
+  "how": "China real GDP growth, average 2021-25"
+ },
+ "g_avg_2631": {
+  "value": 3.8,
+  "how": "China real GDP growth, average 2026-31 (projection)"
+ },
+ "g_ind_avg_1219": {
+  "value": 6.6,
+  "how": "India real GDP growth, average 2012-19"
+ },
+ "g_ind_avg_2125": {
+  "value": 7.9,
+  "how": "India real GDP growth, average 2021-25"
+ },
+ "cpi_2002": {
+  "value": -0.74,
+  "how": "China CPI inflation 2002, annual average"
+ },
+ "cpi_2008": {
+  "value": 5.83,
+  "how": "China CPI inflation 2008, annual average"
+ },
+ "cpi_2011": {
+  "value": 5.41,
+  "how": "China CPI inflation 2011, annual average"
+ },
+ "cpi_2023": {
+  "value": 0.24,
+  "how": "China CPI inflation 2023, annual average"
+ },
+ "cpi_2024": {
+  "value": 0.22,
+  "how": "China CPI inflation 2024, annual average"
+ },
+ "cpi_2025": {
+  "value": 0.05,
+  "how": "China CPI inflation 2025, annual average"
+ },
+ "cpi_2026": {
+  "value": 1.03,
+  "how": "China CPI inflation 2026, annual average"
+ },
+ "cpi_avg_2325": {
+  "value": 0.17,
+  "how": "China CPI inflation, average 2023-25"
+ },
+ "inv_2000": {
+  "value": 33.6,
+  "how": "China gross capital formation, % of GDP, 2000"
+ },
+ "inv_2025": {
+  "value": 38.9,
+  "how": "China gross capital formation, % of GDP, 2025"
+ },
+ "inv_2031": {
+  "value": 41.1,
+  "how": "China gross capital formation, % of GDP, 2031"
+ },
+ "inv_pk": {
+  "value": 46.3,
+  "how": "China investment, % of GDP, peak 2000-25 (2011)"
+ },
+ "inv_pk_y": {
+  "value": 2011,
+  "how": "year of that peak"
+ },
+ "sav_pk": {
+  "value": 51.0,
+  "how": "China gross national saving, % of GDP, peak 2000-25 (2008)"
+ },
+ "sav_pk_y": {
+  "value": 2008,
+  "how": "year of that peak"
+ },
+ "sav_2025": {
+  "value": 42.6,
+  "how": "China gross national saving, % of GDP, 2025"
+ },
+ "ca_pk": {
+  "value": 9.8,
+  "how": "China current account, % of GDP, peak 2000-25 (2007)"
+ },
+ "ca_pk_y": {
+  "value": 2007,
+  "how": "year of that peak"
+ },
+ "ca_lo": {
+  "value": 0.2,
+  "how": "China current account, % of GDP, low 2009-25 (2018)"
+ },
+ "ca_lo_y": {
+  "value": 2018,
+  "how": "year of that low"
+ },
+ "ca_2000": {
+  "value": 1.7,
+  "how": "China current account, % of GDP, 2000"
+ },
+ "ca_2025": {
+  "value": 3.7,
+  "how": "China current account, % of GDP, 2025"
+ },
+ "ca_2026": {
+  "value": 4.0,
+  "how": "China current account, % of GDP, 2026"
+ },
+ "inv_ind_2025": {
+  "value": 34.9,
+  "how": "India gross capital formation, % of GDP, 2025"
+ },
+ "inv_usa_2025": {
+  "value": 21.6,
+  "how": "US gross capital formation, % of GDP, 2025"
+ },
+ "bis_nfc_2008": {
+  "value": 88.4,
+  "how": "BIS credit to non-financial corporations, % of GDP, 2008 Q4"
+ },
+ "bis_nfc_2016": {
+  "value": 145.1,
+  "how": "BIS credit to non-financial corporations, % of GDP, 2016 Q4"
+ },
+ "bis_nfc_last": {
+  "value": 146.6,
+  "how": "BIS credit to non-financial corporations, % of GDP, latest (2026 Q1)"
+ },
+ "bis_nfc_pk": {
+  "value": 151.8,
+  "how": "BIS credit to non-financial corporations, % of GDP, peak (2016 Q1)"
+ },
+ "bis_hh_2008": {
+  "value": 17.6,
+  "how": "BIS credit to households, % of GDP, 2008 Q4"
+ },
+ "bis_hh_2016": {
+  "value": 43.4,
+  "how": "BIS credit to households, % of GDP, 2016 Q4"
+ },
+ "bis_hh_last": {
+  "value": 57.5,
+  "how": "BIS credit to households, % of GDP, latest (2026 Q1)"
+ },
+ "bis_hh_pk": {
+  "value": 61.0,
+  "how": "BIS credit to households, % of GDP, peak (2024 Q1)"
+ },
+ "bis_gov_2008": {
+  "value": 26.7,
+  "how": "BIS credit to general government, % of GDP, 2008 Q4"
+ },
+ "bis_gov_2016": {
+  "value": 50.1,
+  "how": "BIS credit to general government, % of GDP, 2016 Q4"
+ },
+ "bis_gov_last": {
+  "value": 101.1,
+  "how": "BIS credit to general government, % of GDP, latest (2026 Q1)"
+ },
+ "bis_gov_pk": {
+  "value": 101.1,
+  "how": "BIS credit to general government, % of GDP, peak (2026 Q1)"
+ },
+ "bis_priv_2008": {
+  "value": 106.3,
+  "how": "BIS credit to private non-financial sector, % of GDP, 2008 Q4"
+ },
+ "bis_priv_2016": {
+  "value": 188.5,
+  "how": "BIS credit to private non-financial sector, % of GDP, 2016 Q4"
+ },
+ "bis_priv_last": {
+  "value": 204.1,
+  "how": "BIS credit to private non-financial sector, % of GDP, latest (2026 Q1)"
+ },
+ "bis_priv_pk": {
+  "value": 204.1,
+  "how": "BIS credit to private non-financial sector, % of GDP, peak (2026 Q1)"
+ },
+ "bis_hh_2006": {
+  "value": 11.3,
+  "how": "BIS credit to households, % of GDP, 2006 Q1"
+ },
+ "bis_tot_2008": {
+  "value": 133.0,
+  "how": "BIS credit to the non-financial sector (private + government), % of GDP, 2008 Q4"
+ },
+ "bis_tot_2026": {
+  "value": 305.2,
+  "how": "BIS credit to the non-financial sector (private + government), % of GDP, 2026 Q1"
+ },
+ "fx_2005_06": {
+  "value": 8.2765,
+  "how": "yuan per dollar, June 2005 average"
+ },
+ "fx_2008_07": {
+  "value": 6.8355,
+  "how": "yuan per dollar, July 2008 average"
+ },
+ "fx_lo": {
+  "value": 6.0509,
+  "how": "yuan per dollar, strongest month 2010-15 (2014-01)"
+ },
+ "fx_lo_y": {
+  "value": 2014,
+  "how": "year of that month"
+ },
+ "fx_2015_07": {
+  "value": 6.2085,
+  "how": "yuan per dollar, July 2015 average"
+ },
+ "fx_2015_09": {
+  "value": 6.3676,
+  "how": "yuan per dollar, September 2015 average"
+ },
+ "fx_pk": {
+  "value": 7.3071,
+  "how": "yuan per dollar, weakest month since 2016 (2023-10)"
+ },
+ "fx_pk_y": {
+  "value": 2023,
+  "how": "year of that month"
+ },
+ "fx_pk_since": {
+  "value": 2007,
+  "how": "last month before then with a weaker yuan (2007-12)"
+ },
+ "fx_last": {
+  "value": 6.6844,
+  "how": "yuan per dollar, October 2026 average"
+ },
+ "fx_apprec_0514": {
+  "value": 36.8,
+  "how": "rise in the dollar value of the yuan, June 2005 to its 2010-15 peak, %"
+ },
+ "reer_2005_06": {
+  "value": 67.2,
+  "how": "China real effective exchange rate, June 2005 (2020=100)"
+ },
+ "reer_pk": {
+  "value": 107.3,
+  "how": "China real effective exchange rate, peak (2022-03)"
+ },
+ "reer_rise": {
+  "value": 59.8,
+  "how": "rise in China's real effective exchange rate, June 2005 to peak, %"
+ },
+ "reer_last": {
+  "value": 92.9,
+  "how": "China real effective exchange rate, October 2026"
+ },
+ "res_2000": {
+  "value": 0.17,
+  "how": "China total reserves incl. gold, US$ trillion, 2000 (WDI)"
+ },
+ "res_2025": {
+  "value": 3.75,
+  "how": "China total reserves incl. gold, US$ trillion, 2025 (WDI)"
+ },
+ "res_pk": {
+  "value": 3.9,
+  "how": "China total reserves, peak (2014), US$ trillion"
+ },
+ "res_pk_y": {
+  "value": 2014,
+  "how": "year"
+ },
+ "debt_2000": {
+  "value": 22.6,
+  "how": "China general government gross debt, % of GDP, 2000"
+ },
+ "debt_2007": {
+  "value": 28.8,
+  "how": "China general government gross debt, % of GDP, 2007"
+ },
+ "debt_2019": {
+  "value": 59.9,
+  "how": "China general government gross debt, % of GDP, 2019"
+ },
+ "debt_2020": {
+  "value": 70.6,
+  "how": "China general government gross debt, % of GDP, 2020"
+ },
+ "debt_2025": {
+  "value": 98.6,
+  "how": "China general government gross debt, % of GDP, 2025"
+ },
+ "debt_2031": {
+  "value": 122.1,
+  "how": "China general government gross debt, % of GDP, 2031"
+ },
+ "bal_2007": {
+  "value": 0.1,
+  "how": "China general government net lending/borrowing, % of GDP, 2007"
+ },
+ "bal_2019": {
+  "value": -6.0,
+  "how": "China general government net lending/borrowing, % of GDP, 2019"
+ },
+ "bal_2025": {
+  "value": -7.9,
+  "how": "China general government net lending/borrowing, % of GDP, 2025"
+ },
+ "bal_2026": {
+  "value": -8.0,
+  "how": "China general government net lending/borrowing, % of GDP, 2026"
+ },
+ "debt_ind_2025": {
+  "value": 84.3,
+  "how": "India general government gross debt, % of GDP, 2025"
+ },
+ "gdpd_2000": {
+  "value": 1.2,
+  "how": "China GDP, current US$ trillion, 2000"
+ },
+ "gdpd_us_2000": {
+  "value": 11.9,
+  "how": "China GDP as % of US GDP at market exchange rates, 2000"
+ },
+ "gdpd_2025": {
+  "value": 19.6,
+  "how": "China GDP, current US$ trillion, 2025"
+ },
+ "gdpd_us_2025": {
+  "value": 63.6,
+  "how": "China GDP as % of US GDP at market exchange rates, 2025"
+ },
+ "pc_us_2000": {
+  "value": 7.3,
+  "how": "China GDP per head at PPP as % of US, 2000"
+ },
+ "pc_ind_2000": {
+  "value": 1.4,
+  "how": "China GDP per head at PPP, multiple of India's, 2000"
+ },
+ "pc_us_2025": {
+  "value": 32.5,
+  "how": "China GDP per head at PPP as % of US, 2025"
+ },
+ "pc_ind_2025": {
+  "value": 2.5,
+  "how": "China GDP per head at PPP, multiple of India's, 2025"
+ },
+ "in_share_2003": {
+  "value": 5.2,
+  "how": "China share of India's merchandise imports, FY2003-04"
+ },
+ "in_share_2019": {
+  "value": 13.7,
+  "how": "China share of India's merchandise imports, FY2019-20"
+ },
+ "in_share_2020": {
+  "value": 16.5,
+  "how": "China share of India's merchandise imports, FY2020-21"
+ },
+ "in_share_2024": {
+  "value": 15.7,
+  "how": "China share of India's merchandise imports, FY2024-25"
+ },
+ "in_imcn_2003": {
+  "value": 4.1,
+  "how": "India's merchandise imports from China, FY2003-04, US$ bn"
+ },
+ "in_imcn_2013": {
+  "value": 51.0,
+  "how": "India's merchandise imports from China, FY2013-14, US$ bn"
+ },
+ "in_imcn_2019": {
+  "value": 65.3,
+  "how": "India's merchandise imports from China, FY2019-20, US$ bn"
+ },
+ "in_imcn_2020": {
+  "value": 65.2,
+  "how": "India's merchandise imports from China, FY2020-21, US$ bn"
+ },
+ "in_imcn_2024": {
+  "value": 113.4,
+  "how": "India's merchandise imports from China, FY2024-25, US$ bn"
+ },
+ "in_imcn_2025": {
+  "value": 131.6,
+  "how": "India's merchandise imports from China, FY2025-26, US$ bn"
+ },
+ "in_imcn_mult": {
+  "value": 28.0,
+  "how": "imports from China, FY2024-25 as a multiple of FY2003-04"
+ }
+}

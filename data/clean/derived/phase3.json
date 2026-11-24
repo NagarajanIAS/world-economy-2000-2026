@@ -1,0 +1,574 @@
+{
+ "ted_daily_peak": {
+  "value": 4.58,
+  "how": "FRED TEDRATE daily max 2007\u201309, on 2008-10-10"
+ },
+ "ted_h1_2007_avg": {
+  "value": 0.5,
+  "how": "FRED TEDRATE, average of daily values Jan\u2013Jun 2007"
+ },
+ "vix_peak": {
+  "value": 80.9,
+  "how": "FRED VIXCLS daily max 2008\u201309, on 2008-11-20"
+ },
+ "brent_2008_peak": {
+  "value": 143.95,
+  "how": "FRED DCOILBRENTEU daily max 2008, on 2008-07-03"
+ },
+ "brent_2008_low": {
+  "value": 33.73,
+  "how": "FRED DCOILBRENTEU daily min after peak in 2008, on 2008-12-26"
+ },
+ "sp_fall": {
+  "value": -51.0,
+  "how": "S&P Composite (Shiller): monthly average, peak 2007-10 to trough 2009-03"
+ },
+ "stoxx_fall": {
+  "value": -55.0,
+  "how": "Euro Stoxx 50 (ECB): monthly average, peak 2007-06 to trough 2009-03"
+ },
+ "nikkei_fall": {
+  "value": -57.0,
+  "how": "Nikkei 225 (FRED): monthly average, peak 2007-06 to trough 2009-02"
+ },
+ "us_house_fall": {
+  "value": -27.0,
+  "how": "Case-Shiller US National (FRED CSUSHPINSA), peak 2006-07 to trough 2012-02"
+ },
+ "us_unemp_peak": {
+  "value": 10.0,
+  "how": "FRED UNRATE peak 2008\u201311, 2009-10"
+ },
+ "us_unemp_2007_05": {
+  "value": 4.4,
+  "how": "FRED UNRATE May 2007"
+ },
+ "bs_Fed_x_2008": {
+  "value": 2.6,
+  "how": "FRED WALCL: Dec 2008 \u00f7 Jul 2007 (monthly averages)"
+ },
+ "bs_ECB_x_2008": {
+  "value": 1.7,
+  "how": "FRED ECBASSETSW: Dec 2008 \u00f7 Jul 2007 (monthly averages)"
+ },
+ "bs_BoJ_x_2008": {
+  "value": 1.1,
+  "how": "FRED JPNASSETS: Dec 2008 \u00f7 Jul 2007 (monthly averages)"
+ },
+ "rate_fed_2007_07": {
+  "value": 5.25,
+  "how": "BIS WS_CBPOL US, Jul 2007"
+ },
+ "rate_fed_2009_06": {
+  "value": 0.12,
+  "how": "BIS WS_CBPOL US, Jun 2009"
+ },
+ "rate_ecb_2007_07": {
+  "value": 4.0,
+  "how": "BIS WS_CBPOL XM, Jul 2007"
+ },
+ "rate_ecb_2009_06": {
+  "value": 1.0,
+  "how": "BIS WS_CBPOL XM, Jun 2009"
+ },
+ "rate_boe_2007_07": {
+  "value": 5.75,
+  "how": "BIS WS_CBPOL GB, Jul 2007"
+ },
+ "rate_boe_2009_06": {
+  "value": 0.5,
+  "how": "BIS WS_CBPOL GB, Jun 2009"
+ },
+ "rate_boj_2007_07": {
+  "value": 0.5,
+  "how": "BIS WS_CBPOL JP, Jul 2007"
+ },
+ "rate_boj_2009_06": {
+  "value": 0.1,
+  "how": "BIS WS_CBPOL JP, Jun 2009"
+ },
+ "gdp_G001_2007": {
+  "value": 5.4,
+  "how": "WEO NGDP_RPCH G001 2007"
+ },
+ "gdp_G001_2008": {
+  "value": 2.9,
+  "how": "WEO NGDP_RPCH G001 2008"
+ },
+ "gdp_G001_2009": {
+  "value": -0.4,
+  "how": "WEO NGDP_RPCH G001 2009"
+ },
+ "gdp_G001_2010": {
+  "value": 5.3,
+  "how": "WEO NGDP_RPCH G001 2010"
+ },
+ "gdp_G110_2007": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH G110 2007"
+ },
+ "gdp_G110_2008": {
+  "value": 0.4,
+  "how": "WEO NGDP_RPCH G110 2008"
+ },
+ "gdp_G110_2009": {
+  "value": -3.4,
+  "how": "WEO NGDP_RPCH G110 2009"
+ },
+ "gdp_G110_2010": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH G110 2010"
+ },
+ "gdp_G200_2007": {
+  "value": 8.1,
+  "how": "WEO NGDP_RPCH G200 2007"
+ },
+ "gdp_G200_2008": {
+  "value": 5.6,
+  "how": "WEO NGDP_RPCH G200 2008"
+ },
+ "gdp_G200_2009": {
+  "value": 2.6,
+  "how": "WEO NGDP_RPCH G200 2009"
+ },
+ "gdp_G200_2010": {
+  "value": 7.3,
+  "how": "WEO NGDP_RPCH G200 2010"
+ },
+ "gdp_USA_2007": {
+  "value": 2.0,
+  "how": "WEO NGDP_RPCH USA 2007"
+ },
+ "gdp_USA_2008": {
+  "value": 0.1,
+  "how": "WEO NGDP_RPCH USA 2008"
+ },
+ "gdp_USA_2009": {
+  "value": -2.6,
+  "how": "WEO NGDP_RPCH USA 2009"
+ },
+ "gdp_USA_2010": {
+  "value": 2.7,
+  "how": "WEO NGDP_RPCH USA 2010"
+ },
+ "gdp_G163_2007": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G163 2007"
+ },
+ "gdp_G163_2008": {
+  "value": 0.4,
+  "how": "WEO NGDP_RPCH G163 2008"
+ },
+ "gdp_G163_2009": {
+  "value": -4.5,
+  "how": "WEO NGDP_RPCH G163 2009"
+ },
+ "gdp_G163_2010": {
+  "value": 2.1,
+  "how": "WEO NGDP_RPCH G163 2010"
+ },
+ "gdp_DEU_2007": {
+  "value": 2.9,
+  "how": "WEO NGDP_RPCH DEU 2007"
+ },
+ "gdp_DEU_2008": {
+  "value": 0.9,
+  "how": "WEO NGDP_RPCH DEU 2008"
+ },
+ "gdp_DEU_2009": {
+  "value": -5.5,
+  "how": "WEO NGDP_RPCH DEU 2009"
+ },
+ "gdp_DEU_2010": {
+  "value": 4.1,
+  "how": "WEO NGDP_RPCH DEU 2010"
+ },
+ "gdp_JPN_2007": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH JPN 2007"
+ },
+ "gdp_JPN_2008": {
+  "value": -1.2,
+  "how": "WEO NGDP_RPCH JPN 2008"
+ },
+ "gdp_JPN_2009": {
+  "value": -5.9,
+  "how": "WEO NGDP_RPCH JPN 2009"
+ },
+ "gdp_JPN_2010": {
+  "value": 4.1,
+  "how": "WEO NGDP_RPCH JPN 2010"
+ },
+ "gdp_GBR_2007": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH GBR 2007"
+ },
+ "gdp_GBR_2008": {
+  "value": 0.0,
+  "how": "WEO NGDP_RPCH GBR 2008"
+ },
+ "gdp_GBR_2009": {
+  "value": -4.5,
+  "how": "WEO NGDP_RPCH GBR 2009"
+ },
+ "gdp_GBR_2010": {
+  "value": 2.4,
+  "how": "WEO NGDP_RPCH GBR 2010"
+ },
+ "gdp_CHN_2007": {
+  "value": 14.2,
+  "how": "WEO NGDP_RPCH CHN 2007"
+ },
+ "gdp_CHN_2008": {
+  "value": 9.6,
+  "how": "WEO NGDP_RPCH CHN 2008"
+ },
+ "gdp_CHN_2009": {
+  "value": 9.4,
+  "how": "WEO NGDP_RPCH CHN 2009"
+ },
+ "gdp_CHN_2010": {
+  "value": 10.6,
+  "how": "WEO NGDP_RPCH CHN 2010"
+ },
+ "gdp_IND_2007": {
+  "value": 7.7,
+  "how": "WEO NGDP_RPCH IND 2007"
+ },
+ "gdp_IND_2008": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH IND 2008"
+ },
+ "gdp_IND_2009": {
+  "value": 7.9,
+  "how": "WEO NGDP_RPCH IND 2009"
+ },
+ "gdp_IND_2010": {
+  "value": 8.5,
+  "how": "WEO NGDP_RPCH IND 2010"
+ },
+ "gdp_BRA_2007": {
+  "value": 6.1,
+  "how": "WEO NGDP_RPCH BRA 2007"
+ },
+ "gdp_BRA_2008": {
+  "value": 5.1,
+  "how": "WEO NGDP_RPCH BRA 2008"
+ },
+ "gdp_BRA_2009": {
+  "value": -0.1,
+  "how": "WEO NGDP_RPCH BRA 2009"
+ },
+ "gdp_BRA_2010": {
+  "value": 7.5,
+  "how": "WEO NGDP_RPCH BRA 2010"
+ },
+ "gdp_RUS_2007": {
+  "value": 8.6,
+  "how": "WEO NGDP_RPCH RUS 2007"
+ },
+ "gdp_RUS_2008": {
+  "value": 5.2,
+  "how": "WEO NGDP_RPCH RUS 2008"
+ },
+ "gdp_RUS_2009": {
+  "value": -7.8,
+  "how": "WEO NGDP_RPCH RUS 2009"
+ },
+ "gdp_RUS_2010": {
+  "value": 4.5,
+  "how": "WEO NGDP_RPCH RUS 2010"
+ },
+ "gdp_MEX_2007": {
+  "value": 2.1,
+  "how": "WEO NGDP_RPCH MEX 2007"
+ },
+ "gdp_MEX_2008": {
+  "value": 0.9,
+  "how": "WEO NGDP_RPCH MEX 2008"
+ },
+ "gdp_MEX_2009": {
+  "value": -6.3,
+  "how": "WEO NGDP_RPCH MEX 2009"
+ },
+ "gdp_MEX_2010": {
+  "value": 5.0,
+  "how": "WEO NGDP_RPCH MEX 2010"
+ },
+ "gdp_KOR_2007": {
+  "value": 5.8,
+  "how": "WEO NGDP_RPCH KOR 2007"
+ },
+ "gdp_KOR_2008": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH KOR 2008"
+ },
+ "gdp_KOR_2009": {
+  "value": 0.8,
+  "how": "WEO NGDP_RPCH KOR 2009"
+ },
+ "gdp_KOR_2010": {
+  "value": 7.0,
+  "how": "WEO NGDP_RPCH KOR 2010"
+ },
+ "trade_2007": {
+  "value": 7.8,
+  "how": "WEO TRADEPCH G001 2007"
+ },
+ "trade_2008": {
+  "value": 2.7,
+  "how": "WEO TRADEPCH G001 2008"
+ },
+ "trade_2009": {
+  "value": -10.2,
+  "how": "WEO TRADEPCH G001 2009"
+ },
+ "trade_2010": {
+  "value": 12.0,
+  "how": "WEO TRADEPCH G001 2010"
+ },
+ "ca_USA_2006": {
+  "value": -5.8,
+  "how": "WEO BCA_NGDPD USA 2006"
+ },
+ "ca_USA_2007": {
+  "value": -5.0,
+  "how": "WEO BCA_NGDPD USA 2007"
+ },
+ "ca_CHN_2006": {
+  "value": 8.3,
+  "how": "WEO BCA_NGDPD CHN 2006"
+ },
+ "ca_CHN_2007": {
+  "value": 9.8,
+  "how": "WEO BCA_NGDPD CHN 2007"
+ },
+ "ca_DEU_2006": {
+  "value": 5.5,
+  "how": "WEO BCA_NGDPD DEU 2006"
+ },
+ "ca_DEU_2007": {
+  "value": 6.5,
+  "how": "WEO BCA_NGDPD DEU 2007"
+ },
+ "ca_JPN_2006": {
+  "value": 3.8,
+  "how": "WEO BCA_NGDPD JPN 2006"
+ },
+ "ca_JPN_2007": {
+  "value": 4.6,
+  "how": "WEO BCA_NGDPD JPN 2007"
+ },
+ "bal_G110_2007": {
+  "value": -1.3,
+  "how": "WEO GGXCNL_NGDP G110 2007"
+ },
+ "bal_G110_2009": {
+  "value": -8.8,
+  "how": "WEO GGXCNL_NGDP G110 2009"
+ },
+ "debt_G110_2007": {
+  "value": 70.1,
+  "how": "WEO GGXWDG_NGDP G110 2007"
+ },
+ "debt_G110_2012": {
+  "value": 101.8,
+  "how": "WEO GGXWDG_NGDP G110 2012"
+ },
+ "bal_USA_2007": {
+  "value": -2.9,
+  "how": "WEO GGXCNL_NGDP USA 2007"
+ },
+ "bal_USA_2009": {
+  "value": -13.2,
+  "how": "WEO GGXCNL_NGDP USA 2009"
+ },
+ "debt_USA_2007": {
+  "value": 65.0,
+  "how": "WEO GGXWDG_NGDP USA 2007"
+ },
+ "debt_USA_2012": {
+  "value": 103.7,
+  "how": "WEO GGXWDG_NGDP USA 2012"
+ },
+ "bal_GBR_2007": {
+  "value": -2.6,
+  "how": "WEO GGXCNL_NGDP GBR 2007"
+ },
+ "bal_GBR_2009": {
+  "value": -10.0,
+  "how": "WEO GGXCNL_NGDP GBR 2009"
+ },
+ "debt_GBR_2007": {
+  "value": 43.1,
+  "how": "WEO GGXWDG_NGDP GBR 2007"
+ },
+ "debt_GBR_2012": {
+  "value": 84.0,
+  "how": "WEO GGXWDG_NGDP GBR 2012"
+ },
+ "bal_G163_2007": {
+  "value": -0.7,
+  "how": "WEO GGXCNL_NGDP G163 2007"
+ },
+ "bal_G163_2009": {
+  "value": -6.2,
+  "how": "WEO GGXCNL_NGDP G163 2009"
+ },
+ "debt_G163_2007": {
+  "value": 65.8,
+  "how": "WEO GGXWDG_NGDP G163 2007"
+ },
+ "debt_G163_2012": {
+  "value": 90.4,
+  "how": "WEO GGXWDG_NGDP G163 2012"
+ },
+ "bal_CHN_2007": {
+  "value": 0.1,
+  "how": "WEO GGXCNL_NGDP CHN 2007"
+ },
+ "bal_CHN_2009": {
+  "value": -1.7,
+  "how": "WEO GGXCNL_NGDP CHN 2009"
+ },
+ "debt_CHN_2007": {
+  "value": 28.8,
+  "how": "WEO GGXWDG_NGDP CHN 2007"
+ },
+ "debt_CHN_2012": {
+  "value": 33.9,
+  "how": "WEO GGXWDG_NGDP CHN 2012"
+ },
+ "unemp_ESP_2007": {
+  "value": 8.2,
+  "how": "WEO LUR ESP 2007"
+ },
+ "unemp_ESP_2009": {
+  "value": 17.9,
+  "how": "WEO LUR ESP 2009"
+ },
+ "in_shares_fall": {
+  "value": -55.0,
+  "how": "FRED SPASTT01INM661N (OECD share prices, India), monthly, peak 2007-12 to trough 2009-03"
+ },
+ "in_rupee_strong": {
+  "value": 39.3,
+  "how": "FRED DEXINUS monthly average, strongest rupee mid-2007 to mid-2008, 2008-01"
+ },
+ "in_rupee_weak": {
+  "value": 51.1,
+  "how": "FRED DEXINUS monthly average, weakest rupee mid-2008 to 2009, 2009-03"
+ },
+ "in_rupee_dep": {
+  "value": 30.0,
+  "how": "Rise in rupees per dollar between the two months above"
+ },
+ "in_repo_peak": {
+  "value": 9.0,
+  "how": "BIS WS_CBPOL IN, highest month-end rate in 2008"
+ },
+ "in_repo_low": {
+  "value": 4.75,
+  "how": "BIS WS_CBPOL IN, lowest month-end rate in 2009"
+ },
+ "in_fpi_2007": {
+  "value": 27.4,
+  "how": "India dataset fpi_net, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_fpi_2008": {
+  "value": -14.0,
+  "how": "India dataset fpi_net, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_fpi_2009": {
+  "value": 32.4,
+  "how": "India dataset fpi_net, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_fi_2007": {
+  "value": 62.0,
+  "how": "India dataset bop_fi, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_fi_2008": {
+  "value": 27.9,
+  "how": "India dataset bop_fi, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_fi_2009": {
+  "value": 65.5,
+  "how": "India dataset bop_fi, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_res_2007": {
+  "value": 309.7,
+  "how": "India dataset fx_reserves, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_res_2008": {
+  "value": 252.0,
+  "how": "India dataset fx_reserves, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_cfd_2007": {
+  "value": 2.6,
+  "how": "India dataset centre_fd_gdp, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_cfd_2008": {
+  "value": 6.1,
+  "how": "India dataset centre_fd_gdp, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_cfd_2009": {
+  "value": 6.6,
+  "how": "India dataset centre_fd_gdp, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_ggfd_2007": {
+  "value": 4.1,
+  "how": "India dataset gg_fd_gdp, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_ggfd_2008": {
+  "value": 8.5,
+  "how": "India dataset gg_fd_gdp, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_ggfd_2009": {
+  "value": 9.5,
+  "how": "India dataset gg_fd_gdp, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_gdp_2007": {
+  "value": 7.7,
+  "how": "India dataset gdp_real_growth, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_gdp_2008": {
+  "value": 3.1,
+  "how": "India dataset gdp_real_growth, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_gdp_2009": {
+  "value": 7.9,
+  "how": "India dataset gdp_real_growth, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_gdp_2010": {
+  "value": 8.5,
+  "how": "India dataset gdp_real_growth, FY2010-11 (Economic Survey / RBI Handbook)"
+ },
+ "in_gdpfc04_2008": {
+  "value": 6.7,
+  "how": "India dataset gdpfc_growth_2004, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_exp_2008": {
+  "value": 185.3,
+  "how": "India dataset exports_goods, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_exp_2009": {
+  "value": 178.8,
+  "how": "India dataset exports_goods, FY2009-10 (Economic Survey / RBI Handbook)"
+ },
+ "in_cab_2007": {
+  "value": -1.3,
+  "how": "India dataset cab_gdp, FY2007-08 (Economic Survey / RBI Handbook)"
+ },
+ "in_cab_2008": {
+  "value": -2.3,
+  "how": "India dataset cab_gdp, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_wpi_2008": {
+  "value": 8.1,
+  "how": "India dataset wpi_inflation, FY2008-09 (Economic Survey / RBI Handbook)"
+ },
+ "in_ae_2008": {
+  "value": 7.1,
+  "how": "India dataset gdpfc_growth_ae_first, FY2008-09 (Economic Survey / RBI Handbook)"
+ }
+}

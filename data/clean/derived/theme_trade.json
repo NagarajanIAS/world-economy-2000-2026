@@ -1,0 +1,506 @@
+{
+ "tr_1990_1999": {
+  "value": 6.6,
+  "how": "WEO TRADEPCH G001, average annual growth of world trade volume 1990-1999"
+ },
+ "gw_1990_1999": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G001, average annual world GDP growth 1990-1999"
+ },
+ "el_1990_1999": {
+  "value": 2.2,
+  "how": "ratio of average trade growth to average GDP growth 1990-1999"
+ },
+ "tr_2000_2007": {
+  "value": 7.3,
+  "how": "WEO TRADEPCH G001, average annual growth of world trade volume 2000-2007"
+ },
+ "gw_2000_2007": {
+  "value": 4.3,
+  "how": "WEO NGDP_RPCH G001, average annual world GDP growth 2000-2007"
+ },
+ "el_2000_2007": {
+  "value": 1.7,
+  "how": "ratio of average trade growth to average GDP growth 2000-2007"
+ },
+ "tr_2012_2019": {
+  "value": 3.3,
+  "how": "WEO TRADEPCH G001, average annual growth of world trade volume 2012-2019"
+ },
+ "gw_2012_2019": {
+  "value": 3.4,
+  "how": "WEO NGDP_RPCH G001, average annual world GDP growth 2012-2019"
+ },
+ "el_2012_2019": {
+  "value": 1.0,
+  "how": "ratio of average trade growth to average GDP growth 2012-2019"
+ },
+ "tr_2020_2025": {
+  "value": 3.0,
+  "how": "WEO TRADEPCH G001, average annual growth of world trade volume 2020-2025"
+ },
+ "gw_2020_2025": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G001, average annual world GDP growth 2020-2025"
+ },
+ "el_2020_2025": {
+  "value": 1.0,
+  "how": "ratio of average trade growth to average GDP growth 2020-2025"
+ },
+ "tr_2026_2031": {
+  "value": 3.9,
+  "how": "WEO TRADEPCH G001, average annual growth of world trade volume 2026-2031"
+ },
+ "gw_2026_2031": {
+  "value": 3.2,
+  "how": "WEO NGDP_RPCH G001, average annual world GDP growth 2026-2031"
+ },
+ "el_2026_2031": {
+  "value": 1.2,
+  "how": "ratio of average trade growth to average GDP growth 2026-2031"
+ },
+ "tr_2009": {
+  "value": -10.2,
+  "how": "WEO TRADEPCH G001 2009, %"
+ },
+ "tr_2019": {
+  "value": 1.1,
+  "how": "WEO TRADEPCH G001 2019, %"
+ },
+ "tr_2020": {
+  "value": -8.4,
+  "how": "WEO TRADEPCH G001 2020, %"
+ },
+ "tr_2021": {
+  "value": 10.8,
+  "how": "WEO TRADEPCH G001 2021, %"
+ },
+ "tr_2023": {
+  "value": 0.8,
+  "how": "WEO TRADEPCH G001 2023, %"
+ },
+ "tr_2025": {
+  "value": 5.0,
+  "how": "WEO TRADEPCH G001 2025, %"
+ },
+ "tr_2026": {
+  "value": 4.6,
+  "how": "WEO TRADEPCH G001 2026, %"
+ },
+ "op_WLD_2000": {
+  "value": 50.1,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2000, trade % of GDP"
+ },
+ "op_WLD_2008": {
+  "value": 60.3,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2008, trade % of GDP"
+ },
+ "op_WLD_2009": {
+  "value": 51.9,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2009, trade % of GDP"
+ },
+ "op_WLD_2019": {
+  "value": 55.8,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2019, trade % of GDP"
+ },
+ "op_WLD_2022": {
+  "value": 62.1,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2022, trade % of GDP"
+ },
+ "op_WLD_2024": {
+  "value": 56.7,
+  "how": "WDI NE.TRD.GNFS.ZS WLD 2024, trade % of GDP"
+ },
+ "op_CHN_2000": {
+  "value": 39.0,
+  "how": "WDI NE.TRD.GNFS.ZS CHN 2000, trade % of GDP"
+ },
+ "op_CHN_2006": {
+  "value": 63.6,
+  "how": "WDI NE.TRD.GNFS.ZS CHN 2006, trade % of GDP"
+ },
+ "op_CHN_2024": {
+  "value": 38.0,
+  "how": "WDI NE.TRD.GNFS.ZS CHN 2024, trade % of GDP"
+ },
+ "op_IND_2000": {
+  "value": 26.9,
+  "how": "WDI NE.TRD.GNFS.ZS IND 2000, trade % of GDP"
+ },
+ "op_IND_2008": {
+  "value": 53.4,
+  "how": "WDI NE.TRD.GNFS.ZS IND 2008, trade % of GDP"
+ },
+ "op_IND_2024": {
+  "value": 45.9,
+  "how": "WDI NE.TRD.GNFS.ZS IND 2024, trade % of GDP"
+ },
+ "op_USA_2000": {
+  "value": 25.1,
+  "how": "WDI NE.TRD.GNFS.ZS USA 2000, trade % of GDP"
+ },
+ "op_USA_2024": {
+  "value": 25.0,
+  "how": "WDI NE.TRD.GNFS.ZS USA 2024, trade % of GDP"
+ },
+ "op_VNM_2000": {
+  "value": 111.4,
+  "how": "WDI NE.TRD.GNFS.ZS VNM 2000, trade % of GDP"
+ },
+ "op_VNM_2024": {
+  "value": 173.9,
+  "how": "WDI NE.TRD.GNFS.ZS VNM 2024, trade % of GDP"
+ },
+ "op_DEU_2000": {
+  "value": 59.2,
+  "how": "WDI NE.TRD.GNFS.ZS DEU 2000, trade % of GDP"
+ },
+ "op_DEU_2024": {
+  "value": 79.1,
+  "how": "WDI NE.TRD.GNFS.ZS DEU 2024, trade % of GDP"
+ },
+ "op_WLD_peak_year": {
+  "value": 2022,
+  "how": "year of highest world trade/GDP 2000-2024"
+ },
+ "xs_CHN_2000": {
+  "value": 3.8,
+  "how": "CHN merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_CHN_2007": {
+  "value": 8.6,
+  "how": "CHN merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_CHN_2019": {
+  "value": 13.1,
+  "how": "CHN merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_CHN_2025": {
+  "value": 14.3,
+  "how": "CHN merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_USA_2000": {
+  "value": 12.1,
+  "how": "USA merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_USA_2007": {
+  "value": 8.1,
+  "how": "USA merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_USA_2019": {
+  "value": 8.6,
+  "how": "USA merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_USA_2025": {
+  "value": 8.3,
+  "how": "USA merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_DEU_2000": {
+  "value": 8.5,
+  "how": "DEU merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_DEU_2007": {
+  "value": 9.4,
+  "how": "DEU merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_DEU_2019": {
+  "value": 7.8,
+  "how": "DEU merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_DEU_2025": {
+  "value": 6.7,
+  "how": "DEU merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_JPN_2000": {
+  "value": 7.4,
+  "how": "JPN merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_JPN_2007": {
+  "value": 5.1,
+  "how": "JPN merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_JPN_2019": {
+  "value": 3.7,
+  "how": "JPN merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_JPN_2025": {
+  "value": 2.8,
+  "how": "JPN merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_IND_2000": {
+  "value": 0.7,
+  "how": "IND merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_IND_2007": {
+  "value": 1.1,
+  "how": "IND merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_IND_2019": {
+  "value": 1.7,
+  "how": "IND merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_IND_2025": {
+  "value": 1.7,
+  "how": "IND merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_VNM_2000": {
+  "value": 0.2,
+  "how": "VNM merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_VNM_2007": {
+  "value": 0.3,
+  "how": "VNM merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_VNM_2019": {
+  "value": 1.4,
+  "how": "VNM merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_VNM_2025": {
+  "value": 1.8,
+  "how": "VNM merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_MEX_2000": {
+  "value": 2.6,
+  "how": "MEX merchandise exports, % of world, 2000 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_MEX_2007": {
+  "value": 1.9,
+  "how": "MEX merchandise exports, % of world, 2007 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_MEX_2019": {
+  "value": 2.4,
+  "how": "MEX merchandise exports, % of world, 2019 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_MEX_2025": {
+  "value": 2.5,
+  "how": "MEX merchandise exports, % of world, 2025 (WDI TX.VAL.MRCH.CD.WT)"
+ },
+ "xs_chn_over_usa": {
+  "value": 2007,
+  "how": "first year China's export share exceeds the US's"
+ },
+ "xs_chn_over_deu": {
+  "value": 2009,
+  "how": "first year China's export share exceeds Germany's"
+ },
+ "x_wld_2000": {
+  "value": 6.5,
+  "how": "world merchandise exports, $ trillion, 2000"
+ },
+ "x_wld_2025": {
+  "value": 26.4,
+  "how": "world merchandise exports, $ trillion, 2025"
+ },
+ "svs_2000": {
+  "value": 21.5,
+  "how": "services exports, % of world exports of goods and services, 2000"
+ },
+ "svs_2008": {
+  "value": 20.7,
+  "how": "services exports, % of world exports of goods and services, 2008"
+ },
+ "svs_2025": {
+  "value": 27.3,
+  "how": "services exports, % of world exports of goods and services, 2025"
+ },
+ "svw_IND_2000": {
+  "value": 1.0,
+  "how": "IND services exports, % of world services exports, 2000"
+ },
+ "svw_IND_2024": {
+  "value": 4.2,
+  "how": "IND services exports, % of world services exports, 2024"
+ },
+ "svw_IRL_2024": {
+  "value": 6.0,
+  "how": "IRL services exports, % of world services exports, 2024"
+ },
+ "svw_USA_2000": {
+  "value": 17.4,
+  "how": "USA services exports, % of world services exports, 2000"
+ },
+ "svw_USA_2024": {
+  "value": 13.0,
+  "how": "USA services exports, % of world services exports, 2024"
+ },
+ "svw_CHN_2000": {
+  "value": 4.6,
+  "how": "CHN services exports, % of world services exports, 2000"
+ },
+ "svw_CHN_2024": {
+  "value": 3.9,
+  "how": "CHN services exports, % of world services exports, 2024"
+ },
+ "ict_IND_2025": {
+  "value": 48.6,
+  "how": "ICT services, % of India's services exports, 2025 (WDI BX.GSR.CCIS.ZS)"
+ },
+ "tf_CHN_2000": {
+  "value": 14.7,
+  "how": "WDI applied tariff, trade-weighted mean, CHN 2000, %"
+ },
+ "tf_CHN_2001": {
+  "value": 14.1,
+  "how": "WDI applied tariff, trade-weighted mean, CHN 2001, %"
+ },
+ "tf_CHN_2005": {
+  "value": 4.9,
+  "how": "WDI applied tariff, trade-weighted mean, CHN 2005, %"
+ },
+ "tf_CHN_2022": {
+  "value": 2.2,
+  "how": "WDI applied tariff, trade-weighted mean, CHN 2022, %"
+ },
+ "tf_IND_2000": {
+  "value": 23.4,
+  "how": "WDI applied tariff, trade-weighted mean, IND 2000, %"
+ },
+ "tf_IND_2001": {
+  "value": 26.5,
+  "how": "WDI applied tariff, trade-weighted mean, IND 2001, %"
+ },
+ "tf_IND_2008": {
+  "value": 6.0,
+  "how": "WDI applied tariff, trade-weighted mean, IND 2008, %"
+ },
+ "tf_IND_2022": {
+  "value": 4.6,
+  "how": "WDI applied tariff, trade-weighted mean, IND 2022, %"
+ },
+ "tf_BRA_2000": {
+  "value": 12.7,
+  "how": "WDI applied tariff, trade-weighted mean, BRA 2000, %"
+ },
+ "tf_BRA_2022": {
+  "value": 7.3,
+  "how": "WDI applied tariff, trade-weighted mean, BRA 2022, %"
+ },
+ "tf_EUU_2000": {
+  "value": 2.4,
+  "how": "WDI applied tariff, trade-weighted mean, EUU 2000, %"
+ },
+ "tf_EUU_2022": {
+  "value": 1.3,
+  "how": "WDI applied tariff, trade-weighted mean, EUU 2022, %"
+ },
+ "ut_2000": {
+  "value": 1.7,
+  "how": "US customs duties / goods imports, annual average of quarters, 2000, %"
+ },
+ "ut_2017": {
+  "value": 1.6,
+  "how": "US customs duties / goods imports, annual average of quarters, 2017, %"
+ },
+ "ut_2019": {
+  "value": 3.1,
+  "how": "US customs duties / goods imports, annual average of quarters, 2019, %"
+ },
+ "ut_2024": {
+  "value": 2.6,
+  "how": "US customs duties / goods imports, annual average of quarters, 2024, %"
+ },
+ "ut_peak": {
+  "value": 11.3,
+  "how": "US customs duties / goods imports, highest quarter since 2025, %"
+ },
+ "ut_peak_q": {
+  "value": "2025 Q4",
+  "how": ""
+ },
+ "ut_last": {
+  "value": 6.8,
+  "how": "US customs duties / goods imports, latest quarter, %"
+ },
+ "ut_last_q": {
+  "value": "2026 Q3",
+  "how": ""
+ },
+ "ut_prev_high": {
+  "value": 7.0,
+  "how": "highest quarter 1975-2024, %"
+ },
+ "in_xg_2000": {
+  "value": 44.0,
+  "how": "India merchandise exports, $bn, 2000-01"
+ },
+ "in_xg_2024": {
+  "value": 438.0,
+  "how": "India merchandise exports, $bn, 2024-25"
+ },
+ "in_sv_2006": {
+  "value": 74.0,
+  "how": "India services exports, $bn, 2006-07"
+ },
+ "in_sv_2025": {
+  "value": 421.0,
+  "how": "India services exports, $bn, 2025-26 (provisional)"
+ },
+ "in_sw_2025": {
+  "value": 180.0,
+  "how": "India net software services exports, $bn, 2025-26 (provisional)"
+ },
+ "in_xus_2003": {
+  "value": 11.5,
+  "how": "India exports to US, $bn, 2003-04"
+ },
+ "in_xus_2025": {
+  "value": 87.3,
+  "how": "India exports to US, $bn, 2025-26 (provisional)"
+ },
+ "in_mcn_2003": {
+  "value": 4.1,
+  "how": "India imports from China, $bn, 2003-04"
+ },
+ "in_mcn_2025": {
+  "value": 131.6,
+  "how": "India imports from China, $bn, 2025-26 (provisional)"
+ },
+ "in_xgdp_2000": {
+  "value": 13.0,
+  "how": "India exports of goods and services, % of GDP, FY2000"
+ },
+ "in_xgdp_2013": {
+  "value": 25.4,
+  "how": "India exports of goods and services, % of GDP, FY2013"
+ },
+ "in_xgdp_2019": {
+  "value": 18.7,
+  "how": "India exports of goods and services, % of GDP, FY2019"
+ },
+ "in_xgdp_2022": {
+  "value": 23.3,
+  "how": "India exports of goods and services, % of GDP, FY2022"
+ },
+ "in_xgdp_2025": {
+  "value": 21.5,
+  "how": "India exports of goods and services, % of GDP, FY2025"
+ },
+ "svw_IND_2025": {
+  "value": 4.3,
+  "how": "IND services exports, % of world services exports, 2025"
+ },
+ "in_xus_2008": {
+  "value": 21.1,
+  "how": "India exports to US, $bn, FY2008"
+ },
+ "in_mcn_2008": {
+  "value": 32.5,
+  "how": "India imports from China, $bn, FY2008"
+ },
+ "in_xus_2018": {
+  "value": 52.4,
+  "how": "India exports to US, $bn, FY2018"
+ },
+ "in_mcn_2018": {
+  "value": 70.3,
+  "how": "India imports from China, $bn, FY2018"
+ },
+ "in_mcn_over_xus": {
+  "value": 2007,
+  "how": "first fiscal year imports from China exceed exports to US"
+ },
+ "ut_series_start": {
+  "value": 1959,
+  "how": "first year of BEA customs duties series (FRED B235RC1Q027SBEA)"
+ }
+}

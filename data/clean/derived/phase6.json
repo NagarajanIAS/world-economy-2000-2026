@@ -1,0 +1,906 @@
+{
+ "q_us_2020q2": {
+  "value": -9.1,
+  "how": "USA real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_us_back": {
+  "value": "2021Q1",
+  "how": "USA: first quarter at or above 2019Q4 level"
+ },
+ "q_ea_2020q2": {
+  "value": -14.0,
+  "how": "EA real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_ea_back": {
+  "value": "2021Q3",
+  "how": "EA: first quarter at or above 2019Q4 level"
+ },
+ "q_uk_2020q2": {
+  "value": -22.2,
+  "how": "GBR real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_uk_back": {
+  "value": "2021Q4",
+  "how": "GBR: first quarter at or above 2019Q4 level"
+ },
+ "q_jp_2020q2": {
+  "value": -6.9,
+  "how": "JPN real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_jp_back": {
+  "value": "2021Q1",
+  "how": "JPN: first quarter at or above 2019Q4 level"
+ },
+ "q_in_2020q2": {
+  "value": -23.8,
+  "how": "IND real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_in_back": {
+  "value": "2020Q4",
+  "how": "IND: first quarter at or above 2019Q4 level"
+ },
+ "q_de_2020q2": {
+  "value": -10.6,
+  "how": "DEU real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_de_back": {
+  "value": "2021Q4",
+  "how": "DEU: first quarter at or above 2019Q4 level"
+ },
+ "q_br_2020q2": {
+  "value": -11.0,
+  "how": "BRA real GDP 2020Q2 vs 2019Q4, % (seasonally adjusted)"
+ },
+ "q_br_back": {
+  "value": "2021Q1",
+  "how": "BRA: first quarter at or above 2019Q4 level"
+ },
+ "us_u_2020_02": {
+  "value": 3.5,
+  "how": "US unemployment rate Feb 2020, %"
+ },
+ "us_u_2020_04": {
+  "value": 14.8,
+  "how": "US unemployment rate Apr 2020, %"
+ },
+ "wti_min": {
+  "value": -36.98,
+  "how": "FRED DCOILWTICO daily low in 2020 (2020-04-20), US$/bbl"
+ },
+ "wti_min_date": {
+  "value": "2020-04-20",
+  "how": "date of WTI low"
+ },
+ "brent_2020_01": {
+  "value": 64.0,
+  "how": "Brent Jan 2020 monthly average"
+ },
+ "brent_2020_04": {
+  "value": 18.0,
+  "how": "Brent Apr 2020 monthly average"
+ },
+ "brent_2021_12": {
+  "value": 74.0,
+  "how": "Brent Dec 2021 monthly average"
+ },
+ "gdp_G001_2019": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G001 2019"
+ },
+ "gdp_G001_2020": {
+  "value": -2.7,
+  "how": "WEO NGDP_RPCH G001 2020"
+ },
+ "gdp_G001_2021": {
+  "value": 6.7,
+  "how": "WEO NGDP_RPCH G001 2021"
+ },
+ "gdp_G110_2019": {
+  "value": 1.9,
+  "how": "WEO NGDP_RPCH G110 2019"
+ },
+ "gdp_G110_2020": {
+  "value": -3.9,
+  "how": "WEO NGDP_RPCH G110 2020"
+ },
+ "gdp_G110_2021": {
+  "value": 6.2,
+  "how": "WEO NGDP_RPCH G110 2021"
+ },
+ "gdp_G200_2019": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH G200 2019"
+ },
+ "gdp_G200_2020": {
+  "value": -1.8,
+  "how": "WEO NGDP_RPCH G200 2020"
+ },
+ "gdp_G200_2021": {
+  "value": 7.0,
+  "how": "WEO NGDP_RPCH G200 2021"
+ },
+ "gdp_G163_2019": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH G163 2019"
+ },
+ "gdp_G163_2020": {
+  "value": -6.0,
+  "how": "WEO NGDP_RPCH G163 2020"
+ },
+ "gdp_G163_2021": {
+  "value": 6.4,
+  "how": "WEO NGDP_RPCH G163 2021"
+ },
+ "gdp_USA_2019": {
+  "value": 2.6,
+  "how": "WEO NGDP_RPCH USA 2019"
+ },
+ "gdp_USA_2020": {
+  "value": -2.1,
+  "how": "WEO NGDP_RPCH USA 2020"
+ },
+ "gdp_USA_2021": {
+  "value": 6.3,
+  "how": "WEO NGDP_RPCH USA 2021"
+ },
+ "gdp_GBR_2019": {
+  "value": 1.4,
+  "how": "WEO NGDP_RPCH GBR 2019"
+ },
+ "gdp_GBR_2020": {
+  "value": -10.0,
+  "how": "WEO NGDP_RPCH GBR 2020"
+ },
+ "gdp_GBR_2021": {
+  "value": 8.5,
+  "how": "WEO NGDP_RPCH GBR 2021"
+ },
+ "gdp_JPN_2019": {
+  "value": -0.3,
+  "how": "WEO NGDP_RPCH JPN 2019"
+ },
+ "gdp_JPN_2020": {
+  "value": -4.3,
+  "how": "WEO NGDP_RPCH JPN 2020"
+ },
+ "gdp_JPN_2021": {
+  "value": 3.6,
+  "how": "WEO NGDP_RPCH JPN 2021"
+ },
+ "gdp_CHN_2019": {
+  "value": 6.1,
+  "how": "WEO NGDP_RPCH CHN 2019"
+ },
+ "gdp_CHN_2020": {
+  "value": 2.3,
+  "how": "WEO NGDP_RPCH CHN 2020"
+ },
+ "gdp_CHN_2021": {
+  "value": 8.6,
+  "how": "WEO NGDP_RPCH CHN 2021"
+ },
+ "gdp_IND_2019": {
+  "value": 3.9,
+  "how": "WEO NGDP_RPCH IND 2019"
+ },
+ "gdp_IND_2020": {
+  "value": -5.8,
+  "how": "WEO NGDP_RPCH IND 2020"
+ },
+ "gdp_IND_2021": {
+  "value": 9.7,
+  "how": "WEO NGDP_RPCH IND 2021"
+ },
+ "gdp_BRA_2019": {
+  "value": 1.2,
+  "how": "WEO NGDP_RPCH BRA 2019"
+ },
+ "gdp_BRA_2020": {
+  "value": -3.3,
+  "how": "WEO NGDP_RPCH BRA 2020"
+ },
+ "gdp_BRA_2021": {
+  "value": 4.8,
+  "how": "WEO NGDP_RPCH BRA 2021"
+ },
+ "gdp_ZAF_2019": {
+  "value": 0.3,
+  "how": "WEO NGDP_RPCH ZAF 2019"
+ },
+ "gdp_ZAF_2020": {
+  "value": -6.2,
+  "how": "WEO NGDP_RPCH ZAF 2020"
+ },
+ "gdp_ZAF_2021": {
+  "value": 4.9,
+  "how": "WEO NGDP_RPCH ZAF 2021"
+ },
+ "gdp_DEU_2019": {
+  "value": 1.1,
+  "how": "WEO NGDP_RPCH DEU 2019"
+ },
+ "gdp_DEU_2020": {
+  "value": -4.0,
+  "how": "WEO NGDP_RPCH DEU 2020"
+ },
+ "gdp_DEU_2021": {
+  "value": 4.0,
+  "how": "WEO NGDP_RPCH DEU 2021"
+ },
+ "gdp_ITA_2019": {
+  "value": 0.4,
+  "how": "WEO NGDP_RPCH ITA 2019"
+ },
+ "gdp_ITA_2020": {
+  "value": -8.9,
+  "how": "WEO NGDP_RPCH ITA 2020"
+ },
+ "gdp_ITA_2021": {
+  "value": 8.9,
+  "how": "WEO NGDP_RPCH ITA 2021"
+ },
+ "gdp_ESP_2019": {
+  "value": 2.0,
+  "how": "WEO NGDP_RPCH ESP 2019"
+ },
+ "gdp_ESP_2020": {
+  "value": -10.9,
+  "how": "WEO NGDP_RPCH ESP 2020"
+ },
+ "gdp_ESP_2021": {
+  "value": 6.7,
+  "how": "WEO NGDP_RPCH ESP 2021"
+ },
+ "gdp_FRA_2019": {
+  "value": 2.1,
+  "how": "WEO NGDP_RPCH FRA 2019"
+ },
+ "gdp_FRA_2020": {
+  "value": -7.6,
+  "how": "WEO NGDP_RPCH FRA 2020"
+ },
+ "gdp_FRA_2021": {
+  "value": 6.8,
+  "how": "WEO NGDP_RPCH FRA 2021"
+ },
+ "gdp_MEX_2019": {
+  "value": -0.4,
+  "how": "WEO NGDP_RPCH MEX 2019"
+ },
+ "gdp_MEX_2020": {
+  "value": -8.4,
+  "how": "WEO NGDP_RPCH MEX 2020"
+ },
+ "gdp_MEX_2021": {
+  "value": 6.0,
+  "how": "WEO NGDP_RPCH MEX 2021"
+ },
+ "gdp_IDN_2019": {
+  "value": 5.0,
+  "how": "WEO NGDP_RPCH IDN 2019"
+ },
+ "gdp_IDN_2020": {
+  "value": -2.1,
+  "how": "WEO NGDP_RPCH IDN 2020"
+ },
+ "gdp_IDN_2021": {
+  "value": 3.7,
+  "how": "WEO NGDP_RPCH IDN 2021"
+ },
+ "gdp_G603_2019": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G603 2019"
+ },
+ "gdp_G603_2020": {
+  "value": -3.1,
+  "how": "WEO NGDP_RPCH G603 2020"
+ },
+ "gdp_G603_2021": {
+  "value": 3.9,
+  "how": "WEO NGDP_RPCH G603 2021"
+ },
+ "gdp_G001_2009": {
+  "value": -0.4,
+  "how": "WEO NGDP_RPCH G001 2009"
+ },
+ "bal_USA_2019": {
+  "value": -5.8,
+  "how": "WEO GGXCNL_NGDP USA 2019"
+ },
+ "bal_USA_2020": {
+  "value": -14.1,
+  "how": "WEO GGXCNL_NGDP USA 2020"
+ },
+ "dbal_USA": {
+  "value": -8.3,
+  "how": "WEO GGXCNL_NGDP USA, change 2019 to 2020, points of GDP"
+ },
+ "bal_GBR_2019": {
+  "value": -2.4,
+  "how": "WEO GGXCNL_NGDP GBR 2019"
+ },
+ "bal_GBR_2020": {
+  "value": -12.9,
+  "how": "WEO GGXCNL_NGDP GBR 2020"
+ },
+ "dbal_GBR": {
+  "value": -10.5,
+  "how": "WEO GGXCNL_NGDP GBR, change 2019 to 2020, points of GDP"
+ },
+ "bal_JPN_2019": {
+  "value": -3.0,
+  "how": "WEO GGXCNL_NGDP JPN 2019"
+ },
+ "bal_JPN_2020": {
+  "value": -9.0,
+  "how": "WEO GGXCNL_NGDP JPN 2020"
+ },
+ "dbal_JPN": {
+  "value": -6.0,
+  "how": "WEO GGXCNL_NGDP JPN, change 2019 to 2020, points of GDP"
+ },
+ "bal_CAN_2019": {
+  "value": -0.0,
+  "how": "WEO GGXCNL_NGDP CAN 2019"
+ },
+ "bal_CAN_2020": {
+  "value": -10.9,
+  "how": "WEO GGXCNL_NGDP CAN 2020"
+ },
+ "dbal_CAN": {
+  "value": -10.9,
+  "how": "WEO GGXCNL_NGDP CAN, change 2019 to 2020, points of GDP"
+ },
+ "bal_DEU_2019": {
+  "value": 1.3,
+  "how": "WEO GGXCNL_NGDP DEU 2019"
+ },
+ "bal_DEU_2020": {
+  "value": -4.3,
+  "how": "WEO GGXCNL_NGDP DEU 2020"
+ },
+ "dbal_DEU": {
+  "value": -5.7,
+  "how": "WEO GGXCNL_NGDP DEU, change 2019 to 2020, points of GDP"
+ },
+ "bal_FRA_2019": {
+  "value": -2.4,
+  "how": "WEO GGXCNL_NGDP FRA 2019"
+ },
+ "bal_FRA_2020": {
+  "value": -8.9,
+  "how": "WEO GGXCNL_NGDP FRA 2020"
+ },
+ "dbal_FRA": {
+  "value": -6.5,
+  "how": "WEO GGXCNL_NGDP FRA, change 2019 to 2020, points of GDP"
+ },
+ "bal_ITA_2019": {
+  "value": -1.4,
+  "how": "WEO GGXCNL_NGDP ITA 2019"
+ },
+ "bal_ITA_2020": {
+  "value": -9.4,
+  "how": "WEO GGXCNL_NGDP ITA 2020"
+ },
+ "dbal_ITA": {
+  "value": -7.9,
+  "how": "WEO GGXCNL_NGDP ITA, change 2019 to 2020, points of GDP"
+ },
+ "bal_ESP_2019": {
+  "value": -3.0,
+  "how": "WEO GGXCNL_NGDP ESP 2019"
+ },
+ "bal_ESP_2020": {
+  "value": -10.0,
+  "how": "WEO GGXCNL_NGDP ESP 2020"
+ },
+ "dbal_ESP": {
+  "value": -7.0,
+  "how": "WEO GGXCNL_NGDP ESP, change 2019 to 2020, points of GDP"
+ },
+ "bal_CHN_2019": {
+  "value": -6.0,
+  "how": "WEO GGXCNL_NGDP CHN 2019"
+ },
+ "bal_CHN_2020": {
+  "value": -9.6,
+  "how": "WEO GGXCNL_NGDP CHN 2020"
+ },
+ "dbal_CHN": {
+  "value": -3.6,
+  "how": "WEO GGXCNL_NGDP CHN, change 2019 to 2020, points of GDP"
+ },
+ "bal_IND_2019": {
+  "value": -7.8,
+  "how": "WEO GGXCNL_NGDP IND 2019"
+ },
+ "bal_IND_2020": {
+  "value": -13.2,
+  "how": "WEO GGXCNL_NGDP IND 2020"
+ },
+ "dbal_IND": {
+  "value": -5.3,
+  "how": "WEO GGXCNL_NGDP IND, change 2019 to 2020, points of GDP"
+ },
+ "bal_BRA_2019": {
+  "value": -4.9,
+  "how": "WEO GGXCNL_NGDP BRA 2019"
+ },
+ "bal_BRA_2020": {
+  "value": -11.6,
+  "how": "WEO GGXCNL_NGDP BRA 2020"
+ },
+ "dbal_BRA": {
+  "value": -6.8,
+  "how": "WEO GGXCNL_NGDP BRA, change 2019 to 2020, points of GDP"
+ },
+ "bal_ZAF_2019": {
+  "value": -5.1,
+  "how": "WEO GGXCNL_NGDP ZAF 2019"
+ },
+ "bal_ZAF_2020": {
+  "value": -9.6,
+  "how": "WEO GGXCNL_NGDP ZAF 2020"
+ },
+ "dbal_ZAF": {
+  "value": -4.5,
+  "how": "WEO GGXCNL_NGDP ZAF, change 2019 to 2020, points of GDP"
+ },
+ "bal_MEX_2019": {
+  "value": -2.3,
+  "how": "WEO GGXCNL_NGDP MEX 2019"
+ },
+ "bal_MEX_2020": {
+  "value": -4.3,
+  "how": "WEO GGXCNL_NGDP MEX 2020"
+ },
+ "dbal_MEX": {
+  "value": -2.0,
+  "how": "WEO GGXCNL_NGDP MEX, change 2019 to 2020, points of GDP"
+ },
+ "bal_IDN_2019": {
+  "value": -2.1,
+  "how": "WEO GGXCNL_NGDP IDN 2019"
+ },
+ "bal_IDN_2020": {
+  "value": -6.1,
+  "how": "WEO GGXCNL_NGDP IDN 2020"
+ },
+ "dbal_IDN": {
+  "value": -4.0,
+  "how": "WEO GGXCNL_NGDP IDN, change 2019 to 2020, points of GDP"
+ },
+ "bal_G110_2019": {
+  "value": -2.9,
+  "how": "WEO GGXCNL_NGDP G110 2019"
+ },
+ "bal_G110_2020": {
+  "value": -10.2,
+  "how": "WEO GGXCNL_NGDP G110 2020"
+ },
+ "dbal_G110": {
+  "value": -7.3,
+  "how": "WEO GGXCNL_NGDP G110, change 2019 to 2020, points of GDP"
+ },
+ "bal_G200_2019": {
+  "value": -4.3,
+  "how": "WEO GGXCNL_NGDP G200 2019"
+ },
+ "bal_G200_2020": {
+  "value": -8.4,
+  "how": "WEO GGXCNL_NGDP G200 2020"
+ },
+ "dbal_G200": {
+  "value": -4.1,
+  "how": "WEO GGXCNL_NGDP G200, change 2019 to 2020, points of GDP"
+ },
+ "bal_G163_2019": {
+  "value": -0.5,
+  "how": "WEO GGXCNL_NGDP G163 2019"
+ },
+ "bal_G163_2020": {
+  "value": -7.0,
+  "how": "WEO GGXCNL_NGDP G163 2020"
+ },
+ "dbal_G163": {
+  "value": -6.4,
+  "how": "WEO GGXCNL_NGDP G163, change 2019 to 2020, points of GDP"
+ },
+ "debt_USA_2019": {
+  "value": 109.0,
+  "how": "WEO GGXWDG_NGDP USA 2019"
+ },
+ "debt_USA_2020": {
+  "value": 133.0,
+  "how": "WEO GGXWDG_NGDP USA 2020"
+ },
+ "debt_GBR_2019": {
+  "value": 85.0,
+  "how": "WEO GGXWDG_NGDP GBR 2019"
+ },
+ "debt_GBR_2020": {
+  "value": 104.0,
+  "how": "WEO GGXWDG_NGDP GBR 2020"
+ },
+ "debt_JPN_2019": {
+  "value": 206.0,
+  "how": "WEO GGXWDG_NGDP JPN 2019"
+ },
+ "debt_JPN_2020": {
+  "value": 229.0,
+  "how": "WEO GGXWDG_NGDP JPN 2020"
+ },
+ "debt_ITA_2019": {
+  "value": 134.0,
+  "how": "WEO GGXWDG_NGDP ITA 2019"
+ },
+ "debt_ITA_2020": {
+  "value": 154.0,
+  "how": "WEO GGXWDG_NGDP ITA 2020"
+ },
+ "debt_G110_2019": {
+  "value": 101.0,
+  "how": "WEO GGXWDG_NGDP G110 2019"
+ },
+ "debt_G110_2020": {
+  "value": 119.0,
+  "how": "WEO GGXWDG_NGDP G110 2020"
+ },
+ "debt_G200_2019": {
+  "value": 55.0,
+  "how": "WEO GGXWDG_NGDP G200 2019"
+ },
+ "debt_G200_2020": {
+  "value": 65.0,
+  "how": "WEO GGXWDG_NGDP G200 2020"
+ },
+ "debt_CHN_2019": {
+  "value": 60.0,
+  "how": "WEO GGXWDG_NGDP CHN 2019"
+ },
+ "debt_CHN_2020": {
+  "value": 71.0,
+  "how": "WEO GGXWDG_NGDP CHN 2020"
+ },
+ "debt_IND_2019": {
+  "value": 77.0,
+  "how": "WEO GGXWDG_NGDP IND 2019"
+ },
+ "debt_IND_2020": {
+  "value": 90.0,
+  "how": "WEO GGXWDG_NGDP IND 2020"
+ },
+ "fed_2020_02": {
+  "value": 4.17,
+  "how": "WALCL Feb 2020, US$ trillion"
+ },
+ "fed_peak": {
+  "value": 8.95,
+  "how": "WALCL peak monthly average 2020-22 (2022-04), US$ trillion"
+ },
+ "fed_peak_month": {
+  "value": "2022-04",
+  "how": "WALCL peak month"
+ },
+ "fed_2021_12": {
+  "value": 8.72,
+  "how": "WALCL Dec 2021, US$ trillion"
+ },
+ "fed_x_2021_12": {
+  "value": 2.09,
+  "how": "WALCL Dec 2021 / Feb 2020, times"
+ },
+ "ecb_2020_02": {
+  "value": 4.68,
+  "how": "ECBASSETSW Feb 2020, EUR trillion"
+ },
+ "ecb_peak": {
+  "value": 8.83,
+  "how": "ECBASSETSW peak monthly average 2020-22 (2022-06), EUR trillion"
+ },
+ "ecb_peak_month": {
+  "value": "2022-06",
+  "how": "ECBASSETSW peak month"
+ },
+ "ecb_2021_12": {
+  "value": 8.51,
+  "how": "ECBASSETSW Dec 2021, EUR trillion"
+ },
+ "ecb_x_2021_12": {
+  "value": 1.82,
+  "how": "ECBASSETSW Dec 2021 / Feb 2020, times"
+ },
+ "boj_2020_02": {
+  "value": 584.92,
+  "how": "JPNASSETS Feb 2020, yen trillion"
+ },
+ "boj_peak": {
+  "value": 738.69,
+  "how": "JPNASSETS peak monthly average 2020-22 (2022-04), yen trillion"
+ },
+ "boj_peak_month": {
+  "value": "2022-04",
+  "how": "JPNASSETS peak month"
+ },
+ "boj_2021_12": {
+  "value": 723.77,
+  "how": "JPNASSETS Dec 2021, yen trillion"
+ },
+ "boj_x_2021_12": {
+  "value": 1.24,
+  "how": "JPNASSETS Dec 2021 / Feb 2020, times"
+ },
+ "scar_G001_2024": {
+  "value": -3.2,
+  "how": "World: 2024 real GDP level, today's WEO vs October 2019 WEO path, % gap"
+ },
+ "pre19_G001_2020": {
+  "value": 3.4,
+  "how": "World: October 2019 WEO projection for 2020 growth"
+ },
+ "scar_G110_2024": {
+  "value": 0.8,
+  "how": "Advanced Economies: 2024 real GDP level, today's WEO vs October 2019 WEO path, % gap"
+ },
+ "pre19_G110_2020": {
+  "value": 1.7,
+  "how": "Advanced Economies: October 2019 WEO projection for 2020 growth"
+ },
+ "scar_G200_2024": {
+  "value": -5.2,
+  "how": "Emerging Market and Developing Economies: 2024 real GDP level, today's WEO vs October 2019 WEO path, % gap"
+ },
+ "pre19_G200_2020": {
+  "value": 4.6,
+  "how": "Emerging Market and Developing Economies: October 2019 WEO projection for 2020 growth"
+ },
+ "scar_IND_2024": {
+  "value": -10.2,
+  "how": "India: 2024 real GDP level, today's WEO vs October 2019 WEO path, % gap"
+ },
+ "pre19_IND_2020": {
+  "value": 7.0,
+  "how": "India: October 2019 WEO projection for 2020 growth"
+ },
+ "in_gdp_2018": {
+  "value": 6.5,
+  "how": "India gdp_real_growth FY2018-19"
+ },
+ "in_gdp_2019": {
+  "value": 3.9,
+  "how": "India gdp_real_growth FY2019-20"
+ },
+ "in_gdp_2020": {
+  "value": -5.8,
+  "how": "India gdp_real_growth FY2020-21"
+ },
+ "in_gdp_2021": {
+  "value": 9.7,
+  "how": "India gdp_real_growth FY2021-22"
+ },
+ "in_gdp_2022": {
+  "value": 7.6,
+  "how": "India gdp_real_growth FY2022-23"
+ },
+ "in_cpi_2018": {
+  "value": 3.4,
+  "how": "India cpi_inflation FY2018-19"
+ },
+ "in_cpi_2019": {
+  "value": 4.8,
+  "how": "India cpi_inflation FY2019-20"
+ },
+ "in_cpi_2020": {
+  "value": 6.2,
+  "how": "India cpi_inflation FY2020-21"
+ },
+ "in_cpi_2021": {
+  "value": 5.5,
+  "how": "India cpi_inflation FY2021-22"
+ },
+ "in_cpi_2022": {
+  "value": 6.7,
+  "how": "India cpi_inflation FY2022-23"
+ },
+ "in_cpif_2018": {
+  "value": 0.7,
+  "how": "India cpi_food_inflation FY2018-19"
+ },
+ "in_cpif_2019": {
+  "value": 6.0,
+  "how": "India cpi_food_inflation FY2019-20"
+ },
+ "in_cpif_2020": {
+  "value": 7.3,
+  "how": "India cpi_food_inflation FY2020-21"
+ },
+ "in_cpif_2021": {
+  "value": 4.2,
+  "how": "India cpi_food_inflation FY2021-22"
+ },
+ "in_cpif_2022": {
+  "value": 6.7,
+  "how": "India cpi_food_inflation FY2022-23"
+ },
+ "in_repo_2018": {
+  "value": 6.25,
+  "how": "India repo_end FY2018-19"
+ },
+ "in_repo_2019": {
+  "value": 4.4,
+  "how": "India repo_end FY2019-20"
+ },
+ "in_repo_2020": {
+  "value": 4.0,
+  "how": "India repo_end FY2020-21"
+ },
+ "in_repo_2021": {
+  "value": 4.0,
+  "how": "India repo_end FY2021-22"
+ },
+ "in_repo_2022": {
+  "value": 6.5,
+  "how": "India repo_end FY2022-23"
+ },
+ "in_cab_2018": {
+  "value": -2.1,
+  "how": "India cab_gdp FY2018-19"
+ },
+ "in_cab_2019": {
+  "value": -0.9,
+  "how": "India cab_gdp FY2019-20"
+ },
+ "in_cab_2020": {
+  "value": 0.9,
+  "how": "India cab_gdp FY2020-21"
+ },
+ "in_cab_2021": {
+  "value": -1.2,
+  "how": "India cab_gdp FY2021-22"
+ },
+ "in_cab_2022": {
+  "value": -2.0,
+  "how": "India cab_gdp FY2022-23"
+ },
+ "in_res_2018": {
+  "value": 413.0,
+  "how": "India fx_reserves FY2018-19"
+ },
+ "in_res_2019": {
+  "value": 478.0,
+  "how": "India fx_reserves FY2019-20"
+ },
+ "in_res_2020": {
+  "value": 577.0,
+  "how": "India fx_reserves FY2020-21"
+ },
+ "in_res_2021": {
+  "value": 607.0,
+  "how": "India fx_reserves FY2021-22"
+ },
+ "in_res_2022": {
+  "value": 578.0,
+  "how": "India fx_reserves FY2022-23"
+ },
+ "in_ggfd_2018": {
+  "value": 5.8,
+  "how": "India gg_fd_gdp FY2018-19"
+ },
+ "in_ggfd_2019": {
+  "value": 7.2,
+  "how": "India gg_fd_gdp FY2019-20"
+ },
+ "in_ggfd_2020": {
+  "value": 13.1,
+  "how": "India gg_fd_gdp FY2020-21"
+ },
+ "in_ggfd_2021": {
+  "value": 9.5,
+  "how": "India gg_fd_gdp FY2021-22"
+ },
+ "in_ggfd_2022": {
+  "value": 8.8,
+  "how": "India gg_fd_gdp FY2022-23"
+ },
+ "in_cfd_2018": {
+  "value": 3.4,
+  "how": "India centre_fd_gdp FY2018-19"
+ },
+ "in_cfd_2019": {
+  "value": 4.6,
+  "how": "India centre_fd_gdp FY2019-20"
+ },
+ "in_cfd_2020": {
+  "value": 9.2,
+  "how": "India centre_fd_gdp FY2020-21"
+ },
+ "in_cfd_2021": {
+  "value": 6.7,
+  "how": "India centre_fd_gdp FY2021-22"
+ },
+ "in_cfd_2022": {
+  "value": 6.5,
+  "how": "India centre_fd_gdp FY2022-23"
+ },
+ "in_ggdebt_2018": {
+  "value": 70.5,
+  "how": "India gg_debt_gdp FY2018-19"
+ },
+ "in_ggdebt_2019": {
+  "value": 75.1,
+  "how": "India gg_debt_gdp FY2019-20"
+ },
+ "in_ggdebt_2020": {
+  "value": 89.2,
+  "how": "India gg_debt_gdp FY2020-21"
+ },
+ "in_ggdebt_2021": {
+  "value": 84.2,
+  "how": "India gg_debt_gdp FY2021-22"
+ },
+ "in_ggdebt_2022": {
+  "value": 82.9,
+  "how": "India gg_debt_gdp FY2022-23"
+ },
+ "in_fdi_2018": {
+  "value": 30.7,
+  "how": "India fdi_net FY2018-19"
+ },
+ "in_fdi_2019": {
+  "value": 43.0,
+  "how": "India fdi_net FY2019-20"
+ },
+ "in_fdi_2020": {
+  "value": 44.0,
+  "how": "India fdi_net FY2020-21"
+ },
+ "in_fdi_2021": {
+  "value": 38.6,
+  "how": "India fdi_net FY2021-22"
+ },
+ "in_fdi_2022": {
+  "value": 28.0,
+  "how": "India fdi_net FY2022-23"
+ },
+ "in_fpi_2018": {
+  "value": -0.6,
+  "how": "India fpi_net FY2018-19"
+ },
+ "in_fpi_2019": {
+  "value": 1.4,
+  "how": "India fpi_net FY2019-20"
+ },
+ "in_fpi_2020": {
+  "value": 36.1,
+  "how": "India fpi_net FY2020-21"
+ },
+ "in_fpi_2021": {
+  "value": -16.8,
+  "how": "India fpi_net FY2021-22"
+ },
+ "in_fpi_2022": {
+  "value": -5.2,
+  "how": "India fpi_net FY2022-23"
+ },
+ "in_inr_2018": {
+  "value": 69.9,
+  "how": "India inr_usd FY2018-19"
+ },
+ "in_inr_2019": {
+  "value": 70.9,
+  "how": "India inr_usd FY2019-20"
+ },
+ "in_inr_2020": {
+  "value": 74.2,
+  "how": "India inr_usd FY2020-21"
+ },
+ "in_inr_2021": {
+  "value": 74.5,
+  "how": "India inr_usd FY2021-22"
+ },
+ "in_inr_2022": {
+  "value": 80.4,
+  "how": "India inr_usd FY2022-23"
+ }
+}

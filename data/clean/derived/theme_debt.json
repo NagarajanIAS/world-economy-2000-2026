@@ -1,0 +1,2774 @@
+{
+ "d_G110_2001": {
+  "value": 68.5,
+  "how": "general government gross debt, % of GDP, G110 2001 (WEO Oct 2026)"
+ },
+ "d_G110_2007": {
+  "value": 70.1,
+  "how": "general government gross debt, % of GDP, G110 2007 (WEO Oct 2026)"
+ },
+ "d_G110_2008": {
+  "value": 76.0,
+  "how": "general government gross debt, % of GDP, G110 2008 (WEO Oct 2026)"
+ },
+ "d_G110_2009": {
+  "value": 89.3,
+  "how": "general government gross debt, % of GDP, G110 2009 (WEO Oct 2026)"
+ },
+ "d_G110_2012": {
+  "value": 101.8,
+  "how": "general government gross debt, % of GDP, G110 2012 (WEO Oct 2026)"
+ },
+ "d_G110_2019": {
+  "value": 100.9,
+  "how": "general government gross debt, % of GDP, G110 2019 (WEO Oct 2026)"
+ },
+ "d_G110_2020": {
+  "value": 119.3,
+  "how": "general government gross debt, % of GDP, G110 2020 (WEO Oct 2026)"
+ },
+ "d_G110_2021": {
+  "value": 112.9,
+  "how": "general government gross debt, % of GDP, G110 2021 (WEO Oct 2026)"
+ },
+ "d_G110_2022": {
+  "value": 107.9,
+  "how": "general government gross debt, % of GDP, G110 2022 (WEO Oct 2026)"
+ },
+ "d_G110_2024": {
+  "value": 107.4,
+  "how": "general government gross debt, % of GDP, G110 2024 (WEO Oct 2026)"
+ },
+ "d_G110_2025": {
+  "value": 108.2,
+  "how": "general government gross debt, % of GDP, G110 2025 (WEO Oct 2026)"
+ },
+ "d_G110_2026": {
+  "value": 107.8,
+  "how": "general government gross debt, % of GDP, G110 2026 (WEO Oct 2026)"
+ },
+ "d_G110_2031": {
+  "value": 115.2,
+  "how": "general government gross debt, % of GDP, G110 2031 (WEO Oct 2026)"
+ },
+ "d_G200_2000": {
+  "value": 46.0,
+  "how": "general government gross debt, % of GDP, G200 2000 (WEO Oct 2026)"
+ },
+ "d_G200_2001": {
+  "value": 47.0,
+  "how": "general government gross debt, % of GDP, G200 2001 (WEO Oct 2026)"
+ },
+ "d_G200_2007": {
+  "value": 35.0,
+  "how": "general government gross debt, % of GDP, G200 2007 (WEO Oct 2026)"
+ },
+ "d_G200_2008": {
+  "value": 32.8,
+  "how": "general government gross debt, % of GDP, G200 2008 (WEO Oct 2026)"
+ },
+ "d_G200_2009": {
+  "value": 37.8,
+  "how": "general government gross debt, % of GDP, G200 2009 (WEO Oct 2026)"
+ },
+ "d_G200_2012": {
+  "value": 36.0,
+  "how": "general government gross debt, % of GDP, G200 2012 (WEO Oct 2026)"
+ },
+ "d_G200_2019": {
+  "value": 54.5,
+  "how": "general government gross debt, % of GDP, G200 2019 (WEO Oct 2026)"
+ },
+ "d_G200_2020": {
+  "value": 64.7,
+  "how": "general government gross debt, % of GDP, G200 2020 (WEO Oct 2026)"
+ },
+ "d_G200_2021": {
+  "value": 63.8,
+  "how": "general government gross debt, % of GDP, G200 2021 (WEO Oct 2026)"
+ },
+ "d_G200_2022": {
+  "value": 63.7,
+  "how": "general government gross debt, % of GDP, G200 2022 (WEO Oct 2026)"
+ },
+ "d_G200_2024": {
+  "value": 69.9,
+  "how": "general government gross debt, % of GDP, G200 2024 (WEO Oct 2026)"
+ },
+ "d_G200_2025": {
+  "value": 73.7,
+  "how": "general government gross debt, % of GDP, G200 2025 (WEO Oct 2026)"
+ },
+ "d_G200_2026": {
+  "value": 76.2,
+  "how": "general government gross debt, % of GDP, G200 2026 (WEO Oct 2026)"
+ },
+ "d_G200_2031": {
+  "value": 84.2,
+  "how": "general government gross debt, % of GDP, G200 2031 (WEO Oct 2026)"
+ },
+ "d_G119_2001": {
+  "value": 72.0,
+  "how": "general government gross debt, % of GDP, G119 2001 (WEO Oct 2026)"
+ },
+ "d_G119_2007": {
+  "value": 78.0,
+  "how": "general government gross debt, % of GDP, G119 2007 (WEO Oct 2026)"
+ },
+ "d_G119_2008": {
+  "value": 85.0,
+  "how": "general government gross debt, % of GDP, G119 2008 (WEO Oct 2026)"
+ },
+ "d_G119_2009": {
+  "value": 100.0,
+  "how": "general government gross debt, % of GDP, G119 2009 (WEO Oct 2026)"
+ },
+ "d_G119_2012": {
+  "value": 116.0,
+  "how": "general government gross debt, % of GDP, G119 2012 (WEO Oct 2026)"
+ },
+ "d_G119_2019": {
+  "value": 115.0,
+  "how": "general government gross debt, % of GDP, G119 2019 (WEO Oct 2026)"
+ },
+ "d_G119_2020": {
+  "value": 136.0,
+  "how": "general government gross debt, % of GDP, G119 2020 (WEO Oct 2026)"
+ },
+ "d_G119_2021": {
+  "value": 129.0,
+  "how": "general government gross debt, % of GDP, G119 2021 (WEO Oct 2026)"
+ },
+ "d_G119_2022": {
+  "value": 123.0,
+  "how": "general government gross debt, % of GDP, G119 2022 (WEO Oct 2026)"
+ },
+ "d_G119_2024": {
+  "value": 122.0,
+  "how": "general government gross debt, % of GDP, G119 2024 (WEO Oct 2026)"
+ },
+ "d_G119_2025": {
+  "value": 123.0,
+  "how": "general government gross debt, % of GDP, G119 2025 (WEO Oct 2026)"
+ },
+ "d_G119_2026": {
+  "value": 124.0,
+  "how": "general government gross debt, % of GDP, G119 2026 (WEO Oct 2026)"
+ },
+ "d_G119_2031": {
+  "value": 135.0,
+  "how": "general government gross debt, % of GDP, G119 2031 (WEO Oct 2026)"
+ },
+ "d_G163_2000": {
+  "value": 69.0,
+  "how": "general government gross debt, % of GDP, G163 2000 (WEO Oct 2026)"
+ },
+ "d_G163_2001": {
+  "value": 68.0,
+  "how": "general government gross debt, % of GDP, G163 2001 (WEO Oct 2026)"
+ },
+ "d_G163_2007": {
+  "value": 66.0,
+  "how": "general government gross debt, % of GDP, G163 2007 (WEO Oct 2026)"
+ },
+ "d_G163_2008": {
+  "value": 69.0,
+  "how": "general government gross debt, % of GDP, G163 2008 (WEO Oct 2026)"
+ },
+ "d_G163_2009": {
+  "value": 80.0,
+  "how": "general government gross debt, % of GDP, G163 2009 (WEO Oct 2026)"
+ },
+ "d_G163_2012": {
+  "value": 90.0,
+  "how": "general government gross debt, % of GDP, G163 2012 (WEO Oct 2026)"
+ },
+ "d_G163_2019": {
+  "value": 83.0,
+  "how": "general government gross debt, % of GDP, G163 2019 (WEO Oct 2026)"
+ },
+ "d_G163_2020": {
+  "value": 96.0,
+  "how": "general government gross debt, % of GDP, G163 2020 (WEO Oct 2026)"
+ },
+ "d_G163_2021": {
+  "value": 93.0,
+  "how": "general government gross debt, % of GDP, G163 2021 (WEO Oct 2026)"
+ },
+ "d_G163_2022": {
+  "value": 89.0,
+  "how": "general government gross debt, % of GDP, G163 2022 (WEO Oct 2026)"
+ },
+ "d_G163_2024": {
+  "value": 86.0,
+  "how": "general government gross debt, % of GDP, G163 2024 (WEO Oct 2026)"
+ },
+ "d_G163_2025": {
+  "value": 87.0,
+  "how": "general government gross debt, % of GDP, G163 2025 (WEO Oct 2026)"
+ },
+ "d_G163_2026": {
+  "value": 88.0,
+  "how": "general government gross debt, % of GDP, G163 2026 (WEO Oct 2026)"
+ },
+ "d_G163_2031": {
+  "value": 90.0,
+  "how": "general government gross debt, % of GDP, G163 2031 (WEO Oct 2026)"
+ },
+ "d_G603_2000": {
+  "value": 58.0,
+  "how": "general government gross debt, % of GDP, G603 2000 (WEO Oct 2026)"
+ },
+ "d_G603_2001": {
+  "value": 55.0,
+  "how": "general government gross debt, % of GDP, G603 2001 (WEO Oct 2026)"
+ },
+ "d_G603_2007": {
+  "value": 22.0,
+  "how": "general government gross debt, % of GDP, G603 2007 (WEO Oct 2026)"
+ },
+ "d_G603_2008": {
+  "value": 21.0,
+  "how": "general government gross debt, % of GDP, G603 2008 (WEO Oct 2026)"
+ },
+ "d_G603_2009": {
+  "value": 24.0,
+  "how": "general government gross debt, % of GDP, G603 2009 (WEO Oct 2026)"
+ },
+ "d_G603_2012": {
+  "value": 24.0,
+  "how": "general government gross debt, % of GDP, G603 2012 (WEO Oct 2026)"
+ },
+ "d_G603_2019": {
+  "value": 44.0,
+  "how": "general government gross debt, % of GDP, G603 2019 (WEO Oct 2026)"
+ },
+ "d_G603_2020": {
+  "value": 51.0,
+  "how": "general government gross debt, % of GDP, G603 2020 (WEO Oct 2026)"
+ },
+ "d_G603_2021": {
+  "value": 51.0,
+  "how": "general government gross debt, % of GDP, G603 2021 (WEO Oct 2026)"
+ },
+ "d_G603_2022": {
+  "value": 52.0,
+  "how": "general government gross debt, % of GDP, G603 2022 (WEO Oct 2026)"
+ },
+ "d_G603_2024": {
+  "value": 57.0,
+  "how": "general government gross debt, % of GDP, G603 2024 (WEO Oct 2026)"
+ },
+ "d_G603_2025": {
+  "value": 57.0,
+  "how": "general government gross debt, % of GDP, G603 2025 (WEO Oct 2026)"
+ },
+ "d_G603_2026": {
+  "value": 55.0,
+  "how": "general government gross debt, % of GDP, G603 2026 (WEO Oct 2026)"
+ },
+ "d_G603_2031": {
+  "value": 52.0,
+  "how": "general government gross debt, % of GDP, G603 2031 (WEO Oct 2026)"
+ },
+ "d_USA_2001": {
+  "value": 53.5,
+  "how": "general government gross debt, % of GDP, USA 2001 (WEO Oct 2026)"
+ },
+ "d_USA_2007": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, USA 2007 (WEO Oct 2026)"
+ },
+ "d_USA_2008": {
+  "value": 73.9,
+  "how": "general government gross debt, % of GDP, USA 2008 (WEO Oct 2026)"
+ },
+ "d_USA_2009": {
+  "value": 87.1,
+  "how": "general government gross debt, % of GDP, USA 2009 (WEO Oct 2026)"
+ },
+ "d_USA_2012": {
+  "value": 103.7,
+  "how": "general government gross debt, % of GDP, USA 2012 (WEO Oct 2026)"
+ },
+ "d_USA_2019": {
+  "value": 108.8,
+  "how": "general government gross debt, % of GDP, USA 2019 (WEO Oct 2026)"
+ },
+ "d_USA_2020": {
+  "value": 132.6,
+  "how": "general government gross debt, % of GDP, USA 2020 (WEO Oct 2026)"
+ },
+ "d_USA_2021": {
+  "value": 125.0,
+  "how": "general government gross debt, % of GDP, USA 2021 (WEO Oct 2026)"
+ },
+ "d_USA_2022": {
+  "value": 119.2,
+  "how": "general government gross debt, % of GDP, USA 2022 (WEO Oct 2026)"
+ },
+ "d_USA_2024": {
+  "value": 122.3,
+  "how": "general government gross debt, % of GDP, USA 2024 (WEO Oct 2026)"
+ },
+ "d_USA_2025": {
+  "value": 124.4,
+  "how": "general government gross debt, % of GDP, USA 2025 (WEO Oct 2026)"
+ },
+ "d_USA_2026": {
+  "value": 126.8,
+  "how": "general government gross debt, % of GDP, USA 2026 (WEO Oct 2026)"
+ },
+ "d_USA_2031": {
+  "value": 145.0,
+  "how": "general government gross debt, % of GDP, USA 2031 (WEO Oct 2026)"
+ },
+ "d_JPN_2000": {
+  "value": 118.0,
+  "how": "general government gross debt, % of GDP, JPN 2000 (WEO Oct 2026)"
+ },
+ "d_JPN_2001": {
+  "value": 127.0,
+  "how": "general government gross debt, % of GDP, JPN 2001 (WEO Oct 2026)"
+ },
+ "d_JPN_2007": {
+  "value": 150.0,
+  "how": "general government gross debt, % of GDP, JPN 2007 (WEO Oct 2026)"
+ },
+ "d_JPN_2008": {
+  "value": 154.0,
+  "how": "general government gross debt, % of GDP, JPN 2008 (WEO Oct 2026)"
+ },
+ "d_JPN_2009": {
+  "value": 173.0,
+  "how": "general government gross debt, % of GDP, JPN 2009 (WEO Oct 2026)"
+ },
+ "d_JPN_2012": {
+  "value": 197.0,
+  "how": "general government gross debt, % of GDP, JPN 2012 (WEO Oct 2026)"
+ },
+ "d_JPN_2019": {
+  "value": 206.0,
+  "how": "general government gross debt, % of GDP, JPN 2019 (WEO Oct 2026)"
+ },
+ "d_JPN_2020": {
+  "value": 229.0,
+  "how": "general government gross debt, % of GDP, JPN 2020 (WEO Oct 2026)"
+ },
+ "d_JPN_2021": {
+  "value": 223.0,
+  "how": "general government gross debt, % of GDP, JPN 2021 (WEO Oct 2026)"
+ },
+ "d_JPN_2022": {
+  "value": 228.0,
+  "how": "general government gross debt, % of GDP, JPN 2022 (WEO Oct 2026)"
+ },
+ "d_JPN_2024": {
+  "value": 214.0,
+  "how": "general government gross debt, % of GDP, JPN 2024 (WEO Oct 2026)"
+ },
+ "d_JPN_2025": {
+  "value": 205.0,
+  "how": "general government gross debt, % of GDP, JPN 2025 (WEO Oct 2026)"
+ },
+ "d_JPN_2026": {
+  "value": 199.0,
+  "how": "general government gross debt, % of GDP, JPN 2026 (WEO Oct 2026)"
+ },
+ "d_JPN_2031": {
+  "value": 189.0,
+  "how": "general government gross debt, % of GDP, JPN 2031 (WEO Oct 2026)"
+ },
+ "d_CHN_2000": {
+  "value": 22.6,
+  "how": "general government gross debt, % of GDP, CHN 2000 (WEO Oct 2026)"
+ },
+ "d_CHN_2001": {
+  "value": 24.2,
+  "how": "general government gross debt, % of GDP, CHN 2001 (WEO Oct 2026)"
+ },
+ "d_CHN_2007": {
+  "value": 28.8,
+  "how": "general government gross debt, % of GDP, CHN 2007 (WEO Oct 2026)"
+ },
+ "d_CHN_2008": {
+  "value": 26.6,
+  "how": "general government gross debt, % of GDP, CHN 2008 (WEO Oct 2026)"
+ },
+ "d_CHN_2009": {
+  "value": 33.9,
+  "how": "general government gross debt, % of GDP, CHN 2009 (WEO Oct 2026)"
+ },
+ "d_CHN_2012": {
+  "value": 33.9,
+  "how": "general government gross debt, % of GDP, CHN 2012 (WEO Oct 2026)"
+ },
+ "d_CHN_2019": {
+  "value": 59.9,
+  "how": "general government gross debt, % of GDP, CHN 2019 (WEO Oct 2026)"
+ },
+ "d_CHN_2020": {
+  "value": 70.6,
+  "how": "general government gross debt, % of GDP, CHN 2020 (WEO Oct 2026)"
+ },
+ "d_CHN_2021": {
+  "value": 72.1,
+  "how": "general government gross debt, % of GDP, CHN 2021 (WEO Oct 2026)"
+ },
+ "d_CHN_2022": {
+  "value": 77.3,
+  "how": "general government gross debt, % of GDP, CHN 2022 (WEO Oct 2026)"
+ },
+ "d_CHN_2024": {
+  "value": 90.5,
+  "how": "general government gross debt, % of GDP, CHN 2024 (WEO Oct 2026)"
+ },
+ "d_CHN_2025": {
+  "value": 98.6,
+  "how": "general government gross debt, % of GDP, CHN 2025 (WEO Oct 2026)"
+ },
+ "d_CHN_2026": {
+  "value": 104.4,
+  "how": "general government gross debt, % of GDP, CHN 2026 (WEO Oct 2026)"
+ },
+ "d_CHN_2031": {
+  "value": 122.1,
+  "how": "general government gross debt, % of GDP, CHN 2031 (WEO Oct 2026)"
+ },
+ "d_ITA_2000": {
+  "value": 109.0,
+  "how": "general government gross debt, % of GDP, ITA 2000 (WEO Oct 2026)"
+ },
+ "d_ITA_2001": {
+  "value": 109.0,
+  "how": "general government gross debt, % of GDP, ITA 2001 (WEO Oct 2026)"
+ },
+ "d_ITA_2007": {
+  "value": 103.0,
+  "how": "general government gross debt, % of GDP, ITA 2007 (WEO Oct 2026)"
+ },
+ "d_ITA_2008": {
+  "value": 106.0,
+  "how": "general government gross debt, % of GDP, ITA 2008 (WEO Oct 2026)"
+ },
+ "d_ITA_2009": {
+  "value": 116.0,
+  "how": "general government gross debt, % of GDP, ITA 2009 (WEO Oct 2026)"
+ },
+ "d_ITA_2012": {
+  "value": 126.0,
+  "how": "general government gross debt, % of GDP, ITA 2012 (WEO Oct 2026)"
+ },
+ "d_ITA_2019": {
+  "value": 134.0,
+  "how": "general government gross debt, % of GDP, ITA 2019 (WEO Oct 2026)"
+ },
+ "d_ITA_2020": {
+  "value": 154.0,
+  "how": "general government gross debt, % of GDP, ITA 2020 (WEO Oct 2026)"
+ },
+ "d_ITA_2021": {
+  "value": 146.0,
+  "how": "general government gross debt, % of GDP, ITA 2021 (WEO Oct 2026)"
+ },
+ "d_ITA_2022": {
+  "value": 138.0,
+  "how": "general government gross debt, % of GDP, ITA 2022 (WEO Oct 2026)"
+ },
+ "d_ITA_2024": {
+  "value": 135.0,
+  "how": "general government gross debt, % of GDP, ITA 2024 (WEO Oct 2026)"
+ },
+ "d_ITA_2025": {
+  "value": 137.0,
+  "how": "general government gross debt, % of GDP, ITA 2025 (WEO Oct 2026)"
+ },
+ "d_ITA_2026": {
+  "value": 138.0,
+  "how": "general government gross debt, % of GDP, ITA 2026 (WEO Oct 2026)"
+ },
+ "d_ITA_2031": {
+  "value": 136.0,
+  "how": "general government gross debt, % of GDP, ITA 2031 (WEO Oct 2026)"
+ },
+ "d_GRC_2000": {
+  "value": 109.0,
+  "how": "general government gross debt, % of GDP, GRC 2000 (WEO Oct 2026)"
+ },
+ "d_GRC_2001": {
+  "value": 111.0,
+  "how": "general government gross debt, % of GDP, GRC 2001 (WEO Oct 2026)"
+ },
+ "d_GRC_2007": {
+  "value": 105.0,
+  "how": "general government gross debt, % of GDP, GRC 2007 (WEO Oct 2026)"
+ },
+ "d_GRC_2008": {
+  "value": 111.0,
+  "how": "general government gross debt, % of GDP, GRC 2008 (WEO Oct 2026)"
+ },
+ "d_GRC_2009": {
+  "value": 128.0,
+  "how": "general government gross debt, % of GDP, GRC 2009 (WEO Oct 2026)"
+ },
+ "d_GRC_2012": {
+  "value": 164.0,
+  "how": "general government gross debt, % of GDP, GRC 2012 (WEO Oct 2026)"
+ },
+ "d_GRC_2019": {
+  "value": 184.0,
+  "how": "general government gross debt, % of GDP, GRC 2019 (WEO Oct 2026)"
+ },
+ "d_GRC_2020": {
+  "value": 210.0,
+  "how": "general government gross debt, % of GDP, GRC 2020 (WEO Oct 2026)"
+ },
+ "d_GRC_2021": {
+  "value": 198.0,
+  "how": "general government gross debt, % of GDP, GRC 2021 (WEO Oct 2026)"
+ },
+ "d_GRC_2022": {
+  "value": 179.0,
+  "how": "general government gross debt, % of GDP, GRC 2022 (WEO Oct 2026)"
+ },
+ "d_GRC_2024": {
+  "value": 155.0,
+  "how": "general government gross debt, % of GDP, GRC 2024 (WEO Oct 2026)"
+ },
+ "d_GRC_2025": {
+  "value": 147.0,
+  "how": "general government gross debt, % of GDP, GRC 2025 (WEO Oct 2026)"
+ },
+ "d_GRC_2026": {
+  "value": 136.0,
+  "how": "general government gross debt, % of GDP, GRC 2026 (WEO Oct 2026)"
+ },
+ "d_GRC_2031": {
+  "value": 111.0,
+  "how": "general government gross debt, % of GDP, GRC 2031 (WEO Oct 2026)"
+ },
+ "d_GBR_2000": {
+  "value": 38.0,
+  "how": "general government gross debt, % of GDP, GBR 2000 (WEO Oct 2026)"
+ },
+ "d_GBR_2001": {
+  "value": 35.0,
+  "how": "general government gross debt, % of GDP, GBR 2001 (WEO Oct 2026)"
+ },
+ "d_GBR_2007": {
+  "value": 43.0,
+  "how": "general government gross debt, % of GDP, GBR 2007 (WEO Oct 2026)"
+ },
+ "d_GBR_2008": {
+  "value": 51.0,
+  "how": "general government gross debt, % of GDP, GBR 2008 (WEO Oct 2026)"
+ },
+ "d_GBR_2009": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, GBR 2009 (WEO Oct 2026)"
+ },
+ "d_GBR_2012": {
+  "value": 84.0,
+  "how": "general government gross debt, % of GDP, GBR 2012 (WEO Oct 2026)"
+ },
+ "d_GBR_2019": {
+  "value": 85.0,
+  "how": "general government gross debt, % of GDP, GBR 2019 (WEO Oct 2026)"
+ },
+ "d_GBR_2020": {
+  "value": 104.0,
+  "how": "general government gross debt, % of GDP, GBR 2020 (WEO Oct 2026)"
+ },
+ "d_GBR_2021": {
+  "value": 103.0,
+  "how": "general government gross debt, % of GDP, GBR 2021 (WEO Oct 2026)"
+ },
+ "d_GBR_2022": {
+  "value": 97.0,
+  "how": "general government gross debt, % of GDP, GBR 2022 (WEO Oct 2026)"
+ },
+ "d_GBR_2024": {
+  "value": 99.0,
+  "how": "general government gross debt, % of GDP, GBR 2024 (WEO Oct 2026)"
+ },
+ "d_GBR_2025": {
+  "value": 102.0,
+  "how": "general government gross debt, % of GDP, GBR 2025 (WEO Oct 2026)"
+ },
+ "d_GBR_2026": {
+  "value": 102.0,
+  "how": "general government gross debt, % of GDP, GBR 2026 (WEO Oct 2026)"
+ },
+ "d_GBR_2031": {
+  "value": 100.0,
+  "how": "general government gross debt, % of GDP, GBR 2031 (WEO Oct 2026)"
+ },
+ "d_DEU_2000": {
+  "value": 59.0,
+  "how": "general government gross debt, % of GDP, DEU 2000 (WEO Oct 2026)"
+ },
+ "d_DEU_2001": {
+  "value": 58.0,
+  "how": "general government gross debt, % of GDP, DEU 2001 (WEO Oct 2026)"
+ },
+ "d_DEU_2007": {
+  "value": 64.0,
+  "how": "general government gross debt, % of GDP, DEU 2007 (WEO Oct 2026)"
+ },
+ "d_DEU_2008": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, DEU 2008 (WEO Oct 2026)"
+ },
+ "d_DEU_2009": {
+  "value": 72.0,
+  "how": "general government gross debt, % of GDP, DEU 2009 (WEO Oct 2026)"
+ },
+ "d_DEU_2012": {
+  "value": 80.0,
+  "how": "general government gross debt, % of GDP, DEU 2012 (WEO Oct 2026)"
+ },
+ "d_DEU_2019": {
+  "value": 58.0,
+  "how": "general government gross debt, % of GDP, DEU 2019 (WEO Oct 2026)"
+ },
+ "d_DEU_2020": {
+  "value": 68.0,
+  "how": "general government gross debt, % of GDP, DEU 2020 (WEO Oct 2026)"
+ },
+ "d_DEU_2021": {
+  "value": 67.0,
+  "how": "general government gross debt, % of GDP, DEU 2021 (WEO Oct 2026)"
+ },
+ "d_DEU_2022": {
+  "value": 64.0,
+  "how": "general government gross debt, % of GDP, DEU 2022 (WEO Oct 2026)"
+ },
+ "d_DEU_2024": {
+  "value": 61.0,
+  "how": "general government gross debt, % of GDP, DEU 2024 (WEO Oct 2026)"
+ },
+ "d_DEU_2025": {
+  "value": 63.0,
+  "how": "general government gross debt, % of GDP, DEU 2025 (WEO Oct 2026)"
+ },
+ "d_DEU_2026": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, DEU 2026 (WEO Oct 2026)"
+ },
+ "d_DEU_2031": {
+  "value": 76.0,
+  "how": "general government gross debt, % of GDP, DEU 2031 (WEO Oct 2026)"
+ },
+ "d_FRA_2000": {
+  "value": 60.0,
+  "how": "general government gross debt, % of GDP, FRA 2000 (WEO Oct 2026)"
+ },
+ "d_FRA_2001": {
+  "value": 59.0,
+  "how": "general government gross debt, % of GDP, FRA 2001 (WEO Oct 2026)"
+ },
+ "d_FRA_2007": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, FRA 2007 (WEO Oct 2026)"
+ },
+ "d_FRA_2008": {
+  "value": 70.0,
+  "how": "general government gross debt, % of GDP, FRA 2008 (WEO Oct 2026)"
+ },
+ "d_FRA_2009": {
+  "value": 84.0,
+  "how": "general government gross debt, % of GDP, FRA 2009 (WEO Oct 2026)"
+ },
+ "d_FRA_2012": {
+  "value": 92.0,
+  "how": "general government gross debt, % of GDP, FRA 2012 (WEO Oct 2026)"
+ },
+ "d_FRA_2019": {
+  "value": 98.0,
+  "how": "general government gross debt, % of GDP, FRA 2019 (WEO Oct 2026)"
+ },
+ "d_FRA_2020": {
+  "value": 115.0,
+  "how": "general government gross debt, % of GDP, FRA 2020 (WEO Oct 2026)"
+ },
+ "d_FRA_2021": {
+  "value": 113.0,
+  "how": "general government gross debt, % of GDP, FRA 2021 (WEO Oct 2026)"
+ },
+ "d_FRA_2022": {
+  "value": 111.0,
+  "how": "general government gross debt, % of GDP, FRA 2022 (WEO Oct 2026)"
+ },
+ "d_FRA_2024": {
+  "value": 113.0,
+  "how": "general government gross debt, % of GDP, FRA 2024 (WEO Oct 2026)"
+ },
+ "d_FRA_2025": {
+  "value": 116.0,
+  "how": "general government gross debt, % of GDP, FRA 2025 (WEO Oct 2026)"
+ },
+ "d_FRA_2026": {
+  "value": 118.0,
+  "how": "general government gross debt, % of GDP, FRA 2026 (WEO Oct 2026)"
+ },
+ "d_FRA_2031": {
+  "value": 124.0,
+  "how": "general government gross debt, % of GDP, FRA 2031 (WEO Oct 2026)"
+ },
+ "d_IND_2000": {
+  "value": 74.9,
+  "how": "general government gross debt, % of GDP, IND 2000 (WEO Oct 2026)"
+ },
+ "d_IND_2001": {
+  "value": 80.1,
+  "how": "general government gross debt, % of GDP, IND 2001 (WEO Oct 2026)"
+ },
+ "d_IND_2007": {
+  "value": 75.4,
+  "how": "general government gross debt, % of GDP, IND 2007 (WEO Oct 2026)"
+ },
+ "d_IND_2008": {
+  "value": 74.3,
+  "how": "general government gross debt, % of GDP, IND 2008 (WEO Oct 2026)"
+ },
+ "d_IND_2009": {
+  "value": 72.7,
+  "how": "general government gross debt, % of GDP, IND 2009 (WEO Oct 2026)"
+ },
+ "d_IND_2012": {
+  "value": 68.1,
+  "how": "general government gross debt, % of GDP, IND 2012 (WEO Oct 2026)"
+ },
+ "d_IND_2019": {
+  "value": 76.5,
+  "how": "general government gross debt, % of GDP, IND 2019 (WEO Oct 2026)"
+ },
+ "d_IND_2020": {
+  "value": 90.4,
+  "how": "general government gross debt, % of GDP, IND 2020 (WEO Oct 2026)"
+ },
+ "d_IND_2021": {
+  "value": 85.5,
+  "how": "general government gross debt, % of GDP, IND 2021 (WEO Oct 2026)"
+ },
+ "d_IND_2022": {
+  "value": 84.4,
+  "how": "general government gross debt, % of GDP, IND 2022 (WEO Oct 2026)"
+ },
+ "d_IND_2024": {
+  "value": 84.8,
+  "how": "general government gross debt, % of GDP, IND 2024 (WEO Oct 2026)"
+ },
+ "d_IND_2025": {
+  "value": 84.3,
+  "how": "general government gross debt, % of GDP, IND 2025 (WEO Oct 2026)"
+ },
+ "d_IND_2026": {
+  "value": 83.1,
+  "how": "general government gross debt, % of GDP, IND 2026 (WEO Oct 2026)"
+ },
+ "d_IND_2031": {
+  "value": 75.1,
+  "how": "general government gross debt, % of GDP, IND 2031 (WEO Oct 2026)"
+ },
+ "d_BRA_2000": {
+  "value": 62.0,
+  "how": "general government gross debt, % of GDP, BRA 2000 (WEO Oct 2026)"
+ },
+ "d_BRA_2001": {
+  "value": 67.0,
+  "how": "general government gross debt, % of GDP, BRA 2001 (WEO Oct 2026)"
+ },
+ "d_BRA_2007": {
+  "value": 63.0,
+  "how": "general government gross debt, % of GDP, BRA 2007 (WEO Oct 2026)"
+ },
+ "d_BRA_2008": {
+  "value": 61.0,
+  "how": "general government gross debt, % of GDP, BRA 2008 (WEO Oct 2026)"
+ },
+ "d_BRA_2009": {
+  "value": 65.0,
+  "how": "general government gross debt, % of GDP, BRA 2009 (WEO Oct 2026)"
+ },
+ "d_BRA_2012": {
+  "value": 62.0,
+  "how": "general government gross debt, % of GDP, BRA 2012 (WEO Oct 2026)"
+ },
+ "d_BRA_2019": {
+  "value": 87.0,
+  "how": "general government gross debt, % of GDP, BRA 2019 (WEO Oct 2026)"
+ },
+ "d_BRA_2020": {
+  "value": 96.0,
+  "how": "general government gross debt, % of GDP, BRA 2020 (WEO Oct 2026)"
+ },
+ "d_BRA_2021": {
+  "value": 89.0,
+  "how": "general government gross debt, % of GDP, BRA 2021 (WEO Oct 2026)"
+ },
+ "d_BRA_2022": {
+  "value": 84.0,
+  "how": "general government gross debt, % of GDP, BRA 2022 (WEO Oct 2026)"
+ },
+ "d_BRA_2024": {
+  "value": 87.0,
+  "how": "general government gross debt, % of GDP, BRA 2024 (WEO Oct 2026)"
+ },
+ "d_BRA_2025": {
+  "value": 93.0,
+  "how": "general government gross debt, % of GDP, BRA 2025 (WEO Oct 2026)"
+ },
+ "d_BRA_2026": {
+  "value": 97.0,
+  "how": "general government gross debt, % of GDP, BRA 2026 (WEO Oct 2026)"
+ },
+ "d_BRA_2031": {
+  "value": 105.0,
+  "how": "general government gross debt, % of GDP, BRA 2031 (WEO Oct 2026)"
+ },
+ "d_ZAF_2000": {
+  "value": 38.0,
+  "how": "general government gross debt, % of GDP, ZAF 2000 (WEO Oct 2026)"
+ },
+ "d_ZAF_2001": {
+  "value": 38.0,
+  "how": "general government gross debt, % of GDP, ZAF 2001 (WEO Oct 2026)"
+ },
+ "d_ZAF_2007": {
+  "value": 24.0,
+  "how": "general government gross debt, % of GDP, ZAF 2007 (WEO Oct 2026)"
+ },
+ "d_ZAF_2008": {
+  "value": 24.0,
+  "how": "general government gross debt, % of GDP, ZAF 2008 (WEO Oct 2026)"
+ },
+ "d_ZAF_2009": {
+  "value": 27.0,
+  "how": "general government gross debt, % of GDP, ZAF 2009 (WEO Oct 2026)"
+ },
+ "d_ZAF_2012": {
+  "value": 37.0,
+  "how": "general government gross debt, % of GDP, ZAF 2012 (WEO Oct 2026)"
+ },
+ "d_ZAF_2019": {
+  "value": 56.0,
+  "how": "general government gross debt, % of GDP, ZAF 2019 (WEO Oct 2026)"
+ },
+ "d_ZAF_2020": {
+  "value": 69.0,
+  "how": "general government gross debt, % of GDP, ZAF 2020 (WEO Oct 2026)"
+ },
+ "d_ZAF_2021": {
+  "value": 69.0,
+  "how": "general government gross debt, % of GDP, ZAF 2021 (WEO Oct 2026)"
+ },
+ "d_ZAF_2022": {
+  "value": 71.0,
+  "how": "general government gross debt, % of GDP, ZAF 2022 (WEO Oct 2026)"
+ },
+ "d_ZAF_2024": {
+  "value": 76.0,
+  "how": "general government gross debt, % of GDP, ZAF 2024 (WEO Oct 2026)"
+ },
+ "d_ZAF_2025": {
+  "value": 78.0,
+  "how": "general government gross debt, % of GDP, ZAF 2025 (WEO Oct 2026)"
+ },
+ "d_ZAF_2026": {
+  "value": 78.0,
+  "how": "general government gross debt, % of GDP, ZAF 2026 (WEO Oct 2026)"
+ },
+ "d_ZAF_2031": {
+  "value": 80.0,
+  "how": "general government gross debt, % of GDP, ZAF 2031 (WEO Oct 2026)"
+ },
+ "d_CAN_2000": {
+  "value": 80.0,
+  "how": "general government gross debt, % of GDP, CAN 2000 (WEO Oct 2026)"
+ },
+ "d_CAN_2001": {
+  "value": 81.0,
+  "how": "general government gross debt, % of GDP, CAN 2001 (WEO Oct 2026)"
+ },
+ "d_CAN_2007": {
+  "value": 67.0,
+  "how": "general government gross debt, % of GDP, CAN 2007 (WEO Oct 2026)"
+ },
+ "d_CAN_2008": {
+  "value": 70.0,
+  "how": "general government gross debt, % of GDP, CAN 2008 (WEO Oct 2026)"
+ },
+ "d_CAN_2009": {
+  "value": 82.0,
+  "how": "general government gross debt, % of GDP, CAN 2009 (WEO Oct 2026)"
+ },
+ "d_CAN_2012": {
+  "value": 87.0,
+  "how": "general government gross debt, % of GDP, CAN 2012 (WEO Oct 2026)"
+ },
+ "d_CAN_2019": {
+  "value": 90.0,
+  "how": "general government gross debt, % of GDP, CAN 2019 (WEO Oct 2026)"
+ },
+ "d_CAN_2020": {
+  "value": 118.0,
+  "how": "general government gross debt, % of GDP, CAN 2020 (WEO Oct 2026)"
+ },
+ "d_CAN_2021": {
+  "value": 113.0,
+  "how": "general government gross debt, % of GDP, CAN 2021 (WEO Oct 2026)"
+ },
+ "d_CAN_2022": {
+  "value": 104.0,
+  "how": "general government gross debt, % of GDP, CAN 2022 (WEO Oct 2026)"
+ },
+ "d_CAN_2024": {
+  "value": 110.0,
+  "how": "general government gross debt, % of GDP, CAN 2024 (WEO Oct 2026)"
+ },
+ "d_CAN_2025": {
+  "value": 114.0,
+  "how": "general government gross debt, % of GDP, CAN 2025 (WEO Oct 2026)"
+ },
+ "d_CAN_2026": {
+  "value": 116.0,
+  "how": "general government gross debt, % of GDP, CAN 2026 (WEO Oct 2026)"
+ },
+ "d_CAN_2031": {
+  "value": 107.0,
+  "how": "general government gross debt, % of GDP, CAN 2031 (WEO Oct 2026)"
+ },
+ "d_ZMB_2000": {
+  "value": 261.0,
+  "how": "general government gross debt, % of GDP, ZMB 2000 (WEO Oct 2026)"
+ },
+ "d_ZMB_2001": {
+  "value": 210.0,
+  "how": "general government gross debt, % of GDP, ZMB 2001 (WEO Oct 2026)"
+ },
+ "d_ZMB_2007": {
+  "value": 22.0,
+  "how": "general government gross debt, % of GDP, ZMB 2007 (WEO Oct 2026)"
+ },
+ "d_ZMB_2008": {
+  "value": 19.0,
+  "how": "general government gross debt, % of GDP, ZMB 2008 (WEO Oct 2026)"
+ },
+ "d_ZMB_2009": {
+  "value": 21.0,
+  "how": "general government gross debt, % of GDP, ZMB 2009 (WEO Oct 2026)"
+ },
+ "d_ZMB_2012": {
+  "value": 25.0,
+  "how": "general government gross debt, % of GDP, ZMB 2012 (WEO Oct 2026)"
+ },
+ "d_ZMB_2019": {
+  "value": 103.0,
+  "how": "general government gross debt, % of GDP, ZMB 2019 (WEO Oct 2026)"
+ },
+ "d_ZMB_2020": {
+  "value": 140.0,
+  "how": "general government gross debt, % of GDP, ZMB 2020 (WEO Oct 2026)"
+ },
+ "d_ZMB_2021": {
+  "value": 111.0,
+  "how": "general government gross debt, % of GDP, ZMB 2021 (WEO Oct 2026)"
+ },
+ "d_ZMB_2022": {
+  "value": 99.0,
+  "how": "general government gross debt, % of GDP, ZMB 2022 (WEO Oct 2026)"
+ },
+ "d_ZMB_2024": {
+  "value": 126.0,
+  "how": "general government gross debt, % of GDP, ZMB 2024 (WEO Oct 2026)"
+ },
+ "d_ZMB_2025": {
+  "value": 101.0,
+  "how": "general government gross debt, % of GDP, ZMB 2025 (WEO Oct 2026)"
+ },
+ "d_ZMB_2026": {
+  "value": 82.0,
+  "how": "general government gross debt, % of GDP, ZMB 2026 (WEO Oct 2026)"
+ },
+ "d_ZMB_2031": {
+  "value": 57.0,
+  "how": "general government gross debt, % of GDP, ZMB 2031 (WEO Oct 2026)"
+ },
+ "d_GHA_2000": {
+  "value": 74.0,
+  "how": "general government gross debt, % of GDP, GHA 2000 (WEO Oct 2026)"
+ },
+ "d_GHA_2001": {
+  "value": 58.0,
+  "how": "general government gross debt, % of GDP, GHA 2001 (WEO Oct 2026)"
+ },
+ "d_GHA_2007": {
+  "value": 21.0,
+  "how": "general government gross debt, % of GDP, GHA 2007 (WEO Oct 2026)"
+ },
+ "d_GHA_2008": {
+  "value": 23.0,
+  "how": "general government gross debt, % of GDP, GHA 2008 (WEO Oct 2026)"
+ },
+ "d_GHA_2009": {
+  "value": 25.0,
+  "how": "general government gross debt, % of GDP, GHA 2009 (WEO Oct 2026)"
+ },
+ "d_GHA_2012": {
+  "value": 35.0,
+  "how": "general government gross debt, % of GDP, GHA 2012 (WEO Oct 2026)"
+ },
+ "d_GHA_2019": {
+  "value": 63.0,
+  "how": "general government gross debt, % of GDP, GHA 2019 (WEO Oct 2026)"
+ },
+ "d_GHA_2020": {
+  "value": 79.0,
+  "how": "general government gross debt, % of GDP, GHA 2020 (WEO Oct 2026)"
+ },
+ "d_GHA_2021": {
+  "value": 87.0,
+  "how": "general government gross debt, % of GDP, GHA 2021 (WEO Oct 2026)"
+ },
+ "d_GHA_2022": {
+  "value": 93.0,
+  "how": "general government gross debt, % of GDP, GHA 2022 (WEO Oct 2026)"
+ },
+ "d_GHA_2024": {
+  "value": 70.0,
+  "how": "general government gross debt, % of GDP, GHA 2024 (WEO Oct 2026)"
+ },
+ "d_GHA_2025": {
+  "value": 49.0,
+  "how": "general government gross debt, % of GDP, GHA 2025 (WEO Oct 2026)"
+ },
+ "d_GHA_2026": {
+  "value": 52.0,
+  "how": "general government gross debt, % of GDP, GHA 2026 (WEO Oct 2026)"
+ },
+ "d_GHA_2031": {
+  "value": 47.0,
+  "how": "general government gross debt, % of GDP, GHA 2031 (WEO Oct 2026)"
+ },
+ "d_LKA_2000": {
+  "value": 79.0,
+  "how": "general government gross debt, % of GDP, LKA 2000 (WEO Oct 2026)"
+ },
+ "d_LKA_2001": {
+  "value": 84.0,
+  "how": "general government gross debt, % of GDP, LKA 2001 (WEO Oct 2026)"
+ },
+ "d_LKA_2007": {
+  "value": 72.0,
+  "how": "general government gross debt, % of GDP, LKA 2007 (WEO Oct 2026)"
+ },
+ "d_LKA_2008": {
+  "value": 69.0,
+  "how": "general government gross debt, % of GDP, LKA 2008 (WEO Oct 2026)"
+ },
+ "d_LKA_2009": {
+  "value": 73.0,
+  "how": "general government gross debt, % of GDP, LKA 2009 (WEO Oct 2026)"
+ },
+ "d_LKA_2012": {
+  "value": 68.0,
+  "how": "general government gross debt, % of GDP, LKA 2012 (WEO Oct 2026)"
+ },
+ "d_LKA_2019": {
+  "value": 83.0,
+  "how": "general government gross debt, % of GDP, LKA 2019 (WEO Oct 2026)"
+ },
+ "d_LKA_2020": {
+  "value": 97.0,
+  "how": "general government gross debt, % of GDP, LKA 2020 (WEO Oct 2026)"
+ },
+ "d_LKA_2021": {
+  "value": 103.0,
+  "how": "general government gross debt, % of GDP, LKA 2021 (WEO Oct 2026)"
+ },
+ "d_LKA_2022": {
+  "value": 116.0,
+  "how": "general government gross debt, % of GDP, LKA 2022 (WEO Oct 2026)"
+ },
+ "d_LKA_2024": {
+  "value": 100.0,
+  "how": "general government gross debt, % of GDP, LKA 2024 (WEO Oct 2026)"
+ },
+ "d_LKA_2025": {
+  "value": 97.0,
+  "how": "general government gross debt, % of GDP, LKA 2025 (WEO Oct 2026)"
+ },
+ "d_LKA_2026": {
+  "value": 95.0,
+  "how": "general government gross debt, % of GDP, LKA 2026 (WEO Oct 2026)"
+ },
+ "d_LKA_2031": {
+  "value": 82.0,
+  "how": "general government gross debt, % of GDP, LKA 2031 (WEO Oct 2026)"
+ },
+ "dpk_G110": {
+  "value": 119.0,
+  "how": "peak gross debt G110 to 2031"
+ },
+ "dpk_G110_yr": {
+  "value": 2020,
+  "how": "year of peak gross debt G110"
+ },
+ "dpk_G200": {
+  "value": 84.0,
+  "how": "peak gross debt G200 to 2031"
+ },
+ "dpk_G200_yr": {
+  "value": 2031,
+  "how": "year of peak gross debt G200"
+ },
+ "dpk_USA": {
+  "value": 145.0,
+  "how": "peak gross debt USA to 2031"
+ },
+ "dpk_USA_yr": {
+  "value": 2031,
+  "how": "year of peak gross debt USA"
+ },
+ "dpk_CHN": {
+  "value": 122.0,
+  "how": "peak gross debt CHN to 2031"
+ },
+ "dpk_CHN_yr": {
+  "value": 2031,
+  "how": "year of peak gross debt CHN"
+ },
+ "dpk_JPN": {
+  "value": 229.0,
+  "how": "peak gross debt JPN to 2031"
+ },
+ "dpk_JPN_yr": {
+  "value": 2020,
+  "how": "year of peak gross debt JPN"
+ },
+ "dpk_GRC": {
+  "value": 210.0,
+  "how": "peak gross debt GRC to 2031"
+ },
+ "dpk_GRC_yr": {
+  "value": 2020,
+  "how": "year of peak gross debt GRC"
+ },
+ "dpk_ZMB": {
+  "value": 261.0,
+  "how": "peak gross debt ZMB to 2031"
+ },
+ "dpk_ZMB_yr": {
+  "value": 2000,
+  "how": "year of peak gross debt ZMB"
+ },
+ "d_G110_2007_2012": {
+  "value": 32.0,
+  "how": "rise in AE debt ratio 2007-2012, points"
+ },
+ "d_G110_2019_2020": {
+  "value": 18.0,
+  "how": "rise in AE debt ratio 2019-2020, points"
+ },
+ "d_G200_2008_2026": {
+  "value": 43.0,
+  "how": "rise in EMDE debt ratio 2008-2026, points"
+ },
+ "d_CHN_2008_2026": {
+  "value": 78.0,
+  "how": "rise in China debt ratio 2008-2026, points"
+ },
+ "cross_CHN_US": {
+  "value": "none",
+  "how": "first year China debt ratio above US (none = not by 2031)"
+ },
+ "n_over100_2007": {
+  "value": 13,
+  "how": "economies with debt above 100% of GDP, 2007"
+ },
+ "n_over100_2026": {
+  "value": 19,
+  "how": "economies with debt above 100% of GDP, 2026"
+ },
+ "b_G110_2007": {
+  "value": -1.3,
+  "how": "general government net lending/borrowing, % of GDP, G110 2007"
+ },
+ "b_G110_2009": {
+  "value": -8.8,
+  "how": "general government net lending/borrowing, % of GDP, G110 2009"
+ },
+ "b_G110_2019": {
+  "value": -2.9,
+  "how": "general government net lending/borrowing, % of GDP, G110 2019"
+ },
+ "b_G110_2020": {
+  "value": -10.2,
+  "how": "general government net lending/borrowing, % of GDP, G110 2020"
+ },
+ "b_G110_2022": {
+  "value": -2.8,
+  "how": "general government net lending/borrowing, % of GDP, G110 2022"
+ },
+ "b_G110_2025": {
+  "value": -4.4,
+  "how": "general government net lending/borrowing, % of GDP, G110 2025"
+ },
+ "b_G110_2026": {
+  "value": -5.2,
+  "how": "general government net lending/borrowing, % of GDP, G110 2026"
+ },
+ "b_G110_2031": {
+  "value": -5.0,
+  "how": "general government net lending/borrowing, % of GDP, G110 2031"
+ },
+ "b_G200_2007": {
+  "value": 0.6,
+  "how": "general government net lending/borrowing, % of GDP, G200 2007"
+ },
+ "b_G200_2009": {
+  "value": -3.7,
+  "how": "general government net lending/borrowing, % of GDP, G200 2009"
+ },
+ "b_G200_2019": {
+  "value": -4.3,
+  "how": "general government net lending/borrowing, % of GDP, G200 2019"
+ },
+ "b_G200_2020": {
+  "value": -8.4,
+  "how": "general government net lending/borrowing, % of GDP, G200 2020"
+ },
+ "b_G200_2022": {
+  "value": -4.8,
+  "how": "general government net lending/borrowing, % of GDP, G200 2022"
+ },
+ "b_G200_2025": {
+  "value": -5.8,
+  "how": "general government net lending/borrowing, % of GDP, G200 2025"
+ },
+ "b_G200_2026": {
+  "value": -6.0,
+  "how": "general government net lending/borrowing, % of GDP, G200 2026"
+ },
+ "b_G200_2031": {
+  "value": -5.4,
+  "how": "general government net lending/borrowing, % of GDP, G200 2031"
+ },
+ "b_USA_2007": {
+  "value": -2.9,
+  "how": "general government net lending/borrowing, % of GDP, USA 2007"
+ },
+ "b_USA_2009": {
+  "value": -13.2,
+  "how": "general government net lending/borrowing, % of GDP, USA 2009"
+ },
+ "b_USA_2019": {
+  "value": -5.8,
+  "how": "general government net lending/borrowing, % of GDP, USA 2019"
+ },
+ "b_USA_2020": {
+  "value": -14.1,
+  "how": "general government net lending/borrowing, % of GDP, USA 2020"
+ },
+ "b_USA_2022": {
+  "value": -3.7,
+  "how": "general government net lending/borrowing, % of GDP, USA 2022"
+ },
+ "b_USA_2025": {
+  "value": -7.1,
+  "how": "general government net lending/borrowing, % of GDP, USA 2025"
+ },
+ "b_USA_2026": {
+  "value": -8.5,
+  "how": "general government net lending/borrowing, % of GDP, USA 2026"
+ },
+ "b_USA_2031": {
+  "value": -8.4,
+  "how": "general government net lending/borrowing, % of GDP, USA 2031"
+ },
+ "b_CHN_2007": {
+  "value": 0.1,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2007"
+ },
+ "b_CHN_2009": {
+  "value": -1.7,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2009"
+ },
+ "b_CHN_2019": {
+  "value": -6.0,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2019"
+ },
+ "b_CHN_2020": {
+  "value": -9.6,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2020"
+ },
+ "b_CHN_2022": {
+  "value": -7.3,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2022"
+ },
+ "b_CHN_2025": {
+  "value": -7.9,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2025"
+ },
+ "b_CHN_2026": {
+  "value": -8.0,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2026"
+ },
+ "b_CHN_2031": {
+  "value": -8.0,
+  "how": "general government net lending/borrowing, % of GDP, CHN 2031"
+ },
+ "b_DEU_2007": {
+  "value": 0.2,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2007"
+ },
+ "b_DEU_2009": {
+  "value": -3.2,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2009"
+ },
+ "b_DEU_2019": {
+  "value": 1.3,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2019"
+ },
+ "b_DEU_2020": {
+  "value": -4.3,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2020"
+ },
+ "b_DEU_2022": {
+  "value": -1.9,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2022"
+ },
+ "b_DEU_2025": {
+  "value": -2.9,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2025"
+ },
+ "b_DEU_2026": {
+  "value": -4.3,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2026"
+ },
+ "b_DEU_2031": {
+  "value": -4.0,
+  "how": "general government net lending/borrowing, % of GDP, DEU 2031"
+ },
+ "b_JPN_2007": {
+  "value": -2.9,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2007"
+ },
+ "b_JPN_2009": {
+  "value": -9.6,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2009"
+ },
+ "b_JPN_2019": {
+  "value": -3.0,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2019"
+ },
+ "b_JPN_2020": {
+  "value": -9.0,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2020"
+ },
+ "b_JPN_2022": {
+  "value": -4.2,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2022"
+ },
+ "b_JPN_2025": {
+  "value": -0.7,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2025"
+ },
+ "b_JPN_2026": {
+  "value": -1.4,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2026"
+ },
+ "b_JPN_2031": {
+  "value": -4.0,
+  "how": "general government net lending/borrowing, % of GDP, JPN 2031"
+ },
+ "b_GBR_2007": {
+  "value": -2.6,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2007"
+ },
+ "b_GBR_2009": {
+  "value": -10.0,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2009"
+ },
+ "b_GBR_2019": {
+  "value": -2.4,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2019"
+ },
+ "b_GBR_2020": {
+  "value": -12.9,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2020"
+ },
+ "b_GBR_2022": {
+  "value": -4.6,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2022"
+ },
+ "b_GBR_2025": {
+  "value": -5.3,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2025"
+ },
+ "b_GBR_2026": {
+  "value": -3.8,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2026"
+ },
+ "b_GBR_2031": {
+  "value": -1.4,
+  "how": "general government net lending/borrowing, % of GDP, GBR 2031"
+ },
+ "b_IND_2007": {
+  "value": -3.7,
+  "how": "general government net lending/borrowing, % of GDP, IND 2007"
+ },
+ "b_IND_2009": {
+  "value": -9.3,
+  "how": "general government net lending/borrowing, % of GDP, IND 2009"
+ },
+ "b_IND_2019": {
+  "value": -7.8,
+  "how": "general government net lending/borrowing, % of GDP, IND 2019"
+ },
+ "b_IND_2020": {
+  "value": -13.2,
+  "how": "general government net lending/borrowing, % of GDP, IND 2020"
+ },
+ "b_IND_2022": {
+  "value": -9.2,
+  "how": "general government net lending/borrowing, % of GDP, IND 2022"
+ },
+ "b_IND_2025": {
+  "value": -7.4,
+  "how": "general government net lending/borrowing, % of GDP, IND 2025"
+ },
+ "b_IND_2026": {
+  "value": -7.5,
+  "how": "general government net lending/borrowing, % of GDP, IND 2026"
+ },
+ "b_IND_2031": {
+  "value": -6.7,
+  "how": "general government net lending/borrowing, % of GDP, IND 2031"
+ },
+ "b_FRA_2007": {
+  "value": -3.0,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2007"
+ },
+ "b_FRA_2009": {
+  "value": -7.4,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2009"
+ },
+ "b_FRA_2019": {
+  "value": -2.4,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2019"
+ },
+ "b_FRA_2020": {
+  "value": -8.9,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2020"
+ },
+ "b_FRA_2022": {
+  "value": -4.7,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2022"
+ },
+ "b_FRA_2025": {
+  "value": -5.1,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2025"
+ },
+ "b_FRA_2026": {
+  "value": -5.4,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2026"
+ },
+ "b_FRA_2031": {
+  "value": -3.9,
+  "how": "general government net lending/borrowing, % of GDP, FRA 2031"
+ },
+ "b_ITA_2007": {
+  "value": -1.3,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2007"
+ },
+ "b_ITA_2009": {
+  "value": -5.1,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2009"
+ },
+ "b_ITA_2019": {
+  "value": -1.4,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2019"
+ },
+ "b_ITA_2020": {
+  "value": -9.4,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2020"
+ },
+ "b_ITA_2022": {
+  "value": -8.1,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2022"
+ },
+ "b_ITA_2025": {
+  "value": -3.1,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2025"
+ },
+ "b_ITA_2026": {
+  "value": -2.9,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2026"
+ },
+ "b_ITA_2031": {
+  "value": -2.7,
+  "how": "general government net lending/borrowing, % of GDP, ITA 2031"
+ },
+ "b_USA_2015_2019": {
+  "value": -4.8,
+  "how": "average US general government balance 2015-2019"
+ },
+ "b_USA_2026_2031": {
+  "value": -8.2,
+  "how": "average US general government balance 2026-2031 (IMF projection)"
+ },
+ "b_DEU_n_surplus": {
+  "value": 7,
+  "how": "years 2012-2019 with German balance at or above zero"
+ },
+ "ni_G110_2007": {
+  "value": 1.7,
+  "how": "net interest, % of GDP, G110 2007 (primary minus overall balance)"
+ },
+ "nir_G110_2007": {
+  "value": 4.7,
+  "how": "net interest, % of general government revenue, G110 2007"
+ },
+ "ni_G110_2019": {
+  "value": 1.4,
+  "how": "net interest, % of GDP, G110 2019 (primary minus overall balance)"
+ },
+ "nir_G110_2019": {
+  "value": 4.0,
+  "how": "net interest, % of general government revenue, G110 2019"
+ },
+ "ni_G110_2021": {
+  "value": 1.3,
+  "how": "net interest, % of GDP, G110 2021 (primary minus overall balance)"
+ },
+ "nir_G110_2021": {
+  "value": 3.5,
+  "how": "net interest, % of general government revenue, G110 2021"
+ },
+ "ni_G110_2022": {
+  "value": 1.8,
+  "how": "net interest, % of GDP, G110 2022 (primary minus overall balance)"
+ },
+ "nir_G110_2022": {
+  "value": 4.8,
+  "how": "net interest, % of general government revenue, G110 2022"
+ },
+ "ni_G110_2025": {
+  "value": 1.9,
+  "how": "net interest, % of GDP, G110 2025 (primary minus overall balance)"
+ },
+ "nir_G110_2025": {
+  "value": 5.2,
+  "how": "net interest, % of general government revenue, G110 2025"
+ },
+ "ni_G110_2026": {
+  "value": 2.1,
+  "how": "net interest, % of GDP, G110 2026 (primary minus overall balance)"
+ },
+ "nir_G110_2026": {
+  "value": 5.9,
+  "how": "net interest, % of general government revenue, G110 2026"
+ },
+ "ni_G110_2031": {
+  "value": 3.1,
+  "how": "net interest, % of GDP, G110 2031 (primary minus overall balance)"
+ },
+ "nir_G110_2031": {
+  "value": 8.6,
+  "how": "net interest, % of general government revenue, G110 2031"
+ },
+ "ni_G200_2007": {
+  "value": 1.8,
+  "how": "net interest, % of GDP, G200 2007 (primary minus overall balance)"
+ },
+ "nir_G200_2007": {
+  "value": 6.7,
+  "how": "net interest, % of general government revenue, G200 2007"
+ },
+ "ni_G200_2019": {
+  "value": 1.8,
+  "how": "net interest, % of GDP, G200 2019 (primary minus overall balance)"
+ },
+ "nir_G200_2019": {
+  "value": 6.7,
+  "how": "net interest, % of general government revenue, G200 2019"
+ },
+ "ni_G200_2021": {
+  "value": 1.8,
+  "how": "net interest, % of GDP, G200 2021 (primary minus overall balance)"
+ },
+ "nir_G200_2021": {
+  "value": 6.9,
+  "how": "net interest, % of general government revenue, G200 2021"
+ },
+ "ni_G200_2022": {
+  "value": 1.8,
+  "how": "net interest, % of GDP, G200 2022 (primary minus overall balance)"
+ },
+ "nir_G200_2022": {
+  "value": 7.0,
+  "how": "net interest, % of general government revenue, G200 2022"
+ },
+ "ni_G200_2025": {
+  "value": 2.1,
+  "how": "net interest, % of GDP, G200 2025 (primary minus overall balance)"
+ },
+ "nir_G200_2025": {
+  "value": 8.4,
+  "how": "net interest, % of general government revenue, G200 2025"
+ },
+ "ni_G200_2026": {
+  "value": 2.4,
+  "how": "net interest, % of GDP, G200 2026 (primary minus overall balance)"
+ },
+ "nir_G200_2026": {
+  "value": 9.2,
+  "how": "net interest, % of general government revenue, G200 2026"
+ },
+ "ni_G200_2031": {
+  "value": 2.6,
+  "how": "net interest, % of GDP, G200 2031 (primary minus overall balance)"
+ },
+ "nir_G200_2031": {
+  "value": 10.2,
+  "how": "net interest, % of general government revenue, G200 2031"
+ },
+ "ni_USA_2007": {
+  "value": 2.1,
+  "how": "net interest, % of GDP, USA 2007 (primary minus overall balance)"
+ },
+ "nir_USA_2007": {
+  "value": 6.5,
+  "how": "net interest, % of general government revenue, USA 2007"
+ },
+ "ni_USA_2019": {
+  "value": 2.3,
+  "how": "net interest, % of GDP, USA 2019 (primary minus overall balance)"
+ },
+ "nir_USA_2019": {
+  "value": 7.6,
+  "how": "net interest, % of general government revenue, USA 2019"
+ },
+ "ni_USA_2021": {
+  "value": 2.3,
+  "how": "net interest, % of GDP, USA 2021 (primary minus overall balance)"
+ },
+ "nir_USA_2021": {
+  "value": 7.2,
+  "how": "net interest, % of general government revenue, USA 2021"
+ },
+ "ni_USA_2022": {
+  "value": 2.7,
+  "how": "net interest, % of GDP, USA 2022 (primary minus overall balance)"
+ },
+ "nir_USA_2022": {
+  "value": 8.3,
+  "how": "net interest, % of general government revenue, USA 2022"
+ },
+ "ni_USA_2025": {
+  "value": 3.2,
+  "how": "net interest, % of GDP, USA 2025 (primary minus overall balance)"
+ },
+ "nir_USA_2025": {
+  "value": 10.4,
+  "how": "net interest, % of general government revenue, USA 2025"
+ },
+ "ni_USA_2026": {
+  "value": 3.6,
+  "how": "net interest, % of GDP, USA 2026 (primary minus overall balance)"
+ },
+ "nir_USA_2026": {
+  "value": 12.2,
+  "how": "net interest, % of general government revenue, USA 2026"
+ },
+ "ni_USA_2031": {
+  "value": 5.0,
+  "how": "net interest, % of GDP, USA 2031 (primary minus overall balance)"
+ },
+ "nir_USA_2031": {
+  "value": 16.5,
+  "how": "net interest, % of general government revenue, USA 2031"
+ },
+ "ni_IND_2007": {
+  "value": 4.9,
+  "how": "net interest, % of GDP, IND 2007 (primary minus overall balance)"
+ },
+ "nir_IND_2007": {
+  "value": 21.7,
+  "how": "net interest, % of general government revenue, IND 2007"
+ },
+ "ni_IND_2019": {
+  "value": 4.8,
+  "how": "net interest, % of GDP, IND 2019 (primary minus overall balance)"
+ },
+ "nir_IND_2019": {
+  "value": 24.5,
+  "how": "net interest, % of general government revenue, IND 2019"
+ },
+ "ni_IND_2021": {
+  "value": 5.3,
+  "how": "net interest, % of GDP, IND 2021 (primary minus overall balance)"
+ },
+ "nir_IND_2021": {
+  "value": 25.4,
+  "how": "net interest, % of general government revenue, IND 2021"
+ },
+ "ni_IND_2022": {
+  "value": 5.2,
+  "how": "net interest, % of GDP, IND 2022 (primary minus overall balance)"
+ },
+ "nir_IND_2022": {
+  "value": 25.3,
+  "how": "net interest, % of general government revenue, IND 2022"
+ },
+ "ni_IND_2025": {
+  "value": 5.1,
+  "how": "net interest, % of GDP, IND 2025 (primary minus overall balance)"
+ },
+ "nir_IND_2025": {
+  "value": 24.6,
+  "how": "net interest, % of general government revenue, IND 2025"
+ },
+ "ni_IND_2026": {
+  "value": 5.3,
+  "how": "net interest, % of GDP, IND 2026 (primary minus overall balance)"
+ },
+ "nir_IND_2026": {
+  "value": 25.4,
+  "how": "net interest, % of general government revenue, IND 2026"
+ },
+ "ni_IND_2031": {
+  "value": 4.9,
+  "how": "net interest, % of GDP, IND 2031 (primary minus overall balance)"
+ },
+ "nir_IND_2031": {
+  "value": 23.0,
+  "how": "net interest, % of general government revenue, IND 2031"
+ },
+ "ni_BRA_2007": {
+  "value": 5.5,
+  "how": "net interest, % of GDP, BRA 2007 (primary minus overall balance)"
+ },
+ "nir_BRA_2007": {
+  "value": 14.7,
+  "how": "net interest, % of general government revenue, BRA 2007"
+ },
+ "ni_BRA_2019": {
+  "value": 4.8,
+  "how": "net interest, % of GDP, BRA 2019 (primary minus overall balance)"
+ },
+ "nir_BRA_2019": {
+  "value": 12.5,
+  "how": "net interest, % of general government revenue, BRA 2019"
+ },
+ "ni_BRA_2021": {
+  "value": 4.6,
+  "how": "net interest, % of GDP, BRA 2021 (primary minus overall balance)"
+ },
+ "nir_BRA_2021": {
+  "value": 12.3,
+  "how": "net interest, % of general government revenue, BRA 2021"
+ },
+ "ni_BRA_2022": {
+  "value": 5.3,
+  "how": "net interest, % of GDP, BRA 2022 (primary minus overall balance)"
+ },
+ "nir_BRA_2022": {
+  "value": 13.3,
+  "how": "net interest, % of general government revenue, BRA 2022"
+ },
+ "ni_BRA_2025": {
+  "value": 7.3,
+  "how": "net interest, % of GDP, BRA 2025 (primary minus overall balance)"
+ },
+ "nir_BRA_2025": {
+  "value": 18.5,
+  "how": "net interest, % of general government revenue, BRA 2025"
+ },
+ "ni_BRA_2026": {
+  "value": 7.8,
+  "how": "net interest, % of GDP, BRA 2026 (primary minus overall balance)"
+ },
+ "nir_BRA_2026": {
+  "value": 19.2,
+  "how": "net interest, % of general government revenue, BRA 2026"
+ },
+ "ni_BRA_2031": {
+  "value": 7.5,
+  "how": "net interest, % of GDP, BRA 2031 (primary minus overall balance)"
+ },
+ "nir_BRA_2031": {
+  "value": 18.4,
+  "how": "net interest, % of general government revenue, BRA 2031"
+ },
+ "ni_CHN_2007": {
+  "value": 0.4,
+  "how": "net interest, % of GDP, CHN 2007 (primary minus overall balance)"
+ },
+ "nir_CHN_2007": {
+  "value": 2.1,
+  "how": "net interest, % of general government revenue, CHN 2007"
+ },
+ "ni_CHN_2019": {
+  "value": 0.8,
+  "how": "net interest, % of GDP, CHN 2019 (primary minus overall balance)"
+ },
+ "nir_CHN_2019": {
+  "value": 3.0,
+  "how": "net interest, % of general government revenue, CHN 2019"
+ },
+ "ni_CHN_2021": {
+  "value": 0.9,
+  "how": "net interest, % of GDP, CHN 2021 (primary minus overall balance)"
+ },
+ "nir_CHN_2021": {
+  "value": 3.4,
+  "how": "net interest, % of general government revenue, CHN 2021"
+ },
+ "ni_CHN_2022": {
+  "value": 0.9,
+  "how": "net interest, % of GDP, CHN 2022 (primary minus overall balance)"
+ },
+ "nir_CHN_2022": {
+  "value": 3.6,
+  "how": "net interest, % of general government revenue, CHN 2022"
+ },
+ "ni_CHN_2025": {
+  "value": 1.0,
+  "how": "net interest, % of GDP, CHN 2025 (primary minus overall balance)"
+ },
+ "nir_CHN_2025": {
+  "value": 3.9,
+  "how": "net interest, % of general government revenue, CHN 2025"
+ },
+ "ni_CHN_2026": {
+  "value": 1.1,
+  "how": "net interest, % of GDP, CHN 2026 (primary minus overall balance)"
+ },
+ "nir_CHN_2026": {
+  "value": 4.5,
+  "how": "net interest, % of general government revenue, CHN 2026"
+ },
+ "ni_CHN_2031": {
+  "value": 1.6,
+  "how": "net interest, % of GDP, CHN 2031 (primary minus overall balance)"
+ },
+ "nir_CHN_2031": {
+  "value": 6.4,
+  "how": "net interest, % of general government revenue, CHN 2031"
+ },
+ "ni_ZAF_2007": {
+  "value": 2.2,
+  "how": "net interest, % of GDP, ZAF 2007 (primary minus overall balance)"
+ },
+ "nir_ZAF_2007": {
+  "value": 8.6,
+  "how": "net interest, % of general government revenue, ZAF 2007"
+ },
+ "ni_ZAF_2019": {
+  "value": 3.6,
+  "how": "net interest, % of GDP, ZAF 2019 (primary minus overall balance)"
+ },
+ "nir_ZAF_2019": {
+  "value": 13.5,
+  "how": "net interest, % of general government revenue, ZAF 2019"
+ },
+ "ni_ZAF_2021": {
+  "value": 4.2,
+  "how": "net interest, % of GDP, ZAF 2021 (primary minus overall balance)"
+ },
+ "nir_ZAF_2021": {
+  "value": 15.5,
+  "how": "net interest, % of general government revenue, ZAF 2021"
+ },
+ "ni_ZAF_2022": {
+  "value": 4.5,
+  "how": "net interest, % of GDP, ZAF 2022 (primary minus overall balance)"
+ },
+ "nir_ZAF_2022": {
+  "value": 16.3,
+  "how": "net interest, % of general government revenue, ZAF 2022"
+ },
+ "ni_ZAF_2025": {
+  "value": 5.4,
+  "how": "net interest, % of GDP, ZAF 2025 (primary minus overall balance)"
+ },
+ "nir_ZAF_2025": {
+  "value": 19.0,
+  "how": "net interest, % of general government revenue, ZAF 2025"
+ },
+ "ni_ZAF_2026": {
+  "value": 5.4,
+  "how": "net interest, % of GDP, ZAF 2026 (primary minus overall balance)"
+ },
+ "nir_ZAF_2026": {
+  "value": 18.9,
+  "how": "net interest, % of general government revenue, ZAF 2026"
+ },
+ "ni_ZAF_2031": {
+  "value": 5.1,
+  "how": "net interest, % of GDP, ZAF 2031 (primary minus overall balance)"
+ },
+ "nir_ZAF_2031": {
+  "value": 17.8,
+  "how": "net interest, % of general government revenue, ZAF 2031"
+ },
+ "ni_JPN_2007": {
+  "value": 0.7,
+  "how": "net interest, % of GDP, JPN 2007 (primary minus overall balance)"
+ },
+ "nir_JPN_2007": {
+  "value": 2.3,
+  "how": "net interest, % of general government revenue, JPN 2007"
+ },
+ "ni_JPN_2019": {
+  "value": 0.7,
+  "how": "net interest, % of GDP, JPN 2019 (primary minus overall balance)"
+ },
+ "nir_JPN_2019": {
+  "value": 2.0,
+  "how": "net interest, % of general government revenue, JPN 2019"
+ },
+ "ni_JPN_2021": {
+  "value": 0.6,
+  "how": "net interest, % of GDP, JPN 2021 (primary minus overall balance)"
+ },
+ "nir_JPN_2021": {
+  "value": 1.7,
+  "how": "net interest, % of general government revenue, JPN 2021"
+ },
+ "ni_JPN_2022": {
+  "value": 0.4,
+  "how": "net interest, % of GDP, JPN 2022 (primary minus overall balance)"
+ },
+ "nir_JPN_2022": {
+  "value": 1.1,
+  "how": "net interest, % of general government revenue, JPN 2022"
+ },
+ "ni_JPN_2025": {
+  "value": 0.2,
+  "how": "net interest, % of GDP, JPN 2025 (primary minus overall balance)"
+ },
+ "nir_JPN_2025": {
+  "value": 0.5,
+  "how": "net interest, % of general government revenue, JPN 2025"
+ },
+ "ni_JPN_2026": {
+  "value": 0.3,
+  "how": "net interest, % of GDP, JPN 2026 (primary minus overall balance)"
+ },
+ "nir_JPN_2026": {
+  "value": 0.8,
+  "how": "net interest, % of general government revenue, JPN 2026"
+ },
+ "ni_JPN_2031": {
+  "value": 1.9,
+  "how": "net interest, % of GDP, JPN 2031 (primary minus overall balance)"
+ },
+ "nir_JPN_2031": {
+  "value": 5.2,
+  "how": "net interest, % of general government revenue, JPN 2031"
+ },
+ "ni_ITA_2007": {
+  "value": 4.5,
+  "how": "net interest, % of GDP, ITA 2007 (primary minus overall balance)"
+ },
+ "nir_ITA_2007": {
+  "value": 9.9,
+  "how": "net interest, % of general government revenue, ITA 2007"
+ },
+ "ni_ITA_2019": {
+  "value": 3.2,
+  "how": "net interest, % of GDP, ITA 2019 (primary minus overall balance)"
+ },
+ "nir_ITA_2019": {
+  "value": 6.8,
+  "how": "net interest, % of general government revenue, ITA 2019"
+ },
+ "ni_ITA_2021": {
+  "value": 3.3,
+  "how": "net interest, % of GDP, ITA 2021 (primary minus overall balance)"
+ },
+ "nir_ITA_2021": {
+  "value": 7.0,
+  "how": "net interest, % of general government revenue, ITA 2021"
+ },
+ "ni_ITA_2022": {
+  "value": 3.9,
+  "how": "net interest, % of GDP, ITA 2022 (primary minus overall balance)"
+ },
+ "nir_ITA_2022": {
+  "value": 8.4,
+  "how": "net interest, % of general government revenue, ITA 2022"
+ },
+ "ni_ITA_2025": {
+  "value": 3.6,
+  "how": "net interest, % of GDP, ITA 2025 (primary minus overall balance)"
+ },
+ "nir_ITA_2025": {
+  "value": 7.5,
+  "how": "net interest, % of general government revenue, ITA 2025"
+ },
+ "ni_ITA_2026": {
+  "value": 3.9,
+  "how": "net interest, % of GDP, ITA 2026 (primary minus overall balance)"
+ },
+ "nir_ITA_2026": {
+  "value": 8.2,
+  "how": "net interest, % of general government revenue, ITA 2026"
+ },
+ "ni_ITA_2031": {
+  "value": 4.6,
+  "how": "net interest, % of GDP, ITA 2031 (primary minus overall balance)"
+ },
+ "nir_ITA_2031": {
+  "value": 9.5,
+  "how": "net interest, % of general government revenue, ITA 2031"
+ },
+ "ni_GBR_2007": {
+  "value": 1.7,
+  "how": "net interest, % of GDP, GBR 2007 (primary minus overall balance)"
+ },
+ "nir_GBR_2007": {
+  "value": 4.7,
+  "how": "net interest, % of general government revenue, GBR 2007"
+ },
+ "ni_GBR_2019": {
+  "value": 1.4,
+  "how": "net interest, % of GDP, GBR 2019 (primary minus overall balance)"
+ },
+ "nir_GBR_2019": {
+  "value": 4.0,
+  "how": "net interest, % of general government revenue, GBR 2019"
+ },
+ "ni_GBR_2021": {
+  "value": 2.1,
+  "how": "net interest, % of GDP, GBR 2021 (primary minus overall balance)"
+ },
+ "nir_GBR_2021": {
+  "value": 5.6,
+  "how": "net interest, % of general government revenue, GBR 2021"
+ },
+ "ni_GBR_2022": {
+  "value": 3.5,
+  "how": "net interest, % of GDP, GBR 2022 (primary minus overall balance)"
+ },
+ "nir_GBR_2022": {
+  "value": 9.2,
+  "how": "net interest, % of general government revenue, GBR 2022"
+ },
+ "ni_GBR_2025": {
+  "value": 2.6,
+  "how": "net interest, % of GDP, GBR 2025 (primary minus overall balance)"
+ },
+ "nir_GBR_2025": {
+  "value": 6.8,
+  "how": "net interest, % of general government revenue, GBR 2025"
+ },
+ "ni_GBR_2026": {
+  "value": 2.6,
+  "how": "net interest, % of GDP, GBR 2026 (primary minus overall balance)"
+ },
+ "nir_GBR_2026": {
+  "value": 6.6,
+  "how": "net interest, % of general government revenue, GBR 2026"
+ },
+ "ni_GBR_2031": {
+  "value": 2.9,
+  "how": "net interest, % of GDP, GBR 2031 (primary minus overall balance)"
+ },
+ "nir_GBR_2031": {
+  "value": 7.0,
+  "how": "net interest, % of general government revenue, GBR 2031"
+ },
+ "ni_DEU_2007": {
+  "value": 2.4,
+  "how": "net interest, % of GDP, DEU 2007 (primary minus overall balance)"
+ },
+ "nir_DEU_2007": {
+  "value": 5.5,
+  "how": "net interest, % of general government revenue, DEU 2007"
+ },
+ "ni_DEU_2019": {
+  "value": 0.6,
+  "how": "net interest, % of GDP, DEU 2019 (primary minus overall balance)"
+ },
+ "nir_DEU_2019": {
+  "value": 1.3,
+  "how": "net interest, % of general government revenue, DEU 2019"
+ },
+ "ni_DEU_2021": {
+  "value": 0.5,
+  "how": "net interest, % of GDP, DEU 2021 (primary minus overall balance)"
+ },
+ "nir_DEU_2021": {
+  "value": 1.0,
+  "how": "net interest, % of general government revenue, DEU 2021"
+ },
+ "ni_DEU_2022": {
+  "value": 0.6,
+  "how": "net interest, % of GDP, DEU 2022 (primary minus overall balance)"
+ },
+ "nir_DEU_2022": {
+  "value": 1.2,
+  "how": "net interest, % of general government revenue, DEU 2022"
+ },
+ "ni_DEU_2025": {
+  "value": 0.9,
+  "how": "net interest, % of GDP, DEU 2025 (primary minus overall balance)"
+ },
+ "nir_DEU_2025": {
+  "value": 1.8,
+  "how": "net interest, % of general government revenue, DEU 2025"
+ },
+ "ni_DEU_2026": {
+  "value": 0.9,
+  "how": "net interest, % of GDP, DEU 2026 (primary minus overall balance)"
+ },
+ "nir_DEU_2026": {
+  "value": 2.0,
+  "how": "net interest, % of general government revenue, DEU 2026"
+ },
+ "ni_DEU_2031": {
+  "value": 1.6,
+  "how": "net interest, % of GDP, DEU 2031 (primary minus overall balance)"
+ },
+ "nir_DEU_2031": {
+  "value": 3.3,
+  "how": "net interest, % of general government revenue, DEU 2031"
+ },
+ "ni_FRA_2007": {
+  "value": 2.5,
+  "how": "net interest, % of GDP, FRA 2007 (primary minus overall balance)"
+ },
+ "nir_FRA_2007": {
+  "value": 4.9,
+  "how": "net interest, % of general government revenue, FRA 2007"
+ },
+ "ni_FRA_2019": {
+  "value": 1.5,
+  "how": "net interest, % of GDP, FRA 2019 (primary minus overall balance)"
+ },
+ "nir_FRA_2019": {
+  "value": 2.8,
+  "how": "net interest, % of general government revenue, FRA 2019"
+ },
+ "ni_FRA_2021": {
+  "value": 1.4,
+  "how": "net interest, % of GDP, FRA 2021 (primary minus overall balance)"
+ },
+ "nir_FRA_2021": {
+  "value": 2.6,
+  "how": "net interest, % of general government revenue, FRA 2021"
+ },
+ "ni_FRA_2022": {
+  "value": 1.9,
+  "how": "net interest, % of GDP, FRA 2022 (primary minus overall balance)"
+ },
+ "nir_FRA_2022": {
+  "value": 3.5,
+  "how": "net interest, % of general government revenue, FRA 2022"
+ },
+ "ni_FRA_2025": {
+  "value": 2.1,
+  "how": "net interest, % of GDP, FRA 2025 (primary minus overall balance)"
+ },
+ "nir_FRA_2025": {
+  "value": 4.0,
+  "how": "net interest, % of general government revenue, FRA 2025"
+ },
+ "ni_FRA_2026": {
+  "value": 2.5,
+  "how": "net interest, % of GDP, FRA 2026 (primary minus overall balance)"
+ },
+ "nir_FRA_2026": {
+  "value": 4.7,
+  "how": "net interest, % of general government revenue, FRA 2026"
+ },
+ "ni_FRA_2031": {
+  "value": 3.7,
+  "how": "net interest, % of GDP, FRA 2031 (primary minus overall balance)"
+ },
+ "nir_FRA_2031": {
+  "value": 6.9,
+  "how": "net interest, % of general government revenue, FRA 2031"
+ },
+ "ni_MEX_2007": {
+  "value": 2.5,
+  "how": "net interest, % of GDP, MEX 2007 (primary minus overall balance)"
+ },
+ "nir_MEX_2007": {
+  "value": 11.8,
+  "how": "net interest, % of general government revenue, MEX 2007"
+ },
+ "ni_MEX_2019": {
+  "value": 4.4,
+  "how": "net interest, % of GDP, MEX 2019 (primary minus overall balance)"
+ },
+ "nir_MEX_2019": {
+  "value": 19.2,
+  "how": "net interest, % of general government revenue, MEX 2019"
+ },
+ "ni_MEX_2021": {
+  "value": 4.3,
+  "how": "net interest, % of GDP, MEX 2021 (primary minus overall balance)"
+ },
+ "nir_MEX_2021": {
+  "value": 18.9,
+  "how": "net interest, % of general government revenue, MEX 2021"
+ },
+ "ni_MEX_2022": {
+  "value": 5.0,
+  "how": "net interest, % of GDP, MEX 2022 (primary minus overall balance)"
+ },
+ "nir_MEX_2022": {
+  "value": 20.9,
+  "how": "net interest, % of general government revenue, MEX 2022"
+ },
+ "ni_MEX_2025": {
+  "value": 6.1,
+  "how": "net interest, % of GDP, MEX 2025 (primary minus overall balance)"
+ },
+ "nir_MEX_2025": {
+  "value": 24.4,
+  "how": "net interest, % of general government revenue, MEX 2025"
+ },
+ "ni_MEX_2026": {
+  "value": 5.9,
+  "how": "net interest, % of GDP, MEX 2026 (primary minus overall balance)"
+ },
+ "nir_MEX_2026": {
+  "value": 23.7,
+  "how": "net interest, % of general government revenue, MEX 2026"
+ },
+ "ni_MEX_2031": {
+  "value": 5.3,
+  "how": "net interest, % of GDP, MEX 2031 (primary minus overall balance)"
+ },
+ "nir_MEX_2031": {
+  "value": 21.7,
+  "how": "net interest, % of general government revenue, MEX 2031"
+ },
+ "ni_IDN_2007": {
+  "value": 1.9,
+  "how": "net interest, % of GDP, IDN 2007 (primary minus overall balance)"
+ },
+ "nir_IDN_2007": {
+  "value": 10.4,
+  "how": "net interest, % of general government revenue, IDN 2007"
+ },
+ "ni_IDN_2019": {
+  "value": 1.7,
+  "how": "net interest, % of GDP, IDN 2019 (primary minus overall balance)"
+ },
+ "nir_IDN_2019": {
+  "value": 12.2,
+  "how": "net interest, % of general government revenue, IDN 2019"
+ },
+ "ni_IDN_2021": {
+  "value": 2.0,
+  "how": "net interest, % of GDP, IDN 2021 (primary minus overall balance)"
+ },
+ "nir_IDN_2021": {
+  "value": 14.7,
+  "how": "net interest, % of general government revenue, IDN 2021"
+ },
+ "ni_IDN_2022": {
+  "value": 2.0,
+  "how": "net interest, % of GDP, IDN 2022 (primary minus overall balance)"
+ },
+ "nir_IDN_2022": {
+  "value": 13.2,
+  "how": "net interest, % of general government revenue, IDN 2022"
+ },
+ "ni_IDN_2025": {
+  "value": 2.2,
+  "how": "net interest, % of GDP, IDN 2025 (primary minus overall balance)"
+ },
+ "nir_IDN_2025": {
+  "value": 16.3,
+  "how": "net interest, % of general government revenue, IDN 2025"
+ },
+ "ni_IDN_2026": {
+  "value": 2.3,
+  "how": "net interest, % of GDP, IDN 2026 (primary minus overall balance)"
+ },
+ "nir_IDN_2026": {
+  "value": 16.2,
+  "how": "net interest, % of general government revenue, IDN 2026"
+ },
+ "ni_IDN_2031": {
+  "value": 2.5,
+  "how": "net interest, % of GDP, IDN 2031 (primary minus overall balance)"
+ },
+ "nir_IDN_2031": {
+  "value": 17.4,
+  "how": "net interest, % of general government revenue, IDN 2031"
+ },
+ "rev_G110_2001": {
+  "value": 35.7,
+  "how": "general government revenue, % of GDP, G110 2001"
+ },
+ "rev_G110_2007": {
+  "value": 37.0,
+  "how": "general government revenue, % of GDP, G110 2007"
+ },
+ "rev_G110_2019": {
+  "value": 35.8,
+  "how": "general government revenue, % of GDP, G110 2019"
+ },
+ "rev_G110_2025": {
+  "value": 36.5,
+  "how": "general government revenue, % of GDP, G110 2025"
+ },
+ "rev_G110_2026": {
+  "value": 36.2,
+  "how": "general government revenue, % of GDP, G110 2026"
+ },
+ "rev_G110_2031": {
+  "value": 36.5,
+  "how": "general government revenue, % of GDP, G110 2031"
+ },
+ "rev_G200_2000": {
+  "value": 21.3,
+  "how": "general government revenue, % of GDP, G200 2000"
+ },
+ "rev_G200_2001": {
+  "value": 22.3,
+  "how": "general government revenue, % of GDP, G200 2001"
+ },
+ "rev_G200_2007": {
+  "value": 26.4,
+  "how": "general government revenue, % of GDP, G200 2007"
+ },
+ "rev_G200_2019": {
+  "value": 26.3,
+  "how": "general government revenue, % of GDP, G200 2019"
+ },
+ "rev_G200_2025": {
+  "value": 25.7,
+  "how": "general government revenue, % of GDP, G200 2025"
+ },
+ "rev_G200_2026": {
+  "value": 25.6,
+  "how": "general government revenue, % of GDP, G200 2026"
+ },
+ "rev_G200_2031": {
+  "value": 25.4,
+  "how": "general government revenue, % of GDP, G200 2031"
+ },
+ "rev_USA_2001": {
+  "value": 32.3,
+  "how": "general government revenue, % of GDP, USA 2001"
+ },
+ "rev_USA_2007": {
+  "value": 31.6,
+  "how": "general government revenue, % of GDP, USA 2007"
+ },
+ "rev_USA_2019": {
+  "value": 30.0,
+  "how": "general government revenue, % of GDP, USA 2019"
+ },
+ "rev_USA_2025": {
+  "value": 30.5,
+  "how": "general government revenue, % of GDP, USA 2025"
+ },
+ "rev_USA_2026": {
+  "value": 29.7,
+  "how": "general government revenue, % of GDP, USA 2026"
+ },
+ "rev_USA_2031": {
+  "value": 30.3,
+  "how": "general government revenue, % of GDP, USA 2031"
+ },
+ "rev_IND_2000": {
+  "value": 17.7,
+  "how": "general government revenue, % of GDP, IND 2000"
+ },
+ "rev_IND_2001": {
+  "value": 17.2,
+  "how": "general government revenue, % of GDP, IND 2001"
+ },
+ "rev_IND_2007": {
+  "value": 22.4,
+  "how": "general government revenue, % of GDP, IND 2007"
+ },
+ "rev_IND_2019": {
+  "value": 19.5,
+  "how": "general government revenue, % of GDP, IND 2019"
+ },
+ "rev_IND_2025": {
+  "value": 20.9,
+  "how": "general government revenue, % of GDP, IND 2025"
+ },
+ "rev_IND_2026": {
+  "value": 21.0,
+  "how": "general government revenue, % of GDP, IND 2026"
+ },
+ "rev_IND_2031": {
+  "value": 21.5,
+  "how": "general government revenue, % of GDP, IND 2031"
+ },
+ "rev_CHN_2000": {
+  "value": 13.2,
+  "how": "general government revenue, % of GDP, CHN 2000"
+ },
+ "rev_CHN_2001": {
+  "value": 14.6,
+  "how": "general government revenue, % of GDP, CHN 2001"
+ },
+ "rev_CHN_2007": {
+  "value": 18.0,
+  "how": "general government revenue, % of GDP, CHN 2007"
+ },
+ "rev_CHN_2019": {
+  "value": 27.6,
+  "how": "general government revenue, % of GDP, CHN 2019"
+ },
+ "rev_CHN_2025": {
+  "value": 25.0,
+  "how": "general government revenue, % of GDP, CHN 2025"
+ },
+ "rev_CHN_2026": {
+  "value": 24.3,
+  "how": "general government revenue, % of GDP, CHN 2026"
+ },
+ "rev_CHN_2031": {
+  "value": 24.8,
+  "how": "general government revenue, % of GDP, CHN 2031"
+ },
+ "rev_BRA_2001": {
+  "value": 36.3,
+  "how": "general government revenue, % of GDP, BRA 2001"
+ },
+ "rev_BRA_2007": {
+  "value": 37.7,
+  "how": "general government revenue, % of GDP, BRA 2007"
+ },
+ "rev_BRA_2019": {
+  "value": 38.2,
+  "how": "general government revenue, % of GDP, BRA 2019"
+ },
+ "rev_BRA_2025": {
+  "value": 39.5,
+  "how": "general government revenue, % of GDP, BRA 2025"
+ },
+ "rev_BRA_2026": {
+  "value": 40.5,
+  "how": "general government revenue, % of GDP, BRA 2026"
+ },
+ "rev_BRA_2031": {
+  "value": 40.7,
+  "how": "general government revenue, % of GDP, BRA 2031"
+ },
+ "nir_IND_2014_2025": {
+  "value": 24.5,
+  "how": "average India net interest/revenue 2014-2025"
+ },
+ "nir_G200_2014_2025": {
+  "value": 6.9,
+  "how": "average EMDE net interest/revenue 2014-2025"
+ },
+ "ni_IND_2014_2025": {
+  "value": 5.0,
+  "how": "average India net interest/GDP 2014-2025"
+ },
+ "r_2000_2007": {
+  "value": 4.7,
+  "how": "US 10-year yield, average 2000-2007"
+ },
+ "g_2000_2007": {
+  "value": 5.2,
+  "how": "US nominal GDP growth, average 2000-2007"
+ },
+ "r_2010_2019": {
+  "value": 2.4,
+  "how": "US 10-year yield, average 2010-2019"
+ },
+ "g_2010_2019": {
+  "value": 4.1,
+  "how": "US nominal GDP growth, average 2010-2019"
+ },
+ "rg_n_neg_2010_2025": {
+  "value": 15,
+  "how": "years 2010-2025 with US yield below nominal growth"
+ },
+ "r_2007": {
+  "value": 4.6,
+  "how": "US 10-year yield, annual average 2007"
+ },
+ "g_2007": {
+  "value": 4.8,
+  "how": "US nominal GDP growth 2007"
+ },
+ "r_2012": {
+  "value": 1.8,
+  "how": "US 10-year yield, annual average 2012"
+ },
+ "g_2012": {
+  "value": 4.2,
+  "how": "US nominal GDP growth 2012"
+ },
+ "r_2019": {
+  "value": 2.1,
+  "how": "US 10-year yield, annual average 2019"
+ },
+ "g_2019": {
+  "value": 4.3,
+  "how": "US nominal GDP growth 2019"
+ },
+ "r_2020": {
+  "value": 0.89,
+  "how": "US 10-year yield, annual average 2020"
+ },
+ "g_2020": {
+  "value": -0.8,
+  "how": "US nominal GDP growth 2020"
+ },
+ "r_2021": {
+  "value": 1.44,
+  "how": "US 10-year yield, annual average 2021"
+ },
+ "g_2021": {
+  "value": 11.1,
+  "how": "US nominal GDP growth 2021"
+ },
+ "r_2022": {
+  "value": 3.0,
+  "how": "US 10-year yield, annual average 2022"
+ },
+ "g_2022": {
+  "value": 9.7,
+  "how": "US nominal GDP growth 2022"
+ },
+ "r_2023": {
+  "value": 4.0,
+  "how": "US 10-year yield, annual average 2023"
+ },
+ "g_2023": {
+  "value": 6.8,
+  "how": "US nominal GDP growth 2023"
+ },
+ "r_2024": {
+  "value": 4.2,
+  "how": "US 10-year yield, annual average 2024"
+ },
+ "g_2024": {
+  "value": 5.6,
+  "how": "US nominal GDP growth 2024"
+ },
+ "r_2025": {
+  "value": 4.3,
+  "how": "US 10-year yield, annual average 2025"
+ },
+ "g_2025": {
+  "value": 5.0,
+  "how": "US nominal GDP growth 2025"
+ },
+ "r_2026_ytd": {
+  "value": 4.6,
+  "how": "US 10-year yield, average of 2026 months to date"
+ },
+ "r_2026_last_month": {
+  "value": "2026-11",
+  "how": "last month of 10-year yield data"
+ },
+ "r_2026_last": {
+  "value": 5.0,
+  "how": "US 10-year yield, last month"
+ },
+ "igd_2001": {
+  "value": 80.2,
+  "how": "India centre+states liabilities, % of GDP, FY2001-02"
+ },
+ "igf_2001": {
+  "value": 9.8,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2001-02"
+ },
+ "icf_2001": {
+  "value": 6.1,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2001-02"
+ },
+ "igd_2003": {
+  "value": 84.7,
+  "how": "India centre+states liabilities, % of GDP, FY2003-04"
+ },
+ "igf_2003": {
+  "value": 8.4,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2003-04"
+ },
+ "icf_2003": {
+  "value": 4.4,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2003-04"
+ },
+ "igd_2007": {
+  "value": 72.7,
+  "how": "India centre+states liabilities, % of GDP, FY2007-08"
+ },
+ "igf_2007": {
+  "value": 4.1,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2007-08"
+ },
+ "icf_2007": {
+  "value": 2.6,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2007-08"
+ },
+ "igd_2008": {
+  "value": 73.7,
+  "how": "India centre+states liabilities, % of GDP, FY2008-09"
+ },
+ "igf_2008": {
+  "value": 8.5,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2008-09"
+ },
+ "icf_2008": {
+  "value": 6.1,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2008-09"
+ },
+ "igd_2009": {
+  "value": 71.8,
+  "how": "India centre+states liabilities, % of GDP, FY2009-10"
+ },
+ "igf_2009": {
+  "value": 9.5,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2009-10"
+ },
+ "icf_2009": {
+  "value": 6.6,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2009-10"
+ },
+ "igd_2011": {
+  "value": 67.4,
+  "how": "India centre+states liabilities, % of GDP, FY2011-12"
+ },
+ "igf_2011": {
+  "value": 7.8,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2011-12"
+ },
+ "icf_2011": {
+  "value": 5.9,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2011-12"
+ },
+ "igd_2019": {
+  "value": 75.1,
+  "how": "India centre+states liabilities, % of GDP, FY2019-20"
+ },
+ "igf_2019": {
+  "value": 7.2,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2019-20"
+ },
+ "icf_2019": {
+  "value": 4.6,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2019-20"
+ },
+ "igd_2020": {
+  "value": 89.2,
+  "how": "India centre+states liabilities, % of GDP, FY2020-21"
+ },
+ "igf_2020": {
+  "value": 13.1,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2020-21"
+ },
+ "icf_2020": {
+  "value": 9.2,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2020-21"
+ },
+ "igd_2021": {
+  "value": 84.2,
+  "how": "India centre+states liabilities, % of GDP, FY2021-22"
+ },
+ "igf_2021": {
+  "value": 9.5,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2021-22"
+ },
+ "icf_2021": {
+  "value": 6.7,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2021-22"
+ },
+ "igd_2023": {
+  "value": 85.4,
+  "how": "India centre+states liabilities, % of GDP, FY2023-24"
+ },
+ "igf_2023": {
+  "value": 8.0,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2023-24"
+ },
+ "icf_2023": {
+  "value": 5.5,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2023-24"
+ },
+ "igd_2024": {
+  "value": 84.3,
+  "how": "India centre+states liabilities, % of GDP, FY2024-25"
+ },
+ "igf_2024": {
+  "value": 7.8,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2024-25"
+ },
+ "icf_2024": {
+  "value": 4.8,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2024-25"
+ },
+ "igd_2025": {
+  "value": 84.4,
+  "how": "India centre+states liabilities, % of GDP, FY2025-26"
+ },
+ "igf_2025": {
+  "value": 7.2,
+  "how": "India centre+states gross fiscal deficit, % of GDP, FY2025-26"
+ },
+ "icf_2025": {
+  "value": 4.5,
+  "how": "India centre gross fiscal deficit, % of GDP, FY2025-26"
+ },
+ "igd_low": {
+  "value": 66.6,
+  "how": "lowest India combined liabilities ratio 2001-2019"
+ },
+ "igd_low_yr": {
+  "value": 2014,
+  "how": "fiscal year (start) of lowest ratio"
+ },
+ "icf_low": {
+  "value": 2.6,
+  "how": "lowest centre fiscal deficit 2001-2019"
+ },
+ "icf_low_yr": {
+  "value": 2007,
+  "how": "fiscal year (start) of lowest centre deficit"
+ },
+ "isub_2020": {
+  "value": 3.8,
+  "how": "centre subsidies, % of GDP, FY2020-21"
+ },
+ "isub_2025": {
+  "value": 1.4,
+  "how": "centre subsidies, % of GDP, FY2025-26"
+ },
+ "igf_avg_2001_2025": {
+  "value": 7.6,
+  "how": "India combined deficit average FY2001-02 to FY2025-26"
+ },
+ "dw_IND_2019": {
+  "value": 76.5,
+  "how": "India general government gross debt, WEO, % of GDP, 2019"
+ },
+ "dw_IND_2020": {
+  "value": 90.4,
+  "how": "India general government gross debt, WEO, % of GDP, 2020"
+ },
+ "dw_IND_2025": {
+  "value": 84.3,
+  "how": "India general government gross debt, WEO, % of GDP, 2025"
+ },
+ "dw_IND_2026": {
+  "value": 83.1,
+  "how": "India general government gross debt, WEO, % of GDP, 2026"
+ },
+ "dw_IND_2031": {
+  "value": 75.1,
+  "how": "India general government gross debt, WEO, % of GDP, 2031"
+ }
+}

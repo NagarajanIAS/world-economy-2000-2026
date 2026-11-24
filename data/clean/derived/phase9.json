@@ -1,0 +1,1590 @@
+{
+ "brent_2025_12": {
+  "value": 62.5,
+  "how": "Brent, US$/barrel, Dec 2025 monthly average"
+ },
+ "brent_2026_02": {
+  "value": 70.9,
+  "how": "Brent, Feb 2026"
+ },
+ "brent_2026_03": {
+  "value": 103.1,
+  "how": "Brent, Mar 2026"
+ },
+ "brent_2026_04": {
+  "value": 117.3,
+  "how": "Brent, Apr 2026"
+ },
+ "brent_2026_07": {
+  "value": 83.8,
+  "how": "Brent, Jul 2026"
+ },
+ "brent_2026_09": {
+  "value": 114.2,
+  "how": "Brent, Sep 2026"
+ },
+ "brent_2026_10": {
+  "value": 123.9,
+  "how": "Brent, Oct 2026"
+ },
+ "brent_latest": {
+  "value": 96.0,
+  "how": "Brent, 2026-11 (month to date)"
+ },
+ "brent_latest_m": {
+  "value": "November 2026",
+  "how": ""
+ },
+ "brent_2025avg": {
+  "value": 69.1,
+  "how": "Brent, 2025 average of monthly averages"
+ },
+ "brent_pk": {
+  "value": 123.9,
+  "how": "Brent peak monthly average 2026 (2026-10)"
+ },
+ "brent_pk_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "brent_rise_pk": {
+  "value": 98.0,
+  "how": "Brent, Dec 2025 to 2026 peak month, %"
+ },
+ "brent_daily_pk": {
+  "value": 138.0,
+  "how": "Brent, highest daily price in 2026 (2026-04-07)"
+ },
+ "brent_daily_pk_d": {
+  "value": "2026-04-07",
+  "how": ""
+ },
+ "gas_2025_12": {
+  "value": 9.5,
+  "how": "European natural gas, US$/MMBtu, Dec 2025"
+ },
+ "gas_2026_03": {
+  "value": 17.7,
+  "how": "European gas, Mar 2026"
+ },
+ "gas_latest": {
+  "value": 25.5,
+  "how": "European gas, 2026-09"
+ },
+ "gas_latest_m": {
+  "value": "September 2026",
+  "how": ""
+ },
+ "gas_x": {
+  "value": 2.7,
+  "how": "European gas, latest / Dec 2025, times"
+ },
+ "gas_2022_08": {
+  "value": 70.0,
+  "how": "European gas, Aug 2022 (2022 peak month, for comparison)"
+ },
+ "weo_oil_2025": {
+  "value": 68.3,
+  "how": "WEO Oct 2026 POILBRE 2025"
+ },
+ "weo_oil_2026": {
+  "value": 99.1,
+  "how": "WEO Oct 2026 POILBRE 2026"
+ },
+ "weo_oil_2027": {
+  "value": 85.5,
+  "how": "WEO Oct 2026 POILBRE 2027"
+ },
+ "weo_gasw_2025": {
+  "value": 11.9,
+  "how": "WEO Oct 2026 PNGASEU 2025"
+ },
+ "weo_gasw_2026": {
+  "value": 19.8,
+  "how": "WEO Oct 2026 PNGASEU 2026"
+ },
+ "weo_gasw_2027": {
+  "value": 19.9,
+  "how": "WEO Oct 2026 PNGASEU 2027"
+ },
+ "weo_nrg_2025": {
+  "value": 163.1,
+  "how": "WEO Oct 2026 PNRGW 2025"
+ },
+ "weo_nrg_2026": {
+  "value": 228.5,
+  "how": "WEO Oct 2026 PNRGW 2026"
+ },
+ "weo_nrg_2027": {
+  "value": 216.1,
+  "how": "WEO Oct 2026 PNRGW 2027"
+ },
+ "weo_nrg_2026_pct": {
+  "value": 40.0,
+  "how": "WEO energy price index, 2026 vs 2025, %"
+ },
+ "inf_us_2025_12": {
+  "value": 2.7,
+  "how": "us inflation, Dec 2025"
+ },
+ "inf_us_low26": {
+  "value": 2.4,
+  "how": "us lowest 2026 month (2026-01)"
+ },
+ "inf_us_low26_m": {
+  "value": "January 2026",
+  "how": ""
+ },
+ "inf_us_latest": {
+  "value": 3.7,
+  "how": "us inflation, 2026-09"
+ },
+ "inf_us_latest_m": {
+  "value": "September 2026",
+  "how": ""
+ },
+ "inf_us_pk26": {
+  "value": 4.2,
+  "how": "us highest 2026 month (2026-05)"
+ },
+ "inf_us_pk26_m": {
+  "value": "May 2026",
+  "how": ""
+ },
+ "inf_ea_2025_12": {
+  "value": 2.0,
+  "how": "ea inflation, Dec 2025"
+ },
+ "inf_ea_low26": {
+  "value": 1.7,
+  "how": "ea lowest 2026 month (2026-01)"
+ },
+ "inf_ea_low26_m": {
+  "value": "January 2026",
+  "how": ""
+ },
+ "inf_ea_latest": {
+  "value": 4.0,
+  "how": "ea inflation, 2026-10"
+ },
+ "inf_ea_latest_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "inf_ea_pk26": {
+  "value": 4.0,
+  "how": "ea highest 2026 month (2026-10)"
+ },
+ "inf_ea_pk26_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "inf_uk_2025_12": {
+  "value": 3.4,
+  "how": "uk inflation, Dec 2025"
+ },
+ "inf_uk_low26": {
+  "value": 2.6,
+  "how": "uk lowest 2026 month (2026-06)"
+ },
+ "inf_uk_low26_m": {
+  "value": "June 2026",
+  "how": ""
+ },
+ "inf_uk_latest": {
+  "value": 3.6,
+  "how": "uk inflation, 2026-10"
+ },
+ "inf_uk_latest_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "inf_uk_pk26": {
+  "value": 3.6,
+  "how": "uk highest 2026 month (2026-10)"
+ },
+ "inf_uk_pk26_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "inf_us_2026_05": {
+  "value": 4.2,
+  "how": "US CPI-U, May 2026"
+ },
+ "pol_US_2025_12": {
+  "value": 3.62,
+  "how": "BIS policy rate US, Dec 2025"
+ },
+ "pol_US_latest": {
+  "value": 3.88,
+  "how": "BIS policy rate US, 2026-10"
+ },
+ "pol_US_moves26": {
+  "value": "2026-09 3.875",
+  "how": "BIS US: months in 2026 when the rate changed"
+ },
+ "pol_XM_2025_12": {
+  "value": 2.0,
+  "how": "BIS policy rate XM, Dec 2025"
+ },
+ "pol_XM_latest": {
+  "value": 2.5,
+  "how": "BIS policy rate XM, 2026-10"
+ },
+ "pol_XM_moves26": {
+  "value": "2026-06 2.25, 2026-09 2.5",
+  "how": "BIS XM: months in 2026 when the rate changed"
+ },
+ "pol_GB_2025_12": {
+  "value": 3.75,
+  "how": "BIS policy rate GB, Dec 2025"
+ },
+ "pol_GB_latest": {
+  "value": 3.75,
+  "how": "BIS policy rate GB, 2026-10"
+ },
+ "pol_GB_moves26": {
+  "value": "",
+  "how": "BIS GB: months in 2026 when the rate changed"
+ },
+ "pol_JP_2025_12": {
+  "value": 0.75,
+  "how": "BIS policy rate JP, Dec 2025"
+ },
+ "pol_JP_latest": {
+  "value": 1.25,
+  "how": "BIS policy rate JP, 2026-10"
+ },
+ "pol_JP_moves26": {
+  "value": "2026-06 1.0, 2026-09 1.25",
+  "how": "BIS JP: months in 2026 when the rate changed"
+ },
+ "pol_IN_2025_12": {
+  "value": 5.25,
+  "how": "BIS policy rate IN, Dec 2025"
+ },
+ "pol_IN_latest": {
+  "value": 5.25,
+  "how": "BIS policy rate IN, 2026-09"
+ },
+ "pol_IN_moves26": {
+  "value": "",
+  "how": "BIS IN: months in 2026 when the rate changed"
+ },
+ "pol_BR_2025_12": {
+  "value": 15.0,
+  "how": "BIS policy rate BR, Dec 2025"
+ },
+ "pol_BR_latest": {
+  "value": 13.75,
+  "how": "BIS policy rate BR, 2026-10"
+ },
+ "pol_BR_moves26": {
+  "value": "2026-03 14.75, 2026-04 14.5, 2026-06 14.25, 2026-08 14.0, 2026-09 13.75",
+  "how": "BIS BR: months in 2026 when the rate changed"
+ },
+ "pol_CN_2025_12": {
+  "value": 3.0,
+  "how": "BIS policy rate CN, Dec 2025"
+ },
+ "pol_CN_latest": {
+  "value": 3.0,
+  "how": "BIS policy rate CN, 2026-10"
+ },
+ "pol_CN_moves26": {
+  "value": "",
+  "how": "BIS CN: months in 2026 when the rate changed"
+ },
+ "pol_US_hike": {
+  "value": 0.25,
+  "how": "US: change in Sep 2026, percentage points"
+ },
+ "ecb_dfr_latest": {
+  "value": 2.5,
+  "how": "ECB deposit rate, latest change (2026-09)"
+ },
+ "y10_2025_12": {
+  "value": 4.14,
+  "how": "US 10-year yield, Dec 2025 average"
+ },
+ "y10_pk26": {
+  "value": 5.13,
+  "how": "US 10-year yield, highest 2026 month (2026-10)"
+ },
+ "y10_pk26_m": {
+  "value": "October 2026",
+  "how": ""
+ },
+ "y10_since2007": {
+  "value": 4.8,
+  "how": "highest monthly average Aug 2007 to Dec 2025"
+ },
+ "ndq_mar26": {
+  "value": -5.0,
+  "how": "Nasdaq, Dec 2025 to Mar 2026, %"
+ },
+ "ndq_pk26": {
+  "value": 14.0,
+  "how": "Nasdaq, Dec 2025 to 2026 high month (2026-10), %"
+ },
+ "ndq_latest_from_pk": {
+  "value": -7.0,
+  "how": "Nasdaq, 2026-10 to 2026-11, %"
+ },
+ "usd_2026": {
+  "value": 1.4,
+  "how": "US dollar broad index, Dec 2025 to 2026-11, %"
+ },
+ "inr_2025_12": {
+  "value": 90.03,
+  "how": "rupees per US$, Dec 2025"
+ },
+ "inr_latest": {
+  "value": 94.31,
+  "how": "rupees per US$, 2026-11"
+ },
+ "inr_dep26": {
+  "value": 4.8,
+  "how": "rupee depreciation vs US$, Dec 2025 to latest month, % (rise in rupees per dollar)"
+ },
+ "inr_pk26": {
+  "value": 95.86,
+  "how": "weakest monthly average 2026 (2026-07)"
+ },
+ "inr_pk26_m": {
+  "value": "July 2026",
+  "how": ""
+ },
+ "gdp_G001_2025": {
+  "value": 3.5,
+  "how": "WEO Oct 2026 NGDP_RPCH G001 2025"
+ },
+ "cpi_G001_2025": {
+  "value": 4.1,
+  "how": "WEO Oct 2026 PCPIPCH G001 2025"
+ },
+ "gdp_G001_2026": {
+  "value": 3.1,
+  "how": "WEO Oct 2026 NGDP_RPCH G001 2026"
+ },
+ "cpi_G001_2026": {
+  "value": 4.7,
+  "how": "WEO Oct 2026 PCPIPCH G001 2026"
+ },
+ "gdp_G001_2027": {
+  "value": 3.4,
+  "how": "WEO Oct 2026 NGDP_RPCH G001 2027"
+ },
+ "cpi_G001_2027": {
+  "value": 4.1,
+  "how": "WEO Oct 2026 PCPIPCH G001 2027"
+ },
+ "gdp_G110_2025": {
+  "value": 2.0,
+  "how": "WEO Oct 2026 NGDP_RPCH G110 2025"
+ },
+ "cpi_G110_2025": {
+  "value": 2.5,
+  "how": "WEO Oct 2026 PCPIPCH G110 2025"
+ },
+ "gdp_G110_2026": {
+  "value": 2.1,
+  "how": "WEO Oct 2026 NGDP_RPCH G110 2026"
+ },
+ "cpi_G110_2026": {
+  "value": 3.1,
+  "how": "WEO Oct 2026 PCPIPCH G110 2026"
+ },
+ "gdp_G110_2027": {
+  "value": 1.8,
+  "how": "WEO Oct 2026 NGDP_RPCH G110 2027"
+ },
+ "cpi_G110_2027": {
+  "value": 2.7,
+  "how": "WEO Oct 2026 PCPIPCH G110 2027"
+ },
+ "gdp_G200_2025": {
+  "value": 4.5,
+  "how": "WEO Oct 2026 NGDP_RPCH G200 2025"
+ },
+ "cpi_G200_2025": {
+  "value": 5.2,
+  "how": "WEO Oct 2026 PCPIPCH G200 2025"
+ },
+ "gdp_G200_2026": {
+  "value": 3.7,
+  "how": "WEO Oct 2026 NGDP_RPCH G200 2026"
+ },
+ "cpi_G200_2026": {
+  "value": 5.7,
+  "how": "WEO Oct 2026 PCPIPCH G200 2026"
+ },
+ "gdp_G200_2027": {
+  "value": 4.4,
+  "how": "WEO Oct 2026 NGDP_RPCH G200 2027"
+ },
+ "cpi_G200_2027": {
+  "value": 5.1,
+  "how": "WEO Oct 2026 PCPIPCH G200 2027"
+ },
+ "gdp_USA_2025": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 NGDP_RPCH USA 2025"
+ },
+ "cpi_USA_2025": {
+  "value": 2.7,
+  "how": "WEO Oct 2026 PCPIPCH USA 2025"
+ },
+ "gdp_USA_2026": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 NGDP_RPCH USA 2026"
+ },
+ "cpi_USA_2026": {
+  "value": 3.6,
+  "how": "WEO Oct 2026 PCPIPCH USA 2026"
+ },
+ "gdp_USA_2027": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 NGDP_RPCH USA 2027"
+ },
+ "cpi_USA_2027": {
+  "value": 2.8,
+  "how": "WEO Oct 2026 PCPIPCH USA 2027"
+ },
+ "gdp_G163_2025": {
+  "value": 1.2,
+  "how": "WEO Oct 2026 NGDP_RPCH G163 2025"
+ },
+ "cpi_G163_2025": {
+  "value": 2.1,
+  "how": "WEO Oct 2026 PCPIPCH G163 2025"
+ },
+ "gdp_G163_2026": {
+  "value": 1.1,
+  "how": "WEO Oct 2026 NGDP_RPCH G163 2026"
+ },
+ "cpi_G163_2026": {
+  "value": 3.1,
+  "how": "WEO Oct 2026 PCPIPCH G163 2026"
+ },
+ "gdp_G163_2027": {
+  "value": 1.2,
+  "how": "WEO Oct 2026 NGDP_RPCH G163 2027"
+ },
+ "cpi_G163_2027": {
+  "value": 2.8,
+  "how": "WEO Oct 2026 PCPIPCH G163 2027"
+ },
+ "gdp_DEU_2025": {
+  "value": 0.2,
+  "how": "WEO Oct 2026 NGDP_RPCH DEU 2025"
+ },
+ "cpi_DEU_2025": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 PCPIPCH DEU 2025"
+ },
+ "gdp_DEU_2026": {
+  "value": 1.3,
+  "how": "WEO Oct 2026 NGDP_RPCH DEU 2026"
+ },
+ "cpi_DEU_2026": {
+  "value": 2.7,
+  "how": "WEO Oct 2026 PCPIPCH DEU 2026"
+ },
+ "gdp_DEU_2027": {
+  "value": 1.1,
+  "how": "WEO Oct 2026 NGDP_RPCH DEU 2027"
+ },
+ "cpi_DEU_2027": {
+  "value": 3.1,
+  "how": "WEO Oct 2026 PCPIPCH DEU 2027"
+ },
+ "gdp_GBR_2025": {
+  "value": 1.2,
+  "how": "WEO Oct 2026 NGDP_RPCH GBR 2025"
+ },
+ "cpi_GBR_2025": {
+  "value": 3.4,
+  "how": "WEO Oct 2026 PCPIPCH GBR 2025"
+ },
+ "gdp_GBR_2026": {
+  "value": 1.3,
+  "how": "WEO Oct 2026 NGDP_RPCH GBR 2026"
+ },
+ "cpi_GBR_2026": {
+  "value": 3.3,
+  "how": "WEO Oct 2026 PCPIPCH GBR 2026"
+ },
+ "gdp_GBR_2027": {
+  "value": 1.2,
+  "how": "WEO Oct 2026 NGDP_RPCH GBR 2027"
+ },
+ "cpi_GBR_2027": {
+  "value": 2.8,
+  "how": "WEO Oct 2026 PCPIPCH GBR 2027"
+ },
+ "gdp_JPN_2025": {
+  "value": 1.2,
+  "how": "WEO Oct 2026 NGDP_RPCH JPN 2025"
+ },
+ "cpi_JPN_2025": {
+  "value": 3.2,
+  "how": "WEO Oct 2026 PCPIPCH JPN 2025"
+ },
+ "gdp_JPN_2026": {
+  "value": 0.8,
+  "how": "WEO Oct 2026 NGDP_RPCH JPN 2026"
+ },
+ "cpi_JPN_2026": {
+  "value": 2.0,
+  "how": "WEO Oct 2026 PCPIPCH JPN 2026"
+ },
+ "gdp_JPN_2027": {
+  "value": 0.7,
+  "how": "WEO Oct 2026 NGDP_RPCH JPN 2027"
+ },
+ "cpi_JPN_2027": {
+  "value": 2.6,
+  "how": "WEO Oct 2026 PCPIPCH JPN 2027"
+ },
+ "gdp_CHN_2025": {
+  "value": 5.0,
+  "how": "WEO Oct 2026 NGDP_RPCH CHN 2025"
+ },
+ "cpi_CHN_2025": {
+  "value": 0.1,
+  "how": "WEO Oct 2026 PCPIPCH CHN 2025"
+ },
+ "gdp_CHN_2026": {
+  "value": 4.5,
+  "how": "WEO Oct 2026 NGDP_RPCH CHN 2026"
+ },
+ "cpi_CHN_2026": {
+  "value": 1.0,
+  "how": "WEO Oct 2026 PCPIPCH CHN 2026"
+ },
+ "gdp_CHN_2027": {
+  "value": 4.0,
+  "how": "WEO Oct 2026 NGDP_RPCH CHN 2027"
+ },
+ "cpi_CHN_2027": {
+  "value": 1.4,
+  "how": "WEO Oct 2026 PCPIPCH CHN 2027"
+ },
+ "gdp_IND_2025": {
+  "value": 7.8,
+  "how": "WEO Oct 2026 NGDP_RPCH IND 2025"
+ },
+ "cpi_IND_2025": {
+  "value": 2.0,
+  "how": "WEO Oct 2026 PCPIPCH IND 2025"
+ },
+ "gdp_IND_2026": {
+  "value": 7.0,
+  "how": "WEO Oct 2026 NGDP_RPCH IND 2026"
+ },
+ "cpi_IND_2026": {
+  "value": 5.0,
+  "how": "WEO Oct 2026 PCPIPCH IND 2026"
+ },
+ "gdp_IND_2027": {
+  "value": 7.0,
+  "how": "WEO Oct 2026 NGDP_RPCH IND 2027"
+ },
+ "cpi_IND_2027": {
+  "value": 4.4,
+  "how": "WEO Oct 2026 PCPIPCH IND 2027"
+ },
+ "gdp_RUS_2025": {
+  "value": 1.0,
+  "how": "WEO Oct 2026 NGDP_RPCH RUS 2025"
+ },
+ "cpi_RUS_2025": {
+  "value": 8.7,
+  "how": "WEO Oct 2026 PCPIPCH RUS 2025"
+ },
+ "gdp_RUS_2026": {
+  "value": 0.9,
+  "how": "WEO Oct 2026 NGDP_RPCH RUS 2026"
+ },
+ "cpi_RUS_2026": {
+  "value": 6.1,
+  "how": "WEO Oct 2026 PCPIPCH RUS 2026"
+ },
+ "gdp_RUS_2027": {
+  "value": 0.9,
+  "how": "WEO Oct 2026 NGDP_RPCH RUS 2027"
+ },
+ "cpi_RUS_2027": {
+  "value": 4.8,
+  "how": "WEO Oct 2026 PCPIPCH RUS 2027"
+ },
+ "gdp_BRA_2025": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 NGDP_RPCH BRA 2025"
+ },
+ "cpi_BRA_2025": {
+  "value": 5.0,
+  "how": "WEO Oct 2026 PCPIPCH BRA 2025"
+ },
+ "gdp_BRA_2026": {
+  "value": 2.2,
+  "how": "WEO Oct 2026 NGDP_RPCH BRA 2026"
+ },
+ "cpi_BRA_2026": {
+  "value": 4.4,
+  "how": "WEO Oct 2026 PCPIPCH BRA 2026"
+ },
+ "gdp_BRA_2027": {
+  "value": 1.9,
+  "how": "WEO Oct 2026 NGDP_RPCH BRA 2027"
+ },
+ "cpi_BRA_2027": {
+  "value": 4.1,
+  "how": "WEO Oct 2026 PCPIPCH BRA 2027"
+ },
+ "gdp_SAU_2025": {
+  "value": 4.6,
+  "how": "WEO Oct 2026 NGDP_RPCH SAU 2025"
+ },
+ "cpi_SAU_2025": {
+  "value": 2.0,
+  "how": "WEO Oct 2026 PCPIPCH SAU 2025"
+ },
+ "gdp_SAU_2026": {
+  "value": -3.3,
+  "how": "WEO Oct 2026 NGDP_RPCH SAU 2026"
+ },
+ "cpi_SAU_2026": {
+  "value": 1.9,
+  "how": "WEO Oct 2026 PCPIPCH SAU 2026"
+ },
+ "gdp_SAU_2027": {
+  "value": 7.9,
+  "how": "WEO Oct 2026 NGDP_RPCH SAU 2027"
+ },
+ "cpi_SAU_2027": {
+  "value": 2.2,
+  "how": "WEO Oct 2026 PCPIPCH SAU 2027"
+ },
+ "gdp_G400_2025": {
+  "value": 3.7,
+  "how": "WEO Oct 2026 NGDP_RPCH G400 2025"
+ },
+ "cpi_G400_2025": {
+  "value": 11.2,
+  "how": "WEO Oct 2026 PCPIPCH G400 2025"
+ },
+ "gdp_G400_2026": {
+  "value": -0.3,
+  "how": "WEO Oct 2026 NGDP_RPCH G400 2026"
+ },
+ "cpi_G400_2026": {
+  "value": 13.0,
+  "how": "WEO Oct 2026 PCPIPCH G400 2026"
+ },
+ "gdp_G400_2027": {
+  "value": 6.3,
+  "how": "WEO Oct 2026 NGDP_RPCH G400 2027"
+ },
+ "cpi_G400_2027": {
+  "value": 10.2,
+  "how": "WEO Oct 2026 PCPIPCH G400 2027"
+ },
+ "gdp_QAT_2025": {
+  "value": 1.8,
+  "how": "WEO Oct 2026 NGDP_RPCH QAT 2025"
+ },
+ "cpi_QAT_2025": {
+  "value": 0.6,
+  "how": "WEO Oct 2026 PCPIPCH QAT 2025"
+ },
+ "gdp_QAT_2026": {
+  "value": -15.6,
+  "how": "WEO Oct 2026 NGDP_RPCH QAT 2026"
+ },
+ "cpi_QAT_2026": {
+  "value": 3.6,
+  "how": "WEO Oct 2026 PCPIPCH QAT 2026"
+ },
+ "gdp_QAT_2027": {
+  "value": 18.8,
+  "how": "WEO Oct 2026 NGDP_RPCH QAT 2027"
+ },
+ "cpi_QAT_2027": {
+  "value": 3.1,
+  "how": "WEO Oct 2026 PCPIPCH QAT 2027"
+ },
+ "gdp_KWT_2025": {
+  "value": 2.7,
+  "how": "WEO Oct 2026 NGDP_RPCH KWT 2025"
+ },
+ "cpi_KWT_2025": {
+  "value": 2.4,
+  "how": "WEO Oct 2026 PCPIPCH KWT 2025"
+ },
+ "gdp_KWT_2026": {
+  "value": -16.7,
+  "how": "WEO Oct 2026 NGDP_RPCH KWT 2026"
+ },
+ "cpi_KWT_2026": {
+  "value": 2.2,
+  "how": "WEO Oct 2026 PCPIPCH KWT 2026"
+ },
+ "gdp_KWT_2027": {
+  "value": 17.1,
+  "how": "WEO Oct 2026 NGDP_RPCH KWT 2027"
+ },
+ "cpi_KWT_2027": {
+  "value": 2.4,
+  "how": "WEO Oct 2026 PCPIPCH KWT 2027"
+ },
+ "gdp_IRQ_2025": {
+  "value": -0.4,
+  "how": "WEO Oct 2026 NGDP_RPCH IRQ 2025"
+ },
+ "cpi_IRQ_2025": {
+  "value": 0.3,
+  "how": "WEO Oct 2026 PCPIPCH IRQ 2025"
+ },
+ "gdp_IRQ_2026": {
+  "value": -16.0,
+  "how": "WEO Oct 2026 NGDP_RPCH IRQ 2026"
+ },
+ "cpi_IRQ_2026": {
+  "value": 3.5,
+  "how": "WEO Oct 2026 PCPIPCH IRQ 2026"
+ },
+ "gdp_IRQ_2027": {
+  "value": 19.0,
+  "how": "WEO Oct 2026 NGDP_RPCH IRQ 2027"
+ },
+ "cpi_IRQ_2027": {
+  "value": 3.0,
+  "how": "WEO Oct 2026 PCPIPCH IRQ 2027"
+ },
+ "gdp_ARE_2025": {
+  "value": 6.2,
+  "how": "WEO Oct 2026 NGDP_RPCH ARE 2025"
+ },
+ "cpi_ARE_2025": {
+  "value": 1.3,
+  "how": "WEO Oct 2026 PCPIPCH ARE 2025"
+ },
+ "gdp_ARE_2026": {
+  "value": -3.9,
+  "how": "WEO Oct 2026 NGDP_RPCH ARE 2026"
+ },
+ "cpi_ARE_2026": {
+  "value": 4.5,
+  "how": "WEO Oct 2026 PCPIPCH ARE 2026"
+ },
+ "gdp_ARE_2027": {
+  "value": 7.7,
+  "how": "WEO Oct 2026 NGDP_RPCH ARE 2027"
+ },
+ "cpi_ARE_2027": {
+  "value": 2.5,
+  "how": "WEO Oct 2026 PCPIPCH ARE 2027"
+ },
+ "gdp_IRN_2025": {
+  "value": -0.9,
+  "how": "WEO Oct 2026 NGDP_RPCH IRN 2025"
+ },
+ "cpi_IRN_2025": {
+  "value": 50.6,
+  "how": "WEO Oct 2026 PCPIPCH IRN 2025"
+ },
+ "gdp_IRN_2026": {
+  "value": -7.6,
+  "how": "WEO Oct 2026 NGDP_RPCH IRN 2026"
+ },
+ "cpi_IRN_2026": {
+  "value": 78.6,
+  "how": "WEO Oct 2026 PCPIPCH IRN 2026"
+ },
+ "gdp_IRN_2027": {
+  "value": 3.6,
+  "how": "WEO Oct 2026 NGDP_RPCH IRN 2027"
+ },
+ "cpi_IRN_2027": {
+  "value": 42.0,
+  "how": "WEO Oct 2026 PCPIPCH IRN 2027"
+ },
+ "gdp_NOR_2025": {
+  "value": 1.1,
+  "how": "WEO Oct 2026 NGDP_RPCH NOR 2025"
+ },
+ "cpi_NOR_2025": {
+  "value": 3.0,
+  "how": "WEO Oct 2026 PCPIPCH NOR 2025"
+ },
+ "gdp_NOR_2026": {
+  "value": 1.5,
+  "how": "WEO Oct 2026 NGDP_RPCH NOR 2026"
+ },
+ "cpi_NOR_2026": {
+  "value": 3.2,
+  "how": "WEO Oct 2026 PCPIPCH NOR 2026"
+ },
+ "gdp_NOR_2027": {
+  "value": 1.3,
+  "how": "WEO Oct 2026 NGDP_RPCH NOR 2027"
+ },
+ "cpi_NOR_2027": {
+  "value": 2.8,
+  "how": "WEO Oct 2026 PCPIPCH NOR 2027"
+ },
+ "gdp_KOR_2025": {
+  "value": 1.1,
+  "how": "WEO Oct 2026 NGDP_RPCH KOR 2025"
+ },
+ "cpi_KOR_2025": {
+  "value": 2.1,
+  "how": "WEO Oct 2026 PCPIPCH KOR 2025"
+ },
+ "gdp_KOR_2026": {
+  "value": 3.3,
+  "how": "WEO Oct 2026 NGDP_RPCH KOR 2026"
+ },
+ "cpi_KOR_2026": {
+  "value": 2.7,
+  "how": "WEO Oct 2026 PCPIPCH KOR 2026"
+ },
+ "gdp_KOR_2027": {
+  "value": 2.8,
+  "how": "WEO Oct 2026 NGDP_RPCH KOR 2027"
+ },
+ "cpi_KOR_2027": {
+  "value": 2.3,
+  "how": "WEO Oct 2026 PCPIPCH KOR 2027"
+ },
+ "gdp_TUR_2025": {
+  "value": 3.7,
+  "how": "WEO Oct 2026 NGDP_RPCH TUR 2025"
+ },
+ "cpi_TUR_2025": {
+  "value": 34.9,
+  "how": "WEO Oct 2026 PCPIPCH TUR 2025"
+ },
+ "gdp_TUR_2026": {
+  "value": 2.6,
+  "how": "WEO Oct 2026 NGDP_RPCH TUR 2026"
+ },
+ "cpi_TUR_2026": {
+  "value": 31.2,
+  "how": "WEO Oct 2026 PCPIPCH TUR 2026"
+ },
+ "gdp_TUR_2027": {
+  "value": 3.6,
+  "how": "WEO Oct 2026 NGDP_RPCH TUR 2027"
+ },
+ "cpi_TUR_2027": {
+  "value": 26.5,
+  "how": "WEO Oct 2026 PCPIPCH TUR 2027"
+ },
+ "gdp_EGY_2025": {
+  "value": 4.4,
+  "how": "WEO Oct 2026 NGDP_RPCH EGY 2025"
+ },
+ "cpi_EGY_2025": {
+  "value": 20.4,
+  "how": "WEO Oct 2026 PCPIPCH EGY 2025"
+ },
+ "gdp_EGY_2026": {
+  "value": 5.1,
+  "how": "WEO Oct 2026 NGDP_RPCH EGY 2026"
+ },
+ "cpi_EGY_2026": {
+  "value": 13.3,
+  "how": "WEO Oct 2026 PCPIPCH EGY 2026"
+ },
+ "gdp_EGY_2027": {
+  "value": 4.7,
+  "how": "WEO Oct 2026 NGDP_RPCH EGY 2027"
+ },
+ "cpi_EGY_2027": {
+  "value": 14.8,
+  "how": "WEO Oct 2026 PCPIPCH EGY 2027"
+ },
+ "gdp_PAK_2025": {
+  "value": 3.2,
+  "how": "WEO Oct 2026 NGDP_RPCH PAK 2025"
+ },
+ "cpi_PAK_2025": {
+  "value": 4.5,
+  "how": "WEO Oct 2026 PCPIPCH PAK 2025"
+ },
+ "gdp_PAK_2026": {
+  "value": 3.6,
+  "how": "WEO Oct 2026 NGDP_RPCH PAK 2026"
+ },
+ "cpi_PAK_2026": {
+  "value": 7.1,
+  "how": "WEO Oct 2026 PCPIPCH PAK 2026"
+ },
+ "gdp_PAK_2027": {
+  "value": 3.5,
+  "how": "WEO Oct 2026 NGDP_RPCH PAK 2027"
+ },
+ "cpi_PAK_2027": {
+  "value": 9.9,
+  "how": "WEO Oct 2026 PCPIPCH PAK 2027"
+ },
+ "trade_2025": {
+  "value": 5.0,
+  "how": "WEO TRADEPCH world trade volume 2025"
+ },
+ "trade_2026": {
+  "value": 4.6,
+  "how": "WEO TRADEPCH world trade volume 2026"
+ },
+ "trade_2027": {
+  "value": 4.7,
+  "how": "WEO TRADEPCH world trade volume 2027"
+ },
+ "ca_IND_2025": {
+  "value": -0.7,
+  "how": "WEO current account % GDP IND 2025"
+ },
+ "ca_IND_2026": {
+  "value": -1.5,
+  "how": "WEO current account % GDP IND 2026"
+ },
+ "ca_IND_2027": {
+  "value": -1.3,
+  "how": "WEO current account % GDP IND 2027"
+ },
+ "ca_SAU_2025": {
+  "value": -2.6,
+  "how": "WEO current account % GDP SAU 2025"
+ },
+ "ca_SAU_2026": {
+  "value": -3.5,
+  "how": "WEO current account % GDP SAU 2026"
+ },
+ "ca_SAU_2027": {
+  "value": -1.3,
+  "how": "WEO current account % GDP SAU 2027"
+ },
+ "ca_USA_2025": {
+  "value": -3.8,
+  "how": "WEO current account % GDP USA 2025"
+ },
+ "ca_USA_2026": {
+  "value": -3.9,
+  "how": "WEO current account % GDP USA 2026"
+ },
+ "ca_USA_2027": {
+  "value": -3.8,
+  "how": "WEO current account % GDP USA 2027"
+ },
+ "ca_CHN_2025": {
+  "value": 3.7,
+  "how": "WEO current account % GDP CHN 2025"
+ },
+ "ca_CHN_2026": {
+  "value": 4.0,
+  "how": "WEO current account % GDP CHN 2026"
+ },
+ "ca_CHN_2027": {
+  "value": 3.9,
+  "how": "WEO current account % GDP CHN 2027"
+ },
+ "ca_JPN_2025": {
+  "value": 4.9,
+  "how": "WEO current account % GDP JPN 2025"
+ },
+ "ca_JPN_2026": {
+  "value": 4.6,
+  "how": "WEO current account % GDP JPN 2026"
+ },
+ "ca_JPN_2027": {
+  "value": 4.3,
+  "how": "WEO current account % GDP JPN 2027"
+ },
+ "ca_DEU_2025": {
+  "value": 4.5,
+  "how": "WEO current account % GDP DEU 2025"
+ },
+ "ca_DEU_2026": {
+  "value": 4.5,
+  "how": "WEO current account % GDP DEU 2026"
+ },
+ "ca_DEU_2027": {
+  "value": 4.2,
+  "how": "WEO current account % GDP DEU 2027"
+ },
+ "ca_KOR_2025": {
+  "value": 6.5,
+  "how": "WEO current account % GDP KOR 2025"
+ },
+ "ca_KOR_2026": {
+  "value": 18.8,
+  "how": "WEO current account % GDP KOR 2026"
+ },
+ "ca_KOR_2027": {
+  "value": 16.1,
+  "how": "WEO current account % GDP KOR 2027"
+ },
+ "ca_NOR_2025": {
+  "value": 14.2,
+  "how": "WEO current account % GDP NOR 2025"
+ },
+ "ca_NOR_2026": {
+  "value": 20.7,
+  "how": "WEO current account % GDP NOR 2026"
+ },
+ "ca_NOR_2027": {
+  "value": 17.4,
+  "how": "WEO current account % GDP NOR 2027"
+ },
+ "ca_EGY_2025": {
+  "value": -4.2,
+  "how": "WEO current account % GDP EGY 2025"
+ },
+ "ca_EGY_2026": {
+  "value": -4.4,
+  "how": "WEO current account % GDP EGY 2026"
+ },
+ "ca_EGY_2027": {
+  "value": -4.9,
+  "how": "WEO current account % GDP EGY 2027"
+ },
+ "ca_TUR_2025": {
+  "value": -1.9,
+  "how": "WEO current account % GDP TUR 2025"
+ },
+ "ca_TUR_2026": {
+  "value": -2.9,
+  "how": "WEO current account % GDP TUR 2026"
+ },
+ "ca_TUR_2027": {
+  "value": -2.4,
+  "how": "WEO current account % GDP TUR 2027"
+ },
+ "ca_PAK_2025": {
+  "value": 0.5,
+  "how": "WEO current account % GDP PAK 2025"
+ },
+ "ca_PAK_2026": {
+  "value": -0.0,
+  "how": "WEO current account % GDP PAK 2026"
+ },
+ "ca_PAK_2027": {
+  "value": -1.0,
+  "how": "WEO current account % GDP PAK 2027"
+ },
+ "vo25_gdp_G001_2026": {
+  "value": 3.1,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G001 2026"
+ },
+ "vo25_gdp_G001_2027": {
+  "value": 3.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G001 2027"
+ },
+ "vo25_gdp_G110_2026": {
+  "value": 1.6,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G110 2026"
+ },
+ "vo25_gdp_G110_2027": {
+  "value": 1.7,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G110 2027"
+ },
+ "vo25_gdp_G200_2026": {
+  "value": 4.0,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G200 2026"
+ },
+ "vo25_gdp_G200_2027": {
+  "value": 4.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G200 2027"
+ },
+ "vo25_gdp_USA_2026": {
+  "value": 2.1,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH USA 2026"
+ },
+ "vo25_gdp_USA_2027": {
+  "value": 2.1,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH USA 2027"
+ },
+ "vo25_gdp_G163_2026": {
+  "value": 1.1,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G163 2026"
+ },
+ "vo25_gdp_G163_2027": {
+  "value": 1.4,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G163 2027"
+ },
+ "vo25_gdp_CHN_2026": {
+  "value": 4.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH CHN 2026"
+ },
+ "vo25_gdp_CHN_2027": {
+  "value": 4.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH CHN 2027"
+ },
+ "vo25_gdp_IND_2026": {
+  "value": 6.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH IND 2026"
+ },
+ "vo25_gdp_IND_2027": {
+  "value": 6.4,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH IND 2027"
+ },
+ "vo25_gdp_SAU_2026": {
+  "value": 4.0,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH SAU 2026"
+ },
+ "vo25_gdp_SAU_2027": {
+  "value": 3.2,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH SAU 2027"
+ },
+ "vo25_gdp_G400_2026": {
+  "value": 3.8,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G400 2026"
+ },
+ "vo25_gdp_G400_2027": {
+  "value": 3.8,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH G400 2027"
+ },
+ "vo25_gdp_JPN_2026": {
+  "value": 0.6,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH JPN 2026"
+ },
+ "vo25_gdp_JPN_2027": {
+  "value": 0.6,
+  "how": "WEO_2025_OCT_VINTAGE NGDP_RPCH JPN 2027"
+ },
+ "vo25_cpi_G001_2026": {
+  "value": 3.7,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G001 2026"
+ },
+ "vo25_cpi_G001_2027": {
+  "value": 3.4,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G001 2027"
+ },
+ "vo25_cpi_G110_2026": {
+  "value": 2.2,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G110 2026"
+ },
+ "vo25_cpi_G110_2027": {
+  "value": 2.1,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G110 2027"
+ },
+ "vo25_cpi_G200_2026": {
+  "value": 4.7,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G200 2026"
+ },
+ "vo25_cpi_G200_2027": {
+  "value": 4.2,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G200 2027"
+ },
+ "vo25_cpi_USA_2026": {
+  "value": 2.4,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH USA 2026"
+ },
+ "vo25_cpi_USA_2027": {
+  "value": 2.2,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH USA 2027"
+ },
+ "vo25_cpi_G163_2026": {
+  "value": 1.9,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G163 2026"
+ },
+ "vo25_cpi_G163_2027": {
+  "value": 2.1,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G163 2027"
+ },
+ "vo25_cpi_CHN_2026": {
+  "value": 0.7,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH CHN 2026"
+ },
+ "vo25_cpi_CHN_2027": {
+  "value": 1.4,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH CHN 2027"
+ },
+ "vo25_cpi_IND_2026": {
+  "value": 4.0,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH IND 2026"
+ },
+ "vo25_cpi_IND_2027": {
+  "value": 4.0,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH IND 2027"
+ },
+ "vo25_cpi_SAU_2026": {
+  "value": 2.0,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH SAU 2026"
+ },
+ "vo25_cpi_SAU_2027": {
+  "value": 2.0,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH SAU 2027"
+ },
+ "vo25_cpi_G400_2026": {
+  "value": 9.5,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G400 2026"
+ },
+ "vo25_cpi_G400_2027": {
+  "value": 8.3,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH G400 2027"
+ },
+ "vo25_cpi_JPN_2026": {
+  "value": 2.1,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH JPN 2026"
+ },
+ "vo25_cpi_JPN_2027": {
+  "value": 2.0,
+  "how": "WEO_2025_OCT_VINTAGE PCPIPCH JPN 2027"
+ },
+ "va26_gdp_G001_2026": {
+  "value": 3.1,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G001 2026"
+ },
+ "va26_gdp_G001_2027": {
+  "value": 3.2,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G001 2027"
+ },
+ "va26_gdp_G110_2026": {
+  "value": 1.8,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G110 2026"
+ },
+ "va26_gdp_G110_2027": {
+  "value": 1.7,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G110 2027"
+ },
+ "va26_gdp_G200_2026": {
+  "value": 3.9,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G200 2026"
+ },
+ "va26_gdp_G200_2027": {
+  "value": 4.2,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G200 2027"
+ },
+ "va26_gdp_USA_2026": {
+  "value": 2.3,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH USA 2026"
+ },
+ "va26_gdp_USA_2027": {
+  "value": 2.1,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH USA 2027"
+ },
+ "va26_gdp_G163_2026": {
+  "value": 1.1,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G163 2026"
+ },
+ "va26_gdp_G163_2027": {
+  "value": 1.2,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G163 2027"
+ },
+ "va26_gdp_CHN_2026": {
+  "value": 4.4,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH CHN 2026"
+ },
+ "va26_gdp_CHN_2027": {
+  "value": 4.0,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH CHN 2027"
+ },
+ "va26_gdp_IND_2026": {
+  "value": 6.5,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH IND 2026"
+ },
+ "va26_gdp_IND_2027": {
+  "value": 6.5,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH IND 2027"
+ },
+ "va26_gdp_SAU_2026": {
+  "value": 3.1,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH SAU 2026"
+ },
+ "va26_gdp_SAU_2027": {
+  "value": 4.5,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH SAU 2027"
+ },
+ "va26_gdp_G400_2026": {
+  "value": 1.9,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G400 2026"
+ },
+ "va26_gdp_G400_2027": {
+  "value": 4.6,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH G400 2027"
+ },
+ "va26_gdp_JPN_2026": {
+  "value": 0.7,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH JPN 2026"
+ },
+ "va26_gdp_JPN_2027": {
+  "value": 0.6,
+  "how": "WEO_2026_APR_VINTAGE NGDP_RPCH JPN 2027"
+ },
+ "va26_cpi_G001_2026": {
+  "value": 4.4,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G001 2026"
+ },
+ "va26_cpi_G001_2027": {
+  "value": 3.7,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G001 2027"
+ },
+ "va26_cpi_G110_2026": {
+  "value": 2.8,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G110 2026"
+ },
+ "va26_cpi_G110_2027": {
+  "value": 2.2,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G110 2027"
+ },
+ "va26_cpi_G200_2026": {
+  "value": 5.5,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G200 2026"
+ },
+ "va26_cpi_G200_2027": {
+  "value": 4.6,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G200 2027"
+ },
+ "va26_cpi_USA_2026": {
+  "value": 3.2,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH USA 2026"
+ },
+ "va26_cpi_USA_2027": {
+  "value": 2.1,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH USA 2027"
+ },
+ "va26_cpi_G163_2026": {
+  "value": 2.6,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G163 2026"
+ },
+ "va26_cpi_G163_2027": {
+  "value": 2.2,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G163 2027"
+ },
+ "va26_cpi_CHN_2026": {
+  "value": 1.2,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH CHN 2026"
+ },
+ "va26_cpi_CHN_2027": {
+  "value": 1.5,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH CHN 2027"
+ },
+ "va26_cpi_IND_2026": {
+  "value": 4.7,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH IND 2026"
+ },
+ "va26_cpi_IND_2027": {
+  "value": 4.0,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH IND 2027"
+ },
+ "va26_cpi_SAU_2026": {
+  "value": 2.3,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH SAU 2026"
+ },
+ "va26_cpi_SAU_2027": {
+  "value": 2.1,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH SAU 2027"
+ },
+ "va26_cpi_G400_2026": {
+  "value": 11.9,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G400 2026"
+ },
+ "va26_cpi_G400_2027": {
+  "value": 9.1,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH G400 2027"
+ },
+ "va26_cpi_JPN_2026": {
+  "value": 2.2,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH JPN 2026"
+ },
+ "va26_cpi_JPN_2027": {
+  "value": 2.3,
+  "how": "WEO_2026_APR_VINTAGE PCPIPCH JPN 2027"
+ },
+ "in_gdp_2021": {
+  "value": 9.7,
+  "how": "India gdp_real_growth FY2021-22"
+ },
+ "in_gdp_2022": {
+  "value": 7.6,
+  "how": "India gdp_real_growth FY2022-23"
+ },
+ "in_gdp_2023": {
+  "value": 9.2,
+  "how": "India gdp_real_growth FY2023-24"
+ },
+ "in_gdp_2024": {
+  "value": 6.5,
+  "how": "India gdp_real_growth FY2024-25"
+ },
+ "in_gdp_2025": {
+  "value": 7.4,
+  "how": "India gdp_real_growth FY2025-26"
+ },
+ "in_cpi_2021": {
+  "value": 5.5,
+  "how": "India cpi_inflation FY2021-22"
+ },
+ "in_cpi_2022": {
+  "value": 6.7,
+  "how": "India cpi_inflation FY2022-23"
+ },
+ "in_cpi_2023": {
+  "value": 5.4,
+  "how": "India cpi_inflation FY2023-24"
+ },
+ "in_cpi_2024": {
+  "value": 4.6,
+  "how": "India cpi_inflation FY2024-25"
+ },
+ "in_repo_2021": {
+  "value": 4.0,
+  "how": "India repo_end FY2021-22"
+ },
+ "in_repo_2022": {
+  "value": 6.5,
+  "how": "India repo_end FY2022-23"
+ },
+ "in_repo_2023": {
+  "value": 6.5,
+  "how": "India repo_end FY2023-24"
+ },
+ "in_repo_2024": {
+  "value": 6.25,
+  "how": "India repo_end FY2024-25"
+ },
+ "in_repo_2025": {
+  "value": 5.25,
+  "how": "India repo_end FY2025-26"
+ },
+ "in_cab_2021": {
+  "value": -1.2,
+  "how": "India cab_gdp FY2021-22"
+ },
+ "in_cab_2022": {
+  "value": -2.0,
+  "how": "India cab_gdp FY2022-23"
+ },
+ "in_cab_2023": {
+  "value": -0.7,
+  "how": "India cab_gdp FY2023-24"
+ },
+ "in_cab_2024": {
+  "value": -0.6,
+  "how": "India cab_gdp FY2024-25"
+ },
+ "in_cab_2025": {
+  "value": -0.6,
+  "how": "India cab_gdp FY2025-26"
+ },
+ "in_res_2021": {
+  "value": 607.0,
+  "how": "India fx_reserves FY2021-22"
+ },
+ "in_res_2022": {
+  "value": 578.0,
+  "how": "India fx_reserves FY2022-23"
+ },
+ "in_res_2023": {
+  "value": 646.0,
+  "how": "India fx_reserves FY2023-24"
+ },
+ "in_res_2024": {
+  "value": 668.0,
+  "how": "India fx_reserves FY2024-25"
+ },
+ "in_res_2025": {
+  "value": 691.0,
+  "how": "India fx_reserves FY2025-26"
+ },
+ "in_inr_2021": {
+  "value": 74.5,
+  "how": "India inr_usd FY2021-22"
+ },
+ "in_inr_2022": {
+  "value": 80.4,
+  "how": "India inr_usd FY2022-23"
+ },
+ "in_inr_2023": {
+  "value": 82.8,
+  "how": "India inr_usd FY2023-24"
+ },
+ "in_inr_2024": {
+  "value": 84.6,
+  "how": "India inr_usd FY2024-25"
+ },
+ "in_inr_2025": {
+  "value": 88.3,
+  "how": "India inr_usd FY2025-26"
+ },
+ "in_oil_2021": {
+  "value": 162.0,
+  "how": "India oil_imports FY2021-22"
+ },
+ "in_oil_2022": {
+  "value": 209.0,
+  "how": "India oil_imports FY2022-23"
+ },
+ "in_oil_2023": {
+  "value": 179.0,
+  "how": "India oil_imports FY2023-24"
+ },
+ "in_oil_2024": {
+  "value": 186.0,
+  "how": "India oil_imports FY2024-25"
+ },
+ "in_oil_2025": {
+  "value": 174.0,
+  "how": "India oil_imports FY2025-26"
+ },
+ "in_mg_2021": {
+  "value": 613.0,
+  "how": "India imports_goods FY2021-22"
+ },
+ "in_mg_2022": {
+  "value": 716.0,
+  "how": "India imports_goods FY2022-23"
+ },
+ "in_mg_2023": {
+  "value": 678.0,
+  "how": "India imports_goods FY2023-24"
+ },
+ "in_mg_2024": {
+  "value": 721.0,
+  "how": "India imports_goods FY2024-25"
+ },
+ "in_crude_share_2021": {
+  "value": 88.0,
+  "how": "India enr_crude_import_share FY2021-22"
+ },
+ "in_crude_share_2022": {
+  "value": 89.0,
+  "how": "India enr_crude_import_share FY2022-23"
+ },
+ "in_crude_share_2023": {
+  "value": 89.0,
+  "how": "India enr_crude_import_share FY2023-24"
+ },
+ "in_crude_share_2024": {
+  "value": 89.0,
+  "how": "India enr_crude_import_share FY2024-25"
+ },
+ "in_subs_2021": {
+  "value": 2.1,
+  "how": "India centre_subsidies_gdp FY2021-22"
+ },
+ "in_subs_2022": {
+  "value": 2.1,
+  "how": "India centre_subsidies_gdp FY2022-23"
+ },
+ "in_subs_2023": {
+  "value": 1.4,
+  "how": "India centre_subsidies_gdp FY2023-24"
+ },
+ "in_subs_2024": {
+  "value": 1.2,
+  "how": "India centre_subsidies_gdp FY2024-25"
+ },
+ "in_subs_2025": {
+  "value": 1.4,
+  "how": "India centre_subsidies_gdp FY2025-26"
+ },
+ "in_oil_pk": {
+  "value": 209.0,
+  "how": "India oil imports, highest year (FY2022-23), US$ bn"
+ }
+}

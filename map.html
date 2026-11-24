@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World map · The World Economy 2000–2026</title>
+<meta name="description" content="A world map of the book's IMF and World Bank indicators, year by year from 1990, with the highest and lowest economies in each year.">
+<link rel="stylesheet" href="assets/css/book.css">
+<link rel="stylesheet" href="assets/css/print.css">
+</head>
+<body data-root="." data-page="map.html">
+<div class="layout">
+<nav id="sidebar" class="sidebar"></nav>
+<main id="main">
+<article class="prose">
+<p class="kicker">Tools</p>
+<h1>World map</h1>
+<p class="dek">Choose an indicator and a year to see every country at once. Press Play to watch the years go by.</p>
+
+<div class="explorer-bar" role="group" aria-label="Choose what to map">
+<label for="mp-ind">Indicator</label>
+<select id="mp-ind"></select>
+<a class="btn" id="mp-ex" href="explorer.html">Compare over time</a>
+</div>
+<p class="explorer-desc" id="mp-desc"></p>
+
+<figure class="chart wide map-fig" id="mp-fig">
+<figcaption><h3 class="chart-title"><span id="mp-title"></span>, <span id="mp-year"></span></h3></figcaption>
+<div class="map-controls" role="group" aria-label="Year">
+<button type="button" class="btn" id="mp-play" aria-pressed="false">Play</button>
+<button type="button" class="btn" id="mp-prev" aria-label="Previous year">‹</button>
+<span class="map-yr" id="mp-min"></span>
+<input type="range" id="mp-slider" step="1" aria-label="Year" aria-describedby="mp-read">
+<span class="map-yr" id="mp-max"></span>
+<button type="button" class="btn" id="mp-next" aria-label="Next year">›</button>
+</div>
+<div class="map-canvas" id="mp-canvas" role="img" aria-label="World map shaded by the chosen indicator for the chosen year; the lists below give the same values in text."></div>
+<div class="map-legend" id="mp-legend"></div>
+<p class="map-picked" id="mp-picked" tabindex="-1" aria-live="polite"></p>
+<p class="sr-only" id="mp-read" aria-live="polite"></p>
+<footer class="chart-source" id="mp-source"></footer>
+</figure>
+
+<div class="map-rank" id="mp-rank">
+<div><h2 id="mp-top-h">Highest</h2><ol id="mp-top"></ol></div>
+<div><h2 id="mp-bottom-h">Lowest</h2><ol id="mp-bottom"></ol></div>
+</div>
+<p><button type="button" class="btn" id="mp-full" aria-expanded="false" aria-controls="mp-table">Show all economies</button></p>
+<div id="mp-table" hidden></div>
+
+<h2 id="how">How to read it</h2>
+<ul>
+<li><strong>Colours.</strong> Each indicator has its own fixed colour classes, set from all its values since 1990, so a country that changes colour between years has moved, not the scale. For indicators that can fall below zero (growth rates, balances, flows), red is below zero, grey is close to zero and blue is above it. For the others, the strongest blue means most: darkest on a light page, brightest on a dark one.</li>
+<li><strong>Years.</strong> Drag the slider, use the arrows, or press Play. Years with data for fewer than a third as many countries as the best-covered year are left off the slider.</li>
+<li><strong>Countries.</strong> Hover for a value; click or tap to see the rank and a link to the country's line in <a href="explorer.html">Compare countries</a>. The lists under the map name the ten highest and lowest, and the full list includes countries too small to see.</li>
+<li><strong>Data.</strong> The indicators are the same 47 as in Compare countries, from the IMF World Economic Outlook database (October 2026) and the World Bank World Development Indicators. The page address records the indicator and year.</li>
+</ul>
+</article>
+</main>
+</div>
+<script src="assets/vendor/echarts.min.js"></script>
+<script src="assets/geo/world-110m.js"></script>
+<script src="assets/js/palette.js"></script>
+<script src="assets/js/book-data.js"></script>
+<script src="assets/js/glossary-data.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/book.js"></script>
+<script src="assets/js/map.js"></script>
+</body>
+</html>

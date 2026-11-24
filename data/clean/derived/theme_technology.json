@@ -1,0 +1,1598 @@
+{
+ "uslp_1948_1973": {
+  "value": 2.8,
+  "how": "US nonfarm business output per hour, average annual growth 1948-1973, % (annual averages of quarterly index, BLS via FRED OPHNFB)"
+ },
+ "ustfp_1948_1973": {
+  "value": 1.9,
+  "how": "US private nonfarm business TFP, average annual growth 1948-1973, % (BLS via FRED MFPNFBS)"
+ },
+ "uslp_1973_1995": {
+  "value": 1.4,
+  "how": "US nonfarm business output per hour, average annual growth 1973-1995, % (annual averages of quarterly index, BLS via FRED OPHNFB)"
+ },
+ "ustfp_1973_1995": {
+  "value": 0.3,
+  "how": "US private nonfarm business TFP, average annual growth 1973-1995, % (BLS via FRED MFPNFBS)"
+ },
+ "uslp_1995_2004": {
+  "value": 3.1,
+  "how": "US nonfarm business output per hour, average annual growth 1995-2004, % (annual averages of quarterly index, BLS via FRED OPHNFB)"
+ },
+ "ustfp_1995_2004": {
+  "value": 1.5,
+  "how": "US private nonfarm business TFP, average annual growth 1995-2004, % (BLS via FRED MFPNFBS)"
+ },
+ "uslp_2004_2019": {
+  "value": 1.5,
+  "how": "US nonfarm business output per hour, average annual growth 2004-2019, % (annual averages of quarterly index, BLS via FRED OPHNFB)"
+ },
+ "ustfp_2004_2019": {
+  "value": 0.6,
+  "how": "US private nonfarm business TFP, average annual growth 2004-2019, % (BLS via FRED MFPNFBS)"
+ },
+ "uslp_2019_2025": {
+  "value": 2.3,
+  "how": "US nonfarm business output per hour, average annual growth 2019-2025, % (annual averages of quarterly index, BLS via FRED OPHNFB)"
+ },
+ "ustfp_2019_2025": {
+  "value": 1.0,
+  "how": "US private nonfarm business TFP, average annual growth 2019-2025, % (BLS via FRED MFPNFBS)"
+ },
+ "uslp_g_2023": {
+  "value": 2.1,
+  "how": "US output per hour growth, 2023 on 2022, % (annual averages)"
+ },
+ "uslp_g_2024": {
+  "value": 3.1,
+  "how": "US output per hour growth, 2024 on 2023, % (annual averages)"
+ },
+ "uslp_g_2025": {
+  "value": 2.4,
+  "how": "US output per hour growth, 2025 on 2024, % (annual averages)"
+ },
+ "uslp_path_higher": {
+  "value": 32.0,
+  "how": "how much higher US output per hour would have been in 2025 had 1995-2004 growth continued from 2004, %"
+ },
+ "gh_USA_2000_2007": {
+  "value": 2.2,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, USA (OECD PDB)"
+ },
+ "gh_USA_2007_2019": {
+  "value": 1.2,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, USA (OECD PDB)"
+ },
+ "gh_USA_2019_2025": {
+  "value": 1.9,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, USA (OECD PDB)"
+ },
+ "gh_USA_2000_2025": {
+  "value": 1.7,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, USA (OECD PDB)"
+ },
+ "gh_USA_1995_2007": {
+  "value": 2.2,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, USA"
+ },
+ "ghx_USA": {
+  "value": 151.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, USA"
+ },
+ "gh_EA20_2000_2007": {
+  "value": 1.1,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, EA20 (OECD PDB)"
+ },
+ "gh_EA20_2007_2019": {
+  "value": 0.7,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, EA20 (OECD PDB)"
+ },
+ "gh_EA20_2019_2025": {
+  "value": 0.3,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, EA20 (OECD PDB)"
+ },
+ "gh_EA20_2000_2025": {
+  "value": 0.7,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, EA20 (OECD PDB)"
+ },
+ "gh_EA20_1995_2007": {
+  "value": 1.3,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, EA20"
+ },
+ "ghx_EA20": {
+  "value": 120.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, EA20"
+ },
+ "gh_GBR_2000_2007": {
+  "value": 1.7,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, GBR (OECD PDB)"
+ },
+ "gh_GBR_2007_2019": {
+  "value": 0.3,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, GBR (OECD PDB)"
+ },
+ "gh_GBR_2019_2025": {
+  "value": 0.3,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, GBR (OECD PDB)"
+ },
+ "gh_GBR_2000_2025": {
+  "value": 0.7,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, GBR (OECD PDB)"
+ },
+ "gh_GBR_1995_2007": {
+  "value": 2.1,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, GBR"
+ },
+ "ghx_GBR": {
+  "value": 119.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, GBR"
+ },
+ "gh_JPN_2000_2007": {
+  "value": 1.4,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, JPN (OECD PDB)"
+ },
+ "gh_JPN_2007_2019": {
+  "value": 0.9,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, JPN (OECD PDB)"
+ },
+ "gh_JPN_2019_2025": {
+  "value": 0.6,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, JPN (OECD PDB)"
+ },
+ "gh_JPN_2000_2025": {
+  "value": 1.0,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, JPN (OECD PDB)"
+ },
+ "gh_JPN_1995_2007": {
+  "value": 1.7,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, JPN"
+ },
+ "ghx_JPN": {
+  "value": 128.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, JPN"
+ },
+ "gh_KOR_2000_2007": {
+  "value": 6.5,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, KOR (OECD PDB)"
+ },
+ "gh_KOR_2007_2019": {
+  "value": 3.7,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, KOR (OECD PDB)"
+ },
+ "gh_KOR_2019_2025": {
+  "value": 2.2,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, KOR (OECD PDB)"
+ },
+ "gh_KOR_2000_2025": {
+  "value": 4.1,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, KOR (OECD PDB)"
+ },
+ "gh_KOR_1995_2007": {
+  "value": 6.7,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, KOR"
+ },
+ "ghx_KOR": {
+  "value": 274.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, KOR"
+ },
+ "gh_DEU_2000_2007": {
+  "value": 1.4,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, DEU (OECD PDB)"
+ },
+ "gh_DEU_2007_2019": {
+  "value": 0.7,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, DEU (OECD PDB)"
+ },
+ "gh_DEU_2019_2025": {
+  "value": 0.3,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, DEU (OECD PDB)"
+ },
+ "gh_DEU_2000_2025": {
+  "value": 0.8,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, DEU (OECD PDB)"
+ },
+ "gh_DEU_1995_2007": {
+  "value": 1.6,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, DEU"
+ },
+ "ghx_DEU": {
+  "value": 122.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, DEU"
+ },
+ "gh_FRA_2000_2007": {
+  "value": 1.4,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, FRA (OECD PDB)"
+ },
+ "gh_FRA_2007_2019": {
+  "value": 0.6,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, FRA (OECD PDB)"
+ },
+ "gh_FRA_2019_2025": {
+  "value": -0.1,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, FRA (OECD PDB)"
+ },
+ "gh_FRA_2000_2025": {
+  "value": 0.6,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, FRA (OECD PDB)"
+ },
+ "gh_FRA_1995_2007": {
+  "value": 1.6,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, FRA"
+ },
+ "ghx_FRA": {
+  "value": 117.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, FRA"
+ },
+ "gh_ITA_2000_2007": {
+  "value": 0.1,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, ITA (OECD PDB)"
+ },
+ "gh_ITA_2007_2019": {
+  "value": 0.1,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, ITA (OECD PDB)"
+ },
+ "gh_ITA_2019_2025": {
+  "value": -0.3,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, ITA (OECD PDB)"
+ },
+ "gh_ITA_2000_2025": {
+  "value": -0.0,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, ITA (OECD PDB)"
+ },
+ "gh_ITA_1995_2007": {
+  "value": 0.5,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, ITA"
+ },
+ "ghx_ITA": {
+  "value": 100.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, ITA"
+ },
+ "gh_CAN_2000_2007": {
+  "value": 1.1,
+  "how": "GDP per hour worked, average annual growth 2000-2007, %, CAN (OECD PDB)"
+ },
+ "gh_CAN_2007_2019": {
+  "value": 0.7,
+  "how": "GDP per hour worked, average annual growth 2007-2019, %, CAN (OECD PDB)"
+ },
+ "gh_CAN_2019_2025": {
+  "value": 0.4,
+  "how": "GDP per hour worked, average annual growth 2019-2025, %, CAN (OECD PDB)"
+ },
+ "gh_CAN_2000_2025": {
+  "value": 0.8,
+  "how": "GDP per hour worked, average annual growth 2000-2025, %, CAN (OECD PDB)"
+ },
+ "gh_CAN_1995_2007": {
+  "value": 1.4,
+  "how": "GDP per hour worked, average annual growth 1995-2007, %, CAN"
+ },
+ "ghx_CAN": {
+  "value": 121.0,
+  "how": "GDP per hour worked 2025, index 2000 = 100, CAN"
+ },
+ "ppp_year": {
+  "value": 2025,
+  "how": "latest year with PPP levels for all"
+ },
+ "pph_USA": {
+  "value": 105.0,
+  "how": "GDP per hour worked, current PPP US$, USA 2025"
+ },
+ "ppr_USA": {
+  "value": 100.0,
+  "how": "GDP per hour worked relative to US, %, USA 2025"
+ },
+ "pph_EA20": {
+  "value": 89.0,
+  "how": "GDP per hour worked, current PPP US$, EA20 2025"
+ },
+ "ppr_EA20": {
+  "value": 85.0,
+  "how": "GDP per hour worked relative to US, %, EA20 2025"
+ },
+ "pph_GBR": {
+  "value": 86.0,
+  "how": "GDP per hour worked, current PPP US$, GBR 2025"
+ },
+ "ppr_GBR": {
+  "value": 82.0,
+  "how": "GDP per hour worked relative to US, %, GBR 2025"
+ },
+ "pph_JPN": {
+  "value": 62.0,
+  "how": "GDP per hour worked, current PPP US$, JPN 2025"
+ },
+ "ppr_JPN": {
+  "value": 59.0,
+  "how": "GDP per hour worked relative to US, %, JPN 2025"
+ },
+ "pph_KOR": {
+  "value": 62.0,
+  "how": "GDP per hour worked, current PPP US$, KOR 2025"
+ },
+ "ppr_KOR": {
+  "value": 60.0,
+  "how": "GDP per hour worked relative to US, %, KOR 2025"
+ },
+ "pph_DEU": {
+  "value": 103.0,
+  "how": "GDP per hour worked, current PPP US$, DEU 2025"
+ },
+ "ppr_DEU": {
+  "value": 98.0,
+  "how": "GDP per hour worked relative to US, %, DEU 2025"
+ },
+ "pph_FRA": {
+  "value": 96.0,
+  "how": "GDP per hour worked, current PPP US$, FRA 2025"
+ },
+ "ppr_FRA": {
+  "value": 92.0,
+  "how": "GDP per hour worked relative to US, %, FRA 2025"
+ },
+ "pph_ITA": {
+  "value": 80.0,
+  "how": "GDP per hour worked, current PPP US$, ITA 2025"
+ },
+ "ppr_ITA": {
+  "value": 77.0,
+  "how": "GDP per hour worked relative to US, %, ITA 2025"
+ },
+ "pph_CAN": {
+  "value": 77.0,
+  "how": "GDP per hour worked, current PPP US$, CAN 2025"
+ },
+ "ppr_CAN": {
+  "value": 73.0,
+  "how": "GDP per hour worked relative to US, %, CAN 2025"
+ },
+ "tfp_USA_1990_2000": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, USA"
+ },
+ "lpw_USA_1990_2000": {
+  "value": 2.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, USA"
+ },
+ "tfp_USA_2000_2007": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, USA"
+ },
+ "lpw_USA_2000_2007": {
+  "value": 1.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, USA"
+ },
+ "tfp_USA_2010_2019": {
+  "value": 0.3,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, USA"
+ },
+ "lpw_USA_2010_2019": {
+  "value": 0.7,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, USA"
+ },
+ "tfp_USA_2000_2023": {
+  "value": 0.5,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, USA"
+ },
+ "lpw_USA_2000_2023": {
+  "value": 1.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, USA"
+ },
+ "tfpx_USA": {
+  "value": 113.0,
+  "how": "TFP 2023, index 2000 = 100, USA (PWT 11.0)"
+ },
+ "tfp_DEU_1990_2000": {
+  "value": 1.2,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, DEU"
+ },
+ "lpw_DEU_1990_2000": {
+  "value": 1.9,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, DEU"
+ },
+ "tfp_DEU_2000_2007": {
+  "value": 0.6,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, DEU"
+ },
+ "lpw_DEU_2000_2007": {
+  "value": 1.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, DEU"
+ },
+ "tfp_DEU_2010_2019": {
+  "value": 0.7,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, DEU"
+ },
+ "lpw_DEU_2010_2019": {
+  "value": 0.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, DEU"
+ },
+ "tfp_DEU_2000_2023": {
+  "value": 0.3,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, DEU"
+ },
+ "lpw_DEU_2000_2023": {
+  "value": 0.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, DEU"
+ },
+ "tfpx_DEU": {
+  "value": 107.0,
+  "how": "TFP 2023, index 2000 = 100, DEU (PWT 11.0)"
+ },
+ "tfp_GBR_1990_2000": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, GBR"
+ },
+ "lpw_GBR_1990_2000": {
+  "value": 2.4,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, GBR"
+ },
+ "tfp_GBR_2000_2007": {
+  "value": 0.7,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, GBR"
+ },
+ "lpw_GBR_2000_2007": {
+  "value": 1.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, GBR"
+ },
+ "tfp_GBR_2010_2019": {
+  "value": 0.1,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, GBR"
+ },
+ "lpw_GBR_2010_2019": {
+  "value": 0.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, GBR"
+ },
+ "tfp_GBR_2000_2023": {
+  "value": -0.1,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, GBR"
+ },
+ "lpw_GBR_2000_2023": {
+  "value": 0.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, GBR"
+ },
+ "tfpx_GBR": {
+  "value": 99.0,
+  "how": "TFP 2023, index 2000 = 100, GBR (PWT 11.0)"
+ },
+ "tfp_JPN_1990_2000": {
+  "value": -0.3,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, JPN"
+ },
+ "lpw_JPN_1990_2000": {
+  "value": 1.1,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, JPN"
+ },
+ "tfp_JPN_2000_2007": {
+  "value": 0.4,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, JPN"
+ },
+ "lpw_JPN_2000_2007": {
+  "value": 1.4,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, JPN"
+ },
+ "tfp_JPN_2010_2019": {
+  "value": 0.2,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, JPN"
+ },
+ "lpw_JPN_2010_2019": {
+  "value": 0.2,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, JPN"
+ },
+ "tfp_JPN_2000_2023": {
+  "value": 0.1,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, JPN"
+ },
+ "lpw_JPN_2000_2023": {
+  "value": 0.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, JPN"
+ },
+ "tfpx_JPN": {
+  "value": 102.0,
+  "how": "TFP 2023, index 2000 = 100, JPN (PWT 11.0)"
+ },
+ "tfp_FRA_1990_2000": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, FRA"
+ },
+ "lpw_FRA_1990_2000": {
+  "value": 1.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, FRA"
+ },
+ "tfp_FRA_2000_2007": {
+  "value": 0.3,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, FRA"
+ },
+ "lpw_FRA_2000_2007": {
+  "value": 1.2,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, FRA"
+ },
+ "tfp_FRA_2010_2019": {
+  "value": -0.0,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, FRA"
+ },
+ "lpw_FRA_2010_2019": {
+  "value": 0.7,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, FRA"
+ },
+ "tfp_FRA_2000_2023": {
+  "value": -0.3,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, FRA"
+ },
+ "lpw_FRA_2000_2023": {
+  "value": 0.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, FRA"
+ },
+ "tfpx_FRA": {
+  "value": 94.0,
+  "how": "TFP 2023, index 2000 = 100, FRA (PWT 11.0)"
+ },
+ "tfp_ITA_1990_2000": {
+  "value": -0.0,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, ITA"
+ },
+ "lpw_ITA_1990_2000": {
+  "value": 1.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, ITA"
+ },
+ "tfp_ITA_2000_2007": {
+  "value": -1.1,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, ITA"
+ },
+ "lpw_ITA_2000_2007": {
+  "value": -0.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, ITA"
+ },
+ "tfp_ITA_2010_2019": {
+  "value": -0.5,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, ITA"
+ },
+ "lpw_ITA_2010_2019": {
+  "value": -0.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, ITA"
+ },
+ "tfp_ITA_2000_2023": {
+  "value": -0.9,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, ITA"
+ },
+ "lpw_ITA_2000_2023": {
+  "value": -0.2,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, ITA"
+ },
+ "tfpx_ITA": {
+  "value": 82.0,
+  "how": "TFP 2023, index 2000 = 100, ITA (PWT 11.0)"
+ },
+ "tfp_KOR_1990_2000": {
+  "value": 1.4,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, KOR"
+ },
+ "lpw_KOR_1990_2000": {
+  "value": 5.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, KOR"
+ },
+ "tfp_KOR_2000_2007": {
+  "value": 1.6,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, KOR"
+ },
+ "lpw_KOR_2000_2007": {
+  "value": 3.6,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, KOR"
+ },
+ "tfp_KOR_2010_2019": {
+  "value": 0.4,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, KOR"
+ },
+ "lpw_KOR_2010_2019": {
+  "value": 1.7,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, KOR"
+ },
+ "tfp_KOR_2000_2023": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, KOR"
+ },
+ "lpw_KOR_2000_2023": {
+  "value": 2.3,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, KOR"
+ },
+ "tfpx_KOR": {
+  "value": 119.0,
+  "how": "TFP 2023, index 2000 = 100, KOR (PWT 11.0)"
+ },
+ "tfp_IND_1990_2000": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, IND"
+ },
+ "lpw_IND_1990_2000": {
+  "value": 3.8,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, IND"
+ },
+ "tfp_IND_2000_2007": {
+  "value": 1.2,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, IND"
+ },
+ "lpw_IND_2000_2007": {
+  "value": 5.1,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, IND"
+ },
+ "tfp_IND_2010_2019": {
+  "value": 1.1,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, IND"
+ },
+ "lpw_IND_2010_2019": {
+  "value": 4.7,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, IND"
+ },
+ "tfp_IND_2000_2023": {
+  "value": 0.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, IND"
+ },
+ "lpw_IND_2000_2023": {
+  "value": 4.0,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, IND"
+ },
+ "tfpx_IND": {
+  "value": 119.0,
+  "how": "TFP 2023, index 2000 = 100, IND (PWT 11.0)"
+ },
+ "tfp_CHN_1990_2000": {
+  "value": 3.8,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, CHN"
+ },
+ "lpw_CHN_1990_2000": {
+  "value": 9.2,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, CHN"
+ },
+ "tfp_CHN_2000_2007": {
+  "value": 4.6,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, CHN"
+ },
+ "lpw_CHN_2000_2007": {
+  "value": 10.1,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, CHN"
+ },
+ "tfp_CHN_2010_2019": {
+  "value": 2.5,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, CHN"
+ },
+ "lpw_CHN_2010_2019": {
+  "value": 7.4,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, CHN"
+ },
+ "tfp_CHN_2000_2023": {
+  "value": 3.0,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, CHN"
+ },
+ "lpw_CHN_2000_2023": {
+  "value": 8.1,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, CHN"
+ },
+ "tfpx_CHN": {
+  "value": 198.0,
+  "how": "TFP 2023, index 2000 = 100, CHN (PWT 11.0)"
+ },
+ "tfp_BRA_1990_2000": {
+  "value": -0.6,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 1990-2000, %, BRA"
+ },
+ "lpw_BRA_1990_2000": {
+  "value": 1.4,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 1990-2000, %, BRA"
+ },
+ "tfp_BRA_2000_2007": {
+  "value": 0.0,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2007, %, BRA"
+ },
+ "lpw_BRA_2000_2007": {
+  "value": 0.9,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2007, %, BRA"
+ },
+ "tfp_BRA_2010_2019": {
+  "value": -2.0,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2010-2019, %, BRA"
+ },
+ "lpw_BRA_2010_2019": {
+  "value": -0.2,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2010-2019, %, BRA"
+ },
+ "tfp_BRA_2000_2023": {
+  "value": -0.9,
+  "how": "TFP (PWT 11.0 rtfpna), average annual growth 2000-2023, %, BRA"
+ },
+ "lpw_BRA_2000_2023": {
+  "value": 0.5,
+  "how": "real GDP per worker (PWT 11.0 rgdpna/emp), average annual growth 2000-2023, %, BRA"
+ },
+ "tfpx_BRA": {
+  "value": 81.0,
+  "how": "TFP 2023, index 2000 = 100, BRA (PWT 11.0)"
+ },
+ "usict_1980": {
+  "value": 2.4,
+  "how": "US private investment in information processing equipment and software, % of GDP, 1980 (annual average of quarters)"
+ },
+ "usict_1990": {
+  "value": 2.9,
+  "how": "US private investment in information processing equipment and software, % of GDP, 1990 (annual average of quarters)"
+ },
+ "usict_2000": {
+  "value": 4.4,
+  "how": "US private investment in information processing equipment and software, % of GDP, 2000 (annual average of quarters)"
+ },
+ "usict_2010": {
+  "value": 3.5,
+  "how": "US private investment in information processing equipment and software, % of GDP, 2010 (annual average of quarters)"
+ },
+ "usict_2019": {
+  "value": 4.0,
+  "how": "US private investment in information processing equipment and software, % of GDP, 2019 (annual average of quarters)"
+ },
+ "usict_2024": {
+  "value": 4.1,
+  "how": "US private investment in information processing equipment and software, % of GDP, 2024 (annual average of quarters)"
+ },
+ "usict_2025": {
+  "value": 4.5,
+  "how": "US private investment in information processing equipment and software, % of GDP, 2025 (annual average of quarters)"
+ },
+ "usict_last": {
+  "value": 5.3,
+  "how": "same, 2026 Q3"
+ },
+ "net_WLD_2005": {
+  "value": 16.0,
+  "how": "individuals using the internet, % of population, WLD 2005"
+ },
+ "mob_WLD_2005": {
+  "value": 34.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2005"
+ },
+ "net_WLD_2010": {
+  "value": 28.0,
+  "how": "individuals using the internet, % of population, WLD 2010"
+ },
+ "mob_WLD_2010": {
+  "value": 77.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2010"
+ },
+ "net_WLD_2015": {
+  "value": 40.0,
+  "how": "individuals using the internet, % of population, WLD 2015"
+ },
+ "mob_WLD_2015": {
+  "value": 96.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2015"
+ },
+ "net_WLD_2019": {
+  "value": 54.0,
+  "how": "individuals using the internet, % of population, WLD 2019"
+ },
+ "mob_WLD_2019": {
+  "value": 106.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2019"
+ },
+ "net_WLD_2024": {
+  "value": 71.0,
+  "how": "individuals using the internet, % of population, WLD 2024"
+ },
+ "mob_WLD_2024": {
+  "value": 110.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2024"
+ },
+ "net_WLD_2025": {
+  "value": 74.0,
+  "how": "individuals using the internet, % of population, WLD 2025"
+ },
+ "mob_WLD_2025": {
+  "value": 112.0,
+  "how": "mobile cellular subscriptions per 100 people, WLD 2025"
+ },
+ "netn_WLD_2024": {
+  "value": 5796.0,
+  "how": "internet users, millions, WLD 2024 (rate x population)"
+ },
+ "mob_SSF_2000": {
+  "value": 2.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2000"
+ },
+ "net_SSF_2005": {
+  "value": 2.0,
+  "how": "individuals using the internet, % of population, SSF 2005"
+ },
+ "mob_SSF_2005": {
+  "value": 12.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2005"
+ },
+ "net_SSF_2010": {
+  "value": 6.0,
+  "how": "individuals using the internet, % of population, SSF 2010"
+ },
+ "mob_SSF_2010": {
+  "value": 44.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2010"
+ },
+ "net_SSF_2015": {
+  "value": 16.0,
+  "how": "individuals using the internet, % of population, SSF 2015"
+ },
+ "mob_SSF_2015": {
+  "value": 73.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2015"
+ },
+ "net_SSF_2019": {
+  "value": 24.0,
+  "how": "individuals using the internet, % of population, SSF 2019"
+ },
+ "mob_SSF_2019": {
+  "value": 77.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2019"
+ },
+ "net_SSF_2024": {
+  "value": 34.0,
+  "how": "individuals using the internet, % of population, SSF 2024"
+ },
+ "mob_SSF_2024": {
+  "value": 89.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2024"
+ },
+ "net_SSF_2025": {
+  "value": 36.0,
+  "how": "individuals using the internet, % of population, SSF 2025"
+ },
+ "mob_SSF_2025": {
+  "value": 90.0,
+  "how": "mobile cellular subscriptions per 100 people, SSF 2025"
+ },
+ "net_IND_2000": {
+  "value": 0.5,
+  "how": "individuals using the internet, % of population, IND 2000"
+ },
+ "mob_IND_2000": {
+  "value": 0.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2000"
+ },
+ "net_IND_2005": {
+  "value": 2.4,
+  "how": "individuals using the internet, % of population, IND 2005"
+ },
+ "mob_IND_2005": {
+  "value": 8.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2005"
+ },
+ "net_IND_2010": {
+  "value": 7.5,
+  "how": "individuals using the internet, % of population, IND 2010"
+ },
+ "mob_IND_2010": {
+  "value": 60.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2010"
+ },
+ "net_IND_2015": {
+  "value": 14.9,
+  "how": "individuals using the internet, % of population, IND 2015"
+ },
+ "mob_IND_2015": {
+  "value": 75.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2015"
+ },
+ "net_IND_2019": {
+  "value": 29.5,
+  "how": "individuals using the internet, % of population, IND 2019"
+ },
+ "mob_IND_2019": {
+  "value": 83.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2019"
+ },
+ "net_IND_2024": {
+  "value": 64.9,
+  "how": "individuals using the internet, % of population, IND 2024"
+ },
+ "mob_IND_2024": {
+  "value": 79.0,
+  "how": "mobile cellular subscriptions per 100 people, IND 2024"
+ },
+ "net_IND_2025": {
+  "value": 70.0,
+  "how": "individuals using the internet, % of population, IND 2025"
+ },
+ "netn_IND_2024": {
+  "value": 942.0,
+  "how": "internet users, millions, IND 2024 (rate x population)"
+ },
+ "net_CHN_2000": {
+  "value": 2.0,
+  "how": "individuals using the internet, % of population, CHN 2000"
+ },
+ "mob_CHN_2000": {
+  "value": 7.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2000"
+ },
+ "net_CHN_2005": {
+  "value": 9.0,
+  "how": "individuals using the internet, % of population, CHN 2005"
+ },
+ "mob_CHN_2005": {
+  "value": 30.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2005"
+ },
+ "net_CHN_2010": {
+  "value": 34.0,
+  "how": "individuals using the internet, % of population, CHN 2010"
+ },
+ "mob_CHN_2010": {
+  "value": 64.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2010"
+ },
+ "net_CHN_2015": {
+  "value": 50.0,
+  "how": "individuals using the internet, % of population, CHN 2015"
+ },
+ "mob_CHN_2015": {
+  "value": 93.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2015"
+ },
+ "net_CHN_2019": {
+  "value": 64.0,
+  "how": "individuals using the internet, % of population, CHN 2019"
+ },
+ "mob_CHN_2019": {
+  "value": 123.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2019"
+ },
+ "net_CHN_2024": {
+  "value": 92.0,
+  "how": "individuals using the internet, % of population, CHN 2024"
+ },
+ "mob_CHN_2024": {
+  "value": 132.0,
+  "how": "mobile cellular subscriptions per 100 people, CHN 2024"
+ },
+ "net_CHN_2025": {
+  "value": 92.0,
+  "how": "individuals using the internet, % of population, CHN 2025"
+ },
+ "netn_CHN_2024": {
+  "value": 1296.0,
+  "how": "internet users, millions, CHN 2024 (rate x population)"
+ },
+ "net_USA_2000": {
+  "value": 43.0,
+  "how": "individuals using the internet, % of population, USA 2000"
+ },
+ "mob_USA_2000": {
+  "value": 39.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2000"
+ },
+ "net_USA_2005": {
+  "value": 68.0,
+  "how": "individuals using the internet, % of population, USA 2005"
+ },
+ "mob_USA_2005": {
+  "value": 69.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2005"
+ },
+ "net_USA_2010": {
+  "value": 72.0,
+  "how": "individuals using the internet, % of population, USA 2010"
+ },
+ "mob_USA_2010": {
+  "value": 92.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2010"
+ },
+ "net_USA_2015": {
+  "value": 75.0,
+  "how": "individuals using the internet, % of population, USA 2015"
+ },
+ "mob_USA_2015": {
+  "value": 102.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2015"
+ },
+ "net_USA_2019": {
+  "value": 89.0,
+  "how": "individuals using the internet, % of population, USA 2019"
+ },
+ "mob_USA_2019": {
+  "value": 105.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2019"
+ },
+ "net_USA_2024": {
+  "value": 95.0,
+  "how": "individuals using the internet, % of population, USA 2024"
+ },
+ "mob_USA_2024": {
+  "value": 113.0,
+  "how": "mobile cellular subscriptions per 100 people, USA 2024"
+ },
+ "netn_USA_2024": {
+  "value": 322.0,
+  "how": "internet users, millions, USA 2024 (rate x population)"
+ },
+ "netoff_WLD_2025": {
+  "value": 2.2,
+  "how": "people not using the internet, billions, world 2025 (share offline x population)"
+ },
+ "bb_IND_2010": {
+  "value": 0.9,
+  "how": "fixed broadband subscriptions per 100 people, IND 2010"
+ },
+ "bb_IND_2015": {
+  "value": 1.3,
+  "how": "fixed broadband subscriptions per 100 people, IND 2015"
+ },
+ "bb_IND_2024": {
+  "value": 3.2,
+  "how": "fixed broadband subscriptions per 100 people, IND 2024"
+ },
+ "bb_CHN_2010": {
+  "value": 9.3,
+  "how": "fixed broadband subscriptions per 100 people, CHN 2010"
+ },
+ "bb_CHN_2015": {
+  "value": 19.8,
+  "how": "fixed broadband subscriptions per 100 people, CHN 2015"
+ },
+ "bb_CHN_2024": {
+  "value": 47.2,
+  "how": "fixed broadband subscriptions per 100 people, CHN 2024"
+ },
+ "bb_USA_2010": {
+  "value": 27.2,
+  "how": "fixed broadband subscriptions per 100 people, USA 2010"
+ },
+ "bb_USA_2015": {
+  "value": 31.3,
+  "how": "fixed broadband subscriptions per 100 people, USA 2015"
+ },
+ "bb_USA_2024": {
+  "value": 38.9,
+  "how": "fixed broadband subscriptions per 100 people, USA 2024"
+ },
+ "bb_WLD_2010": {
+  "value": 7.6,
+  "how": "fixed broadband subscriptions per 100 people, WLD 2010"
+ },
+ "bb_WLD_2015": {
+  "value": 11.3,
+  "how": "fixed broadband subscriptions per 100 people, WLD 2015"
+ },
+ "bb_WLD_2024": {
+  "value": 19.3,
+  "how": "fixed broadband subscriptions per 100 people, WLD 2024"
+ },
+ "rd_WLD_2000": {
+  "value": 2.04,
+  "how": "R&D spending, % of GDP, WLD 2000"
+ },
+ "rd_WLD_2010": {
+  "value": 2.0,
+  "how": "R&D spending, % of GDP, WLD 2010"
+ },
+ "rd_WLD_2019": {
+  "value": 2.26,
+  "how": "R&D spending, % of GDP, WLD 2019"
+ },
+ "rd_WLD_2020": {
+  "value": 2.46,
+  "how": "R&D spending, % of GDP, WLD 2020"
+ },
+ "rd_WLD_2022": {
+  "value": 2.57,
+  "how": "R&D spending, % of GDP, WLD 2022"
+ },
+ "rd_WLD_2023": {
+  "value": 2.6,
+  "how": "R&D spending, % of GDP, WLD 2023"
+ },
+ "rd_WLD_last": {
+  "value": 2.6,
+  "how": "R&D spending, % of GDP, WLD latest (2023)"
+ },
+ "rd_WLD_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_USA_2000": {
+  "value": 2.62,
+  "how": "R&D spending, % of GDP, USA 2000"
+ },
+ "rd_USA_2010": {
+  "value": 2.71,
+  "how": "R&D spending, % of GDP, USA 2010"
+ },
+ "rd_USA_2019": {
+  "value": 3.14,
+  "how": "R&D spending, % of GDP, USA 2019"
+ },
+ "rd_USA_2020": {
+  "value": 3.42,
+  "how": "R&D spending, % of GDP, USA 2020"
+ },
+ "rd_USA_2022": {
+  "value": 3.49,
+  "how": "R&D spending, % of GDP, USA 2022"
+ },
+ "rd_USA_2023": {
+  "value": 3.45,
+  "how": "R&D spending, % of GDP, USA 2023"
+ },
+ "rd_USA_last": {
+  "value": 3.45,
+  "how": "R&D spending, % of GDP, USA latest (2023)"
+ },
+ "rd_USA_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_CHN_2000": {
+  "value": 0.88,
+  "how": "R&D spending, % of GDP, CHN 2000"
+ },
+ "rd_CHN_2010": {
+  "value": 1.68,
+  "how": "R&D spending, % of GDP, CHN 2010"
+ },
+ "rd_CHN_2019": {
+  "value": 2.2,
+  "how": "R&D spending, % of GDP, CHN 2019"
+ },
+ "rd_CHN_2020": {
+  "value": 2.36,
+  "how": "R&D spending, % of GDP, CHN 2020"
+ },
+ "rd_CHN_2022": {
+  "value": 2.49,
+  "how": "R&D spending, % of GDP, CHN 2022"
+ },
+ "rd_CHN_2023": {
+  "value": 2.58,
+  "how": "R&D spending, % of GDP, CHN 2023"
+ },
+ "rd_CHN_last": {
+  "value": 2.58,
+  "how": "R&D spending, % of GDP, CHN latest (2023)"
+ },
+ "rd_CHN_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_KOR_2000": {
+  "value": 2.05,
+  "how": "R&D spending, % of GDP, KOR 2000"
+ },
+ "rd_KOR_2010": {
+  "value": 3.18,
+  "how": "R&D spending, % of GDP, KOR 2010"
+ },
+ "rd_KOR_2019": {
+  "value": 4.36,
+  "how": "R&D spending, % of GDP, KOR 2019"
+ },
+ "rd_KOR_2020": {
+  "value": 4.52,
+  "how": "R&D spending, % of GDP, KOR 2020"
+ },
+ "rd_KOR_2022": {
+  "value": 4.85,
+  "how": "R&D spending, % of GDP, KOR 2022"
+ },
+ "rd_KOR_2023": {
+  "value": 4.94,
+  "how": "R&D spending, % of GDP, KOR 2023"
+ },
+ "rd_KOR_last": {
+  "value": 4.94,
+  "how": "R&D spending, % of GDP, KOR latest (2023)"
+ },
+ "rd_KOR_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_EUU_2000": {
+  "value": 1.76,
+  "how": "R&D spending, % of GDP, EUU 2000"
+ },
+ "rd_EUU_2010": {
+  "value": 1.96,
+  "how": "R&D spending, % of GDP, EUU 2010"
+ },
+ "rd_EUU_2019": {
+  "value": 2.21,
+  "how": "R&D spending, % of GDP, EUU 2019"
+ },
+ "rd_EUU_2020": {
+  "value": 2.28,
+  "how": "R&D spending, % of GDP, EUU 2020"
+ },
+ "rd_EUU_2022": {
+  "value": 2.23,
+  "how": "R&D spending, % of GDP, EUU 2022"
+ },
+ "rd_EUU_2023": {
+  "value": 2.26,
+  "how": "R&D spending, % of GDP, EUU 2023"
+ },
+ "rd_EUU_last": {
+  "value": 2.26,
+  "how": "R&D spending, % of GDP, EUU latest (2023)"
+ },
+ "rd_EUU_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_JPN_2000": {
+  "value": 2.86,
+  "how": "R&D spending, % of GDP, JPN 2000"
+ },
+ "rd_JPN_2010": {
+  "value": 3.1,
+  "how": "R&D spending, % of GDP, JPN 2010"
+ },
+ "rd_JPN_2019": {
+  "value": 3.22,
+  "how": "R&D spending, % of GDP, JPN 2019"
+ },
+ "rd_JPN_2020": {
+  "value": 3.27,
+  "how": "R&D spending, % of GDP, JPN 2020"
+ },
+ "rd_JPN_2022": {
+  "value": 3.4,
+  "how": "R&D spending, % of GDP, JPN 2022"
+ },
+ "rd_JPN_2023": {
+  "value": 3.44,
+  "how": "R&D spending, % of GDP, JPN 2023"
+ },
+ "rd_JPN_last": {
+  "value": 3.44,
+  "how": "R&D spending, % of GDP, JPN latest (2023)"
+ },
+ "rd_JPN_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_IND_2000": {
+  "value": 0.76,
+  "how": "R&D spending, % of GDP, IND 2000"
+ },
+ "rd_IND_2010": {
+  "value": 0.79,
+  "how": "R&D spending, % of GDP, IND 2010"
+ },
+ "rd_IND_2019": {
+  "value": 0.66,
+  "how": "R&D spending, % of GDP, IND 2019"
+ },
+ "rd_IND_2020": {
+  "value": 0.65,
+  "how": "R&D spending, % of GDP, IND 2020"
+ },
+ "rd_IND_last": {
+  "value": 0.65,
+  "how": "R&D spending, % of GDP, IND latest (2020)"
+ },
+ "rd_IND_last_yr": {
+  "value": 2020,
+  "how": ""
+ },
+ "rd_GBR_2000": {
+  "value": 1.61,
+  "how": "R&D spending, % of GDP, GBR 2000"
+ },
+ "rd_GBR_2010": {
+  "value": 1.64,
+  "how": "R&D spending, % of GDP, GBR 2010"
+ },
+ "rd_GBR_2019": {
+  "value": 2.67,
+  "how": "R&D spending, % of GDP, GBR 2019"
+ },
+ "rd_GBR_2020": {
+  "value": 2.94,
+  "how": "R&D spending, % of GDP, GBR 2020"
+ },
+ "rd_GBR_2022": {
+  "value": 2.75,
+  "how": "R&D spending, % of GDP, GBR 2022"
+ },
+ "rd_GBR_2023": {
+  "value": 2.68,
+  "how": "R&D spending, % of GDP, GBR 2023"
+ },
+ "rd_GBR_last": {
+  "value": 2.68,
+  "how": "R&D spending, % of GDP, GBR latest (2023)"
+ },
+ "rd_GBR_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_DEU_2000": {
+  "value": 2.39,
+  "how": "R&D spending, % of GDP, DEU 2000"
+ },
+ "rd_DEU_2010": {
+  "value": 2.68,
+  "how": "R&D spending, % of GDP, DEU 2010"
+ },
+ "rd_DEU_2019": {
+  "value": 3.11,
+  "how": "R&D spending, % of GDP, DEU 2019"
+ },
+ "rd_DEU_2020": {
+  "value": 3.09,
+  "how": "R&D spending, % of GDP, DEU 2020"
+ },
+ "rd_DEU_2022": {
+  "value": 3.07,
+  "how": "R&D spending, % of GDP, DEU 2022"
+ },
+ "rd_DEU_2023": {
+  "value": 3.15,
+  "how": "R&D spending, % of GDP, DEU 2023"
+ },
+ "rd_DEU_last": {
+  "value": 3.15,
+  "how": "R&D spending, % of GDP, DEU latest (2023)"
+ },
+ "rd_DEU_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "rd_ISR_2000": {
+  "value": 3.81,
+  "how": "R&D spending, % of GDP, ISR 2000"
+ },
+ "rd_ISR_2010": {
+  "value": 3.84,
+  "how": "R&D spending, % of GDP, ISR 2010"
+ },
+ "rd_ISR_2019": {
+  "value": 5.36,
+  "how": "R&D spending, % of GDP, ISR 2019"
+ },
+ "rd_ISR_2020": {
+  "value": 5.83,
+  "how": "R&D spending, % of GDP, ISR 2020"
+ },
+ "rd_ISR_2022": {
+  "value": 6.18,
+  "how": "R&D spending, % of GDP, ISR 2022"
+ },
+ "rd_ISR_2023": {
+  "value": 6.35,
+  "how": "R&D spending, % of GDP, ISR 2023"
+ },
+ "rd_ISR_last": {
+  "value": 6.35,
+  "how": "R&D spending, % of GDP, ISR latest (2023)"
+ },
+ "rd_ISR_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "res_WLD_last": {
+  "value": 1652.0,
+  "how": "researchers per million people, WLD 2020"
+ },
+ "res_WLD_last_yr": {
+  "value": 2020,
+  "how": ""
+ },
+ "res_IND_last": {
+  "value": 259.0,
+  "how": "researchers per million people, IND 2020"
+ },
+ "res_IND_last_yr": {
+  "value": 2020,
+  "how": ""
+ },
+ "res_CHN_last": {
+  "value": 2107.0,
+  "how": "researchers per million people, CHN 2023"
+ },
+ "res_CHN_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "res_USA_last": {
+  "value": 4937.0,
+  "how": "researchers per million people, USA 2022"
+ },
+ "res_USA_last_yr": {
+  "value": 2022,
+  "how": ""
+ },
+ "res_KOR_last": {
+  "value": 9472.0,
+  "how": "researchers per million people, KOR 2023"
+ },
+ "res_KOR_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "htx_WLD_2010": {
+  "value": 21.0,
+  "how": "high-technology exports, % of manufactured exports, WLD 2010"
+ },
+ "htx_WLD_2024": {
+  "value": 25.0,
+  "how": "high-technology exports, % of manufactured exports, WLD 2024"
+ },
+ "htx_IND_2010": {
+  "value": 8.0,
+  "how": "high-technology exports, % of manufactured exports, IND 2010"
+ },
+ "htx_IND_2024": {
+  "value": 19.0,
+  "how": "high-technology exports, % of manufactured exports, IND 2024"
+ },
+ "htx_CHN_2010": {
+  "value": 32.0,
+  "how": "high-technology exports, % of manufactured exports, CHN 2010"
+ },
+ "htx_CHN_2024": {
+  "value": 26.0,
+  "how": "high-technology exports, % of manufactured exports, CHN 2024"
+ },
+ "htx_USA_2010": {
+  "value": 23.0,
+  "how": "high-technology exports, % of manufactured exports, USA 2010"
+ },
+ "htx_USA_2024": {
+  "value": 24.0,
+  "how": "high-technology exports, % of manufactured exports, USA 2024"
+ },
+ "ictx_IND_2000": {
+  "value": 5.0,
+  "how": "ICT services exports, US$ billion, IND 2000"
+ },
+ "ictx_IND_2005": {
+  "value": 23.0,
+  "how": "ICT services exports, US$ billion, IND 2005"
+ },
+ "ictx_IND_2010": {
+  "value": 54.0,
+  "how": "ICT services exports, US$ billion, IND 2010"
+ },
+ "ictx_IND_2019": {
+  "value": 94.0,
+  "how": "ICT services exports, US$ billion, IND 2019"
+ },
+ "ictx_IND_2024": {
+  "value": 178.0,
+  "how": "ICT services exports, US$ billion, IND 2024"
+ },
+ "ictx_IRL_2005": {
+  "value": 20.0,
+  "how": "ICT services exports, US$ billion, IRL 2005"
+ },
+ "ictx_IRL_2010": {
+  "value": 38.0,
+  "how": "ICT services exports, US$ billion, IRL 2010"
+ },
+ "ictx_IRL_2019": {
+  "value": 140.0,
+  "how": "ICT services exports, US$ billion, IRL 2019"
+ },
+ "ictx_IRL_2024": {
+  "value": 305.0,
+  "how": "ICT services exports, US$ billion, IRL 2024"
+ },
+ "ictx_CHN_2000": {
+  "value": 1.7,
+  "how": "ICT services exports, US$ billion, CHN 2000"
+ },
+ "ictx_CHN_2005": {
+  "value": 2.3,
+  "how": "ICT services exports, US$ billion, CHN 2005"
+ },
+ "ictx_CHN_2010": {
+  "value": 10.0,
+  "how": "ICT services exports, US$ billion, CHN 2010"
+ },
+ "ictx_CHN_2019": {
+  "value": 35.0,
+  "how": "ICT services exports, US$ billion, CHN 2019"
+ },
+ "ictx_CHN_2024": {
+  "value": 69.0,
+  "how": "ICT services exports, US$ billion, CHN 2024"
+ },
+ "ictx_USA_2000": {
+  "value": 12.0,
+  "how": "ICT services exports, US$ billion, USA 2000"
+ },
+ "ictx_USA_2005": {
+  "value": 16.0,
+  "how": "ICT services exports, US$ billion, USA 2005"
+ },
+ "ictx_USA_2010": {
+  "value": 27.0,
+  "how": "ICT services exports, US$ billion, USA 2010"
+ },
+ "ictx_USA_2019": {
+  "value": 60.0,
+  "how": "ICT services exports, US$ billion, USA 2019"
+ },
+ "ictx_USA_2024": {
+  "value": 90.0,
+  "how": "ICT services exports, US$ billion, USA 2024"
+ },
+ "ictx_ISR_2000": {
+  "value": 4.4,
+  "how": "ICT services exports, US$ billion, ISR 2000"
+ },
+ "ictx_ISR_2005": {
+  "value": 4.7,
+  "how": "ICT services exports, US$ billion, ISR 2005"
+ },
+ "ictx_ISR_2010": {
+  "value": 8.6,
+  "how": "ICT services exports, US$ billion, ISR 2010"
+ },
+ "ictx_ISR_2019": {
+  "value": 28.0,
+  "how": "ICT services exports, US$ billion, ISR 2019"
+ },
+ "ictx_ISR_2024": {
+  "value": 52.0,
+  "how": "ICT services exports, US$ billion, ISR 2024"
+ },
+ "ictx_WLD_2000": {
+  "value": 91.0,
+  "how": "ICT services exports, US$ billion, WLD 2000"
+ },
+ "ictx_WLD_2005": {
+  "value": 194.0,
+  "how": "ICT services exports, US$ billion, WLD 2005"
+ },
+ "ictx_WLD_2010": {
+  "value": 346.0,
+  "how": "ICT services exports, US$ billion, WLD 2010"
+ },
+ "ictx_WLD_2019": {
+  "value": 749.0,
+  "how": "ICT services exports, US$ billion, WLD 2019"
+ },
+ "ictx_WLD_2024": {
+  "value": 1311.0,
+  "how": "ICT services exports, US$ billion, WLD 2024"
+ },
+ "ictsh_IND_2000": {
+  "value": 5.5,
+  "how": "India's share of world ICT services exports, % 2000"
+ },
+ "ictsh_IND_2010": {
+  "value": 15.7,
+  "how": "India's share of world ICT services exports, % 2010"
+ },
+ "ictsh_IND_2024": {
+  "value": 13.6,
+  "how": "India's share of world ICT services exports, % 2024"
+ },
+ "ictsv_IND_2024": {
+  "value": 47.0,
+  "how": "ICT services, % of India's services exports, 2024"
+ },
+ "tfpsh_IND_2000_2023": {
+  "value": 20.0,
+  "how": "TFP growth as % of labour-productivity growth, India 2000-2023 (PWT, rough)"
+ },
+ "netind_2015": {
+  "value": 14.9,
+  "how": "India internet users, % 2015"
+ },
+ "netind_2019": {
+  "value": 29.5,
+  "how": "India internet users, % 2019"
+ },
+ "netind_2024": {
+  "value": 64.9,
+  "how": "India internet users, % 2024"
+ },
+ "netind_2025": {
+  "value": 70.0,
+  "how": "India internet users, % 2025"
+ }
+}

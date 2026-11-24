@@ -1,0 +1,854 @@
+{
+ "nq_peak": {
+  "value": 4803.0,
+  "how": "FRED NASDAQCOM, highest monthly average 1999\u20132000 (2000-03)"
+ },
+ "nq_peakmo": {
+  "value": "2000-03",
+  "how": "month of Nasdaq peak"
+ },
+ "nq_low": {
+  "value": 1242.0,
+  "how": "FRED NASDAQCOM, lowest monthly average 2000\u20132003 (2002-10)"
+ },
+ "nq_lowmo": {
+  "value": "2002-10",
+  "how": "month of Nasdaq low"
+ },
+ "nq_fall": {
+  "value": 74.0,
+  "how": "Nasdaq fall from peak to low month, %"
+ },
+ "nq_1998_01": {
+  "value": 1570.0,
+  "how": "FRED NASDAQCOM, Jan 1998 monthly average"
+ },
+ "sp_peak": {
+  "value": 1485.0,
+  "how": "Shiller S&P composite, highest monthly 1999\u20132000 (2000-08)"
+ },
+ "sp_peakmo": {
+  "value": "2000-08",
+  "how": "month of S&P peak"
+ },
+ "sp_low": {
+  "value": 837.0,
+  "how": "Shiller S&P composite, lowest monthly 2001\u20132003 (2003-02)"
+ },
+ "sp_lowmo": {
+  "value": "2003-02",
+  "how": "month of S&P low"
+ },
+ "sp_fall": {
+  "value": 44.0,
+  "how": "S&P composite fall, peak to low month, %"
+ },
+ "cape_peak": {
+  "value": 44.2,
+  "how": "Shiller CAPE, all-time highest monthly value (1999-12)"
+ },
+ "cape_peakmo": {
+  "value": "1999-12",
+  "how": "month of CAPE peak"
+ },
+ "cape_avg_1881_1995": {
+  "value": 14.8,
+  "how": "Shiller CAPE, average of all months before 1996"
+ },
+ "cape_low": {
+  "value": 21.2,
+  "how": "Shiller CAPE, lowest 2001\u20132003 (2003-02)"
+ },
+ "cape_lowmo": {
+  "value": "2003-02",
+  "how": "month of CAPE low 2001\u201303"
+ },
+ "gdp_G001_1998": {
+  "value": 2.6,
+  "how": "WEO NGDP_RPCH G001 1998"
+ },
+ "gdp_G001_1999": {
+  "value": 3.6,
+  "how": "WEO NGDP_RPCH G001 1999"
+ },
+ "gdp_G001_2000": {
+  "value": 4.8,
+  "how": "WEO NGDP_RPCH G001 2000"
+ },
+ "gdp_G001_2001": {
+  "value": 2.5,
+  "how": "WEO NGDP_RPCH G001 2001"
+ },
+ "gdp_G001_2002": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH G001 2002"
+ },
+ "gdp_G001_2003": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH G001 2003"
+ },
+ "gdp_G110_1998": {
+  "value": 2.7,
+  "how": "WEO NGDP_RPCH G110 1998"
+ },
+ "gdp_G110_1999": {
+  "value": 3.6,
+  "how": "WEO NGDP_RPCH G110 1999"
+ },
+ "gdp_G110_2000": {
+  "value": 4.2,
+  "how": "WEO NGDP_RPCH G110 2000"
+ },
+ "gdp_G110_2001": {
+  "value": 1.6,
+  "how": "WEO NGDP_RPCH G110 2001"
+ },
+ "gdp_G110_2002": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH G110 2002"
+ },
+ "gdp_G110_2003": {
+  "value": 2.0,
+  "how": "WEO NGDP_RPCH G110 2003"
+ },
+ "gdp_G200_1998": {
+  "value": 2.4,
+  "how": "WEO NGDP_RPCH G200 1998"
+ },
+ "gdp_G200_1999": {
+  "value": 3.5,
+  "how": "WEO NGDP_RPCH G200 1999"
+ },
+ "gdp_G200_2000": {
+  "value": 5.7,
+  "how": "WEO NGDP_RPCH G200 2000"
+ },
+ "gdp_G200_2001": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH G200 2001"
+ },
+ "gdp_G200_2002": {
+  "value": 4.4,
+  "how": "WEO NGDP_RPCH G200 2002"
+ },
+ "gdp_G200_2003": {
+  "value": 6.1,
+  "how": "WEO NGDP_RPCH G200 2003"
+ },
+ "gdp_USA_1998": {
+  "value": 4.5,
+  "how": "WEO NGDP_RPCH USA 1998"
+ },
+ "gdp_USA_1999": {
+  "value": 4.8,
+  "how": "WEO NGDP_RPCH USA 1999"
+ },
+ "gdp_USA_2000": {
+  "value": 4.1,
+  "how": "WEO NGDP_RPCH USA 2000"
+ },
+ "gdp_USA_2001": {
+  "value": 1.0,
+  "how": "WEO NGDP_RPCH USA 2001"
+ },
+ "gdp_USA_2002": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH USA 2002"
+ },
+ "gdp_USA_2003": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH USA 2003"
+ },
+ "gdp_G163_1998": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G163 1998"
+ },
+ "gdp_G163_1999": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G163 1999"
+ },
+ "gdp_G163_2000": {
+  "value": 3.9,
+  "how": "WEO NGDP_RPCH G163 2000"
+ },
+ "gdp_G163_2001": {
+  "value": 2.2,
+  "how": "WEO NGDP_RPCH G163 2001"
+ },
+ "gdp_G163_2002": {
+  "value": 0.9,
+  "how": "WEO NGDP_RPCH G163 2002"
+ },
+ "gdp_G163_2003": {
+  "value": 0.7,
+  "how": "WEO NGDP_RPCH G163 2003"
+ },
+ "gdp_JPN_1998": {
+  "value": -1.8,
+  "how": "WEO NGDP_RPCH JPN 1998"
+ },
+ "gdp_JPN_1999": {
+  "value": -0.3,
+  "how": "WEO NGDP_RPCH JPN 1999"
+ },
+ "gdp_JPN_2000": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH JPN 2000"
+ },
+ "gdp_JPN_2001": {
+  "value": 0.3,
+  "how": "WEO NGDP_RPCH JPN 2001"
+ },
+ "gdp_JPN_2002": {
+  "value": 0.1,
+  "how": "WEO NGDP_RPCH JPN 2002"
+ },
+ "gdp_JPN_2003": {
+  "value": 1.4,
+  "how": "WEO NGDP_RPCH JPN 2003"
+ },
+ "gdp_DEU_1998": {
+  "value": 2.1,
+  "how": "WEO NGDP_RPCH DEU 1998"
+ },
+ "gdp_DEU_1999": {
+  "value": 2.1,
+  "how": "WEO NGDP_RPCH DEU 1999"
+ },
+ "gdp_DEU_2000": {
+  "value": 2.9,
+  "how": "WEO NGDP_RPCH DEU 2000"
+ },
+ "gdp_DEU_2001": {
+  "value": 1.6,
+  "how": "WEO NGDP_RPCH DEU 2001"
+ },
+ "gdp_DEU_2002": {
+  "value": -0.2,
+  "how": "WEO NGDP_RPCH DEU 2002"
+ },
+ "gdp_DEU_2003": {
+  "value": -0.5,
+  "how": "WEO NGDP_RPCH DEU 2003"
+ },
+ "gdp_GBR_1998": {
+  "value": 3.3,
+  "how": "WEO NGDP_RPCH GBR 1998"
+ },
+ "gdp_GBR_1999": {
+  "value": 2.9,
+  "how": "WEO NGDP_RPCH GBR 1999"
+ },
+ "gdp_GBR_2000": {
+  "value": 4.5,
+  "how": "WEO NGDP_RPCH GBR 2000"
+ },
+ "gdp_GBR_2001": {
+  "value": 2.4,
+  "how": "WEO NGDP_RPCH GBR 2001"
+ },
+ "gdp_GBR_2002": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH GBR 2002"
+ },
+ "gdp_GBR_2003": {
+  "value": 3.2,
+  "how": "WEO NGDP_RPCH GBR 2003"
+ },
+ "gdp_CHN_1998": {
+  "value": 7.9,
+  "how": "WEO NGDP_RPCH CHN 1998"
+ },
+ "gdp_CHN_1999": {
+  "value": 7.8,
+  "how": "WEO NGDP_RPCH CHN 1999"
+ },
+ "gdp_CHN_2000": {
+  "value": 8.6,
+  "how": "WEO NGDP_RPCH CHN 2000"
+ },
+ "gdp_CHN_2001": {
+  "value": 8.3,
+  "how": "WEO NGDP_RPCH CHN 2001"
+ },
+ "gdp_CHN_2002": {
+  "value": 9.2,
+  "how": "WEO NGDP_RPCH CHN 2002"
+ },
+ "gdp_CHN_2003": {
+  "value": 10.1,
+  "how": "WEO NGDP_RPCH CHN 2003"
+ },
+ "gdp_IND_1998": {
+  "value": 6.2,
+  "how": "WEO NGDP_RPCH IND 1998"
+ },
+ "gdp_IND_1999": {
+  "value": 8.8,
+  "how": "WEO NGDP_RPCH IND 1999"
+ },
+ "gdp_IND_2000": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH IND 2000"
+ },
+ "gdp_IND_2001": {
+  "value": 4.8,
+  "how": "WEO NGDP_RPCH IND 2001"
+ },
+ "gdp_IND_2002": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH IND 2002"
+ },
+ "gdp_IND_2003": {
+  "value": 7.9,
+  "how": "WEO NGDP_RPCH IND 2003"
+ },
+ "gdp_ARG_1998": {
+  "value": 3.9,
+  "how": "WEO NGDP_RPCH ARG 1998"
+ },
+ "gdp_ARG_1999": {
+  "value": -3.4,
+  "how": "WEO NGDP_RPCH ARG 1999"
+ },
+ "gdp_ARG_2000": {
+  "value": -0.8,
+  "how": "WEO NGDP_RPCH ARG 2000"
+ },
+ "gdp_ARG_2001": {
+  "value": -4.4,
+  "how": "WEO NGDP_RPCH ARG 2001"
+ },
+ "gdp_ARG_2002": {
+  "value": -10.9,
+  "how": "WEO NGDP_RPCH ARG 2002"
+ },
+ "gdp_ARG_2003": {
+  "value": 9.0,
+  "how": "WEO NGDP_RPCH ARG 2003"
+ },
+ "gdp_BRA_1998": {
+  "value": 0.3,
+  "how": "WEO NGDP_RPCH BRA 1998"
+ },
+ "gdp_BRA_1999": {
+  "value": 0.5,
+  "how": "WEO NGDP_RPCH BRA 1999"
+ },
+ "gdp_BRA_2000": {
+  "value": 4.4,
+  "how": "WEO NGDP_RPCH BRA 2000"
+ },
+ "gdp_BRA_2001": {
+  "value": 1.4,
+  "how": "WEO NGDP_RPCH BRA 2001"
+ },
+ "gdp_BRA_2002": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH BRA 2002"
+ },
+ "gdp_BRA_2003": {
+  "value": 1.1,
+  "how": "WEO NGDP_RPCH BRA 2003"
+ },
+ "gdp_TUR_1998": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH TUR 1998"
+ },
+ "gdp_TUR_1999": {
+  "value": -3.1,
+  "how": "WEO NGDP_RPCH TUR 1999"
+ },
+ "gdp_TUR_2000": {
+  "value": 7.0,
+  "how": "WEO NGDP_RPCH TUR 2000"
+ },
+ "gdp_TUR_2001": {
+  "value": -5.5,
+  "how": "WEO NGDP_RPCH TUR 2001"
+ },
+ "gdp_TUR_2002": {
+  "value": 6.4,
+  "how": "WEO NGDP_RPCH TUR 2002"
+ },
+ "gdp_TUR_2003": {
+  "value": 5.8,
+  "how": "WEO NGDP_RPCH TUR 2003"
+ },
+ "gdp_KOR_1998": {
+  "value": -4.9,
+  "how": "WEO NGDP_RPCH KOR 1998"
+ },
+ "gdp_KOR_1999": {
+  "value": 11.6,
+  "how": "WEO NGDP_RPCH KOR 1999"
+ },
+ "gdp_KOR_2000": {
+  "value": 9.2,
+  "how": "WEO NGDP_RPCH KOR 2000"
+ },
+ "gdp_KOR_2001": {
+  "value": 4.7,
+  "how": "WEO NGDP_RPCH KOR 2001"
+ },
+ "gdp_KOR_2002": {
+  "value": 7.7,
+  "how": "WEO NGDP_RPCH KOR 2002"
+ },
+ "gdp_KOR_2003": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH KOR 2003"
+ },
+ "us_ur_2000_04": {
+  "value": 3.8,
+  "how": "FRED UNRATE, 2000-04"
+ },
+ "us_ur_2001_03": {
+  "value": 4.3,
+  "how": "FRED UNRATE, 2001-03"
+ },
+ "us_ur_2001_11": {
+  "value": 5.5,
+  "how": "FRED UNRATE, 2001-11"
+ },
+ "us_ur_2003_06": {
+  "value": 6.3,
+  "how": "FRED UNRATE, 2003-06"
+ },
+ "us_ca_2000": {
+  "value": -3.8,
+  "how": "WEO BCA_NGDPD USA 2000, % of GDP"
+ },
+ "us_ca_2001": {
+  "value": -3.6,
+  "how": "WEO BCA_NGDPD USA 2001, % of GDP"
+ },
+ "us_ca_2002": {
+  "value": -4.1,
+  "how": "WEO BCA_NGDPD USA 2002, % of GDP"
+ },
+ "us_ca_2003": {
+  "value": -4.5,
+  "how": "WEO BCA_NGDPD USA 2003, % of GDP"
+ },
+ "oil_1998": {
+  "value": 13.0,
+  "how": "WEO POILBRE (Brent, US$ a barrel) 1998"
+ },
+ "oil_1999": {
+  "value": 18.0,
+  "how": "WEO POILBRE (Brent, US$ a barrel) 1999"
+ },
+ "oil_2000": {
+  "value": 29.0,
+  "how": "WEO POILBRE (Brent, US$ a barrel) 2000"
+ },
+ "oil_2001": {
+  "value": 25.0,
+  "how": "WEO POILBRE (Brent, US$ a barrel) 2001"
+ },
+ "oil_2002": {
+  "value": 25.0,
+  "how": "WEO POILBRE (Brent, US$ a barrel) 2002"
+ },
+ "cb_US_hi": {
+  "value": 6.5,
+  "how": "BIS CBPOL US, highest 1999\u20132004 (2000-05)"
+ },
+ "cb_US_himo": {
+  "value": "2000-05",
+  "how": "month US rate first reached its 1999\u20132004 high"
+ },
+ "cb_US_lo": {
+  "value": 1.0,
+  "how": "BIS CBPOL US, lowest 1999\u20132004 (2003-06)"
+ },
+ "cb_US_lomo": {
+  "value": "2003-06",
+  "how": "month US rate first reached its 1999\u20132004 low"
+ },
+ "cb_US_2001_12": {
+  "value": 1.75,
+  "how": "BIS CBPOL US, Dec 2001"
+ },
+ "cb_XM_hi": {
+  "value": 4.75,
+  "how": "BIS CBPOL XM, highest 1999\u20132004 (2000-10)"
+ },
+ "cb_XM_himo": {
+  "value": "2000-10",
+  "how": "month XM rate first reached its 1999\u20132004 high"
+ },
+ "cb_XM_lo": {
+  "value": 2.0,
+  "how": "BIS CBPOL XM, lowest 1999\u20132004 (2003-06)"
+ },
+ "cb_XM_lomo": {
+  "value": "2003-06",
+  "how": "month XM rate first reached its 1999\u20132004 low"
+ },
+ "cb_XM_2001_12": {
+  "value": 3.25,
+  "how": "BIS CBPOL XM, Dec 2001"
+ },
+ "cb_GB_hi": {
+  "value": 6.0,
+  "how": "BIS CBPOL GB, highest 1999\u20132004 (1999-01)"
+ },
+ "cb_GB_himo": {
+  "value": "1999-01",
+  "how": "month GB rate first reached its 1999\u20132004 high"
+ },
+ "cb_GB_lo": {
+  "value": 3.5,
+  "how": "BIS CBPOL GB, lowest 1999\u20132004 (2003-07)"
+ },
+ "cb_GB_lomo": {
+  "value": "2003-07",
+  "how": "month GB rate first reached its 1999\u20132004 low"
+ },
+ "cb_GB_2001_12": {
+  "value": 4.0,
+  "how": "BIS CBPOL GB, Dec 2001"
+ },
+ "fed_cut_2001": {
+  "value": 4.75,
+  "how": "BIS CBPOL US: Dec 2000 minus Dec 2001, percentage points"
+ },
+ "cb_JP_2001_03": {
+  "value": 0.15,
+  "how": "BIS CBPOL JP, Mar 2001 (last month recorded before 2006)"
+ },
+ "cb_IN_2000_03": {
+  "value": 8.0,
+  "how": "BIS CBPOL IN (RBI policy rate as BIS records it), 2000-03"
+ },
+ "cb_IN_2003_03": {
+  "value": 7.0,
+  "how": "BIS CBPOL IN (RBI policy rate as BIS records it), 2003-03"
+ },
+ "cn_xsh_1990": {
+  "value": 1.8,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 1990, %"
+ },
+ "cn_xsh_2000": {
+  "value": 3.8,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2000, %"
+ },
+ "cn_xsh_2001": {
+  "value": 4.3,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2001, %"
+ },
+ "cn_xsh_2002": {
+  "value": 5.0,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2002, %"
+ },
+ "cn_xsh_2003": {
+  "value": 5.7,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2003, %"
+ },
+ "cn_xsh_2007": {
+  "value": 8.6,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2007, %"
+ },
+ "cn_xsh_2010": {
+  "value": 10.3,
+  "how": "WDI TX.VAL.MRCH.CD.WT CHN / WLD 2010, %"
+ },
+ "cn_x_2000": {
+  "value": 249.0,
+  "how": "WDI China merchandise exports 2000, US$ bn"
+ },
+ "cn_x_2003": {
+  "value": 438.0,
+  "how": "WDI China merchandise exports 2003, US$ bn"
+ },
+ "ar_eer_fall": {
+  "value": 72.0,
+  "how": "BIS nominal effective exchange rate, Argentina: fall Dec 2001 to Jun 2002, %"
+ },
+ "ar_reer_fall": {
+  "value": 64.0,
+  "how": "BIS real effective exchange rate, Argentina: fall Dec 2001 to Jun 2002, %"
+ },
+ "ar_gdp_9802": {
+  "value": -18.0,
+  "how": "WEO NGDP_R ARG: 2002 level vs 1998, %"
+ },
+ "ar_lur_2002": {
+  "value": 22.4,
+  "how": "WEO LUR ARG 2002"
+ },
+ "f01_may_2000": {
+  "value": 3.9,
+  "how": "world 2001 growth, WEO May 2000, Ch. 1, Table 1.1, p. 2"
+ },
+ "f01_oct_2000": {
+  "value": 4.2,
+  "how": "world 2001 growth, WEO October 2000, Ch. 1, Table 1.1, p. 3"
+ },
+ "f01_may_2001": {
+  "value": 3.2,
+  "how": "world 2001 growth, WEO May 2001, Ch. 1, Table 1.1, p. 2"
+ },
+ "f01_oct_2001": {
+  "value": 2.6,
+  "how": "world 2001 growth, WEO October 2001, Ch. 1, Table 1.1, p. 2"
+ },
+ "f01_dec_2001": {
+  "value": 2.4,
+  "how": "world 2001 growth, WEO December 2001, Table 1.1"
+ },
+ "f01_apr_2002": {
+  "value": 2.5,
+  "how": "world 2001 growth, WEO April 2002, Table 1.1 (estimate)"
+ },
+ "f01_sep_2002": {
+  "value": 2.2,
+  "how": "world 2001 growth, WEO September 2002, Table 1.1 (estimate)"
+ },
+ "in_gdp11_2000": {
+  "value": 3.8,
+  "how": "India gdp_real_growth FY2000-01"
+ },
+ "in_gdp11_2001": {
+  "value": 4.8,
+  "how": "India gdp_real_growth FY2001-02"
+ },
+ "in_gdp11_2002": {
+  "value": 3.8,
+  "how": "India gdp_real_growth FY2002-03"
+ },
+ "in_gdp11_2003": {
+  "value": 7.9,
+  "how": "India gdp_real_growth FY2003-04"
+ },
+ "in_gdp11_2004": {
+  "value": 7.9,
+  "how": "India gdp_real_growth FY2004-05"
+ },
+ "in_gdp99_2000": {
+  "value": 4.4,
+  "how": "India gdpfc_growth_1999 FY2000-01"
+ },
+ "in_gdp99_2001": {
+  "value": 5.8,
+  "how": "India gdpfc_growth_1999 FY2001-02"
+ },
+ "in_gdp99_2002": {
+  "value": 3.8,
+  "how": "India gdpfc_growth_1999 FY2002-03"
+ },
+ "in_gdp99_2003": {
+  "value": 8.5,
+  "how": "India gdpfc_growth_1999 FY2003-04"
+ },
+ "in_gdp99_2004": {
+  "value": 7.5,
+  "how": "India gdpfc_growth_1999 FY2004-05"
+ },
+ "in_wpi_2001": {
+  "value": 3.6,
+  "how": "India wpi_inflation FY2001-02"
+ },
+ "in_wpi_2002": {
+  "value": 3.4,
+  "how": "India wpi_inflation FY2002-03"
+ },
+ "in_wpi_2003": {
+  "value": 5.5,
+  "how": "India wpi_inflation FY2003-04"
+ },
+ "in_wpi_2004": {
+  "value": 6.5,
+  "how": "India wpi_inflation FY2004-05"
+ },
+ "in_cab_2001": {
+  "value": 0.7,
+  "how": "India cab_gdp FY2001-02"
+ },
+ "in_cab_2002": {
+  "value": 1.2,
+  "how": "India cab_gdp FY2002-03"
+ },
+ "in_cab_2003": {
+  "value": 2.3,
+  "how": "India cab_gdp FY2003-04"
+ },
+ "in_cab_2004": {
+  "value": -0.4,
+  "how": "India cab_gdp FY2004-05"
+ },
+ "in_cfd_2001": {
+  "value": 6.1,
+  "how": "India centre_fd_gdp FY2001-02"
+ },
+ "in_cfd_2002": {
+  "value": 5.8,
+  "how": "India centre_fd_gdp FY2002-03"
+ },
+ "in_cfd_2003": {
+  "value": 4.4,
+  "how": "India centre_fd_gdp FY2003-04"
+ },
+ "in_cfd_2004": {
+  "value": 3.9,
+  "how": "India centre_fd_gdp FY2004-05"
+ },
+ "in_ggfd_2001": {
+  "value": 9.8,
+  "how": "India gg_fd_gdp FY2001-02"
+ },
+ "in_ggfd_2002": {
+  "value": 9.4,
+  "how": "India gg_fd_gdp FY2002-03"
+ },
+ "in_ggfd_2003": {
+  "value": 8.4,
+  "how": "India gg_fd_gdp FY2003-04"
+ },
+ "in_ggfd_2004": {
+  "value": 7.4,
+  "how": "India gg_fd_gdp FY2004-05"
+ },
+ "in_res_2000": {
+  "value": 42.0,
+  "how": "India fx_reserves FY2000-01"
+ },
+ "in_res_2001": {
+  "value": 54.0,
+  "how": "India fx_reserves FY2001-02"
+ },
+ "in_res_2002": {
+  "value": 76.0,
+  "how": "India fx_reserves FY2002-03"
+ },
+ "in_res_2003": {
+  "value": 113.0,
+  "how": "India fx_reserves FY2003-04"
+ },
+ "in_res_2004": {
+  "value": 142.0,
+  "how": "India fx_reserves FY2004-05"
+ },
+ "in_soft_2001": {
+  "value": 6.9,
+  "how": "India bop_software_net FY2001-02"
+ },
+ "in_soft_2002": {
+  "value": 8.9,
+  "how": "India bop_software_net FY2002-03"
+ },
+ "in_serv_2001": {
+  "value": 3.3,
+  "how": "India bop_services_net FY2001-02"
+ },
+ "in_serv_2002": {
+  "value": 3.6,
+  "how": "India bop_services_net FY2002-03"
+ },
+ "in_serv_2003": {
+  "value": 10.1,
+  "how": "India bop_services_net FY2003-04"
+ },
+ "in_serv_2004": {
+  "value": 15.4,
+  "how": "India bop_services_net FY2004-05"
+ },
+ "in_xg_2000": {
+  "value": 44.1,
+  "how": "India exports_goods FY2000-01"
+ },
+ "in_xg_2001": {
+  "value": 43.8,
+  "how": "India exports_goods FY2001-02"
+ },
+ "in_xg_2002": {
+  "value": 52.7,
+  "how": "India exports_goods FY2002-03"
+ },
+ "in_xg_2003": {
+  "value": 63.8,
+  "how": "India exports_goods FY2003-04"
+ },
+ "in_xg_2004": {
+  "value": 83.5,
+  "how": "India exports_goods FY2004-05"
+ },
+ "in_inr_2000": {
+  "value": 45.7,
+  "how": "India inr_usd FY2000-01"
+ },
+ "in_inr_2001": {
+  "value": 47.7,
+  "how": "India inr_usd FY2001-02"
+ },
+ "in_inr_2002": {
+  "value": 48.4,
+  "how": "India inr_usd FY2002-03"
+ },
+ "in_inr_2003": {
+  "value": 46.0,
+  "how": "India inr_usd FY2003-04"
+ },
+ "in_inr_2004": {
+  "value": 44.9,
+  "how": "India inr_usd FY2004-05"
+ },
+ "in_gfcf_2000": {
+  "value": 26.0,
+  "how": "India gfcf_gdp FY2000-01"
+ },
+ "in_gfcf_2001": {
+  "value": 29.9,
+  "how": "India gfcf_gdp FY2001-02"
+ },
+ "in_gfcf_2002": {
+  "value": 28.3,
+  "how": "India gfcf_gdp FY2002-03"
+ },
+ "in_gfcf_2003": {
+  "value": 28.3,
+  "how": "India gfcf_gdp FY2003-04"
+ },
+ "in_gfcf_2004": {
+  "value": 30.7,
+  "how": "India gfcf_gdp FY2004-05"
+ },
+ "in_sensex_2001": {
+  "value": 3332.0,
+  "how": "India sensex_avg FY2001-02"
+ },
+ "in_sensex_2002": {
+  "value": 3206.0,
+  "how": "India sensex_avg FY2002-03"
+ },
+ "in_sensex_2003": {
+  "value": 4492.0,
+  "how": "India sensex_avg FY2003-04"
+ },
+ "in_sensex_2004": {
+  "value": 5741.0,
+  "how": "India sensex_avg FY2004-05"
+ },
+ "in_xgr_2000": {
+  "value": 18.2,
+  "how": "India exports_gs_real_growth FY2000-01"
+ },
+ "in_xgr_2001": {
+  "value": 4.3,
+  "how": "India exports_gs_real_growth FY2001-02"
+ },
+ "in_xgr_2002": {
+  "value": 21.1,
+  "how": "India exports_gs_real_growth FY2002-03"
+ },
+ "in_xgr_2003": {
+  "value": 9.6,
+  "how": "India exports_gs_real_growth FY2003-04"
+ },
+ "in_xgr_2004": {
+  "value": 27.2,
+  "how": "India exports_gs_real_growth FY2004-05"
+ }
+}

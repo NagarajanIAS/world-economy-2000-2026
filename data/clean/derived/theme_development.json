@@ -1,0 +1,1662 @@
+{
+ "pv_WLD_1990": {
+  "value": 43.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 1990"
+ },
+ "np_WLD_1990": {
+  "value": 2300.0,
+  "how": "people below $3.00/day, millions, WLD 1990 (rate x population)"
+ },
+ "pv_WLD_2000": {
+  "value": 36.2,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2000"
+ },
+ "np_WLD_2000": {
+  "value": 2230.0,
+  "how": "people below $3.00/day, millions, WLD 2000 (rate x population)"
+ },
+ "pv_WLD_2010": {
+  "value": 21.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2010"
+ },
+ "np_WLD_2010": {
+  "value": 1470.0,
+  "how": "people below $3.00/day, millions, WLD 2010 (rate x population)"
+ },
+ "pv_WLD_2015": {
+  "value": 13.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2015"
+ },
+ "np_WLD_2015": {
+  "value": 997.0,
+  "how": "people below $3.00/day, millions, WLD 2015 (rate x population)"
+ },
+ "pv_WLD_2018": {
+  "value": 11.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2018"
+ },
+ "np_WLD_2018": {
+  "value": 854.0,
+  "how": "people below $3.00/day, millions, WLD 2018 (rate x population)"
+ },
+ "pv_WLD_2020": {
+  "value": 11.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2020"
+ },
+ "np_WLD_2020": {
+  "value": 895.0,
+  "how": "people below $3.00/day, millions, WLD 2020 (rate x population)"
+ },
+ "pv_WLD_2022": {
+  "value": 10.9,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2022"
+ },
+ "np_WLD_2022": {
+  "value": 871.0,
+  "how": "people below $3.00/day, millions, WLD 2022 (rate x population)"
+ },
+ "pv_WLD_2024": {
+  "value": 10.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, WLD 2024"
+ },
+ "np_WLD_2024": {
+  "value": 822.0,
+  "how": "people below $3.00/day, millions, WLD 2024 (rate x population)"
+ },
+ "pv_SSF_1990": {
+  "value": 61.5,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 1990"
+ },
+ "np_SSF_1990": {
+  "value": 320.0,
+  "how": "people below $3.00/day, millions, SSF 1990 (rate x population)"
+ },
+ "pv_SSF_2000": {
+  "value": 62.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2000"
+ },
+ "np_SSF_2000": {
+  "value": 425.0,
+  "how": "people below $3.00/day, millions, SSF 2000 (rate x population)"
+ },
+ "pv_SSF_2010": {
+  "value": 49.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2010"
+ },
+ "np_SSF_2010": {
+  "value": 442.0,
+  "how": "people below $3.00/day, millions, SSF 2010 (rate x population)"
+ },
+ "pv_SSF_2015": {
+  "value": 45.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2015"
+ },
+ "np_SSF_2015": {
+  "value": 465.0,
+  "how": "people below $3.00/day, millions, SSF 2015 (rate x population)"
+ },
+ "pv_SSF_2018": {
+  "value": 44.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2018"
+ },
+ "np_SSF_2018": {
+  "value": 489.0,
+  "how": "people below $3.00/day, millions, SSF 2018 (rate x population)"
+ },
+ "pv_SSF_2019": {
+  "value": 43.9,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2019"
+ },
+ "np_SSF_2019": {
+  "value": 500.0,
+  "how": "people below $3.00/day, millions, SSF 2019 (rate x population)"
+ },
+ "pv_SSF_2020": {
+  "value": 46.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2020"
+ },
+ "np_SSF_2020": {
+  "value": 537.0,
+  "how": "people below $3.00/day, millions, SSF 2020 (rate x population)"
+ },
+ "pv_SSF_2022": {
+  "value": 45.6,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2022"
+ },
+ "np_SSF_2022": {
+  "value": 560.0,
+  "how": "people below $3.00/day, millions, SSF 2022 (rate x population)"
+ },
+ "pv_SSF_2024": {
+  "value": 45.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SSF 2024"
+ },
+ "np_SSF_2024": {
+  "value": 580.0,
+  "how": "people below $3.00/day, millions, SSF 2024 (rate x population)"
+ },
+ "pv_SAS_1990": {
+  "value": 49.7,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SAS 1990"
+ },
+ "np_SAS_1990": {
+  "value": 504.0,
+  "how": "people below $3.00/day, millions, SAS 1990 (rate x population)"
+ },
+ "pv_SAS_2010": {
+  "value": 30.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SAS 2010"
+ },
+ "np_SAS_2010": {
+  "value": 439.0,
+  "how": "people below $3.00/day, millions, SAS 2010 (rate x population)"
+ },
+ "pv_SAS_2020": {
+  "value": 9.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SAS 2020"
+ },
+ "np_SAS_2020": {
+  "value": 152.0,
+  "how": "people below $3.00/day, millions, SAS 2020 (rate x population)"
+ },
+ "pv_SAS_2022": {
+  "value": 6.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SAS 2022"
+ },
+ "np_SAS_2022": {
+  "value": 101.0,
+  "how": "people below $3.00/day, millions, SAS 2022 (rate x population)"
+ },
+ "pv_SAS_2024": {
+  "value": 2.6,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, SAS 2024"
+ },
+ "np_SAS_2024": {
+  "value": 44.0,
+  "how": "people below $3.00/day, millions, SAS 2024 (rate x population)"
+ },
+ "pv_EAS_1990": {
+  "value": 67.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 1990"
+ },
+ "np_EAS_1990": {
+  "value": 1218.0,
+  "how": "people below $3.00/day, millions, EAS 1990 (rate x population)"
+ },
+ "pv_EAS_2000": {
+  "value": 46.6,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2000"
+ },
+ "np_EAS_2000": {
+  "value": 955.0,
+  "how": "people below $3.00/day, millions, EAS 2000 (rate x population)"
+ },
+ "pv_EAS_2010": {
+  "value": 18.9,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2010"
+ },
+ "np_EAS_2010": {
+  "value": 419.0,
+  "how": "people below $3.00/day, millions, EAS 2010 (rate x population)"
+ },
+ "pv_EAS_2015": {
+  "value": 6.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2015"
+ },
+ "np_EAS_2015": {
+  "value": 140.0,
+  "how": "people below $3.00/day, millions, EAS 2015 (rate x population)"
+ },
+ "pv_EAS_2018": {
+  "value": 3.3,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2018"
+ },
+ "np_EAS_2018": {
+  "value": 77.0,
+  "how": "people below $3.00/day, millions, EAS 2018 (rate x population)"
+ },
+ "pv_EAS_2019": {
+  "value": 2.6,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2019"
+ },
+ "np_EAS_2019": {
+  "value": 61.0,
+  "how": "people below $3.00/day, millions, EAS 2019 (rate x population)"
+ },
+ "pv_EAS_2020": {
+  "value": 2.7,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2020"
+ },
+ "np_EAS_2020": {
+  "value": 64.0,
+  "how": "people below $3.00/day, millions, EAS 2020 (rate x population)"
+ },
+ "pv_EAS_2022": {
+  "value": 2.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2022"
+ },
+ "np_EAS_2022": {
+  "value": 57.0,
+  "how": "people below $3.00/day, millions, EAS 2022 (rate x population)"
+ },
+ "pv_EAS_2024": {
+  "value": 2.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, EAS 2024"
+ },
+ "np_EAS_2024": {
+  "value": 48.0,
+  "how": "people below $3.00/day, millions, EAS 2024 (rate x population)"
+ },
+ "pv_MEA_1990": {
+  "value": 34.2,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 1990"
+ },
+ "np_MEA_1990": {
+  "value": 131.0,
+  "how": "people below $3.00/day, millions, MEA 1990 (rate x population)"
+ },
+ "pv_MEA_2000": {
+  "value": 23.8,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2000"
+ },
+ "np_MEA_2000": {
+  "value": 118.0,
+  "how": "people below $3.00/day, millions, MEA 2000 (rate x population)"
+ },
+ "pv_MEA_2010": {
+  "value": 13.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2010"
+ },
+ "np_MEA_2010": {
+  "value": 84.0,
+  "how": "people below $3.00/day, millions, MEA 2010 (rate x population)"
+ },
+ "pv_MEA_2015": {
+  "value": 11.3,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2015"
+ },
+ "np_MEA_2015": {
+  "value": 78.0,
+  "how": "people below $3.00/day, millions, MEA 2015 (rate x population)"
+ },
+ "pv_MEA_2018": {
+  "value": 11.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2018"
+ },
+ "np_MEA_2018": {
+  "value": 81.0,
+  "how": "people below $3.00/day, millions, MEA 2018 (rate x population)"
+ },
+ "pv_MEA_2019": {
+  "value": 11.6,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2019"
+ },
+ "np_MEA_2019": {
+  "value": 86.0,
+  "how": "people below $3.00/day, millions, MEA 2019 (rate x population)"
+ },
+ "pv_MEA_2022": {
+  "value": 13.5,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2022"
+ },
+ "np_MEA_2022": {
+  "value": 106.0,
+  "how": "people below $3.00/day, millions, MEA 2022 (rate x population)"
+ },
+ "pv_MEA_2024": {
+  "value": 14.3,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, MEA 2024"
+ },
+ "np_MEA_2024": {
+  "value": 116.0,
+  "how": "people below $3.00/day, millions, MEA 2024 (rate x population)"
+ },
+ "pv_LCN_1990": {
+  "value": 20.7,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 1990"
+ },
+ "np_LCN_1990": {
+  "value": 91.0,
+  "how": "people below $3.00/day, millions, LCN 1990 (rate x population)"
+ },
+ "pv_LCN_2000": {
+  "value": 18.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2000"
+ },
+ "np_LCN_2000": {
+  "value": 94.0,
+  "how": "people below $3.00/day, millions, LCN 2000 (rate x population)"
+ },
+ "pv_LCN_2010": {
+  "value": 8.5,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2010"
+ },
+ "np_LCN_2010": {
+  "value": 50.0,
+  "how": "people below $3.00/day, millions, LCN 2010 (rate x population)"
+ },
+ "pv_LCN_2015": {
+  "value": 6.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2015"
+ },
+ "np_LCN_2015": {
+  "value": 37.0,
+  "how": "people below $3.00/day, millions, LCN 2015 (rate x population)"
+ },
+ "pv_LCN_2018": {
+  "value": 6.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2018"
+ },
+ "np_LCN_2018": {
+  "value": 39.0,
+  "how": "people below $3.00/day, millions, LCN 2018 (rate x population)"
+ },
+ "pv_LCN_2019": {
+  "value": 6.2,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2019"
+ },
+ "np_LCN_2019": {
+  "value": 40.0,
+  "how": "people below $3.00/day, millions, LCN 2019 (rate x population)"
+ },
+ "pv_LCN_2020": {
+  "value": 5.8,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2020"
+ },
+ "np_LCN_2020": {
+  "value": 37.0,
+  "how": "people below $3.00/day, millions, LCN 2020 (rate x population)"
+ },
+ "pv_LCN_2022": {
+  "value": 5.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2022"
+ },
+ "np_LCN_2022": {
+  "value": 33.0,
+  "how": "people below $3.00/day, millions, LCN 2022 (rate x population)"
+ },
+ "pv_LCN_2024": {
+  "value": 4.3,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LCN 2024"
+ },
+ "np_LCN_2024": {
+  "value": 28.0,
+  "how": "people below $3.00/day, millions, LCN 2024 (rate x population)"
+ },
+ "pv_LMY_1990": {
+  "value": 55.5,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 1990"
+ },
+ "np_LMY_1990": {
+  "value": 2285.0,
+  "how": "people below $3.00/day, millions, LMY 1990 (rate x population)"
+ },
+ "pv_LMY_2000": {
+  "value": 45.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2000"
+ },
+ "np_LMY_2000": {
+  "value": 2213.0,
+  "how": "people below $3.00/day, millions, LMY 2000 (rate x population)"
+ },
+ "pv_LMY_2010": {
+  "value": 25.8,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2010"
+ },
+ "np_LMY_2010": {
+  "value": 1463.0,
+  "how": "people below $3.00/day, millions, LMY 2010 (rate x population)"
+ },
+ "pv_LMY_2015": {
+  "value": 16.3,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2015"
+ },
+ "np_LMY_2015": {
+  "value": 990.0,
+  "how": "people below $3.00/day, millions, LMY 2015 (rate x population)"
+ },
+ "pv_LMY_2018": {
+  "value": 13.4,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2018"
+ },
+ "np_LMY_2018": {
+  "value": 846.0,
+  "how": "people below $3.00/day, millions, LMY 2018 (rate x population)"
+ },
+ "pv_LMY_2019": {
+  "value": 13.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2019"
+ },
+ "np_LMY_2019": {
+  "value": 830.0,
+  "how": "people below $3.00/day, millions, LMY 2019 (rate x population)"
+ },
+ "pv_LMY_2020": {
+  "value": 13.8,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2020"
+ },
+ "np_LMY_2020": {
+  "value": 892.0,
+  "how": "people below $3.00/day, millions, LMY 2020 (rate x population)"
+ },
+ "pv_LMY_2022": {
+  "value": 13.0,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2022"
+ },
+ "np_LMY_2022": {
+  "value": 857.0,
+  "how": "people below $3.00/day, millions, LMY 2022 (rate x population)"
+ },
+ "pv_LMY_2024": {
+  "value": 12.1,
+  "how": "poverty headcount at $3.00/day (2021 PPP), % of population, LMY 2024"
+ },
+ "np_LMY_2024": {
+  "value": 813.0,
+  "how": "people below $3.00/day, millions, LMY 2024 (rate x population)"
+ },
+ "pv42_WLD_2000": {
+  "value": 50.9,
+  "how": "poverty headcount at $4.20/day, % WLD 2000"
+ },
+ "pv83_WLD_2000": {
+  "value": 70.6,
+  "how": "poverty headcount at $8.30/day, % WLD 2000"
+ },
+ "pv42_WLD_2010": {
+  "value": 35.8,
+  "how": "poverty headcount at $4.20/day, % WLD 2010"
+ },
+ "pv83_WLD_2010": {
+  "value": 60.2,
+  "how": "poverty headcount at $8.30/day, % WLD 2010"
+ },
+ "pv42_WLD_2024": {
+  "value": 18.2,
+  "how": "poverty headcount at $4.20/day, % WLD 2024"
+ },
+ "pv83_WLD_2024": {
+  "value": 46.2,
+  "how": "poverty headcount at $8.30/day, % WLD 2024"
+ },
+ "pv42_SSF_2000": {
+  "value": 75.7,
+  "how": "poverty headcount at $4.20/day, % SSF 2000"
+ },
+ "pv83_SSF_2000": {
+  "value": 91.7,
+  "how": "poverty headcount at $8.30/day, % SSF 2000"
+ },
+ "pv42_SSF_2010": {
+  "value": 66.2,
+  "how": "poverty headcount at $4.20/day, % SSF 2010"
+ },
+ "pv83_SSF_2010": {
+  "value": 88.7,
+  "how": "poverty headcount at $8.30/day, % SSF 2010"
+ },
+ "pv42_SSF_2019": {
+  "value": 61.3,
+  "how": "poverty headcount at $4.20/day, % SSF 2019"
+ },
+ "pv83_SSF_2019": {
+  "value": 87.4,
+  "how": "poverty headcount at $8.30/day, % SSF 2019"
+ },
+ "pv42_SSF_2024": {
+  "value": 63.2,
+  "how": "poverty headcount at $4.20/day, % SSF 2024"
+ },
+ "pv83_SSF_2024": {
+  "value": 88.6,
+  "how": "poverty headcount at $8.30/day, % SSF 2024"
+ },
+ "pv42_LMY_2000": {
+  "value": 63.1,
+  "how": "poverty headcount at $4.20/day, % LMY 2000"
+ },
+ "pv83_LMY_2000": {
+  "value": 85.9,
+  "how": "poverty headcount at $8.30/day, % LMY 2000"
+ },
+ "pv42_LMY_2010": {
+  "value": 44.0,
+  "how": "poverty headcount at $4.20/day, % LMY 2010"
+ },
+ "pv83_LMY_2010": {
+  "value": 73.4,
+  "how": "poverty headcount at $8.30/day, % LMY 2010"
+ },
+ "pv42_LMY_2019": {
+  "value": 26.0,
+  "how": "poverty headcount at $4.20/day, % LMY 2019"
+ },
+ "pv83_LMY_2019": {
+  "value": 59.9,
+  "how": "poverty headcount at $8.30/day, % LMY 2019"
+ },
+ "pv42_LMY_2024": {
+  "value": 21.9,
+  "how": "poverty headcount at $4.20/day, % LMY 2024"
+ },
+ "pv83_LMY_2024": {
+  "value": 55.5,
+  "how": "poverty headcount at $8.30/day, % LMY 2024"
+ },
+ "sh_SSF_1990": {
+  "value": 14.0,
+  "how": "Sub-Saharan Africa share of the world's extreme poor, % 1990"
+ },
+ "np_rest_1990": {
+  "value": 1979.0,
+  "how": "people below $3.00/day outside Sub-Saharan Africa, millions, 1990"
+ },
+ "sh_SSF_2000": {
+  "value": 19.0,
+  "how": "Sub-Saharan Africa share of the world's extreme poor, % 2000"
+ },
+ "np_rest_2000": {
+  "value": 1806.0,
+  "how": "people below $3.00/day outside Sub-Saharan Africa, millions, 2000"
+ },
+ "sh_SSF_2010": {
+  "value": 30.0,
+  "how": "Sub-Saharan Africa share of the world's extreme poor, % 2010"
+ },
+ "np_rest_2010": {
+  "value": 1028.0,
+  "how": "people below $3.00/day outside Sub-Saharan Africa, millions, 2010"
+ },
+ "sh_SSF_2015": {
+  "value": 47.0,
+  "how": "Sub-Saharan Africa share of the world's extreme poor, % 2015"
+ },
+ "np_rest_2015": {
+  "value": 532.0,
+  "how": "people below $3.00/day outside Sub-Saharan Africa, millions, 2015"
+ },
+ "sh_SSF_2024": {
+  "value": 71.0,
+  "how": "Sub-Saharan Africa share of the world's extreme poor, % 2024"
+ },
+ "np_rest_2024": {
+  "value": 242.0,
+  "how": "people below $3.00/day outside Sub-Saharan Africa, millions, 2024"
+ },
+ "np_WLD_2015_2024": {
+  "value": -175.0,
+  "how": "change in number of extreme poor 2015-2024, millions"
+ },
+ "np_WLD_2000_2015": {
+  "value": -1233.0,
+  "how": "change in number of extreme poor 2000-2015, millions"
+ },
+ "np_WLD_2018_2020": {
+  "value": 41.0,
+  "how": "change in number of extreme poor 2018-2020, millions (no 2019 world estimate in WDI)"
+ },
+ "u5_WLD_1990": {
+  "value": 93.5,
+  "how": "under-5 mortality per 1,000 live births, WLD 1990"
+ },
+ "u5_WLD_2000": {
+  "value": 76.7,
+  "how": "under-5 mortality per 1,000 live births, WLD 2000"
+ },
+ "u5_WLD_2015": {
+  "value": 42.9,
+  "how": "under-5 mortality per 1,000 live births, WLD 2015"
+ },
+ "u5_WLD_2019": {
+  "value": 39.6,
+  "how": "under-5 mortality per 1,000 live births, WLD 2019"
+ },
+ "u5_WLD_2024": {
+  "value": 37.4,
+  "how": "under-5 mortality per 1,000 live births, WLD 2024"
+ },
+ "u5fall_WLD": {
+  "value": 51.0,
+  "how": "% fall in under-5 mortality 2000-2024, WLD"
+ },
+ "u5_SSF_1990": {
+  "value": 178.0,
+  "how": "under-5 mortality per 1,000 live births, SSF 1990"
+ },
+ "u5_SSF_2000": {
+  "value": 150.0,
+  "how": "under-5 mortality per 1,000 live births, SSF 2000"
+ },
+ "u5_SSF_2015": {
+  "value": 85.0,
+  "how": "under-5 mortality per 1,000 live births, SSF 2015"
+ },
+ "u5_SSF_2019": {
+  "value": 78.0,
+  "how": "under-5 mortality per 1,000 live births, SSF 2019"
+ },
+ "u5_SSF_2024": {
+  "value": 71.0,
+  "how": "under-5 mortality per 1,000 live births, SSF 2024"
+ },
+ "u5fall_SSF": {
+  "value": 53.0,
+  "how": "% fall in under-5 mortality 2000-2024, SSF"
+ },
+ "u5_SAS_1990": {
+  "value": 129.0,
+  "how": "under-5 mortality per 1,000 live births, SAS 1990"
+ },
+ "u5_SAS_2000": {
+  "value": 90.0,
+  "how": "under-5 mortality per 1,000 live births, SAS 2000"
+ },
+ "u5_SAS_2015": {
+  "value": 43.0,
+  "how": "under-5 mortality per 1,000 live births, SAS 2015"
+ },
+ "u5_SAS_2019": {
+  "value": 34.0,
+  "how": "under-5 mortality per 1,000 live births, SAS 2019"
+ },
+ "u5_SAS_2024": {
+  "value": 27.0,
+  "how": "under-5 mortality per 1,000 live births, SAS 2024"
+ },
+ "u5fall_SAS": {
+  "value": 70.0,
+  "how": "% fall in under-5 mortality 2000-2024, SAS"
+ },
+ "u5_EAS_1990": {
+  "value": 56.0,
+  "how": "under-5 mortality per 1,000 live births, EAS 1990"
+ },
+ "u5_EAS_2000": {
+  "value": 40.0,
+  "how": "under-5 mortality per 1,000 live births, EAS 2000"
+ },
+ "u5_EAS_2015": {
+  "value": 17.0,
+  "how": "under-5 mortality per 1,000 live births, EAS 2015"
+ },
+ "u5_EAS_2019": {
+  "value": 14.0,
+  "how": "under-5 mortality per 1,000 live births, EAS 2019"
+ },
+ "u5_EAS_2024": {
+  "value": 13.0,
+  "how": "under-5 mortality per 1,000 live births, EAS 2024"
+ },
+ "u5fall_EAS": {
+  "value": 67.0,
+  "how": "% fall in under-5 mortality 2000-2024, EAS"
+ },
+ "u5_IND_1990": {
+  "value": 127.0,
+  "how": "under-5 mortality per 1,000 live births, IND 1990"
+ },
+ "u5_IND_2000": {
+  "value": 92.0,
+  "how": "under-5 mortality per 1,000 live births, IND 2000"
+ },
+ "u5_IND_2015": {
+  "value": 44.0,
+  "how": "under-5 mortality per 1,000 live births, IND 2015"
+ },
+ "u5_IND_2019": {
+  "value": 35.0,
+  "how": "under-5 mortality per 1,000 live births, IND 2019"
+ },
+ "u5_IND_2024": {
+  "value": 27.0,
+  "how": "under-5 mortality per 1,000 live births, IND 2024"
+ },
+ "u5fall_IND": {
+  "value": 71.0,
+  "how": "% fall in under-5 mortality 2000-2024, IND"
+ },
+ "u5_CHN_1990": {
+  "value": 54.0,
+  "how": "under-5 mortality per 1,000 live births, CHN 1990"
+ },
+ "u5_CHN_2000": {
+  "value": 37.0,
+  "how": "under-5 mortality per 1,000 live births, CHN 2000"
+ },
+ "u5_CHN_2015": {
+  "value": 11.0,
+  "how": "under-5 mortality per 1,000 live births, CHN 2015"
+ },
+ "u5_CHN_2019": {
+  "value": 8.0,
+  "how": "under-5 mortality per 1,000 live births, CHN 2019"
+ },
+ "u5_CHN_2024": {
+  "value": 6.0,
+  "how": "under-5 mortality per 1,000 live births, CHN 2024"
+ },
+ "u5fall_CHN": {
+  "value": 84.0,
+  "how": "% fall in under-5 mortality 2000-2024, CHN"
+ },
+ "u5_BGD_1990": {
+  "value": 146.0,
+  "how": "under-5 mortality per 1,000 live births, BGD 1990"
+ },
+ "u5_BGD_2000": {
+  "value": 86.0,
+  "how": "under-5 mortality per 1,000 live births, BGD 2000"
+ },
+ "u5_BGD_2015": {
+  "value": 38.0,
+  "how": "under-5 mortality per 1,000 live births, BGD 2015"
+ },
+ "u5_BGD_2019": {
+  "value": 32.0,
+  "how": "under-5 mortality per 1,000 live births, BGD 2019"
+ },
+ "u5_BGD_2024": {
+  "value": 30.0,
+  "how": "under-5 mortality per 1,000 live births, BGD 2024"
+ },
+ "u5fall_BGD": {
+  "value": 64.0,
+  "how": "% fall in under-5 mortality 2000-2024, BGD"
+ },
+ "u5_PAK_1990": {
+  "value": 140.0,
+  "how": "under-5 mortality per 1,000 live births, PAK 1990"
+ },
+ "u5_PAK_2000": {
+  "value": 108.0,
+  "how": "under-5 mortality per 1,000 live births, PAK 2000"
+ },
+ "u5_PAK_2015": {
+  "value": 75.0,
+  "how": "under-5 mortality per 1,000 live births, PAK 2015"
+ },
+ "u5_PAK_2019": {
+  "value": 66.0,
+  "how": "under-5 mortality per 1,000 live births, PAK 2019"
+ },
+ "u5_PAK_2024": {
+  "value": 56.0,
+  "how": "under-5 mortality per 1,000 live births, PAK 2024"
+ },
+ "u5fall_PAK": {
+  "value": 48.0,
+  "how": "% fall in under-5 mortality 2000-2024, PAK"
+ },
+ "u5_NGA_1990": {
+  "value": 208.0,
+  "how": "under-5 mortality per 1,000 live births, NGA 1990"
+ },
+ "u5_NGA_2000": {
+  "value": 177.0,
+  "how": "under-5 mortality per 1,000 live births, NGA 2000"
+ },
+ "u5_NGA_2015": {
+  "value": 118.0,
+  "how": "under-5 mortality per 1,000 live births, NGA 2015"
+ },
+ "u5_NGA_2019": {
+  "value": 117.0,
+  "how": "under-5 mortality per 1,000 live births, NGA 2019"
+ },
+ "u5_NGA_2024": {
+  "value": 116.0,
+  "how": "under-5 mortality per 1,000 live births, NGA 2024"
+ },
+ "u5fall_NGA": {
+  "value": 35.0,
+  "how": "% fall in under-5 mortality 2000-2024, NGA"
+ },
+ "u5_LMY_1990": {
+  "value": 103.0,
+  "how": "under-5 mortality per 1,000 live births, LMY 1990"
+ },
+ "u5_LMY_2000": {
+  "value": 85.0,
+  "how": "under-5 mortality per 1,000 live births, LMY 2000"
+ },
+ "u5_LMY_2015": {
+  "value": 47.0,
+  "how": "under-5 mortality per 1,000 live births, LMY 2015"
+ },
+ "u5_LMY_2019": {
+  "value": 43.0,
+  "how": "under-5 mortality per 1,000 live births, LMY 2019"
+ },
+ "u5_LMY_2024": {
+  "value": 41.0,
+  "how": "under-5 mortality per 1,000 live births, LMY 2024"
+ },
+ "u5fall_LMY": {
+  "value": 52.0,
+  "how": "% fall in under-5 mortality 2000-2024, LMY"
+ },
+ "le_WLD_2000": {
+  "value": 67.7,
+  "how": "life expectancy at birth, years, WLD 2000"
+ },
+ "le_WLD_2019": {
+  "value": 72.9,
+  "how": "life expectancy at birth, years, WLD 2019"
+ },
+ "le_WLD_2020": {
+  "value": 72.2,
+  "how": "life expectancy at birth, years, WLD 2020"
+ },
+ "le_WLD_2021": {
+  "value": 71.2,
+  "how": "life expectancy at birth, years, WLD 2021"
+ },
+ "le_WLD_2022": {
+  "value": 73.0,
+  "how": "life expectancy at birth, years, WLD 2022"
+ },
+ "le_WLD_2024": {
+  "value": 73.5,
+  "how": "life expectancy at birth, years, WLD 2024"
+ },
+ "le_SSF_2000": {
+  "value": 51.6,
+  "how": "life expectancy at birth, years, SSF 2000"
+ },
+ "le_SSF_2019": {
+  "value": 61.1,
+  "how": "life expectancy at birth, years, SSF 2019"
+ },
+ "le_SSF_2020": {
+  "value": 61.2,
+  "how": "life expectancy at birth, years, SSF 2020"
+ },
+ "le_SSF_2021": {
+  "value": 60.7,
+  "how": "life expectancy at birth, years, SSF 2021"
+ },
+ "le_SSF_2022": {
+  "value": 61.9,
+  "how": "life expectancy at birth, years, SSF 2022"
+ },
+ "le_SSF_2024": {
+  "value": 62.8,
+  "how": "life expectancy at birth, years, SSF 2024"
+ },
+ "le_SAS_2000": {
+  "value": 62.8,
+  "how": "life expectancy at birth, years, SAS 2000"
+ },
+ "le_SAS_2019": {
+  "value": 71.0,
+  "how": "life expectancy at birth, years, SAS 2019"
+ },
+ "le_SAS_2020": {
+  "value": 70.4,
+  "how": "life expectancy at birth, years, SAS 2020"
+ },
+ "le_SAS_2021": {
+  "value": 67.8,
+  "how": "life expectancy at birth, years, SAS 2021"
+ },
+ "le_SAS_2022": {
+  "value": 72.0,
+  "how": "life expectancy at birth, years, SAS 2022"
+ },
+ "le_SAS_2024": {
+  "value": 72.6,
+  "how": "life expectancy at birth, years, SAS 2024"
+ },
+ "le_IND_2000": {
+  "value": 62.7,
+  "how": "life expectancy at birth, years, IND 2000"
+ },
+ "le_IND_2019": {
+  "value": 70.7,
+  "how": "life expectancy at birth, years, IND 2019"
+ },
+ "le_IND_2020": {
+  "value": 70.2,
+  "how": "life expectancy at birth, years, IND 2020"
+ },
+ "le_IND_2021": {
+  "value": 67.3,
+  "how": "life expectancy at birth, years, IND 2021"
+ },
+ "le_IND_2022": {
+  "value": 71.7,
+  "how": "life expectancy at birth, years, IND 2022"
+ },
+ "le_IND_2024": {
+  "value": 72.2,
+  "how": "life expectancy at birth, years, IND 2024"
+ },
+ "le_CHN_2000": {
+  "value": 72.3,
+  "how": "life expectancy at birth, years, CHN 2000"
+ },
+ "le_CHN_2019": {
+  "value": 77.9,
+  "how": "life expectancy at birth, years, CHN 2019"
+ },
+ "le_CHN_2020": {
+  "value": 78.0,
+  "how": "life expectancy at birth, years, CHN 2020"
+ },
+ "le_CHN_2021": {
+  "value": 78.1,
+  "how": "life expectancy at birth, years, CHN 2021"
+ },
+ "le_CHN_2022": {
+  "value": 78.2,
+  "how": "life expectancy at birth, years, CHN 2022"
+ },
+ "le_CHN_2024": {
+  "value": 78.0,
+  "how": "life expectancy at birth, years, CHN 2024"
+ },
+ "le_USA_2000": {
+  "value": 76.6,
+  "how": "life expectancy at birth, years, USA 2000"
+ },
+ "le_USA_2019": {
+  "value": 78.8,
+  "how": "life expectancy at birth, years, USA 2019"
+ },
+ "le_USA_2020": {
+  "value": 77.0,
+  "how": "life expectancy at birth, years, USA 2020"
+ },
+ "le_USA_2021": {
+  "value": 76.3,
+  "how": "life expectancy at birth, years, USA 2021"
+ },
+ "le_USA_2022": {
+  "value": 77.4,
+  "how": "life expectancy at birth, years, USA 2022"
+ },
+ "le_USA_2024": {
+  "value": 78.9,
+  "how": "life expectancy at birth, years, USA 2024"
+ },
+ "le_NGA_2000": {
+  "value": 47.1,
+  "how": "life expectancy at birth, years, NGA 2000"
+ },
+ "le_NGA_2019": {
+  "value": 53.0,
+  "how": "life expectancy at birth, years, NGA 2019"
+ },
+ "le_NGA_2020": {
+  "value": 53.1,
+  "how": "life expectancy at birth, years, NGA 2020"
+ },
+ "le_NGA_2021": {
+  "value": 53.5,
+  "how": "life expectancy at birth, years, NGA 2021"
+ },
+ "le_NGA_2022": {
+  "value": 54.1,
+  "how": "life expectancy at birth, years, NGA 2022"
+ },
+ "le_NGA_2024": {
+  "value": 54.6,
+  "how": "life expectancy at birth, years, NGA 2024"
+ },
+ "le_LMY_2000": {
+  "value": 65.5,
+  "how": "life expectancy at birth, years, LMY 2000"
+ },
+ "le_LMY_2019": {
+  "value": 71.3,
+  "how": "life expectancy at birth, years, LMY 2019"
+ },
+ "le_LMY_2020": {
+  "value": 70.7,
+  "how": "life expectancy at birth, years, LMY 2020"
+ },
+ "le_LMY_2021": {
+  "value": 69.6,
+  "how": "life expectancy at birth, years, LMY 2021"
+ },
+ "le_LMY_2022": {
+  "value": 71.6,
+  "how": "life expectancy at birth, years, LMY 2022"
+ },
+ "le_LMY_2024": {
+  "value": 72.0,
+  "how": "life expectancy at birth, years, LMY 2024"
+ },
+ "le_WLD_drop": {
+  "value": -1.7,
+  "how": "change in world life expectancy 2019-2021, years"
+ },
+ "le_IND_drop": {
+  "value": -3.5,
+  "how": "change in India life expectancy 2019-2021, years"
+ },
+ "mmr_WLD_2000": {
+  "value": 328.0,
+  "how": "maternal deaths per 100,000 live births (modelled), WLD 2000"
+ },
+ "mmr_WLD_2015": {
+  "value": 228.0,
+  "how": "maternal deaths per 100,000 live births (modelled), WLD 2015"
+ },
+ "mmr_WLD_2023": {
+  "value": 197.0,
+  "how": "maternal deaths per 100,000 live births (modelled), WLD 2023"
+ },
+ "mmr_SSF_2000": {
+  "value": 744.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SSF 2000"
+ },
+ "mmr_SSF_2015": {
+  "value": 593.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SSF 2015"
+ },
+ "mmr_SSF_2023": {
+  "value": 448.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SSF 2023"
+ },
+ "mmr_SAS_2000": {
+  "value": 415.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SAS 2000"
+ },
+ "mmr_SAS_2015": {
+  "value": 173.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SAS 2015"
+ },
+ "mmr_SAS_2023": {
+  "value": 120.0,
+  "how": "maternal deaths per 100,000 live births (modelled), SAS 2023"
+ },
+ "mmr_IND_2000": {
+  "value": 362.0,
+  "how": "maternal deaths per 100,000 live births (modelled), IND 2000"
+ },
+ "mmr_IND_2015": {
+  "value": 129.0,
+  "how": "maternal deaths per 100,000 live births (modelled), IND 2015"
+ },
+ "mmr_IND_2023": {
+  "value": 80.0,
+  "how": "maternal deaths per 100,000 live births (modelled), IND 2023"
+ },
+ "cmp_WLD_2000": {
+  "value": 82.0,
+  "how": "primary completion rate, % of relevant age group, WLD 2000"
+ },
+ "cmp_WLD_2010": {
+  "value": 89.0,
+  "how": "primary completion rate, % of relevant age group, WLD 2010"
+ },
+ "cmp_WLD_2015": {
+  "value": 88.0,
+  "how": "primary completion rate, % of relevant age group, WLD 2015"
+ },
+ "cmp_WLD_2019": {
+  "value": 88.0,
+  "how": "primary completion rate, % of relevant age group, WLD 2019"
+ },
+ "cmp_WLD_2024": {
+  "value": 88.0,
+  "how": "primary completion rate, % of relevant age group, WLD 2024"
+ },
+ "cmp_SSF_2000": {
+  "value": 53.0,
+  "how": "primary completion rate, % of relevant age group, SSF 2000"
+ },
+ "cmp_SSF_2010": {
+  "value": 66.0,
+  "how": "primary completion rate, % of relevant age group, SSF 2010"
+ },
+ "cmp_SSF_2015": {
+  "value": 66.0,
+  "how": "primary completion rate, % of relevant age group, SSF 2015"
+ },
+ "cmp_SSF_2019": {
+  "value": 68.0,
+  "how": "primary completion rate, % of relevant age group, SSF 2019"
+ },
+ "cmp_SSF_2024": {
+  "value": 69.0,
+  "how": "primary completion rate, % of relevant age group, SSF 2024"
+ },
+ "cmp_LMY_2000": {
+  "value": 80.0,
+  "how": "primary completion rate, % of relevant age group, LMY 2000"
+ },
+ "cmp_LMY_2010": {
+  "value": 87.0,
+  "how": "primary completion rate, % of relevant age group, LMY 2010"
+ },
+ "cmp_LMY_2015": {
+  "value": 87.0,
+  "how": "primary completion rate, % of relevant age group, LMY 2015"
+ },
+ "cmp_LMY_2019": {
+  "value": 87.0,
+  "how": "primary completion rate, % of relevant age group, LMY 2019"
+ },
+ "cmp_LMY_2024": {
+  "value": 87.0,
+  "how": "primary completion rate, % of relevant age group, LMY 2024"
+ },
+ "cmp_IND_2000": {
+  "value": 75.0,
+  "how": "primary completion rate, % of relevant age group, IND 2000"
+ },
+ "cmp_IND_2015": {
+  "value": 100.0,
+  "how": "primary completion rate, % of relevant age group, IND 2015"
+ },
+ "cmp_IND_2019": {
+  "value": 96.0,
+  "how": "primary completion rate, % of relevant age group, IND 2019"
+ },
+ "cmp_IND_2024": {
+  "value": 94.0,
+  "how": "primary completion rate, % of relevant age group, IND 2024"
+ },
+ "lpv_WLD_2015": {
+  "value": 44.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % WLD 2015"
+ },
+ "lpv_WLD_2019": {
+  "value": 48.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % WLD 2019"
+ },
+ "lpv_SSF_2015": {
+  "value": 87.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % SSF 2015"
+ },
+ "lpv_SSF_2019": {
+  "value": 86.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % SSF 2019"
+ },
+ "lpv_SAS_2015": {
+  "value": 55.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % SAS 2015"
+ },
+ "lpv_SAS_2019": {
+  "value": 56.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % SAS 2019"
+ },
+ "lpv_IND_2017": {
+  "value": 56.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % IND 2017"
+ },
+ "lpv_LMY_2019": {
+  "value": 57.0,
+  "how": "learning poverty (share of 10-year-olds unable to read a simple text, adjusted for out-of-school), % LMY 2019"
+ },
+ "gini_BRA_first": {
+  "value": 60.5,
+  "how": "Gini index, BRA, first year 1990"
+ },
+ "gini_BRA_first_yr": {
+  "value": 1990,
+  "how": ""
+ },
+ "gini_BRA_last": {
+  "value": 50.3,
+  "how": "Gini index, BRA, latest year 2024"
+ },
+ "gini_BRA_last_yr": {
+  "value": 2024,
+  "how": ""
+ },
+ "gini_BRA_2001": {
+  "value": 58.4,
+  "how": "Gini index BRA 2001"
+ },
+ "gini_ZAF_first": {
+  "value": 59.3,
+  "how": "Gini index, ZAF, first year 1993"
+ },
+ "gini_ZAF_first_yr": {
+  "value": 1993,
+  "how": ""
+ },
+ "gini_ZAF_last": {
+  "value": 54.1,
+  "how": "Gini index, ZAF, latest year 2022"
+ },
+ "gini_ZAF_last_yr": {
+  "value": 2022,
+  "how": ""
+ },
+ "gini_ZAF_2000": {
+  "value": 57.8,
+  "how": "Gini index ZAF 2000"
+ },
+ "gini_USA_first": {
+  "value": 38.3,
+  "how": "Gini index, USA, first year 1990"
+ },
+ "gini_USA_first_yr": {
+  "value": 1990,
+  "how": ""
+ },
+ "gini_USA_last": {
+  "value": 41.8,
+  "how": "Gini index, USA, latest year 2024"
+ },
+ "gini_USA_last_yr": {
+  "value": 2024,
+  "how": ""
+ },
+ "gini_USA_2000": {
+  "value": 40.1,
+  "how": "Gini index USA 2000"
+ },
+ "gini_CHN_first": {
+  "value": 32.2,
+  "how": "Gini index, CHN, first year 1990"
+ },
+ "gini_CHN_first_yr": {
+  "value": 1990,
+  "how": ""
+ },
+ "gini_CHN_last": {
+  "value": 36.0,
+  "how": "Gini index, CHN, latest year 2022"
+ },
+ "gini_CHN_last_yr": {
+  "value": 2022,
+  "how": ""
+ },
+ "gini_IND_first": {
+  "value": 26.1,
+  "how": "Gini index, IND, first year 1993"
+ },
+ "gini_IND_first_yr": {
+  "value": 1993,
+  "how": ""
+ },
+ "gini_IND_last": {
+  "value": 23.0,
+  "how": "Gini index, IND, latest year 2023"
+ },
+ "gini_IND_last_yr": {
+  "value": 2023,
+  "how": ""
+ },
+ "gini_IDN_first": {
+  "value": 31.1,
+  "how": "Gini index, IDN, first year 1990"
+ },
+ "gini_IDN_first_yr": {
+  "value": 1990,
+  "how": ""
+ },
+ "gini_IDN_last": {
+  "value": 34.4,
+  "how": "Gini index, IDN, latest year 2025"
+ },
+ "gini_IDN_last_yr": {
+  "value": 2025,
+  "how": ""
+ },
+ "gini_IDN_2000": {
+  "value": 30.3,
+  "how": "Gini index IDN 2000"
+ },
+ "gini_NGA_first": {
+  "value": 44.9,
+  "how": "Gini index, NGA, first year 1992"
+ },
+ "gini_NGA_first_yr": {
+  "value": 1992,
+  "how": ""
+ },
+ "gini_NGA_last": {
+  "value": 33.9,
+  "how": "Gini index, NGA, latest year 2022"
+ },
+ "gini_NGA_last_yr": {
+  "value": 2022,
+  "how": ""
+ },
+ "gini_DEU_first": {
+  "value": 29.3,
+  "how": "Gini index, DEU, first year 1991"
+ },
+ "gini_DEU_first_yr": {
+  "value": 1991,
+  "how": ""
+ },
+ "gini_DEU_last": {
+  "value": 33.7,
+  "how": "Gini index, DEU, latest year 2022"
+ },
+ "gini_DEU_last_yr": {
+  "value": 2022,
+  "how": ""
+ },
+ "gini_DEU_2000": {
+  "value": 28.7,
+  "how": "Gini index DEU 2000"
+ },
+ "oda_WLD_2000": {
+  "value": 50.0,
+  "how": "net ODA received, US$ billion (current), WLD 2000"
+ },
+ "oda_WLD_2010": {
+  "value": 121.4,
+  "how": "net ODA received, US$ billion (current), WLD 2010"
+ },
+ "oda_WLD_2019": {
+  "value": 164.0,
+  "how": "net ODA received, US$ billion (current), WLD 2019"
+ },
+ "oda_WLD_2022": {
+  "value": 246.9,
+  "how": "net ODA received, US$ billion (current), WLD 2022"
+ },
+ "oda_WLD_2023": {
+  "value": 259.5,
+  "how": "net ODA received, US$ billion (current), WLD 2023"
+ },
+ "oda_SSF_2000": {
+  "value": 13.1,
+  "how": "net ODA received, US$ billion (current), SSF 2000"
+ },
+ "oda_SSF_2010": {
+  "value": 38.8,
+  "how": "net ODA received, US$ billion (current), SSF 2010"
+ },
+ "oda_SSF_2019": {
+  "value": 53.4,
+  "how": "net ODA received, US$ billion (current), SSF 2019"
+ },
+ "oda_SSF_2022": {
+  "value": 61.0,
+  "how": "net ODA received, US$ billion (current), SSF 2022"
+ },
+ "oda_SSF_2023": {
+  "value": 64.8,
+  "how": "net ODA received, US$ billion (current), SSF 2023"
+ },
+ "oda_IND_2000": {
+  "value": 1.4,
+  "how": "net ODA received, US$ billion (current), IND 2000"
+ },
+ "oda_IND_2010": {
+  "value": 2.6,
+  "how": "net ODA received, US$ billion (current), IND 2010"
+ },
+ "oda_IND_2019": {
+  "value": 2.6,
+  "how": "net ODA received, US$ billion (current), IND 2019"
+ },
+ "oda_IND_2022": {
+  "value": 2.8,
+  "how": "net ODA received, US$ billion (current), IND 2022"
+ },
+ "oda_IND_2023": {
+  "value": 2.4,
+  "how": "net ODA received, US$ billion (current), IND 2023"
+ },
+ "pv_IND_1993": {
+  "value": 47.5,
+  "how": "India poverty at $3.00/day, % 1993 (survey year)"
+ },
+ "pv42_IND_1993": {
+  "value": 76.2,
+  "how": "India poverty at $4.20/day, % 1993"
+ },
+ "pv83_IND_1993": {
+  "value": 97.3,
+  "how": "India poverty at $8.30/day, % 1993"
+ },
+ "np_IND_1993": {
+  "value": 438.0,
+  "how": "India people below $3.00/day, millions, 1993"
+ },
+ "pv_IND_2004": {
+  "value": 46.4,
+  "how": "India poverty at $3.00/day, % 2004 (survey year)"
+ },
+ "pv42_IND_2004": {
+  "value": 74.5,
+  "how": "India poverty at $4.20/day, % 2004"
+ },
+ "pv83_IND_2004": {
+  "value": 96.3,
+  "how": "India poverty at $8.30/day, % 2004"
+ },
+ "np_IND_2004": {
+  "value": 527.0,
+  "how": "India people below $3.00/day, millions, 2004"
+ },
+ "pv_IND_2009": {
+  "value": 34.6,
+  "how": "India poverty at $3.00/day, % 2009 (survey year)"
+ },
+ "pv42_IND_2009": {
+  "value": 66.1,
+  "how": "India poverty at $4.20/day, % 2009"
+ },
+ "pv83_IND_2009": {
+  "value": 95.0,
+  "how": "India poverty at $8.30/day, % 2009"
+ },
+ "np_IND_2009": {
+  "value": 424.0,
+  "how": "India people below $3.00/day, millions, 2009"
+ },
+ "pv_IND_2011": {
+  "value": 27.1,
+  "how": "India poverty at $3.00/day, % 2011 (survey year)"
+ },
+ "pv42_IND_2011": {
+  "value": 57.7,
+  "how": "India poverty at $4.20/day, % 2011"
+ },
+ "pv83_IND_2011": {
+  "value": 92.5,
+  "how": "India poverty at $8.30/day, % 2011"
+ },
+ "np_IND_2011": {
+  "value": 342.0,
+  "how": "India people below $3.00/day, millions, 2011"
+ },
+ "pv_IND_2022": {
+  "value": 5.3,
+  "how": "India poverty at $3.00/day, % 2022 (survey year)"
+ },
+ "pv42_IND_2022": {
+  "value": 23.9,
+  "how": "India poverty at $4.20/day, % 2022"
+ },
+ "pv83_IND_2022": {
+  "value": 82.1,
+  "how": "India poverty at $8.30/day, % 2022"
+ },
+ "np_IND_2022": {
+  "value": 76.0,
+  "how": "India people below $3.00/day, millions, 2022"
+ },
+ "pv_IND_2023": {
+  "value": 2.6,
+  "how": "India poverty at $3.00/day, % 2023 (survey year)"
+ },
+ "pv42_IND_2023": {
+  "value": 16.1,
+  "how": "India poverty at $4.20/day, % 2023"
+ },
+ "pv83_IND_2023": {
+  "value": 80.0,
+  "how": "India poverty at $8.30/day, % 2023"
+ },
+ "np_IND_2023": {
+  "value": 37.0,
+  "how": "India people below $3.00/day, millions, 2023"
+ },
+ "gini_IND_1993": {
+  "value": 26.1,
+  "how": "India Gini index (consumption), 1993"
+ },
+ "gini_IND_2004": {
+  "value": 27.7,
+  "how": "India Gini index (consumption), 2004"
+ },
+ "gini_IND_2009": {
+  "value": 27.8,
+  "how": "India Gini index (consumption), 2009"
+ },
+ "gini_IND_2011": {
+  "value": 28.8,
+  "how": "India Gini index (consumption), 2011"
+ },
+ "gini_IND_2022": {
+  "value": 25.5,
+  "how": "India Gini index (consumption), 2022"
+ },
+ "gini_IND_2023": {
+  "value": 23.0,
+  "how": "India Gini index (consumption), 2023"
+ },
+ "gdppc_IND_2000": {
+  "value": 3010.0,
+  "how": "India GDP per capita, PPP constant 2021 $, 2000"
+ },
+ "gdppc_IND_2010": {
+  "value": 4914.0,
+  "how": "India GDP per capita, PPP constant 2021 $, 2010"
+ },
+ "gdppc_IND_2024": {
+  "value": 9416.0,
+  "how": "India GDP per capita, PPP constant 2021 $, 2024"
+ },
+ "gdppc_IND_2025": {
+  "value": 10039.0,
+  "how": "India GDP per capita, PPP constant 2021 $, 2025"
+ },
+ "gdppc_IND_x": {
+  "value": 3.1,
+  "how": "India GDP per capita PPP 2024 / 2000"
+ },
+ "stnt_IND_1991": {
+  "value": 61.9,
+  "how": "India stunting, % of children under 5, 1991"
+ },
+ "stnt_IND_1992": {
+  "value": 57.1,
+  "how": "India stunting, % of children under 5, 1992"
+ },
+ "stnt_IND_1997": {
+  "value": 45.9,
+  "how": "India stunting, % of children under 5, 1997"
+ },
+ "stnt_IND_1999": {
+  "value": 51.0,
+  "how": "India stunting, % of children under 5, 1999"
+ },
+ "stnt_IND_2006": {
+  "value": 47.8,
+  "how": "India stunting, % of children under 5, 2006"
+ },
+ "stnt_IND_2014": {
+  "value": 38.7,
+  "how": "India stunting, % of children under 5, 2014"
+ },
+ "stnt_IND_2015": {
+  "value": 37.9,
+  "how": "India stunting, % of children under 5, 2015"
+ },
+ "stnt_IND_2017": {
+  "value": 36.1,
+  "how": "India stunting, % of children under 5, 2017"
+ },
+ "stnt_IND_2020": {
+  "value": 35.5,
+  "how": "India stunting, % of children under 5, 2020"
+ },
+ "dac_2000": {
+  "value": 83.0,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2000 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2000": {
+  "value": 0.22,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2000"
+ },
+ "dac_2005": {
+  "value": 137.3,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2005 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2005": {
+  "value": 0.32,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2005"
+ },
+ "dac_2010": {
+  "value": 144.4,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2010 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2010": {
+  "value": 0.31,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2010"
+ },
+ "dac_2015": {
+  "value": 156.2,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2015 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2015": {
+  "value": 0.3,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2015"
+ },
+ "dac_2020": {
+  "value": 181.0,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2020 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2020": {
+  "value": 0.32,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2020"
+ },
+ "dac_2022": {
+  "value": 229.9,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2022 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2022": {
+  "value": 0.38,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2022"
+ },
+ "dac_2023": {
+  "value": 232.1,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2023 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2023": {
+  "value": 0.38,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2023"
+ },
+ "dac_2024": {
+  "value": 212.5,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2024 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2024": {
+  "value": 0.33,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2024"
+ },
+ "dac_2025": {
+  "value": 163.1,
+  "how": "DAC net ODA, US$ billion at constant 2024 prices, 2025 (OECD DAC1 measure 1010)"
+ },
+ "dacgni_2025": {
+  "value": 0.25,
+  "how": "DAC net ODA as % of DAC GNI, current prices, 2025"
+ },
+ "dac_x_2000_2023": {
+  "value": 2.8,
+  "how": "DAC real net ODA 2023 / 2000"
+ },
+ "dac_fall_2025": {
+  "value": -23.2,
+  "how": "% change in DAC real net ODA, 2025 on 2024"
+ },
+ "dac_fall_2023_2025": {
+  "value": -29.8,
+  "how": "% change in DAC real net ODA, 2025 on 2023"
+ }
+}

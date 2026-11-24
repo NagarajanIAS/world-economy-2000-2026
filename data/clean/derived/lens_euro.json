@@ -1,0 +1,734 @@
+{
+ "g_2000": {
+  "value": 3.9,
+  "how": "euro-area real GDP growth 2000 (WEO Oct 2026)"
+ },
+ "g_2007": {
+  "value": 3.0,
+  "how": "euro-area real GDP growth 2007 (WEO Oct 2026)"
+ },
+ "g_2009": {
+  "value": -4.5,
+  "how": "euro-area real GDP growth 2009 (WEO Oct 2026)"
+ },
+ "g_2010": {
+  "value": 2.1,
+  "how": "euro-area real GDP growth 2010 (WEO Oct 2026)"
+ },
+ "g_2012": {
+  "value": -0.9,
+  "how": "euro-area real GDP growth 2012 (WEO Oct 2026)"
+ },
+ "g_2013": {
+  "value": -0.2,
+  "how": "euro-area real GDP growth 2013 (WEO Oct 2026)"
+ },
+ "g_2019": {
+  "value": 1.7,
+  "how": "euro-area real GDP growth 2019 (WEO Oct 2026)"
+ },
+ "g_2020": {
+  "value": -6.0,
+  "how": "euro-area real GDP growth 2020 (WEO Oct 2026)"
+ },
+ "g_2021": {
+  "value": 6.4,
+  "how": "euro-area real GDP growth 2021 (WEO Oct 2026)"
+ },
+ "g_2022": {
+  "value": 3.7,
+  "how": "euro-area real GDP growth 2022 (WEO Oct 2026)"
+ },
+ "g_2023": {
+  "value": 0.4,
+  "how": "euro-area real GDP growth 2023 (WEO Oct 2026)"
+ },
+ "g_2024": {
+  "value": 1.2,
+  "how": "euro-area real GDP growth 2024 (WEO Oct 2026)"
+ },
+ "g_2025": {
+  "value": 1.2,
+  "how": "euro-area real GDP growth 2025 (WEO Oct 2026)"
+ },
+ "g_2026": {
+  "value": 1.1,
+  "how": "euro-area real GDP growth 2026 (WEO Oct 2026, projection)"
+ },
+ "g_2031": {
+  "value": 1.1,
+  "how": "euro-area real GDP growth 2031 (WEO Oct 2026, projection)"
+ },
+ "g_avg_0007": {
+  "value": 2.3,
+  "how": "euro-area growth, average 2000-07"
+ },
+ "g_avg_1019": {
+  "value": 1.4,
+  "how": "euro-area growth, average 2010-19"
+ },
+ "g_avg_2325": {
+  "value": 0.9,
+  "how": "euro-area growth, average 2023-25"
+ },
+ "g_us_avg_1019": {
+  "value": 2.4,
+  "how": "US growth, average 2010-19"
+ },
+ "g_us_avg_2325": {
+  "value": 2.7,
+  "how": "US growth, average 2023-25"
+ },
+ "g_DEU_avg_1925": {
+  "value": 0.3,
+  "how": "DEU growth, average 2019-25"
+ },
+ "g_ITA_avg_1925": {
+  "value": 1.1,
+  "how": "ITA growth, average 2019-25"
+ },
+ "cpi_2009": {
+  "value": 0.3,
+  "how": "euro-area HICP inflation 2009, annual average (WEO)"
+ },
+ "cpi_2015": {
+  "value": 0.2,
+  "how": "euro-area HICP inflation 2015, annual average (WEO)"
+ },
+ "cpi_2020": {
+  "value": 0.3,
+  "how": "euro-area HICP inflation 2020, annual average (WEO)"
+ },
+ "cpi_2022": {
+  "value": 8.4,
+  "how": "euro-area HICP inflation 2022, annual average (WEO)"
+ },
+ "cpi_2023": {
+  "value": 5.4,
+  "how": "euro-area HICP inflation 2023, annual average (WEO)"
+ },
+ "cpi_2025": {
+  "value": 2.1,
+  "how": "euro-area HICP inflation 2025, annual average (WEO)"
+ },
+ "cpi_2026": {
+  "value": 3.1,
+  "how": "euro-area HICP inflation 2026, annual average (WEO)"
+ },
+ "cpi_avg_0007": {
+  "value": 2.2,
+  "how": "euro-area inflation, average 2000-07"
+ },
+ "cpi_avg_1320": {
+  "value": 0.9,
+  "how": "euro-area inflation, average 2013-20"
+ },
+ "lur_ea_pk": {
+  "value": 12.2,
+  "how": "G163 unemployment rate, peak 2000-25 (2013)"
+ },
+ "lur_ea_pk_y": {
+  "value": 2013,
+  "how": "year of that peak"
+ },
+ "lur_ea_2007": {
+  "value": 7.6,
+  "how": "G163 unemployment rate 2007"
+ },
+ "lur_ea_2025": {
+  "value": 6.3,
+  "how": "G163 unemployment rate 2025"
+ },
+ "lur_es_pk": {
+  "value": 26.1,
+  "how": "ESP unemployment rate, peak 2000-25 (2013)"
+ },
+ "lur_es_pk_y": {
+  "value": 2013,
+  "how": "year of that peak"
+ },
+ "lur_es_2007": {
+  "value": 8.2,
+  "how": "ESP unemployment rate 2007"
+ },
+ "lur_es_2025": {
+  "value": 10.5,
+  "how": "ESP unemployment rate 2025"
+ },
+ "lur_gr_pk": {
+  "value": 27.5,
+  "how": "GRC unemployment rate, peak 2000-25 (2013)"
+ },
+ "lur_gr_pk_y": {
+  "value": 2013,
+  "how": "year of that peak"
+ },
+ "lur_gr_2007": {
+  "value": 8.4,
+  "how": "GRC unemployment rate 2007"
+ },
+ "lur_gr_2025": {
+  "value": 8.9,
+  "how": "GRC unemployment rate 2025"
+ },
+ "lur_de_pk": {
+  "value": 11.0,
+  "how": "DEU unemployment rate, peak 2000-25 (2005)"
+ },
+ "lur_de_pk_y": {
+  "value": 2005,
+  "how": "year of that peak"
+ },
+ "lur_de_2007": {
+  "value": 8.5,
+  "how": "DEU unemployment rate 2007"
+ },
+ "lur_de_2025": {
+  "value": 3.8,
+  "how": "DEU unemployment rate 2025"
+ },
+ "lur_it_pk": {
+  "value": 12.8,
+  "how": "ITA unemployment rate, peak 2000-25 (2014)"
+ },
+ "lur_it_pk_y": {
+  "value": 2014,
+  "how": "year of that peak"
+ },
+ "lur_it_2007": {
+  "value": 6.2,
+  "how": "ITA unemployment rate 2007"
+ },
+ "lur_it_2025": {
+  "value": 6.0,
+  "how": "ITA unemployment rate 2025"
+ },
+ "lvl_GRC_25v07": {
+  "value": -13.8,
+  "how": "GRC real GDP 2025 vs 2007, % change"
+ },
+ "lvl_ITA_25v07": {
+  "value": 1.9,
+  "how": "ITA real GDP 2025 vs 2007, % change"
+ },
+ "lvl_ESP_25v07": {
+  "value": 18.7,
+  "how": "ESP real GDP 2025 vs 2007, % change"
+ },
+ "lvl_DEU_25v07": {
+  "value": 17.5,
+  "how": "DEU real GDP 2025 vs 2007, % change"
+ },
+ "lvl_IRL_25v07": {
+  "value": 139.0,
+  "how": "IRL real GDP 2025 vs 2007, % change"
+ },
+ "gr_trough_loss": {
+  "value": -29.4,
+  "how": "Greece real GDP, trough (2020) vs 2007, % change"
+ },
+ "gr_trough_y": {
+  "value": 2020,
+  "how": "year of that trough"
+ },
+ "ca_de_2007": {
+  "value": 6.5,
+  "how": "DEU current account, % of GDP, 2007"
+ },
+ "ca_de_2025": {
+  "value": 4.5,
+  "how": "DEU current account, % of GDP, 2025"
+ },
+ "ca_es_2007": {
+  "value": -9.4,
+  "how": "ESP current account, % of GDP, 2007"
+ },
+ "ca_es_2025": {
+  "value": 3.2,
+  "how": "ESP current account, % of GDP, 2025"
+ },
+ "ca_gr_2007": {
+  "value": -14.1,
+  "how": "GRC current account, % of GDP, 2007"
+ },
+ "ca_gr_2025": {
+  "value": -5.7,
+  "how": "GRC current account, % of GDP, 2025"
+ },
+ "ca_pt_2007": {
+  "value": -9.6,
+  "how": "PRT current account, % of GDP, 2007"
+ },
+ "ca_pt_2025": {
+  "value": 1.2,
+  "how": "PRT current account, % of GDP, 2025"
+ },
+ "ca_de_pk": {
+  "value": 8.9,
+  "how": "Germany current account, peak 2000-25 (2016)"
+ },
+ "ca_de_pk_y": {
+  "value": 2016,
+  "how": "year"
+ },
+ "sp_gr_pk": {
+  "value": 27.39,
+  "how": "GR 10-year spread over Germany, peak since 2008 (2012-02), percentage points"
+ },
+ "sp_gr_pk_m": {
+  "value": 2,
+  "how": "month of that peak"
+ },
+ "sp_gr_pk_y": {
+  "value": 2012,
+  "how": "year of that peak"
+ },
+ "sp_gr_2007_06": {
+  "value": 0.24,
+  "how": "GR spread, June 2007"
+ },
+ "sp_gr_last": {
+  "value": 0.99,
+  "how": "GR spread, October 2026"
+ },
+ "sp_it_pk": {
+  "value": 5.19,
+  "how": "IT 10-year spread over Germany, peak since 2008 (2011-11), percentage points"
+ },
+ "sp_it_pk_m": {
+  "value": 11,
+  "how": "month of that peak"
+ },
+ "sp_it_pk_y": {
+  "value": 2011,
+  "how": "year of that peak"
+ },
+ "sp_it_2007_06": {
+  "value": 0.21,
+  "how": "IT spread, June 2007"
+ },
+ "sp_it_last": {
+  "value": 1.26,
+  "how": "IT spread, October 2026"
+ },
+ "sp_it_2012_06": {
+  "value": 4.6,
+  "how": "Italy spread, June 2012"
+ },
+ "sp_it_2012_12": {
+  "value": 3.24,
+  "how": "Italy spread, December 2012"
+ },
+ "sp_es_pk": {
+  "value": 5.55,
+  "how": "ES 10-year spread over Germany, peak since 2008 (2012-07), percentage points"
+ },
+ "sp_es_pk_m": {
+  "value": 7,
+  "how": "month of that peak"
+ },
+ "sp_es_pk_y": {
+  "value": 2012,
+  "how": "year of that peak"
+ },
+ "sp_es_2007_06": {
+  "value": 0.06,
+  "how": "ES spread, June 2007"
+ },
+ "sp_es_last": {
+  "value": 0.65,
+  "how": "ES spread, October 2026"
+ },
+ "sp_es_2012_12": {
+  "value": 4.04,
+  "how": "Spain spread, December 2012"
+ },
+ "sp_pt_pk": {
+  "value": 12.03,
+  "how": "PT 10-year spread over Germany, peak since 2008 (2012-01), percentage points"
+ },
+ "sp_pt_pk_m": {
+  "value": 1,
+  "how": "month of that peak"
+ },
+ "sp_pt_pk_y": {
+  "value": 2012,
+  "how": "year of that peak"
+ },
+ "sp_pt_2007_06": {
+  "value": 0.19,
+  "how": "PT spread, June 2007"
+ },
+ "sp_pt_last": {
+  "value": 0.5,
+  "how": "PT spread, October 2026"
+ },
+ "sp_ie_pk": {
+  "value": 9.71,
+  "how": "IE 10-year spread over Germany, peak since 2008 (2011-07), percentage points"
+ },
+ "sp_ie_pk_m": {
+  "value": 7,
+  "how": "month of that peak"
+ },
+ "sp_ie_pk_y": {
+  "value": 2011,
+  "how": "year of that peak"
+ },
+ "sp_ie_2007_06": {
+  "value": 0.06,
+  "how": "IE spread, June 2007"
+ },
+ "sp_ie_last": {
+  "value": 0.14,
+  "how": "IE spread, October 2026"
+ },
+ "sp_fr_pk": {
+  "value": 1.54,
+  "how": "FR 10-year spread over Germany, peak since 2008 (2011-11), percentage points"
+ },
+ "sp_fr_pk_m": {
+  "value": 11,
+  "how": "month of that peak"
+ },
+ "sp_fr_pk_y": {
+  "value": 2011,
+  "how": "year of that peak"
+ },
+ "sp_fr_2007_06": {
+  "value": 0.06,
+  "how": "FR spread, June 2007"
+ },
+ "sp_fr_last": {
+  "value": 1.47,
+  "how": "FR spread, October 2026"
+ },
+ "y10_de_last": {
+  "value": 3.42,
+  "how": "German 10-year yield, October 2026"
+ },
+ "y10_de_neg_months": {
+  "value": 38,
+  "how": "months with a negative German 10-year yield (2016-06 to 2022-01)"
+ },
+ "y10_de_low": {
+  "value": -0.65,
+  "how": "German 10-year yield, lowest month (2019-08)"
+ },
+ "dfr_2008_pk": {
+  "value": 3.25,
+  "how": "ECB deposit rate, 2008 high"
+ },
+ "dfr_neg_months": {
+  "value": 97,
+  "how": "months with a negative ECB deposit rate (2014-06 to 2022-06)"
+ },
+ "dfr_low": {
+  "value": -0.5,
+  "how": "ECB deposit rate, lowest"
+ },
+ "dfr_pk23": {
+  "value": 4.0,
+  "how": "ECB deposit rate, high since 2022"
+ },
+ "dfr_last": {
+  "value": 2.5,
+  "how": "ECB deposit rate, October 2026"
+ },
+ "hicp_pk": {
+  "value": 10.6,
+  "how": "euro-area HICP inflation, monthly peak (2022-10)"
+ },
+ "hicp_pk_m": {
+  "value": 10,
+  "how": "month"
+ },
+ "hicp_pk_y": {
+  "value": 2022,
+  "how": "year"
+ },
+ "hicp_lo_1416": {
+  "value": -0.6,
+  "how": "euro-area HICP inflation, low 2014-16 (2015-01)"
+ },
+ "hicp_last": {
+  "value": 4.0,
+  "how": "euro-area HICP inflation, October 2026"
+ },
+ "bs_2007_12": {
+  "value": 1.4,
+  "how": "Eurosystem total assets, December 2007, EUR trillion"
+ },
+ "bs_2014_09": {
+  "value": 2.01,
+  "how": "Eurosystem total assets, September 2014, EUR trillion"
+ },
+ "bs_pk": {
+  "value": 8.83,
+  "how": "Eurosystem total assets, peak (2022-06), EUR trillion"
+ },
+ "bs_pk_y": {
+  "value": 2022,
+  "how": "year"
+ },
+ "bs_last": {
+  "value": 5.94,
+  "how": "Eurosystem total assets, October 2026, EUR trillion"
+ },
+ "debt_ea_2007": {
+  "value": 65.8,
+  "how": "G163 general government gross debt, % of GDP, 2007"
+ },
+ "debt_ea_2025": {
+  "value": 87.3,
+  "how": "G163 general government gross debt, % of GDP, 2025"
+ },
+ "debt_ea_2031": {
+  "value": 90.4,
+  "how": "G163 general government gross debt, % of GDP, 2031"
+ },
+ "debt_ea_pk": {
+  "value": 95.9,
+  "how": "G163 debt, peak 2000-25 (2020)"
+ },
+ "debt_ea_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "debt_de_2007": {
+  "value": 63.7,
+  "how": "DEU general government gross debt, % of GDP, 2007"
+ },
+ "debt_de_2025": {
+  "value": 62.7,
+  "how": "DEU general government gross debt, % of GDP, 2025"
+ },
+ "debt_de_2031": {
+  "value": 75.6,
+  "how": "DEU general government gross debt, % of GDP, 2031"
+ },
+ "debt_de_pk": {
+  "value": 81.0,
+  "how": "DEU debt, peak 2000-25 (2010)"
+ },
+ "debt_de_pk_y": {
+  "value": 2010,
+  "how": "year"
+ },
+ "debt_fr_2007": {
+  "value": 65.5,
+  "how": "FRA general government gross debt, % of GDP, 2007"
+ },
+ "debt_fr_2025": {
+  "value": 115.5,
+  "how": "FRA general government gross debt, % of GDP, 2025"
+ },
+ "debt_fr_2031": {
+  "value": 123.6,
+  "how": "FRA general government gross debt, % of GDP, 2031"
+ },
+ "debt_fr_pk": {
+  "value": 115.5,
+  "how": "FRA debt, peak 2000-25 (2025)"
+ },
+ "debt_fr_pk_y": {
+  "value": 2025,
+  "how": "year"
+ },
+ "debt_it_2007": {
+  "value": 103.5,
+  "how": "ITA general government gross debt, % of GDP, 2007"
+ },
+ "debt_it_2025": {
+  "value": 137.1,
+  "how": "ITA general government gross debt, % of GDP, 2025"
+ },
+ "debt_it_2031": {
+  "value": 135.6,
+  "how": "ITA general government gross debt, % of GDP, 2031"
+ },
+ "debt_it_pk": {
+  "value": 154.4,
+  "how": "ITA debt, peak 2000-25 (2020)"
+ },
+ "debt_it_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "debt_gr_2007": {
+  "value": 104.6,
+  "how": "GRC general government gross debt, % of GDP, 2007"
+ },
+ "debt_gr_2025": {
+  "value": 146.6,
+  "how": "GRC general government gross debt, % of GDP, 2025"
+ },
+ "debt_gr_2031": {
+  "value": 111.1,
+  "how": "GRC general government gross debt, % of GDP, 2031"
+ },
+ "debt_gr_pk": {
+  "value": 209.9,
+  "how": "GRC debt, peak 2000-25 (2020)"
+ },
+ "debt_gr_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "debt_es_2007": {
+  "value": 35.7,
+  "how": "ESP general government gross debt, % of GDP, 2007"
+ },
+ "debt_es_2025": {
+  "value": 100.5,
+  "how": "ESP general government gross debt, % of GDP, 2025"
+ },
+ "debt_es_2031": {
+  "value": 89.4,
+  "how": "ESP general government gross debt, % of GDP, 2031"
+ },
+ "debt_es_pk": {
+  "value": 119.2,
+  "how": "ESP debt, peak 2000-25 (2020)"
+ },
+ "debt_es_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "debt_ie_2007": {
+  "value": 24.0,
+  "how": "IRL general government gross debt, % of GDP, 2007"
+ },
+ "debt_ie_2025": {
+  "value": 34.8,
+  "how": "IRL general government gross debt, % of GDP, 2025"
+ },
+ "debt_ie_2031": {
+  "value": 24.1,
+  "how": "IRL general government gross debt, % of GDP, 2031"
+ },
+ "debt_ie_pk": {
+  "value": 119.0,
+  "how": "IRL debt, peak 2000-25 (2012)"
+ },
+ "debt_ie_pk_y": {
+  "value": 2012,
+  "how": "year"
+ },
+ "debt_pt_2007": {
+  "value": 72.7,
+  "how": "PRT general government gross debt, % of GDP, 2007"
+ },
+ "debt_pt_2025": {
+  "value": 89.7,
+  "how": "PRT general government gross debt, % of GDP, 2025"
+ },
+ "debt_pt_2031": {
+  "value": 72.0,
+  "how": "PRT general government gross debt, % of GDP, 2031"
+ },
+ "debt_pt_pk": {
+  "value": 134.1,
+  "how": "PRT debt, peak 2000-25 (2020)"
+ },
+ "debt_pt_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "bal_ea_2007": {
+  "value": -0.7,
+  "how": "euro-area general government balance, % of GDP, 2007"
+ },
+ "bal_ea_2009": {
+  "value": -6.2,
+  "how": "euro-area general government balance, % of GDP, 2009"
+ },
+ "bal_ea_2020": {
+  "value": -7.0,
+  "how": "euro-area general government balance, % of GDP, 2020"
+ },
+ "bal_ea_2025": {
+  "value": -3.0,
+  "how": "euro-area general government balance, % of GDP, 2025"
+ },
+ "bal_fr_2025": {
+  "value": -5.1,
+  "how": "France general government balance, % of GDP, 2025"
+ },
+ "bal_gr_2025": {
+  "value": 1.7,
+  "how": "Greece general government balance, % of GDP, 2025"
+ },
+ "bal_ie_2010": {
+  "value": -32.2,
+  "how": "Ireland general government balance, % of GDP, 2010"
+ },
+ "inr_eur_1999": {
+  "value": 45.98,
+  "how": "rupees per euro, 1999 average"
+ },
+ "inr_eur_lo": {
+  "value": 39.58,
+  "how": "rupees per euro, lowest month (2000-10)"
+ },
+ "inr_eur_lo_y": {
+  "value": 2000,
+  "how": "year"
+ },
+ "inr_eur_2008_04": {
+  "value": 62.96,
+  "how": "rupees per euro, April 2008"
+ },
+ "inr_eur_2013_08": {
+  "value": 83.63,
+  "how": "rupees per euro, August 2013"
+ },
+ "inr_eur_last": {
+  "value": 106.96,
+  "how": "rupees per euro, October 2026"
+ },
+ "gdpd_ea_2000": {
+  "value": 6.5,
+  "how": "euro-area GDP, US$ trillion, 2000"
+ },
+ "gdpd_in_2000": {
+  "value": 0.47,
+  "how": "India GDP, US$ trillion, 2000"
+ },
+ "gdpd_in_ea_2000": {
+  "value": 7.2,
+  "how": "India's GDP as % of the euro area's, at market exchange rates, 2000"
+ },
+ "gdpd_ea_2025": {
+  "value": 18.0,
+  "how": "euro-area GDP, US$ trillion, 2025"
+ },
+ "gdpd_in_2025": {
+  "value": 3.91,
+  "how": "India GDP, US$ trillion, 2025"
+ },
+ "gdpd_in_ea_2025": {
+  "value": 21.7,
+  "how": "India's GDP as % of the euro area's, at market exchange rates, 2025"
+ },
+ "gdpd_ea_2031": {
+  "value": 22.5,
+  "how": "euro-area GDP, US$ trillion, 2031"
+ },
+ "gdpd_in_2031": {
+  "value": 6.74,
+  "how": "India GDP, US$ trillion, 2031"
+ },
+ "gdpd_in_ea_2031": {
+  "value": 30.0,
+  "how": "India's GDP as % of the euro area's, at market exchange rates, 2031"
+ },
+ "g_ind_avg_1019": {
+  "value": 6.6,
+  "how": "India growth, average 2010-19"
+ },
+ "g_ind_2012": {
+  "value": 5.5,
+  "how": "India growth 2012 (fiscal year 2012-13)"
+ }
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources and data · The World Economy 2000–2026</title>
+<link rel="stylesheet" href="assets/css/book.css">
+<link rel="stylesheet" href="assets/css/print.css">
+</head>
+<body data-root="." data-page="sources.html">
+<div class="layout">
+<nav id="sidebar" class="sidebar"></nav>
+<main id="main">
+<article class="prose">
+<p class="kicker">Reference</p>
+<h1>Sources and data</h1>
+<p class="dek">Every report cited in the book and every data series behind its charts, with where each came from and when it was retrieved.</p>
+
+<h2 id="reports">Reports and documents</h2>
+<p>Status shows how far each source was read. <em>Read</em>: the cited pages were read in full. <em>Summary</em>: only a summary or a short page was read, enough for a date or title. <em>Title only</em>: only the title was confirmed; nothing else from it is used.</p>
+<div class="wide table-wrap"><table class="reg" id="bib"></table></div>
+
+<h2 id="data">Data series</h2>
+<p>Each series is downloaded by <code>scripts/fetch.py</code> and cleaned by <code>scripts/build_data.py</code>; raw files and a fetch log with checksums are in <code>data/raw/</code>. To refresh everything, run those two scripts and then <code>scripts/build_site_meta.py</code>.</p>
+<p><label for="sfilter">Filter series </label><input id="sfilter" type="search" placeholder="e.g. FRED, GDP, debt…"></p>
+<div class="wide table-wrap"><table class="reg" id="series"></table></div>
+
+<h2 id="refresh">How to refresh the data</h2>
+<pre><code>python3 -m venv .venv &amp;&amp; .venv/bin/pip install pandas xlrd openpyxl
+.venv/bin/python scripts/fetch.py all
+.venv/bin/python scripts/build_data.py
+.venv/bin/python scripts/derive_phase3.py
+python3 scripts/build_site_meta.py
+python3 scripts/check_numbers.py &amp;&amp; python3 scripts/check_links.py</code></pre>
+<p>A refresh brings in a newer IMF vintage when one is published. Numbers quoted in the text are tied to the data by <code>scripts/check_numbers.py</code>, which reports any figure that no longer matches.</p>
+</article>
+</main>
+</div>
+<script src="assets/js/book-data.js"></script>
+<script src="assets/js/glossary-data.js"></script>
+<script src="assets/js/sources-data.js"></script>
+<script src="assets/js/book.js"></script>
+<script>
+(function () {
+  const e = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const st = { read: "Read", summary: "Summary", "title-only": "Title only" };
+  document.getElementById("bib").innerHTML = `<thead><tr><th scope="col">Source</th><th scope="col">Parts used</th><th scope="col">Used in</th><th scope="col">Status</th></tr></thead><tbody>` +
+    WE.BIB.map((b) => `<tr><td>${e(b.author)}, <cite>${e(b.title)}</cite>, ${e(b.edition)}. <a href="${e(b.url)}">Link</a> <span class="muted">(accessed ${e(b.accessed)})</span></td><td>${e(b.parts_used)}</td><td>${e(b.used_in)}</td><td>${st[b.status] || e(b.status)}</td></tr>`).join("") + "</tbody>";
+  const tbl = document.getElementById("series");
+  tbl.innerHTML = `<thead><tr><th scope="col">Series</th><th scope="col">Source and code</th><th scope="col">Unit, frequency</th><th scope="col">Coverage</th><th scope="col">Vintage</th></tr></thead><tbody>` +
+    WE.SERIES.map((s) => `<tr><td>${e(s.label)}<br><code>${e(s.id)}</code></td><td>${e(s.source)}<br><a href="${e(s.url)}"><code>${e(s.code)}</code></a></td><td>${e(s.unit)}, ${e({ A: "annual", Q: "quarterly", M: "monthly", D: "daily" }[s.freq] || s.freq)}</td><td>${e(s.first)}–${e(s.last)}${s.areas > 1 ? `<br>${s.areas} areas` : ""}</td><td>${e(s.vintage)}${s.notes ? `<br><span class="muted">${e(s.notes)}</span>` : ""}</td></tr>`).join("") + "</tbody>";
+  document.getElementById("sfilter").addEventListener("input", (ev) => {
+    const q = ev.target.value.toLowerCase();
+    tbl.querySelectorAll("tbody tr").forEach((r) => { r.hidden = q && !r.textContent.toLowerCase().includes(q); });
+  });
+})();
+</script>
+</body>
+</html>

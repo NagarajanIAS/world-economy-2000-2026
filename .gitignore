@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+__pycache__/
+.claude/
+# Raw downloads are large (about 900 MB); fetch_log.csv records each URL, size and SHA-256 so they can be re-fetched with scripts/fetch.py
+data/raw/*
+!data/raw/fetch_log.csv

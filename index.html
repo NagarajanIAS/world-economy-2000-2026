@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The World Economy 2000–2026</title>
+<meta name="description" content="An interactive history of the world economy from 2000 to 2026, built from the IMF and World Bank flagship reports and their data.">
+<link rel="stylesheet" href="assets/css/book.css">
+<link rel="stylesheet" href="assets/css/print.css">
+</head>
+<body data-root="." data-page="index.html" class="home">
+<div class="layout">
+<nav id="sidebar" class="sidebar"></nav>
+<main id="main">
+
+<header class="hero prose">
+<p class="kicker">An interactive history</p>
+<h1>The World Economy 2000–2026</h1>
+<p class="dek">What happened to the world economy over a quarter of a century, why it happened, and what the IMF and the World Bank said at the time, including where they were wrong.</p>
+<p>The book is built from the IMF's <span class="term" data-term="weo">World Economic Outlook</span>, Global Financial Stability Report and Fiscal Monitor, from the World Bank's World Development Reports, and from the official data behind them. Every chart names its source and series; every claim from a report is footnoted to its edition and chapter. Figures for 2026, and for some countries 2025, are estimates or projections and are marked as such. Every chapter has a section on India.</p>
+<p class="small">An independent study, made with Claude (Anthropic) at the author's direction. Text and charts under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>; see <a href="about.html#authorship">About</a>.</p>
+</header>
+
+<section class="timeline-wrap" id="timeline" aria-labelledby="tl-h">
+<div class="timeline-head">
+<h2 id="tl-h">Master timeline, 2000–2026</h2>
+<p class="tl-controls">Shaded bands are the book's nine phases (click one to open its chapter). Darker grey marks years in which world GDP per person fell. Paler bars are IMF projections.</p>
+</div>
+<div id="timeline-chart" role="img" aria-label="Timeline from 2000 to 2027. Bars show world real GDP growth each year, mostly between 2 and 5 percent, with falls in 2009 and 2020. Nine shaded bands mark the book's phases, and dots in four rows above mark dated events in finance, central banking, fiscal policy and trade. Use the year slider below to read the events and figures for each year."></div>
+<div class="tl-scrub">
+<output id="tl-year" class="tl-year" for="tl-range" aria-live="polite">2008</output>
+<input id="tl-range" type="range" min="2000" max="2026" step="1" value="2008" aria-label="Year">
+<span class="tl-controls"><button type="button" class="iconbtn" id="tl-prev" aria-label="Previous year">◀</button><button type="button" class="iconbtn" id="tl-play">Play</button><button type="button" class="iconbtn" id="tl-next" aria-label="Next year">▶</button></span>
+</div>
+<div id="tl-panel" class="tl-panel" aria-live="polite"></div>
+<p class="chart-source"><strong>Sources:</strong> IMF World Economic Outlook database, October 2026, series NGDP_RPCH (World, PPP weights); World Bank WDI, NY.GDP.PCAP.KD (years of falling world GDP per person); events as cited on each entry. Phase dates are the book's own.</p>
+</section>
+
+<h2 class="cards-h" id="phases">Part I · Phases</h2>
+<div class="cards" id="cards-phases"></div>
+<h2 class="cards-h" id="themes">Part II · Themes, and Part III · Country lenses</h2>
+<div class="cards" id="cards-themes"></div>
+<h2 class="cards-h" id="tools">Tools and reference</h2>
+<div class="cards" id="cards-tools"></div>
+
+</main>
+</div>
+<script src="assets/vendor/echarts.min.js"></script>
+<script src="assets/js/palette.js"></script>
+<script src="assets/js/book-data.js"></script>
+<script src="assets/js/glossary-data.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/book.js"></script>
+<script src="assets/js/timeline.js"></script>
+<script>
+(function () {
+  const card = (it, num) => it.ready
+    ? `<a class="card" href="${it.href}">${num ? `<span class="num">${num}</span>` : ""}<h3>${it.label.replace(/^\d+\.\s*/, "")}</h3><p>${it.sub || ""}</p></a>`
+    : `<div class="card todo">${num ? `<span class="num">${num}</span>` : ""}<h3>${it.label.replace(/^\d+\.\s*/, "")}</h3><p>${it.sub || ""}</p></div>`;
+  document.getElementById("cards-phases").innerHTML = WE.BOOK[0].items.map((it, i) => card(it, "Phase " + (i + 1))).join("");
+  document.getElementById("cards-themes").innerHTML = [...WE.BOOK[1].items.map((it) => card({ ...it, sub: "Theme" })), ...WE.BOOK[2].items.map((it) => card({ ...it, sub: "Country lens" }))].join("");
+  document.getElementById("cards-tools").innerHTML = WE.BOOK[3].items.filter((it) => !it.href.startsWith("index")).map((it) => card(it)).join("");
+})();
+</script>
+</body>
+</html>

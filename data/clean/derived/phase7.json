@@ -1,0 +1,850 @@
+{
+ "inf_us_peak": {
+  "value": 9.0,
+  "how": "US CPI-U (FRED CPIAUCSL), % change on a year earlier (computed): peak 2021-23 (2022-06)"
+ },
+ "inf_us_peak_month": {
+  "value": "2022-06",
+  "how": "month of peak"
+ },
+ "inf_us_2021_01": {
+  "value": 1.4,
+  "how": "US CPI-U (FRED CPIAUCSL), % change on a year earlier (computed): Jan 2021"
+ },
+ "inf_us_2023_12": {
+  "value": 3.3,
+  "how": "US CPI-U (FRED CPIAUCSL), % change on a year earlier (computed): Dec 2023"
+ },
+ "inf_ea_peak": {
+  "value": 10.6,
+  "how": "Euro area HICP, annual rate (ECB): peak 2021-23 (2022-10)"
+ },
+ "inf_ea_peak_month": {
+  "value": "2022-10",
+  "how": "month of peak"
+ },
+ "inf_ea_2021_01": {
+  "value": 0.9,
+  "how": "Euro area HICP, annual rate (ECB): Jan 2021"
+ },
+ "inf_ea_2023_12": {
+  "value": 2.9,
+  "how": "Euro area HICP, annual rate (ECB): Dec 2023"
+ },
+ "inf_uk_peak": {
+  "value": 9.6,
+  "how": "UK CPI, % change on a year earlier (OECD via FRED): peak 2021-23 (2022-10)"
+ },
+ "inf_uk_peak_month": {
+  "value": "2022-10",
+  "how": "month of peak"
+ },
+ "inf_uk_2021_01": {
+  "value": 0.9,
+  "how": "UK CPI, % change on a year earlier (OECD via FRED): Jan 2021"
+ },
+ "inf_uk_2023_12": {
+  "value": 4.2,
+  "how": "UK CPI, % change on a year earlier (OECD via FRED): Dec 2023"
+ },
+ "inf_us_last_higher": {
+  "value": "1981-11",
+  "how": "last month before 2021 with US CPI inflation at or above the 2022 peak"
+ },
+ "pol_US_2022_01": {
+  "value": 0.12,
+  "how": "BIS policy rate US, Jan 2022"
+ },
+ "pol_US_peak": {
+  "value": 5.38,
+  "how": "BIS policy rate US, peak 2022-23 (2023-07)"
+ },
+ "pol_US_peak_month": {
+  "value": "2023-07",
+  "how": "month of peak"
+ },
+ "pol_XM_2022_01": {
+  "value": 0.0,
+  "how": "BIS policy rate XM, Jan 2022"
+ },
+ "pol_XM_peak": {
+  "value": 4.5,
+  "how": "BIS policy rate XM, peak 2022-23 (2023-09)"
+ },
+ "pol_XM_peak_month": {
+  "value": "2023-09",
+  "how": "month of peak"
+ },
+ "pol_GB_2022_01": {
+  "value": 0.25,
+  "how": "BIS policy rate GB, Jan 2022"
+ },
+ "pol_GB_peak": {
+  "value": 5.25,
+  "how": "BIS policy rate GB, peak 2022-23 (2023-08)"
+ },
+ "pol_GB_peak_month": {
+  "value": "2023-08",
+  "how": "month of peak"
+ },
+ "pol_JP_2022_01": {
+  "value": -0.1,
+  "how": "BIS policy rate JP, Jan 2022"
+ },
+ "pol_JP_peak": {
+  "value": -0.1,
+  "how": "BIS policy rate JP, peak 2022-23 (2022-01)"
+ },
+ "pol_JP_peak_month": {
+  "value": "2022-01",
+  "how": "month of peak"
+ },
+ "pol_IN_2022_01": {
+  "value": 4.0,
+  "how": "BIS policy rate IN, Jan 2022"
+ },
+ "pol_IN_peak": {
+  "value": 6.5,
+  "how": "BIS policy rate IN, peak 2022-23 (2023-02)"
+ },
+ "pol_IN_peak_month": {
+  "value": "2023-02",
+  "how": "month of peak"
+ },
+ "pol_BR_2022_01": {
+  "value": 9.25,
+  "how": "BIS policy rate BR, Jan 2022"
+ },
+ "pol_BR_peak": {
+  "value": 13.75,
+  "how": "BIS policy rate BR, peak 2022-23 (2022-08)"
+ },
+ "pol_BR_peak_month": {
+  "value": "2022-08",
+  "how": "month of peak"
+ },
+ "fed_first_hike_month": {
+  "value": "2022-03",
+  "how": "first month with BIS US policy rate above Jan 2022"
+ },
+ "fed_rise_pts": {
+  "value": 5.26,
+  "how": "Fed rate rise 2022-23, points (BIS midpoints)"
+ },
+ "ecb_dfr_2022_06": {
+  "value": -0.5,
+  "how": "ECB deposit rate in force Jun 2022 (series lists changes only)"
+ },
+ "ecb_first_hike": {
+  "value": "2022-07",
+  "how": "month of first ECB deposit-rate rise after Jun 2022"
+ },
+ "ecb_dfr_peak": {
+  "value": 4.0,
+  "how": "ECB deposit rate peak 2022-23 (2023-09)"
+ },
+ "gas_2019": {
+  "value": 4.5,
+  "how": "Europe natural gas, US$/MMBtu, 2019 average"
+ },
+ "gas_peak": {
+  "value": 70.0,
+  "how": "Europe gas peak (2022-08)"
+ },
+ "gas_peak_month": {
+  "value": "2022-08",
+  "how": ""
+ },
+ "gas_2023_12": {
+  "value": 11.3,
+  "how": "Europe gas Dec 2023"
+ },
+ "gas_x": {
+  "value": 15.6,
+  "how": "gas peak / 2019 average, times"
+ },
+ "brent_2022_01": {
+  "value": 87.0,
+  "how": "Brent Jan 2022"
+ },
+ "brent_peak": {
+  "value": 123.0,
+  "how": "Brent peak monthly average (2022-06)"
+ },
+ "brent_peak_month": {
+  "value": "2022-06",
+  "how": ""
+ },
+ "brent_2023_12": {
+  "value": 78.0,
+  "how": "Brent Dec 2023"
+ },
+ "usd_rise": {
+  "value": 10.1,
+  "how": "US dollar broad index, Dec 2021 to peak (2022-10), %"
+ },
+ "usd_peak_month": {
+  "value": "2022-10",
+  "how": ""
+ },
+ "y10_us_2021_12": {
+  "value": 1.47,
+  "how": "US 10-year yield Dec 2021"
+ },
+ "y10_us_peak": {
+  "value": 4.8,
+  "how": "US 10-year yield peak (2023-10)"
+ },
+ "y10_us_peak_month": {
+  "value": "2023-10",
+  "how": ""
+ },
+ "food_2022": {
+  "value": 46.0,
+  "how": "IMF food price index, 2022 vs 2020, %"
+ },
+ "energy_2022": {
+  "value": 227.0,
+  "how": "IMF energy price index, 2022 vs 2020, %"
+ },
+ "gdp_G001_2021": {
+  "value": 6.7,
+  "how": "WEO NGDP_RPCH G001 2021"
+ },
+ "cpi_G001_2021": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH G001 2021"
+ },
+ "gdp_G001_2022": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH G001 2022"
+ },
+ "cpi_G001_2022": {
+  "value": 8.7,
+  "how": "WEO PCPIPCH G001 2022"
+ },
+ "gdp_G001_2023": {
+  "value": 3.3,
+  "how": "WEO NGDP_RPCH G001 2023"
+ },
+ "cpi_G001_2023": {
+  "value": 6.7,
+  "how": "WEO PCPIPCH G001 2023"
+ },
+ "gdp_G110_2021": {
+  "value": 6.2,
+  "how": "WEO NGDP_RPCH G110 2021"
+ },
+ "cpi_G110_2021": {
+  "value": 3.1,
+  "how": "WEO PCPIPCH G110 2021"
+ },
+ "gdp_G110_2022": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G110 2022"
+ },
+ "cpi_G110_2022": {
+  "value": 7.3,
+  "how": "WEO PCPIPCH G110 2022"
+ },
+ "gdp_G110_2023": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH G110 2023"
+ },
+ "cpi_G110_2023": {
+  "value": 4.6,
+  "how": "WEO PCPIPCH G110 2023"
+ },
+ "gdp_G200_2021": {
+  "value": 7.0,
+  "how": "WEO NGDP_RPCH G200 2021"
+ },
+ "cpi_G200_2021": {
+  "value": 5.9,
+  "how": "WEO PCPIPCH G200 2021"
+ },
+ "gdp_G200_2022": {
+  "value": 4.3,
+  "how": "WEO NGDP_RPCH G200 2022"
+ },
+ "cpi_G200_2022": {
+  "value": 9.6,
+  "how": "WEO PCPIPCH G200 2022"
+ },
+ "gdp_G200_2023": {
+  "value": 4.5,
+  "how": "WEO NGDP_RPCH G200 2023"
+ },
+ "cpi_G200_2023": {
+  "value": 8.2,
+  "how": "WEO PCPIPCH G200 2023"
+ },
+ "gdp_USA_2021": {
+  "value": 6.3,
+  "how": "WEO NGDP_RPCH USA 2021"
+ },
+ "cpi_USA_2021": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH USA 2021"
+ },
+ "gdp_USA_2022": {
+  "value": 2.4,
+  "how": "WEO NGDP_RPCH USA 2022"
+ },
+ "cpi_USA_2022": {
+  "value": 8.0,
+  "how": "WEO PCPIPCH USA 2022"
+ },
+ "gdp_USA_2023": {
+  "value": 2.9,
+  "how": "WEO NGDP_RPCH USA 2023"
+ },
+ "cpi_USA_2023": {
+  "value": 4.1,
+  "how": "WEO PCPIPCH USA 2023"
+ },
+ "gdp_G163_2021": {
+  "value": 6.4,
+  "how": "WEO NGDP_RPCH G163 2021"
+ },
+ "cpi_G163_2021": {
+  "value": 2.6,
+  "how": "WEO PCPIPCH G163 2021"
+ },
+ "gdp_G163_2022": {
+  "value": 3.7,
+  "how": "WEO NGDP_RPCH G163 2022"
+ },
+ "cpi_G163_2022": {
+  "value": 8.4,
+  "how": "WEO PCPIPCH G163 2022"
+ },
+ "gdp_G163_2023": {
+  "value": 0.4,
+  "how": "WEO NGDP_RPCH G163 2023"
+ },
+ "cpi_G163_2023": {
+  "value": 5.4,
+  "how": "WEO PCPIPCH G163 2023"
+ },
+ "gdp_GBR_2021": {
+  "value": 8.5,
+  "how": "WEO NGDP_RPCH GBR 2021"
+ },
+ "cpi_GBR_2021": {
+  "value": 2.6,
+  "how": "WEO PCPIPCH GBR 2021"
+ },
+ "gdp_GBR_2022": {
+  "value": 5.0,
+  "how": "WEO NGDP_RPCH GBR 2022"
+ },
+ "cpi_GBR_2022": {
+  "value": 9.1,
+  "how": "WEO PCPIPCH GBR 2022"
+ },
+ "gdp_GBR_2023": {
+  "value": 0.4,
+  "how": "WEO NGDP_RPCH GBR 2023"
+ },
+ "cpi_GBR_2023": {
+  "value": 7.3,
+  "how": "WEO PCPIPCH GBR 2023"
+ },
+ "gdp_DEU_2021": {
+  "value": 4.0,
+  "how": "WEO NGDP_RPCH DEU 2021"
+ },
+ "cpi_DEU_2021": {
+  "value": 3.2,
+  "how": "WEO PCPIPCH DEU 2021"
+ },
+ "gdp_DEU_2022": {
+  "value": 1.9,
+  "how": "WEO NGDP_RPCH DEU 2022"
+ },
+ "cpi_DEU_2022": {
+  "value": 8.7,
+  "how": "WEO PCPIPCH DEU 2022"
+ },
+ "gdp_DEU_2023": {
+  "value": -1.0,
+  "how": "WEO NGDP_RPCH DEU 2023"
+ },
+ "cpi_DEU_2023": {
+  "value": 6.0,
+  "how": "WEO PCPIPCH DEU 2023"
+ },
+ "gdp_JPN_2021": {
+  "value": 3.6,
+  "how": "WEO NGDP_RPCH JPN 2021"
+ },
+ "cpi_JPN_2021": {
+  "value": -0.2,
+  "how": "WEO PCPIPCH JPN 2021"
+ },
+ "gdp_JPN_2022": {
+  "value": 1.2,
+  "how": "WEO NGDP_RPCH JPN 2022"
+ },
+ "cpi_JPN_2022": {
+  "value": 2.5,
+  "how": "WEO PCPIPCH JPN 2022"
+ },
+ "gdp_JPN_2023": {
+  "value": 0.9,
+  "how": "WEO NGDP_RPCH JPN 2023"
+ },
+ "cpi_JPN_2023": {
+  "value": 3.3,
+  "how": "WEO PCPIPCH JPN 2023"
+ },
+ "gdp_CHN_2021": {
+  "value": 8.6,
+  "how": "WEO NGDP_RPCH CHN 2021"
+ },
+ "cpi_CHN_2021": {
+  "value": 0.9,
+  "how": "WEO PCPIPCH CHN 2021"
+ },
+ "gdp_CHN_2022": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH CHN 2022"
+ },
+ "cpi_CHN_2022": {
+  "value": 2.0,
+  "how": "WEO PCPIPCH CHN 2022"
+ },
+ "gdp_CHN_2023": {
+  "value": 5.4,
+  "how": "WEO NGDP_RPCH CHN 2023"
+ },
+ "cpi_CHN_2023": {
+  "value": 0.2,
+  "how": "WEO PCPIPCH CHN 2023"
+ },
+ "gdp_IND_2021": {
+  "value": 9.7,
+  "how": "WEO NGDP_RPCH IND 2021"
+ },
+ "cpi_IND_2021": {
+  "value": 5.5,
+  "how": "WEO PCPIPCH IND 2021"
+ },
+ "gdp_IND_2022": {
+  "value": 7.6,
+  "how": "WEO NGDP_RPCH IND 2022"
+ },
+ "cpi_IND_2022": {
+  "value": 6.6,
+  "how": "WEO PCPIPCH IND 2022"
+ },
+ "gdp_IND_2023": {
+  "value": 7.3,
+  "how": "WEO NGDP_RPCH IND 2023"
+ },
+ "cpi_IND_2023": {
+  "value": 5.4,
+  "how": "WEO PCPIPCH IND 2023"
+ },
+ "gdp_RUS_2021": {
+  "value": 5.9,
+  "how": "WEO NGDP_RPCH RUS 2021"
+ },
+ "cpi_RUS_2021": {
+  "value": 6.7,
+  "how": "WEO PCPIPCH RUS 2021"
+ },
+ "gdp_RUS_2022": {
+  "value": -1.4,
+  "how": "WEO NGDP_RPCH RUS 2022"
+ },
+ "cpi_RUS_2022": {
+  "value": 13.8,
+  "how": "WEO PCPIPCH RUS 2022"
+ },
+ "gdp_RUS_2023": {
+  "value": 4.1,
+  "how": "WEO NGDP_RPCH RUS 2023"
+ },
+ "cpi_RUS_2023": {
+  "value": 5.9,
+  "how": "WEO PCPIPCH RUS 2023"
+ },
+ "gdp_UKR_2021": {
+  "value": 3.4,
+  "how": "WEO NGDP_RPCH UKR 2021"
+ },
+ "cpi_UKR_2021": {
+  "value": 9.4,
+  "how": "WEO PCPIPCH UKR 2021"
+ },
+ "gdp_UKR_2022": {
+  "value": -28.8,
+  "how": "WEO NGDP_RPCH UKR 2022"
+ },
+ "cpi_UKR_2022": {
+  "value": 20.2,
+  "how": "WEO PCPIPCH UKR 2022"
+ },
+ "gdp_UKR_2023": {
+  "value": 5.5,
+  "how": "WEO NGDP_RPCH UKR 2023"
+ },
+ "cpi_UKR_2023": {
+  "value": 12.9,
+  "how": "WEO PCPIPCH UKR 2023"
+ },
+ "gdp_BRA_2021": {
+  "value": 4.8,
+  "how": "WEO NGDP_RPCH BRA 2021"
+ },
+ "cpi_BRA_2021": {
+  "value": 8.3,
+  "how": "WEO PCPIPCH BRA 2021"
+ },
+ "gdp_BRA_2022": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH BRA 2022"
+ },
+ "cpi_BRA_2022": {
+  "value": 9.3,
+  "how": "WEO PCPIPCH BRA 2022"
+ },
+ "gdp_BRA_2023": {
+  "value": 3.2,
+  "how": "WEO NGDP_RPCH BRA 2023"
+ },
+ "cpi_BRA_2023": {
+  "value": 4.6,
+  "how": "WEO PCPIPCH BRA 2023"
+ },
+ "gdp_TUR_2021": {
+  "value": 11.8,
+  "how": "WEO NGDP_RPCH TUR 2021"
+ },
+ "cpi_TUR_2021": {
+  "value": 19.6,
+  "how": "WEO PCPIPCH TUR 2021"
+ },
+ "gdp_TUR_2022": {
+  "value": 5.4,
+  "how": "WEO NGDP_RPCH TUR 2022"
+ },
+ "cpi_TUR_2022": {
+  "value": 72.3,
+  "how": "WEO PCPIPCH TUR 2022"
+ },
+ "gdp_TUR_2023": {
+  "value": 5.0,
+  "how": "WEO NGDP_RPCH TUR 2023"
+ },
+ "cpi_TUR_2023": {
+  "value": 53.9,
+  "how": "WEO PCPIPCH TUR 2023"
+ },
+ "gdp_ARG_2021": {
+  "value": 10.4,
+  "how": "WEO NGDP_RPCH ARG 2021"
+ },
+ "cpi_ARG_2021": {
+  "value": 48.4,
+  "how": "WEO PCPIPCH ARG 2021"
+ },
+ "gdp_ARG_2022": {
+  "value": 6.0,
+  "how": "WEO NGDP_RPCH ARG 2022"
+ },
+ "cpi_ARG_2022": {
+  "value": 72.4,
+  "how": "WEO PCPIPCH ARG 2022"
+ },
+ "gdp_ARG_2023": {
+  "value": -1.9,
+  "how": "WEO NGDP_RPCH ARG 2023"
+ },
+ "cpi_ARG_2023": {
+  "value": 133.5,
+  "how": "WEO PCPIPCH ARG 2023"
+ },
+ "f21_G110_2022": {
+  "value": 2.3,
+  "how": "Advanced Economies: October 2021 WEO forecast of 2022 inflation"
+ },
+ "s22_G110_2022": {
+  "value": 5.7,
+  "how": "Advanced Economies: April 2022 WEO forecast of 2022 inflation"
+ },
+ "f21_G200_2022": {
+  "value": 4.9,
+  "how": "Emerging Market and Developing Economies: October 2021 WEO forecast of 2022 inflation"
+ },
+ "s22_G200_2022": {
+  "value": 8.7,
+  "how": "Emerging Market and Developing Economies: April 2022 WEO forecast of 2022 inflation"
+ },
+ "f21_USA_2022": {
+  "value": 3.5,
+  "how": "United States: October 2021 WEO forecast of 2022 inflation"
+ },
+ "s22_USA_2022": {
+  "value": 7.7,
+  "how": "United States: April 2022 WEO forecast of 2022 inflation"
+ },
+ "f21_G163_2022": {
+  "value": 1.7,
+  "how": "Euro area: October 2021 WEO forecast of 2022 inflation"
+ },
+ "s22_G163_2022": {
+  "value": 5.3,
+  "how": "Euro area: April 2022 WEO forecast of 2022 inflation"
+ },
+ "f21_IND_2022": {
+  "value": 4.9,
+  "how": "India: October 2021 WEO forecast of 2022 inflation"
+ },
+ "s22_IND_2022": {
+  "value": 6.1,
+  "how": "India: April 2022 WEO forecast of 2022 inflation"
+ },
+ "in_gdp_2020": {
+  "value": -5.8,
+  "how": "India gdp_real_growth FY2020-21"
+ },
+ "in_gdp_2021": {
+  "value": 9.7,
+  "how": "India gdp_real_growth FY2021-22"
+ },
+ "in_gdp_2022": {
+  "value": 7.6,
+  "how": "India gdp_real_growth FY2022-23"
+ },
+ "in_gdp_2023": {
+  "value": 9.2,
+  "how": "India gdp_real_growth FY2023-24"
+ },
+ "in_gdp_2024": {
+  "value": 6.5,
+  "how": "India gdp_real_growth FY2024-25"
+ },
+ "in_cpi_2020": {
+  "value": 6.2,
+  "how": "India cpi_inflation FY2020-21"
+ },
+ "in_cpi_2021": {
+  "value": 5.5,
+  "how": "India cpi_inflation FY2021-22"
+ },
+ "in_cpi_2022": {
+  "value": 6.7,
+  "how": "India cpi_inflation FY2022-23"
+ },
+ "in_cpi_2023": {
+  "value": 5.4,
+  "how": "India cpi_inflation FY2023-24"
+ },
+ "in_cpi_2024": {
+  "value": 4.6,
+  "how": "India cpi_inflation FY2024-25"
+ },
+ "in_cpif_2020": {
+  "value": 7.3,
+  "how": "India cpi_food_inflation FY2020-21"
+ },
+ "in_cpif_2021": {
+  "value": 4.2,
+  "how": "India cpi_food_inflation FY2021-22"
+ },
+ "in_cpif_2022": {
+  "value": 6.7,
+  "how": "India cpi_food_inflation FY2022-23"
+ },
+ "in_cpif_2023": {
+  "value": 7.0,
+  "how": "India cpi_food_inflation FY2023-24"
+ },
+ "in_cpif_2024": {
+  "value": 6.7,
+  "how": "India cpi_food_inflation FY2024-25"
+ },
+ "in_repo_2020": {
+  "value": 4.0,
+  "how": "India repo_end FY2020-21"
+ },
+ "in_repo_2021": {
+  "value": 4.0,
+  "how": "India repo_end FY2021-22"
+ },
+ "in_repo_2022": {
+  "value": 6.5,
+  "how": "India repo_end FY2022-23"
+ },
+ "in_repo_2023": {
+  "value": 6.5,
+  "how": "India repo_end FY2023-24"
+ },
+ "in_repo_2024": {
+  "value": 6.25,
+  "how": "India repo_end FY2024-25"
+ },
+ "in_cab_2020": {
+  "value": 0.9,
+  "how": "India cab_gdp FY2020-21"
+ },
+ "in_cab_2021": {
+  "value": -1.2,
+  "how": "India cab_gdp FY2021-22"
+ },
+ "in_cab_2022": {
+  "value": -2.0,
+  "how": "India cab_gdp FY2022-23"
+ },
+ "in_cab_2023": {
+  "value": -0.7,
+  "how": "India cab_gdp FY2023-24"
+ },
+ "in_cab_2024": {
+  "value": -0.6,
+  "how": "India cab_gdp FY2024-25"
+ },
+ "in_res_2020": {
+  "value": 577.0,
+  "how": "India fx_reserves FY2020-21"
+ },
+ "in_res_2021": {
+  "value": 607.0,
+  "how": "India fx_reserves FY2021-22"
+ },
+ "in_res_2022": {
+  "value": 578.0,
+  "how": "India fx_reserves FY2022-23"
+ },
+ "in_res_2023": {
+  "value": 646.0,
+  "how": "India fx_reserves FY2023-24"
+ },
+ "in_res_2024": {
+  "value": 668.0,
+  "how": "India fx_reserves FY2024-25"
+ },
+ "in_cfd_2020": {
+  "value": 9.2,
+  "how": "India centre_fd_gdp FY2020-21"
+ },
+ "in_cfd_2021": {
+  "value": 6.7,
+  "how": "India centre_fd_gdp FY2021-22"
+ },
+ "in_cfd_2022": {
+  "value": 6.5,
+  "how": "India centre_fd_gdp FY2022-23"
+ },
+ "in_cfd_2023": {
+  "value": 5.5,
+  "how": "India centre_fd_gdp FY2023-24"
+ },
+ "in_cfd_2024": {
+  "value": 4.8,
+  "how": "India centre_fd_gdp FY2024-25"
+ },
+ "in_ggfd_2020": {
+  "value": 13.1,
+  "how": "India gg_fd_gdp FY2020-21"
+ },
+ "in_ggfd_2021": {
+  "value": 9.5,
+  "how": "India gg_fd_gdp FY2021-22"
+ },
+ "in_ggfd_2022": {
+  "value": 8.8,
+  "how": "India gg_fd_gdp FY2022-23"
+ },
+ "in_ggfd_2023": {
+  "value": 8.0,
+  "how": "India gg_fd_gdp FY2023-24"
+ },
+ "in_ggfd_2024": {
+  "value": 7.8,
+  "how": "India gg_fd_gdp FY2024-25"
+ },
+ "in_inr_2020": {
+  "value": 74.2,
+  "how": "India inr_usd FY2020-21"
+ },
+ "in_inr_2021": {
+  "value": 74.5,
+  "how": "India inr_usd FY2021-22"
+ },
+ "in_inr_2022": {
+  "value": 80.4,
+  "how": "India inr_usd FY2022-23"
+ },
+ "in_inr_2023": {
+  "value": 82.8,
+  "how": "India inr_usd FY2023-24"
+ },
+ "in_inr_2024": {
+  "value": 84.6,
+  "how": "India inr_usd FY2024-25"
+ },
+ "in_oil_2020": {
+  "value": 83.0,
+  "how": "India oil_imports FY2020-21"
+ },
+ "in_oil_2021": {
+  "value": 162.0,
+  "how": "India oil_imports FY2021-22"
+ },
+ "in_oil_2022": {
+  "value": 209.0,
+  "how": "India oil_imports FY2022-23"
+ },
+ "in_oil_2023": {
+  "value": 179.0,
+  "how": "India oil_imports FY2023-24"
+ },
+ "in_oil_2024": {
+  "value": 186.0,
+  "how": "India oil_imports FY2024-25"
+ },
+ "in_mg_2020": {
+  "value": 394.0,
+  "how": "India imports_goods FY2020-21"
+ },
+ "in_mg_2021": {
+  "value": 613.0,
+  "how": "India imports_goods FY2021-22"
+ },
+ "in_mg_2022": {
+  "value": 716.0,
+  "how": "India imports_goods FY2022-23"
+ },
+ "in_mg_2023": {
+  "value": 678.0,
+  "how": "India imports_goods FY2023-24"
+ },
+ "in_mg_2024": {
+  "value": 721.0,
+  "how": "India imports_goods FY2024-25"
+ },
+ "in_xg_2020": {
+  "value": 292.0,
+  "how": "India exports_goods FY2020-21"
+ },
+ "in_xg_2021": {
+  "value": 422.0,
+  "how": "India exports_goods FY2021-22"
+ },
+ "in_xg_2022": {
+  "value": 451.0,
+  "how": "India exports_goods FY2022-23"
+ },
+ "in_xg_2023": {
+  "value": 437.0,
+  "how": "India exports_goods FY2023-24"
+ },
+ "in_xg_2024": {
+  "value": 438.0,
+  "how": "India exports_goods FY2024-25"
+ }
+}

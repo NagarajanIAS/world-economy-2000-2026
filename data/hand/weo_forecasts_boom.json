@@ -1,0 +1,12 @@
+{
+ "id": "hand/weo_forecasts_boom",
+ "label": "IMF April projections of current-year growth and the estimate published a year later, world and India, 2003–2006",
+ "unit": "%",
+ "note": "Each value was read from Table 1.1 of the cited April World Economic Outlook (imf.org, 22 Nov 2026). The projection is for the year of the edition; the estimate is the same year as shown in the next April edition. World figures use each edition's PPP weights. India's figures are for fiscal years and, in the April 2007 edition, reflect India's revised GDP series.",
+ "rows": [
+  {"label": "2003", "proj_world": 3.2, "est_world": 3.9, "proj_ind": 5.1, "est_ind": 7.4, "cite": "WEO Apr 2003 Ch. 1 Table 1.1 p. 2; WEO Apr 2004 Ch. 1 Table 1.1 p. 3"},
+  {"label": "2004", "proj_world": 4.6, "est_world": 5.1, "proj_ind": 6.8, "est_ind": 7.3, "cite": "WEO Apr 2004 Ch. 1 Table 1.1 p. 3; WEO Apr 2005 Ch. 1 Table 1.1 p. 3"},
+  {"label": "2005", "proj_world": 4.3, "est_world": 4.8, "proj_ind": 6.7, "est_ind": 8.3, "cite": "WEO Apr 2005 Ch. 1 Table 1.1 p. 3; WEO Apr 2006 Ch. 1 Table 1.1 p. 2"},
+  {"label": "2006", "proj_world": 4.9, "est_world": 5.4, "proj_ind": 7.3, "est_ind": 9.2, "cite": "WEO Apr 2006 Ch. 1 Table 1.1 p. 2; WEO Apr 2007 Ch. 1 Table 1.1 p. 2"}
+ ]
+}

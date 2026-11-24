@@ -1,0 +1,645 @@
+{
+ "g_2000": {
+  "value": 3.0,
+  "how": "Japan real GDP growth 2000 (WEO Oct 2026)"
+ },
+ "g_2002": {
+  "value": 0.1,
+  "how": "Japan real GDP growth 2002 (WEO Oct 2026)"
+ },
+ "g_2007": {
+  "value": 1.7,
+  "how": "Japan real GDP growth 2007 (WEO Oct 2026)"
+ },
+ "g_2008": {
+  "value": -1.2,
+  "how": "Japan real GDP growth 2008 (WEO Oct 2026)"
+ },
+ "g_2009": {
+  "value": -5.9,
+  "how": "Japan real GDP growth 2009 (WEO Oct 2026)"
+ },
+ "g_2010": {
+  "value": 4.1,
+  "how": "Japan real GDP growth 2010 (WEO Oct 2026)"
+ },
+ "g_2011": {
+  "value": -0.2,
+  "how": "Japan real GDP growth 2011 (WEO Oct 2026)"
+ },
+ "g_2014": {
+  "value": 0.9,
+  "how": "Japan real GDP growth 2014 (WEO Oct 2026)"
+ },
+ "g_2019": {
+  "value": -0.3,
+  "how": "Japan real GDP growth 2019 (WEO Oct 2026)"
+ },
+ "g_2020": {
+  "value": -4.3,
+  "how": "Japan real GDP growth 2020 (WEO Oct 2026)"
+ },
+ "g_2021": {
+  "value": 3.6,
+  "how": "Japan real GDP growth 2021 (WEO Oct 2026)"
+ },
+ "g_2024": {
+  "value": 0.1,
+  "how": "Japan real GDP growth 2024 (WEO Oct 2026)"
+ },
+ "g_2025": {
+  "value": 1.2,
+  "how": "Japan real GDP growth 2025 (WEO Oct 2026)"
+ },
+ "g_2026": {
+  "value": 0.8,
+  "how": "Japan real GDP growth 2026 (WEO Oct 2026, projection)"
+ },
+ "g_2031": {
+  "value": 0.6,
+  "how": "Japan real GDP growth 2031 (WEO Oct 2026, projection)"
+ },
+ "g_avg_0007": {
+  "value": 1.5,
+  "how": "Japan growth, average 2000-07"
+ },
+ "g_avg_1019": {
+  "value": 1.3,
+  "how": "Japan growth, average 2010-19"
+ },
+ "g_avg_2125": {
+  "value": 1.4,
+  "how": "Japan growth, average 2021-25"
+ },
+ "g_avg_2731": {
+  "value": 0.6,
+  "how": "Japan growth, average 2027-31 (projection)"
+ },
+ "lvl_25v07": {
+  "value": 8.5,
+  "how": "Japan real GDP 2025 vs 2007, % change"
+ },
+ "lvl_25v00": {
+  "value": 18.6,
+  "how": "Japan real GDP 2025 vs 2000, % change"
+ },
+ "lvlpc_25v00": {
+  "value": 22.0,
+  "how": "Japan real GDP per person 2025 vs 2000, % change (NGDP_R / LP)"
+ },
+ "us_lvlpc_25v00": {
+  "value": 40.3,
+  "how": "US real GDP per person 2025 vs 2000, % change"
+ },
+ "cpi_2000": {
+  "value": -0.7,
+  "how": "Japan CPI inflation 2000, annual average (WEO)"
+ },
+ "cpi_2008": {
+  "value": 1.4,
+  "how": "Japan CPI inflation 2008, annual average (WEO)"
+ },
+ "cpi_2009": {
+  "value": -1.3,
+  "how": "Japan CPI inflation 2009, annual average (WEO)"
+ },
+ "cpi_2010": {
+  "value": -0.7,
+  "how": "Japan CPI inflation 2010, annual average (WEO)"
+ },
+ "cpi_2013": {
+  "value": 0.3,
+  "how": "Japan CPI inflation 2013, annual average (WEO)"
+ },
+ "cpi_2014": {
+  "value": 2.8,
+  "how": "Japan CPI inflation 2014, annual average (WEO)"
+ },
+ "cpi_2015": {
+  "value": 0.8,
+  "how": "Japan CPI inflation 2015, annual average (WEO)"
+ },
+ "cpi_2016": {
+  "value": -0.1,
+  "how": "Japan CPI inflation 2016, annual average (WEO)"
+ },
+ "cpi_2017": {
+  "value": 0.5,
+  "how": "Japan CPI inflation 2017, annual average (WEO)"
+ },
+ "cpi_2018": {
+  "value": 1.0,
+  "how": "Japan CPI inflation 2018, annual average (WEO)"
+ },
+ "cpi_2019": {
+  "value": 0.5,
+  "how": "Japan CPI inflation 2019, annual average (WEO)"
+ },
+ "cpi_2021": {
+  "value": -0.2,
+  "how": "Japan CPI inflation 2021, annual average (WEO)"
+ },
+ "cpi_2022": {
+  "value": 2.5,
+  "how": "Japan CPI inflation 2022, annual average (WEO)"
+ },
+ "cpi_2023": {
+  "value": 3.3,
+  "how": "Japan CPI inflation 2023, annual average (WEO)"
+ },
+ "cpi_2024": {
+  "value": 2.7,
+  "how": "Japan CPI inflation 2024, annual average (WEO)"
+ },
+ "cpi_2025": {
+  "value": 3.2,
+  "how": "Japan CPI inflation 2025, annual average (WEO)"
+ },
+ "cpi_2026": {
+  "value": 2.0,
+  "how": "Japan CPI inflation 2026, annual average (WEO, projection)"
+ },
+ "cpi_neg_yrs_0012": {
+  "value": 9,
+  "how": "years with falling consumer prices, 2000-12"
+ },
+ "cpi_avg_0012": {
+  "value": -0.3,
+  "how": "Japan inflation, average 2000-12"
+ },
+ "cpi_avg_1321": {
+  "value": 0.6,
+  "how": "Japan inflation, average 2013-21"
+ },
+ "cpi_avg_2225": {
+  "value": 2.9,
+  "how": "Japan inflation, average 2022-25"
+ },
+ "lur_pk": {
+  "value": 5.4,
+  "how": "Japan unemployment rate, peak 2000-25 (2002)"
+ },
+ "lur_pk_y": {
+  "value": 2002,
+  "how": "year of that peak"
+ },
+ "lur_2009": {
+  "value": 5.1,
+  "how": "Japan unemployment rate 2009"
+ },
+ "lur_2019": {
+  "value": 2.4,
+  "how": "Japan unemployment rate 2019"
+ },
+ "lur_2025": {
+  "value": 2.5,
+  "how": "Japan unemployment rate 2025"
+ },
+ "pr_2000_08": {
+  "value": 0.25,
+  "how": "BOJ policy rate (BIS), end of August 2000"
+ },
+ "pr_2001_03": {
+  "value": 0.15,
+  "how": "BOJ policy rate (BIS), end of March 2001"
+ },
+ "pr_2006_07": {
+  "value": 0.25,
+  "how": "BOJ policy rate (BIS), end of July 2006"
+ },
+ "pr_2007_02": {
+  "value": 0.5,
+  "how": "BOJ policy rate (BIS), end of February 2007"
+ },
+ "pr_2008_12": {
+  "value": 0.1,
+  "how": "BOJ policy rate (BIS), end of December 2008"
+ },
+ "pr_2010_10": {
+  "value": 0.05,
+  "how": "BOJ policy rate (BIS), end of October 2010"
+ },
+ "pr_2016_09": {
+  "value": -0.1,
+  "how": "BOJ policy rate (BIS), end of September 2016"
+ },
+ "pr_2024_03": {
+  "value": 0.05,
+  "how": "BOJ policy rate (BIS), end of March 2024"
+ },
+ "pr_2024_08": {
+  "value": 0.25,
+  "how": "BOJ policy rate (BIS), end of August 2024"
+ },
+ "pr_2025_01": {
+  "value": 0.5,
+  "how": "BOJ policy rate (BIS), end of January 2025"
+ },
+ "pr_2025_12": {
+  "value": 0.75,
+  "how": "BOJ policy rate (BIS), end of December 2025"
+ },
+ "pr_2026_06": {
+  "value": 1.0,
+  "how": "BOJ policy rate (BIS), end of June 2026"
+ },
+ "pr_2026_10": {
+  "value": 1.25,
+  "how": "BOJ policy rate (BIS), end of October 2026"
+ },
+ "y10_2000_01": {
+  "value": 1.69,
+  "how": "10-year JGB yield, January 2000"
+ },
+ "y10_2007_06": {
+  "value": 1.9,
+  "how": "10-year JGB yield, June 2007"
+ },
+ "y10_2012_12": {
+  "value": 0.78,
+  "how": "10-year JGB yield, December 2012"
+ },
+ "y10_2016_07": {
+  "value": -0.2,
+  "how": "10-year JGB yield, July 2016"
+ },
+ "y10_2022_12": {
+  "value": 0.41,
+  "how": "10-year JGB yield, December 2022"
+ },
+ "y10_2024_03": {
+  "value": 0.72,
+  "how": "10-year JGB yield, March 2024"
+ },
+ "y10_2025_01": {
+  "value": 1.25,
+  "how": "10-year JGB yield, January 2025"
+ },
+ "y10_2026_10": {
+  "value": 2.75,
+  "how": "10-year JGB yield, October 2026"
+ },
+ "y10_lo": {
+  "value": -0.28,
+  "how": "10-year JGB yield, lowest month (2019-08)",
+  "month": "August 2019"
+ },
+ "y10_neg_months": {
+  "value": 24,
+  "how": "months with a negative 10-year yield"
+ },
+ "y10_hi": {
+  "value": 3.05,
+  "how": "10-year JGB yield, highest month since 2000 (2026-09)"
+ },
+ "y10_above3_prev_y": {
+  "value": 1996,
+  "how": "last year before September 2026 with a monthly 10-year yield above 3%"
+ },
+ "bs_2001_03": {
+  "value": 115.0,
+  "how": "BOJ total assets, \u00a5 trillion, March 2001"
+ },
+ "bs_2006_03": {
+  "value": 145.0,
+  "how": "BOJ total assets, \u00a5 trillion, March 2006"
+ },
+ "bs_2012_12": {
+  "value": 158.0,
+  "how": "BOJ total assets, \u00a5 trillion, December 2012"
+ },
+ "bs_2013_03": {
+  "value": 165.0,
+  "how": "BOJ total assets, \u00a5 trillion, March 2013"
+ },
+ "bs_2016_09": {
+  "value": 457.0,
+  "how": "BOJ total assets, \u00a5 trillion, September 2016"
+ },
+ "bs_2020_03": {
+  "value": 604.0,
+  "how": "BOJ total assets, \u00a5 trillion, March 2020"
+ },
+ "bs_2024_03": {
+  "value": 756.0,
+  "how": "BOJ total assets, \u00a5 trillion, March 2024"
+ },
+ "bs_2026_10": {
+  "value": 626.0,
+  "how": "BOJ total assets, \u00a5 trillion, October 2026"
+ },
+ "bs_pk": {
+  "value": 765.0,
+  "how": "BOJ total assets, peak (\u00a5 trillion, 2024-08)"
+ },
+ "bs_pk_y": {
+  "value": 2024,
+  "how": "year"
+ },
+ "bsgdp_2012_12": {
+  "value": 31.0,
+  "how": "BOJ total assets as % of that year's nominal GDP, December 2012"
+ },
+ "bsgdp_2026_10": {
+  "value": 91.0,
+  "how": "BOJ total assets as % of that year's nominal GDP, October 2026"
+ },
+ "bsgdp_pk": {
+  "value": 127.0,
+  "how": "BOJ assets / nominal GDP, peak (2020-11)"
+ },
+ "bsgdp_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "bs_x_1225": {
+  "value": 4.0,
+  "how": "BOJ assets, October 2026 as a multiple of December 2012"
+ },
+ "fx_2000_01": {
+  "value": 105.3,
+  "how": "yen per US dollar, January 2000"
+ },
+ "fx_2007_06": {
+  "value": 122.7,
+  "how": "yen per US dollar, June 2007"
+ },
+ "fx_2012_09": {
+  "value": 78.1,
+  "how": "yen per US dollar, September 2012"
+ },
+ "fx_2013_12": {
+  "value": 103.5,
+  "how": "yen per US dollar, December 2013"
+ },
+ "fx_2015_06": {
+  "value": 123.7,
+  "how": "yen per US dollar, June 2015"
+ },
+ "fx_2020_12": {
+  "value": 103.8,
+  "how": "yen per US dollar, December 2020"
+ },
+ "fx_2022_10": {
+  "value": 147.1,
+  "how": "yen per US dollar, October 2022"
+ },
+ "fx_2026_10": {
+  "value": 158.0,
+  "how": "yen per US dollar, October 2026"
+ },
+ "fx_strong": {
+  "value": 76.6,
+  "how": "strongest yen since 2000, yen per $ (2011-10)",
+  "month": "October 2011"
+ },
+ "fx_weak": {
+  "value": 162.3,
+  "how": "weakest yen since 2000, yen per $ (2026-07)",
+  "month": "July 2026"
+ },
+ "fx_weak_since_y": {
+  "value": 1986,
+  "how": "last year the yen was as weak before that month"
+ },
+ "nk_1989": {
+  "value": 38115.0,
+  "how": "Nikkei 225, pre-2000 peak monthly average (1989-12)",
+  "month": "December 1989"
+ },
+ "nk_lo": {
+  "value": 7695.0,
+  "how": "Nikkei 225, lowest monthly average since 2000 (2009-02)",
+  "month": "February 2009"
+ },
+ "nk_above_y": {
+  "value": 2024,
+  "how": "first month the monthly average beat the 1989-12 peak (2024-03)",
+  "month": "March 2024"
+ },
+ "nk_last": {
+  "value": 66088.0,
+  "how": "Nikkei 225, October 2026 average"
+ },
+ "nk_x_1215": {
+  "value": 2.3,
+  "how": "Nikkei 225, June 2015 average as a multiple of September 2012"
+ },
+ "debt_2000": {
+  "value": 118.5,
+  "how": "Japan general government gross debt, % of GDP, 2000"
+ },
+ "debt_2007": {
+  "value": 150.4,
+  "how": "Japan general government gross debt, % of GDP, 2007"
+ },
+ "debt_2019": {
+  "value": 206.3,
+  "how": "Japan general government gross debt, % of GDP, 2019"
+ },
+ "debt_2025": {
+  "value": 204.8,
+  "how": "Japan general government gross debt, % of GDP, 2025"
+ },
+ "debt_2031": {
+  "value": 188.9,
+  "how": "Japan general government gross debt, % of GDP, 2031"
+ },
+ "debt_pk": {
+  "value": 228.8,
+  "how": "Japan gross debt peak (2020)"
+ },
+ "debt_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "debt_us_2025": {
+  "value": 124.4,
+  "how": "USA gross debt, % of GDP, 2025"
+ },
+ "debt_it_2025": {
+  "value": 137.1,
+  "how": "ITA gross debt, % of GDP, 2025"
+ },
+ "debt_ind_2025": {
+  "value": 84.3,
+  "how": "IND gross debt, % of GDP, 2025"
+ },
+ "debt_ea_2025": {
+  "value": 87.3,
+  "how": "G163 gross debt, % of GDP, 2025"
+ },
+ "bal_2000": {
+  "value": -7.2,
+  "how": "Japan general government net lending, % of GDP, 2000"
+ },
+ "bal_2009": {
+  "value": -9.6,
+  "how": "Japan general government net lending, % of GDP, 2009"
+ },
+ "bal_2020": {
+  "value": -9.0,
+  "how": "Japan general government net lending, % of GDP, 2020"
+ },
+ "bal_2025": {
+  "value": -0.7,
+  "how": "Japan general government net lending, % of GDP, 2025"
+ },
+ "bal_2031": {
+  "value": -4.0,
+  "how": "Japan general government net lending, % of GDP, 2031"
+ },
+ "ca_2007": {
+  "value": 4.6,
+  "how": "Japan current account, % of GDP, 2007"
+ },
+ "ca_2014": {
+  "value": 0.7,
+  "how": "Japan current account, % of GDP, 2014"
+ },
+ "ca_2025": {
+  "value": 4.9,
+  "how": "Japan current account, % of GDP, 2025"
+ },
+ "pop_pk": {
+  "value": 127.8,
+  "how": "Japan population, million, peak to 2025 (2011)"
+ },
+ "pop_pk_y": {
+  "value": 2011,
+  "how": "year"
+ },
+ "pop_2025": {
+  "value": 123.3,
+  "how": "Japan population, million, 2025 (WEO)"
+ },
+ "pop_2031": {
+  "value": 119.2,
+  "how": "Japan population, million, 2031 (WEO projection)"
+ },
+ "old_2000": {
+  "value": 17.4,
+  "how": "Japan population aged 65+, % of total, 2000 (WDI)"
+ },
+ "old_2025": {
+  "value": 30.0,
+  "how": "Japan population aged 65+, % of total, 2025 (WDI)"
+ },
+ "old_ind_2025": {
+  "value": 7.4,
+  "how": "IND population aged 65+, % of total, 2025 (WDI)"
+ },
+ "old_chn_2025": {
+  "value": 14.9,
+  "how": "CHN population aged 65+, % of total, 2025 (WDI)"
+ },
+ "old_us_2025": {
+  "value": 18.4,
+  "how": "USA population aged 65+, % of total, 2025 (WDI)"
+ },
+ "old_wld_2025": {
+  "value": 10.4,
+  "how": "WLD population aged 65+, % of total, 2025 (WDI)"
+ },
+ "old_ind_2000": {
+  "value": 4.4,
+  "how": "India population aged 65+, % of total, 2000 (WDI)"
+ },
+ "wa_2000": {
+  "value": 68.2,
+  "how": "Japan population aged 15-64, % of total, 2000 (WDI)"
+ },
+ "wa_2025": {
+  "value": 58.8,
+  "how": "Japan population aged 15-64, % of total, 2025 (WDI)"
+ },
+ "tfr_last": {
+  "value": 1.15,
+  "how": "Japan fertility rate, births per woman, 2024 (WDI)"
+ },
+ "tfr_last_y": {
+  "value": 2024,
+  "how": "year"
+ },
+ "tfr_ind_last": {
+  "value": 1.96,
+  "how": "India fertility rate, births per woman, 2024 (WDI)"
+ },
+ "gdpd_jp_2000": {
+  "value": 5.04,
+  "how": "Japan GDP, US$ trillion, 2000 (WEO)"
+ },
+ "gdpd_in_2000": {
+  "value": 0.47,
+  "how": "India GDP, US$ trillion, 2000 (WEO; fiscal year)"
+ },
+ "gdpd_jp_2025": {
+  "value": 4.45,
+  "how": "Japan GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_in_2025": {
+  "value": 3.91,
+  "how": "India GDP, US$ trillion, 2025 (WEO; fiscal year)"
+ },
+ "gdpd_jp_2026": {
+  "value": 4.34,
+  "how": "Japan GDP, US$ trillion, 2026 (WEO)"
+ },
+ "gdpd_in_2026": {
+  "value": 4.06,
+  "how": "India GDP, US$ trillion, 2026 (WEO; fiscal year)"
+ },
+ "gdpd_jp_2027": {
+  "value": 4.47,
+  "how": "Japan GDP, US$ trillion, 2027 (WEO)"
+ },
+ "gdpd_in_2027": {
+  "value": 4.52,
+  "how": "India GDP, US$ trillion, 2027 (WEO; fiscal year)"
+ },
+ "gdpd_jp_2031": {
+  "value": 5.0,
+  "how": "Japan GDP, US$ trillion, 2031 (WEO)"
+ },
+ "gdpd_in_2031": {
+  "value": 6.74,
+  "how": "India GDP, US$ trillion, 2031 (WEO; fiscal year)"
+ },
+ "gdpd_jp_in_2000": {
+  "value": 10.8,
+  "how": "Japan GDP as a multiple of India's, 2000"
+ },
+ "gdpd_cross_y": {
+  "value": 2027,
+  "how": "first year India's dollar GDP exceeds Japan's (WEO Oct 2026)"
+ },
+ "g_ind_avg_0025": {
+  "value": 6.3,
+  "how": "India growth, average 2000-25"
+ },
+ "inr_jpy_2000_01": {
+  "value": 41.4,
+  "how": "rupees per 100 yen, January 2000"
+ },
+ "inr_jpy_2007_06": {
+  "value": 33.08,
+  "how": "rupees per 100 yen, June 2007"
+ },
+ "inr_jpy_2013_12": {
+  "value": 59.74,
+  "how": "rupees per 100 yen, December 2013"
+ },
+ "inr_jpy_2020_12": {
+  "value": 70.93,
+  "how": "rupees per 100 yen, December 2020"
+ },
+ "inr_jpy_2026_10": {
+  "value": 60.46,
+  "how": "rupees per 100 yen, October 2026"
+ },
+ "inr_jpy_hi": {
+  "value": 71.1,
+  "how": "rupees per 100 yen, highest month since 2000 (2020-11)",
+  "month": "November 2020"
+ }
+}

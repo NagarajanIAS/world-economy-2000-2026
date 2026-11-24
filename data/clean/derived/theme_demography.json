@@ -1,0 +1,2494 @@
+{
+ "tfr_WLD_1990": {
+  "value": 3.31,
+  "how": "WPP2024 TFR, WLD, 1990"
+ },
+ "tfr_WLD_2000": {
+  "value": 2.75,
+  "how": "WPP2024 TFR, WLD, 2000"
+ },
+ "tfr_WLD_2010": {
+  "value": 2.6,
+  "how": "WPP2024 TFR, WLD, 2010"
+ },
+ "tfr_WLD_2015": {
+  "value": 2.54,
+  "how": "WPP2024 TFR, WLD, 2015"
+ },
+ "tfr_WLD_2023": {
+  "value": 2.25,
+  "how": "WPP2024 TFR, WLD, 2023"
+ },
+ "tfr_WLD_2050": {
+  "value": 2.1,
+  "how": "WPP2024 TFR, WLD, 2050"
+ },
+ "old_WLD_2000": {
+  "value": 6.8,
+  "how": "WPP2024 share 65+, WLD, 2000"
+ },
+ "old_WLD_2023": {
+  "value": 10.0,
+  "how": "WPP2024 share 65+, WLD, 2023"
+ },
+ "old_WLD_2050": {
+  "value": 16.3,
+  "how": "WPP2024 share 65+, WLD, 2050"
+ },
+ "wa_WLD_2000": {
+  "value": 62.8,
+  "how": "WPP2024 share 15-64, WLD, 2000"
+ },
+ "wa_WLD_2023": {
+  "value": 65.0,
+  "how": "WPP2024 share 15-64, WLD, 2023"
+ },
+ "wa_WLD_2050": {
+  "value": 63.3,
+  "how": "WPP2024 share 15-64, WLD, 2050"
+ },
+ "wa_WLD_peak": {
+  "value": 2028,
+  "how": "WPP2024 year of peak share 15-64, WLD"
+ },
+ "pop_WLD_2000": {
+  "value": 6172.0,
+  "how": "WPP2024 population, million, WLD, 2000"
+ },
+ "pop_WLD_2023": {
+  "value": 8092.0,
+  "how": "WPP2024 population, million, WLD, 2023"
+ },
+ "pop_WLD_2026": {
+  "value": 8301.0,
+  "how": "WPP2024 population, million, WLD, 2026"
+ },
+ "pop_WLD_2050": {
+  "value": 9664.0,
+  "how": "WPP2024 population, million, WLD, 2050"
+ },
+ "pop_WLD_peak": {
+  "value": 2084,
+  "how": "WPP2024 year of peak population (to 2100), WLD"
+ },
+ "pop_WLD_peakval": {
+  "value": 10289.0,
+  "how": "WPP2024 peak population, million, WLD"
+ },
+ "medage_WLD_2000": {
+  "value": 25.1,
+  "how": "WPP2024 median age, WLD, 2000"
+ },
+ "medage_WLD_2023": {
+  "value": 30.4,
+  "how": "WPP2024 median age, WLD, 2023"
+ },
+ "tfr_CHN_1990": {
+  "value": 2.51,
+  "how": "WPP2024 TFR, CHN, 1990"
+ },
+ "tfr_CHN_2000": {
+  "value": 1.63,
+  "how": "WPP2024 TFR, CHN, 2000"
+ },
+ "tfr_CHN_2010": {
+  "value": 1.69,
+  "how": "WPP2024 TFR, CHN, 2010"
+ },
+ "tfr_CHN_2015": {
+  "value": 1.67,
+  "how": "WPP2024 TFR, CHN, 2015"
+ },
+ "tfr_CHN_2023": {
+  "value": 1.0,
+  "how": "WPP2024 TFR, CHN, 2023"
+ },
+ "tfr_CHN_2050": {
+  "value": 1.18,
+  "how": "WPP2024 TFR, CHN, 2050"
+ },
+ "old_CHN_2000": {
+  "value": 7.0,
+  "how": "WPP2024 share 65+, CHN, 2000"
+ },
+ "old_CHN_2023": {
+  "value": 14.3,
+  "how": "WPP2024 share 65+, CHN, 2023"
+ },
+ "old_CHN_2050": {
+  "value": 30.9,
+  "how": "WPP2024 share 65+, CHN, 2050"
+ },
+ "wa_CHN_2000": {
+  "value": 68.4,
+  "how": "WPP2024 share 15-64, CHN, 2000"
+ },
+ "wa_CHN_2023": {
+  "value": 69.1,
+  "how": "WPP2024 share 15-64, CHN, 2023"
+ },
+ "wa_CHN_2050": {
+  "value": 59.1,
+  "how": "WPP2024 share 15-64, CHN, 2050"
+ },
+ "wa_CHN_peak": {
+  "value": 2010,
+  "how": "WPP2024 year of peak share 15-64, CHN"
+ },
+ "pop_CHN_2000": {
+  "value": 1270.0,
+  "how": "WPP2024 population, million, CHN, 2000"
+ },
+ "pop_CHN_2023": {
+  "value": 1423.0,
+  "how": "WPP2024 population, million, CHN, 2023"
+ },
+ "pop_CHN_2026": {
+  "value": 1413.0,
+  "how": "WPP2024 population, million, CHN, 2026"
+ },
+ "pop_CHN_2050": {
+  "value": 1260.0,
+  "how": "WPP2024 population, million, CHN, 2050"
+ },
+ "pop_CHN_peak": {
+  "value": 2021,
+  "how": "WPP2024 year of peak population (to 2100), CHN"
+ },
+ "pop_CHN_peakval": {
+  "value": 1426.0,
+  "how": "WPP2024 peak population, million, CHN"
+ },
+ "medage_CHN_2000": {
+  "value": 29.0,
+  "how": "WPP2024 median age, CHN, 2000"
+ },
+ "medage_CHN_2023": {
+  "value": 39.1,
+  "how": "WPP2024 median age, CHN, 2023"
+ },
+ "tfr_IND_1990": {
+  "value": 4.04,
+  "how": "WPP2024 TFR, IND, 1990"
+ },
+ "tfr_IND_2000": {
+  "value": 3.35,
+  "how": "WPP2024 TFR, IND, 2000"
+ },
+ "tfr_IND_2010": {
+  "value": 2.6,
+  "how": "WPP2024 TFR, IND, 2010"
+ },
+ "tfr_IND_2015": {
+  "value": 2.29,
+  "how": "WPP2024 TFR, IND, 2015"
+ },
+ "tfr_IND_2023": {
+  "value": 1.98,
+  "how": "WPP2024 TFR, IND, 2023"
+ },
+ "tfr_IND_2050": {
+  "value": 1.76,
+  "how": "WPP2024 TFR, IND, 2050"
+ },
+ "old_IND_2000": {
+  "value": 4.4,
+  "how": "WPP2024 share 65+, IND, 2000"
+ },
+ "old_IND_2023": {
+  "value": 6.9,
+  "how": "WPP2024 share 65+, IND, 2023"
+ },
+ "old_IND_2050": {
+  "value": 14.7,
+  "how": "WPP2024 share 65+, IND, 2050"
+ },
+ "wa_IND_2000": {
+  "value": 60.0,
+  "how": "WPP2024 share 15-64, IND, 2000"
+ },
+ "wa_IND_2023": {
+  "value": 68.0,
+  "how": "WPP2024 share 15-64, IND, 2023"
+ },
+ "wa_IND_2050": {
+  "value": 67.5,
+  "how": "WPP2024 share 15-64, IND, 2050"
+ },
+ "wa_IND_peak": {
+  "value": 2034,
+  "how": "WPP2024 year of peak share 15-64, IND"
+ },
+ "pop_IND_2000": {
+  "value": 1058.0,
+  "how": "WPP2024 population, million, IND, 2000"
+ },
+ "pop_IND_2023": {
+  "value": 1438.0,
+  "how": "WPP2024 population, million, IND, 2023"
+ },
+ "pop_IND_2026": {
+  "value": 1477.0,
+  "how": "WPP2024 population, million, IND, 2026"
+ },
+ "pop_IND_2050": {
+  "value": 1680.0,
+  "how": "WPP2024 population, million, IND, 2050"
+ },
+ "pop_IND_peak": {
+  "value": 2061,
+  "how": "WPP2024 year of peak population (to 2100), IND"
+ },
+ "pop_IND_peakval": {
+  "value": 1701.0,
+  "how": "WPP2024 peak population, million, IND"
+ },
+ "medage_IND_2000": {
+  "value": 21.2,
+  "how": "WPP2024 median age, IND, 2000"
+ },
+ "medage_IND_2023": {
+  "value": 28.1,
+  "how": "WPP2024 median age, IND, 2023"
+ },
+ "tfr_JPN_1990": {
+  "value": 1.51,
+  "how": "WPP2024 TFR, JPN, 1990"
+ },
+ "tfr_JPN_2000": {
+  "value": 1.35,
+  "how": "WPP2024 TFR, JPN, 2000"
+ },
+ "tfr_JPN_2010": {
+  "value": 1.36,
+  "how": "WPP2024 TFR, JPN, 2010"
+ },
+ "tfr_JPN_2015": {
+  "value": 1.42,
+  "how": "WPP2024 TFR, JPN, 2015"
+ },
+ "tfr_JPN_2023": {
+  "value": 1.21,
+  "how": "WPP2024 TFR, JPN, 2023"
+ },
+ "tfr_JPN_2050": {
+  "value": 1.35,
+  "how": "WPP2024 TFR, JPN, 2050"
+ },
+ "old_JPN_2000": {
+  "value": 17.4,
+  "how": "WPP2024 share 65+, JPN, 2000"
+ },
+ "old_JPN_2023": {
+  "value": 29.6,
+  "how": "WPP2024 share 65+, JPN, 2023"
+ },
+ "old_JPN_2050": {
+  "value": 37.5,
+  "how": "WPP2024 share 65+, JPN, 2050"
+ },
+ "wa_JPN_2000": {
+  "value": 68.2,
+  "how": "WPP2024 share 15-64, JPN, 2000"
+ },
+ "wa_JPN_2023": {
+  "value": 58.8,
+  "how": "WPP2024 share 15-64, JPN, 2023"
+ },
+ "wa_JPN_2050": {
+  "value": 51.3,
+  "how": "WPP2024 share 15-64, JPN, 2050"
+ },
+ "wa_JPN_peak": {
+  "value": 1992,
+  "how": "WPP2024 year of peak share 15-64, JPN"
+ },
+ "pop_JPN_2000": {
+  "value": 127.0,
+  "how": "WPP2024 population, million, JPN, 2000"
+ },
+ "pop_JPN_2023": {
+  "value": 124.0,
+  "how": "WPP2024 population, million, JPN, 2023"
+ },
+ "pop_JPN_2026": {
+  "value": 122.0,
+  "how": "WPP2024 population, million, JPN, 2026"
+ },
+ "pop_JPN_2050": {
+  "value": 105.0,
+  "how": "WPP2024 population, million, JPN, 2050"
+ },
+ "pop_JPN_peak": {
+  "value": 2009,
+  "how": "WPP2024 year of peak population (to 2100), JPN"
+ },
+ "pop_JPN_peakval": {
+  "value": 128.0,
+  "how": "WPP2024 peak population, million, JPN"
+ },
+ "medage_JPN_2000": {
+  "value": 40.8,
+  "how": "WPP2024 median age, JPN, 2000"
+ },
+ "medage_JPN_2023": {
+  "value": 49.0,
+  "how": "WPP2024 median age, JPN, 2023"
+ },
+ "tfr_USA_1990": {
+  "value": 2.07,
+  "how": "WPP2024 TFR, USA, 1990"
+ },
+ "tfr_USA_2000": {
+  "value": 2.03,
+  "how": "WPP2024 TFR, USA, 2000"
+ },
+ "tfr_USA_2010": {
+  "value": 1.92,
+  "how": "WPP2024 TFR, USA, 2010"
+ },
+ "tfr_USA_2015": {
+  "value": 1.83,
+  "how": "WPP2024 TFR, USA, 2015"
+ },
+ "tfr_USA_2023": {
+  "value": 1.62,
+  "how": "WPP2024 TFR, USA, 2023"
+ },
+ "tfr_USA_2050": {
+  "value": 1.64,
+  "how": "WPP2024 TFR, USA, 2050"
+ },
+ "old_USA_2000": {
+  "value": 12.2,
+  "how": "WPP2024 share 65+, USA, 2000"
+ },
+ "old_USA_2023": {
+  "value": 17.4,
+  "how": "WPP2024 share 65+, USA, 2023"
+ },
+ "old_USA_2050": {
+  "value": 23.1,
+  "how": "WPP2024 share 65+, USA, 2050"
+ },
+ "wa_USA_2000": {
+  "value": 66.7,
+  "how": "WPP2024 share 15-64, USA, 2000"
+ },
+ "wa_USA_2023": {
+  "value": 65.0,
+  "how": "WPP2024 share 15-64, USA, 2023"
+ },
+ "wa_USA_2050": {
+  "value": 61.0,
+  "how": "WPP2024 share 15-64, USA, 2050"
+ },
+ "wa_USA_peak": {
+  "value": 2007,
+  "how": "WPP2024 year of peak share 15-64, USA"
+ },
+ "pop_USA_2000": {
+  "value": 281.0,
+  "how": "WPP2024 population, million, USA, 2000"
+ },
+ "pop_USA_2023": {
+  "value": 343.0,
+  "how": "WPP2024 population, million, USA, 2023"
+ },
+ "pop_USA_2026": {
+  "value": 349.0,
+  "how": "WPP2024 population, million, USA, 2026"
+ },
+ "pop_USA_2050": {
+  "value": 381.0,
+  "how": "WPP2024 population, million, USA, 2050"
+ },
+ "pop_USA_peak": {
+  "value": 2100,
+  "how": "WPP2024 year of peak population (to 2100), USA"
+ },
+ "pop_USA_peakval": {
+  "value": 421.0,
+  "how": "WPP2024 peak population, million, USA"
+ },
+ "medage_USA_2000": {
+  "value": 34.3,
+  "how": "WPP2024 median age, USA, 2000"
+ },
+ "medage_USA_2023": {
+  "value": 38.0,
+  "how": "WPP2024 median age, USA, 2023"
+ },
+ "tfr_KOR_1990": {
+  "value": 1.6,
+  "how": "WPP2024 TFR, KOR, 1990"
+ },
+ "tfr_KOR_2000": {
+  "value": 1.47,
+  "how": "WPP2024 TFR, KOR, 2000"
+ },
+ "tfr_KOR_2010": {
+  "value": 1.23,
+  "how": "WPP2024 TFR, KOR, 2010"
+ },
+ "tfr_KOR_2015": {
+  "value": 1.2,
+  "how": "WPP2024 TFR, KOR, 2015"
+ },
+ "tfr_KOR_2023": {
+  "value": 0.72,
+  "how": "WPP2024 TFR, KOR, 2023"
+ },
+ "tfr_KOR_2050": {
+  "value": 1.03,
+  "how": "WPP2024 TFR, KOR, 2050"
+ },
+ "old_KOR_2000": {
+  "value": 7.1,
+  "how": "WPP2024 share 65+, KOR, 2000"
+ },
+ "old_KOR_2023": {
+  "value": 18.3,
+  "how": "WPP2024 share 65+, KOR, 2023"
+ },
+ "old_KOR_2050": {
+  "value": 39.7,
+  "how": "WPP2024 share 65+, KOR, 2050"
+ },
+ "wa_KOR_2000": {
+  "value": 71.9,
+  "how": "WPP2024 share 15-64, KOR, 2000"
+ },
+ "wa_KOR_2023": {
+  "value": 70.7,
+  "how": "WPP2024 share 15-64, KOR, 2023"
+ },
+ "wa_KOR_2050": {
+  "value": 52.5,
+  "how": "WPP2024 share 15-64, KOR, 2050"
+ },
+ "wa_KOR_peak": {
+  "value": 2016,
+  "how": "WPP2024 year of peak share 15-64, KOR"
+ },
+ "pop_KOR_2000": {
+  "value": 47.0,
+  "how": "WPP2024 population, million, KOR, 2000"
+ },
+ "pop_KOR_2023": {
+  "value": 52.0,
+  "how": "WPP2024 population, million, KOR, 2023"
+ },
+ "pop_KOR_2026": {
+  "value": 52.0,
+  "how": "WPP2024 population, million, KOR, 2026"
+ },
+ "pop_KOR_2050": {
+  "value": 45.0,
+  "how": "WPP2024 population, million, KOR, 2050"
+ },
+ "pop_KOR_peak": {
+  "value": 2020,
+  "how": "WPP2024 year of peak population (to 2100), KOR"
+ },
+ "pop_KOR_peakval": {
+  "value": 52.0,
+  "how": "WPP2024 peak population, million, KOR"
+ },
+ "medage_KOR_2000": {
+  "value": 30.7,
+  "how": "WPP2024 median age, KOR, 2000"
+ },
+ "medage_KOR_2023": {
+  "value": 44.5,
+  "how": "WPP2024 median age, KOR, 2023"
+ },
+ "tfr_DEU_1990": {
+  "value": 1.46,
+  "how": "WPP2024 TFR, DEU, 1990"
+ },
+ "tfr_DEU_2000": {
+  "value": 1.39,
+  "how": "WPP2024 TFR, DEU, 2000"
+ },
+ "tfr_DEU_2010": {
+  "value": 1.4,
+  "how": "WPP2024 TFR, DEU, 2010"
+ },
+ "tfr_DEU_2015": {
+  "value": 1.5,
+  "how": "WPP2024 TFR, DEU, 2015"
+ },
+ "tfr_DEU_2023": {
+  "value": 1.44,
+  "how": "WPP2024 TFR, DEU, 2023"
+ },
+ "tfr_DEU_2050": {
+  "value": 1.54,
+  "how": "WPP2024 TFR, DEU, 2050"
+ },
+ "old_DEU_2000": {
+  "value": 16.5,
+  "how": "WPP2024 share 65+, DEU, 2000"
+ },
+ "old_DEU_2023": {
+  "value": 22.8,
+  "how": "WPP2024 share 65+, DEU, 2023"
+ },
+ "old_DEU_2050": {
+  "value": 30.3,
+  "how": "WPP2024 share 65+, DEU, 2050"
+ },
+ "wa_DEU_2000": {
+  "value": 67.9,
+  "how": "WPP2024 share 15-64, DEU, 2000"
+ },
+ "wa_DEU_2023": {
+  "value": 63.3,
+  "how": "WPP2024 share 15-64, DEU, 2023"
+ },
+ "wa_DEU_2050": {
+  "value": 56.6,
+  "how": "WPP2024 share 15-64, DEU, 2050"
+ },
+ "wa_DEU_peak": {
+  "value": 1986,
+  "how": "WPP2024 year of peak share 15-64, DEU"
+ },
+ "pop_DEU_2000": {
+  "value": 82.0,
+  "how": "WPP2024 population, million, DEU, 2000"
+ },
+ "pop_DEU_2023": {
+  "value": 85.0,
+  "how": "WPP2024 population, million, DEU, 2023"
+ },
+ "pop_DEU_2026": {
+  "value": 84.0,
+  "how": "WPP2024 population, million, DEU, 2026"
+ },
+ "pop_DEU_2050": {
+  "value": 78.0,
+  "how": "WPP2024 population, million, DEU, 2050"
+ },
+ "pop_DEU_peak": {
+  "value": 2024,
+  "how": "WPP2024 year of peak population (to 2100), DEU"
+ },
+ "pop_DEU_peakval": {
+  "value": 85.0,
+  "how": "WPP2024 peak population, million, DEU"
+ },
+ "medage_DEU_2000": {
+  "value": 39.0,
+  "how": "WPP2024 median age, DEU, 2000"
+ },
+ "medage_DEU_2023": {
+  "value": 45.1,
+  "how": "WPP2024 median age, DEU, 2023"
+ },
+ "tfr_ITA_1990": {
+  "value": 1.33,
+  "how": "WPP2024 TFR, ITA, 1990"
+ },
+ "tfr_ITA_2000": {
+  "value": 1.25,
+  "how": "WPP2024 TFR, ITA, 2000"
+ },
+ "tfr_ITA_2010": {
+  "value": 1.44,
+  "how": "WPP2024 TFR, ITA, 2010"
+ },
+ "tfr_ITA_2015": {
+  "value": 1.34,
+  "how": "WPP2024 TFR, ITA, 2015"
+ },
+ "tfr_ITA_2023": {
+  "value": 1.2,
+  "how": "WPP2024 TFR, ITA, 2023"
+ },
+ "tfr_ITA_2050": {
+  "value": 1.35,
+  "how": "WPP2024 TFR, ITA, 2050"
+ },
+ "old_ITA_2000": {
+  "value": 18.2,
+  "how": "WPP2024 share 65+, ITA, 2000"
+ },
+ "old_ITA_2023": {
+  "value": 24.2,
+  "how": "WPP2024 share 65+, ITA, 2023"
+ },
+ "old_ITA_2050": {
+  "value": 36.8,
+  "how": "WPP2024 share 65+, ITA, 2050"
+ },
+ "wa_ITA_2000": {
+  "value": 67.5,
+  "how": "WPP2024 share 15-64, ITA, 2000"
+ },
+ "wa_ITA_2023": {
+  "value": 63.6,
+  "how": "WPP2024 share 15-64, ITA, 2023"
+ },
+ "wa_ITA_2050": {
+  "value": 52.3,
+  "how": "WPP2024 share 15-64, ITA, 2050"
+ },
+ "wa_ITA_peak": {
+  "value": 1992,
+  "how": "WPP2024 year of peak share 15-64, ITA"
+ },
+ "pop_ITA_2000": {
+  "value": 57.0,
+  "how": "WPP2024 population, million, ITA, 2000"
+ },
+ "pop_ITA_2023": {
+  "value": 59.0,
+  "how": "WPP2024 population, million, ITA, 2023"
+ },
+ "pop_ITA_2026": {
+  "value": 59.0,
+  "how": "WPP2024 population, million, ITA, 2026"
+ },
+ "pop_ITA_2050": {
+  "value": 52.0,
+  "how": "WPP2024 population, million, ITA, 2050"
+ },
+ "pop_ITA_peak": {
+  "value": 2014,
+  "how": "WPP2024 year of peak population (to 2100), ITA"
+ },
+ "pop_ITA_peakval": {
+  "value": 61.0,
+  "how": "WPP2024 peak population, million, ITA"
+ },
+ "medage_ITA_2000": {
+  "value": 39.2,
+  "how": "WPP2024 median age, ITA, 2000"
+ },
+ "medage_ITA_2023": {
+  "value": 47.5,
+  "how": "WPP2024 median age, ITA, 2023"
+ },
+ "tfr_NGA_1990": {
+  "value": 6.46,
+  "how": "WPP2024 TFR, NGA, 1990"
+ },
+ "tfr_NGA_2000": {
+  "value": 6.12,
+  "how": "WPP2024 TFR, NGA, 2000"
+ },
+ "tfr_NGA_2010": {
+  "value": 5.95,
+  "how": "WPP2024 TFR, NGA, 2010"
+ },
+ "tfr_NGA_2015": {
+  "value": 5.5,
+  "how": "WPP2024 TFR, NGA, 2015"
+ },
+ "tfr_NGA_2023": {
+  "value": 4.48,
+  "how": "WPP2024 TFR, NGA, 2023"
+ },
+ "tfr_NGA_2050": {
+  "value": 2.66,
+  "how": "WPP2024 TFR, NGA, 2050"
+ },
+ "old_NGA_2000": {
+  "value": 3.0,
+  "how": "WPP2024 share 65+, NGA, 2000"
+ },
+ "old_NGA_2023": {
+  "value": 3.0,
+  "how": "WPP2024 share 65+, NGA, 2023"
+ },
+ "old_NGA_2050": {
+  "value": 4.5,
+  "how": "WPP2024 share 65+, NGA, 2050"
+ },
+ "wa_NGA_2000": {
+  "value": 53.2,
+  "how": "WPP2024 share 15-64, NGA, 2000"
+ },
+ "wa_NGA_2023": {
+  "value": 55.5,
+  "how": "WPP2024 share 15-64, NGA, 2023"
+ },
+ "wa_NGA_2050": {
+  "value": 64.6,
+  "how": "WPP2024 share 15-64, NGA, 2050"
+ },
+ "wa_NGA_peak": {
+  "value": 2071,
+  "how": "WPP2024 year of peak share 15-64, NGA"
+ },
+ "pop_NGA_2000": {
+  "value": 126.0,
+  "how": "WPP2024 population, million, NGA, 2000"
+ },
+ "pop_NGA_2023": {
+  "value": 228.0,
+  "how": "WPP2024 population, million, NGA, 2023"
+ },
+ "pop_NGA_2026": {
+  "value": 242.0,
+  "how": "WPP2024 population, million, NGA, 2026"
+ },
+ "pop_NGA_2050": {
+  "value": 359.0,
+  "how": "WPP2024 population, million, NGA, 2050"
+ },
+ "pop_NGA_peak": {
+  "value": 2100,
+  "how": "WPP2024 year of peak population (to 2100), NGA"
+ },
+ "pop_NGA_peakval": {
+  "value": 477.0,
+  "how": "WPP2024 peak population, million, NGA"
+ },
+ "medage_NGA_2000": {
+  "value": 16.8,
+  "how": "WPP2024 median age, NGA, 2000"
+ },
+ "medage_NGA_2023": {
+  "value": 17.8,
+  "how": "WPP2024 median age, NGA, 2023"
+ },
+ "tfr_SSF_1990": {
+  "value": 6.3,
+  "how": "WPP2024 TFR, SSF, 1990"
+ },
+ "tfr_SSF_2000": {
+  "value": 5.73,
+  "how": "WPP2024 TFR, SSF, 2000"
+ },
+ "tfr_SSF_2010": {
+  "value": 5.32,
+  "how": "WPP2024 TFR, SSF, 2010"
+ },
+ "tfr_SSF_2015": {
+  "value": 4.93,
+  "how": "WPP2024 TFR, SSF, 2015"
+ },
+ "tfr_SSF_2023": {
+  "value": 4.32,
+  "how": "WPP2024 TFR, SSF, 2023"
+ },
+ "tfr_SSF_2050": {
+  "value": 2.87,
+  "how": "WPP2024 TFR, SSF, 2050"
+ },
+ "old_SSF_2000": {
+  "value": 3.0,
+  "how": "WPP2024 share 65+, SSF, 2000"
+ },
+ "old_SSF_2023": {
+  "value": 3.2,
+  "how": "WPP2024 share 65+, SSF, 2023"
+ },
+ "old_SSF_2050": {
+  "value": 4.9,
+  "how": "WPP2024 share 65+, SSF, 2050"
+ },
+ "wa_SSF_2000": {
+  "value": 52.4,
+  "how": "WPP2024 share 15-64, SSF, 2000"
+ },
+ "wa_SSF_2023": {
+  "value": 55.8,
+  "how": "WPP2024 share 15-64, SSF, 2023"
+ },
+ "wa_SSF_2050": {
+  "value": 63.0,
+  "how": "WPP2024 share 15-64, SSF, 2050"
+ },
+ "wa_SSF_peak": {
+  "value": 2078,
+  "how": "WPP2024 year of peak share 15-64, SSF"
+ },
+ "pop_SSF_2000": {
+  "value": 655.0,
+  "how": "WPP2024 population, million, SSF, 2000"
+ },
+ "pop_SSF_2023": {
+  "value": 1212.0,
+  "how": "WPP2024 population, million, SSF, 2023"
+ },
+ "pop_SSF_2026": {
+  "value": 1304.0,
+  "how": "WPP2024 population, million, SSF, 2026"
+ },
+ "pop_SSF_2050": {
+  "value": 2094.0,
+  "how": "WPP2024 population, million, SSF, 2050"
+ },
+ "pop_SSF_peak": {
+  "value": 2100,
+  "how": "WPP2024 year of peak population (to 2100), SSF"
+ },
+ "pop_SSF_peakval": {
+  "value": 3351.0,
+  "how": "WPP2024 peak population, million, SSF"
+ },
+ "medage_SSF_2000": {
+  "value": 16.4,
+  "how": "WPP2024 median age, SSF, 2000"
+ },
+ "medage_SSF_2023": {
+  "value": 18.1,
+  "how": "WPP2024 median age, SSF, 2023"
+ },
+ "tfr_EUR_1990": {
+  "value": 1.72,
+  "how": "WPP2024 TFR, EUR, 1990"
+ },
+ "tfr_EUR_2000": {
+  "value": 1.41,
+  "how": "WPP2024 TFR, EUR, 2000"
+ },
+ "tfr_EUR_2010": {
+  "value": 1.61,
+  "how": "WPP2024 TFR, EUR, 2010"
+ },
+ "tfr_EUR_2015": {
+  "value": 1.6,
+  "how": "WPP2024 TFR, EUR, 2015"
+ },
+ "tfr_EUR_2023": {
+  "value": 1.39,
+  "how": "WPP2024 TFR, EUR, 2023"
+ },
+ "tfr_EUR_2050": {
+  "value": 1.5,
+  "how": "WPP2024 TFR, EUR, 2050"
+ },
+ "old_EUR_2000": {
+  "value": 14.7,
+  "how": "WPP2024 share 65+, EUR, 2000"
+ },
+ "old_EUR_2023": {
+  "value": 20.1,
+  "how": "WPP2024 share 65+, EUR, 2023"
+ },
+ "old_EUR_2050": {
+  "value": 28.6,
+  "how": "WPP2024 share 65+, EUR, 2050"
+ },
+ "wa_EUR_2000": {
+  "value": 67.7,
+  "how": "WPP2024 share 15-64, EUR, 2000"
+ },
+ "wa_EUR_2023": {
+  "value": 64.4,
+  "how": "WPP2024 share 15-64, EUR, 2023"
+ },
+ "wa_EUR_2050": {
+  "value": 57.7,
+  "how": "WPP2024 share 15-64, EUR, 2050"
+ },
+ "wa_EUR_peak": {
+  "value": 2008,
+  "how": "WPP2024 year of peak share 15-64, EUR"
+ },
+ "pop_EUR_2000": {
+  "value": 728.0,
+  "how": "WPP2024 population, million, EUR, 2000"
+ },
+ "pop_EUR_2023": {
+  "value": 746.0,
+  "how": "WPP2024 population, million, EUR, 2023"
+ },
+ "pop_EUR_2026": {
+  "value": 743.0,
+  "how": "WPP2024 population, million, EUR, 2026"
+ },
+ "pop_EUR_2050": {
+  "value": 703.0,
+  "how": "WPP2024 population, million, EUR, 2050"
+ },
+ "pop_EUR_peak": {
+  "value": 2020,
+  "how": "WPP2024 year of peak population (to 2100), EUR"
+ },
+ "pop_EUR_peakval": {
+  "value": 750.0,
+  "how": "WPP2024 peak population, million, EUR"
+ },
+ "medage_EUR_2000": {
+  "value": 36.6,
+  "how": "WPP2024 median age, EUR, 2000"
+ },
+ "medage_EUR_2023": {
+  "value": 42.2,
+  "how": "WPP2024 median age, EUR, 2023"
+ },
+ "tfr_BRA_1990": {
+  "value": 2.9,
+  "how": "WPP2024 TFR, BRA, 1990"
+ },
+ "tfr_BRA_2000": {
+  "value": 2.25,
+  "how": "WPP2024 TFR, BRA, 2000"
+ },
+ "tfr_BRA_2010": {
+  "value": 1.79,
+  "how": "WPP2024 TFR, BRA, 2010"
+ },
+ "tfr_BRA_2015": {
+  "value": 1.78,
+  "how": "WPP2024 TFR, BRA, 2015"
+ },
+ "tfr_BRA_2023": {
+  "value": 1.62,
+  "how": "WPP2024 TFR, BRA, 2023"
+ },
+ "tfr_BRA_2050": {
+  "value": 1.56,
+  "how": "WPP2024 TFR, BRA, 2050"
+ },
+ "old_BRA_2000": {
+  "value": 5.2,
+  "how": "WPP2024 share 65+, BRA, 2000"
+ },
+ "old_BRA_2023": {
+  "value": 10.6,
+  "how": "WPP2024 share 65+, BRA, 2023"
+ },
+ "old_BRA_2050": {
+  "value": 22.5,
+  "how": "WPP2024 share 65+, BRA, 2050"
+ },
+ "wa_BRA_2000": {
+  "value": 65.0,
+  "how": "WPP2024 share 15-64, BRA, 2000"
+ },
+ "wa_BRA_2023": {
+  "value": 69.4,
+  "how": "WPP2024 share 15-64, BRA, 2023"
+ },
+ "wa_BRA_2050": {
+  "value": 62.8,
+  "how": "WPP2024 share 15-64, BRA, 2050"
+ },
+ "wa_BRA_peak": {
+  "value": 2017,
+  "how": "WPP2024 year of peak share 15-64, BRA"
+ },
+ "pop_BRA_2000": {
+  "value": 174.0,
+  "how": "WPP2024 population, million, BRA, 2000"
+ },
+ "pop_BRA_2023": {
+  "value": 211.0,
+  "how": "WPP2024 population, million, BRA, 2023"
+ },
+ "pop_BRA_2026": {
+  "value": 214.0,
+  "how": "WPP2024 population, million, BRA, 2026"
+ },
+ "pop_BRA_2050": {
+  "value": 217.0,
+  "how": "WPP2024 population, million, BRA, 2050"
+ },
+ "pop_BRA_peak": {
+  "value": 2042,
+  "how": "WPP2024 year of peak population (to 2100), BRA"
+ },
+ "pop_BRA_peakval": {
+  "value": 219.0,
+  "how": "WPP2024 peak population, million, BRA"
+ },
+ "medage_BRA_2000": {
+  "value": 24.2,
+  "how": "WPP2024 median age, BRA, 2000"
+ },
+ "medage_BRA_2023": {
+  "value": 33.9,
+  "how": "WPP2024 median age, BRA, 2023"
+ },
+ "ind_over_chn": {
+  "value": 2022,
+  "how": "WPP2024 first year India's 1 July population exceeds China's"
+ },
+ "chn_decline_2023_2050": {
+  "value": -11.0,
+  "how": "WPP2024 change in China's population 2023-2050, %"
+ },
+ "ssf_share_growth_2023_2050": {
+  "value": 56.0,
+  "how": "WPP2024 Sub-Saharan Africa share of world population increase 2023-2050, %"
+ },
+ "wld_growth_2023_2050": {
+  "value": 1.57,
+  "how": "WPP2024 world population increase 2023-2050, billion"
+ },
+ "lfpf_WLD_2000": {
+  "value": 51.0,
+  "how": "WDI lfpf WLD 2000"
+ },
+ "lfpm_WLD_2000": {
+  "value": 78.1,
+  "how": "WDI lfpm WLD 2000"
+ },
+ "un_WLD_2000": {
+  "value": 6.1,
+  "how": "WDI un WLD 2000"
+ },
+ "yun_WLD_2000": {
+  "value": 14.3,
+  "how": "WDI yun WLD 2000"
+ },
+ "agr_WLD_2000": {
+  "value": 39.3,
+  "how": "WDI agr WLD 2000"
+ },
+ "lfpf_WLD_2010": {
+  "value": 49.4,
+  "how": "WDI lfpf WLD 2010"
+ },
+ "lfpm_WLD_2010": {
+  "value": 75.9,
+  "how": "WDI lfpm WLD 2010"
+ },
+ "un_WLD_2010": {
+  "value": 6.3,
+  "how": "WDI un WLD 2010"
+ },
+ "yun_WLD_2010": {
+  "value": 15.2,
+  "how": "WDI yun WLD 2010"
+ },
+ "agr_WLD_2010": {
+  "value": 32.6,
+  "how": "WDI agr WLD 2010"
+ },
+ "lfpf_WLD_2019": {
+  "value": 48.3,
+  "how": "WDI lfpf WLD 2019"
+ },
+ "lfpm_WLD_2019": {
+  "value": 73.8,
+  "how": "WDI lfpm WLD 2019"
+ },
+ "un_WLD_2019": {
+  "value": 5.6,
+  "how": "WDI un WLD 2019"
+ },
+ "yun_WLD_2019": {
+  "value": 15.3,
+  "how": "WDI yun WLD 2019"
+ },
+ "agr_WLD_2019": {
+  "value": 26.3,
+  "how": "WDI agr WLD 2019"
+ },
+ "lfpf_WLD_2025": {
+  "value": 48.9,
+  "how": "WDI lfpf WLD 2025"
+ },
+ "lfpm_WLD_2025": {
+  "value": 73.1,
+  "how": "WDI lfpm WLD 2025"
+ },
+ "un_WLD_2025": {
+  "value": 4.8,
+  "how": "WDI un WLD 2025"
+ },
+ "yun_WLD_2025": {
+  "value": 13.4,
+  "how": "WDI yun WLD 2025"
+ },
+ "agr_WLD_2025": {
+  "value": 25.8,
+  "how": "WDI agr WLD 2025"
+ },
+ "lfpf_IND_2000": {
+  "value": 34.4,
+  "how": "WDI lfpf IND 2000"
+ },
+ "lfpm_IND_2000": {
+  "value": 84.3,
+  "how": "WDI lfpm IND 2000"
+ },
+ "un_IND_2000": {
+  "value": 7.6,
+  "how": "WDI un IND 2000"
+ },
+ "yun_IND_2000": {
+  "value": 20.2,
+  "how": "WDI yun IND 2000"
+ },
+ "agr_IND_2000": {
+  "value": 59.6,
+  "how": "WDI agr IND 2000"
+ },
+ "lfpf_IND_2010": {
+  "value": 28.4,
+  "how": "WDI lfpf IND 2010"
+ },
+ "lfpm_IND_2010": {
+  "value": 79.7,
+  "how": "WDI lfpm IND 2010"
+ },
+ "un_IND_2010": {
+  "value": 7.6,
+  "how": "WDI un IND 2010"
+ },
+ "yun_IND_2010": {
+  "value": 23.3,
+  "how": "WDI yun IND 2010"
+ },
+ "agr_IND_2010": {
+  "value": 51.1,
+  "how": "WDI agr IND 2010"
+ },
+ "lfpf_IND_2019": {
+  "value": 26.5,
+  "how": "WDI lfpf IND 2019"
+ },
+ "lfpm_IND_2019": {
+  "value": 76.6,
+  "how": "WDI lfpm IND 2019"
+ },
+ "un_IND_2019": {
+  "value": 6.5,
+  "how": "WDI un IND 2019"
+ },
+ "yun_IND_2019": {
+  "value": 22.9,
+  "how": "WDI yun IND 2019"
+ },
+ "agr_IND_2019": {
+  "value": 40.7,
+  "how": "WDI agr IND 2019"
+ },
+ "lfpf_IND_2025": {
+  "value": 32.4,
+  "how": "WDI lfpf IND 2025"
+ },
+ "lfpm_IND_2025": {
+  "value": 77.6,
+  "how": "WDI lfpm IND 2025"
+ },
+ "un_IND_2025": {
+  "value": 4.2,
+  "how": "WDI un IND 2025"
+ },
+ "yun_IND_2025": {
+  "value": 16.0,
+  "how": "WDI yun IND 2025"
+ },
+ "agr_IND_2025": {
+  "value": 41.6,
+  "how": "WDI agr IND 2025"
+ },
+ "lfpf_CHN_2000": {
+  "value": 67.9,
+  "how": "WDI lfpf CHN 2000"
+ },
+ "lfpm_CHN_2000": {
+  "value": 80.3,
+  "how": "WDI lfpm CHN 2000"
+ },
+ "un_CHN_2000": {
+  "value": 3.3,
+  "how": "WDI un CHN 2000"
+ },
+ "yun_CHN_2000": {
+  "value": 6.8,
+  "how": "WDI yun CHN 2000"
+ },
+ "agr_CHN_2000": {
+  "value": 50.0,
+  "how": "WDI agr CHN 2000"
+ },
+ "lfpf_CHN_2010": {
+  "value": 63.7,
+  "how": "WDI lfpf CHN 2010"
+ },
+ "lfpm_CHN_2010": {
+  "value": 78.1,
+  "how": "WDI lfpm CHN 2010"
+ },
+ "un_CHN_2010": {
+  "value": 4.5,
+  "how": "WDI un CHN 2010"
+ },
+ "yun_CHN_2010": {
+  "value": 9.8,
+  "how": "WDI yun CHN 2010"
+ },
+ "agr_CHN_2010": {
+  "value": 36.7,
+  "how": "WDI agr CHN 2010"
+ },
+ "lfpf_CHN_2019": {
+  "value": 61.3,
+  "how": "WDI lfpf CHN 2019"
+ },
+ "lfpm_CHN_2019": {
+  "value": 73.3,
+  "how": "WDI lfpm CHN 2019"
+ },
+ "un_CHN_2019": {
+  "value": 4.6,
+  "how": "WDI un CHN 2019"
+ },
+ "yun_CHN_2019": {
+  "value": 10.7,
+  "how": "WDI yun CHN 2019"
+ },
+ "agr_CHN_2019": {
+  "value": 24.7,
+  "how": "WDI agr CHN 2019"
+ },
+ "lfpf_CHN_2025": {
+  "value": 59.1,
+  "how": "WDI lfpf CHN 2025"
+ },
+ "lfpm_CHN_2025": {
+  "value": 69.9,
+  "how": "WDI lfpm CHN 2025"
+ },
+ "un_CHN_2025": {
+  "value": 4.6,
+  "how": "WDI un CHN 2025"
+ },
+ "yun_CHN_2025": {
+  "value": 15.8,
+  "how": "WDI yun CHN 2025"
+ },
+ "agr_CHN_2025": {
+  "value": 21.7,
+  "how": "WDI agr CHN 2025"
+ },
+ "lfpf_USA_2000": {
+  "value": 58.7,
+  "how": "WDI lfpf USA 2000"
+ },
+ "lfpm_USA_2000": {
+  "value": 73.8,
+  "how": "WDI lfpm USA 2000"
+ },
+ "un_USA_2000": {
+  "value": 4.0,
+  "how": "WDI un USA 2000"
+ },
+ "yun_USA_2000": {
+  "value": 9.3,
+  "how": "WDI yun USA 2000"
+ },
+ "agr_USA_2000": {
+  "value": 2.4,
+  "how": "WDI agr USA 2000"
+ },
+ "lfpf_USA_2010": {
+  "value": 57.5,
+  "how": "WDI lfpf USA 2010"
+ },
+ "lfpm_USA_2010": {
+  "value": 70.1,
+  "how": "WDI lfpm USA 2010"
+ },
+ "un_USA_2010": {
+  "value": 9.6,
+  "how": "WDI un USA 2010"
+ },
+ "yun_USA_2010": {
+  "value": 18.4,
+  "how": "WDI yun USA 2010"
+ },
+ "agr_USA_2010": {
+  "value": 1.9,
+  "how": "WDI agr USA 2010"
+ },
+ "lfpf_USA_2019": {
+  "value": 56.9,
+  "how": "WDI lfpf USA 2019"
+ },
+ "lfpm_USA_2019": {
+  "value": 68.8,
+  "how": "WDI lfpm USA 2019"
+ },
+ "un_USA_2019": {
+  "value": 3.7,
+  "how": "WDI un USA 2019"
+ },
+ "yun_USA_2019": {
+  "value": 8.4,
+  "how": "WDI yun USA 2019"
+ },
+ "agr_USA_2019": {
+  "value": 1.8,
+  "how": "WDI agr USA 2019"
+ },
+ "lfpf_USA_2025": {
+  "value": 56.3,
+  "how": "WDI lfpf USA 2025"
+ },
+ "lfpm_USA_2025": {
+  "value": 67.1,
+  "how": "WDI lfpm USA 2025"
+ },
+ "un_USA_2025": {
+  "value": 4.2,
+  "how": "WDI un USA 2025"
+ },
+ "yun_USA_2025": {
+  "value": 9.3,
+  "how": "WDI yun USA 2025"
+ },
+ "agr_USA_2025": {
+  "value": 1.5,
+  "how": "WDI agr USA 2025"
+ },
+ "lfpf_EMU_2000": {
+  "value": 45.7,
+  "how": "WDI lfpf EMU 2000"
+ },
+ "lfpm_EMU_2000": {
+  "value": 65.3,
+  "how": "WDI lfpm EMU 2000"
+ },
+ "un_EMU_2000": {
+  "value": 9.6,
+  "how": "WDI un EMU 2000"
+ },
+ "yun_EMU_2000": {
+  "value": 19.9,
+  "how": "WDI yun EMU 2000"
+ },
+ "agr_EMU_2000": {
+  "value": 5.3,
+  "how": "WDI agr EMU 2000"
+ },
+ "lfpf_EMU_2010": {
+  "value": 49.5,
+  "how": "WDI lfpf EMU 2010"
+ },
+ "lfpm_EMU_2010": {
+  "value": 64.3,
+  "how": "WDI lfpm EMU 2010"
+ },
+ "un_EMU_2010": {
+  "value": 10.2,
+  "how": "WDI un EMU 2010"
+ },
+ "yun_EMU_2010": {
+  "value": 23.0,
+  "how": "WDI yun EMU 2010"
+ },
+ "agr_EMU_2010": {
+  "value": 3.6,
+  "how": "WDI agr EMU 2010"
+ },
+ "lfpf_EMU_2019": {
+  "value": 51.1,
+  "how": "WDI lfpf EMU 2019"
+ },
+ "lfpm_EMU_2019": {
+  "value": 63.3,
+  "how": "WDI lfpm EMU 2019"
+ },
+ "un_EMU_2019": {
+  "value": 7.4,
+  "how": "WDI un EMU 2019"
+ },
+ "yun_EMU_2019": {
+  "value": 18.2,
+  "how": "WDI yun EMU 2019"
+ },
+ "agr_EMU_2019": {
+  "value": 3.0,
+  "how": "WDI agr EMU 2019"
+ },
+ "lfpf_EMU_2025": {
+  "value": 51.6,
+  "how": "WDI lfpf EMU 2025"
+ },
+ "lfpm_EMU_2025": {
+  "value": 62.7,
+  "how": "WDI lfpm EMU 2025"
+ },
+ "un_EMU_2025": {
+  "value": 6.3,
+  "how": "WDI un EMU 2025"
+ },
+ "yun_EMU_2025": {
+  "value": 16.3,
+  "how": "WDI yun EMU 2025"
+ },
+ "agr_EMU_2025": {
+  "value": 2.6,
+  "how": "WDI agr EMU 2025"
+ },
+ "lfpf_JPN_2000": {
+  "value": 49.2,
+  "how": "WDI lfpf JPN 2000"
+ },
+ "lfpm_JPN_2000": {
+  "value": 76.3,
+  "how": "WDI lfpm JPN 2000"
+ },
+ "un_JPN_2000": {
+  "value": 4.7,
+  "how": "WDI un JPN 2000"
+ },
+ "yun_JPN_2000": {
+  "value": 9.2,
+  "how": "WDI yun JPN 2000"
+ },
+ "agr_JPN_2000": {
+  "value": 5.5,
+  "how": "WDI agr JPN 2000"
+ },
+ "lfpf_JPN_2010": {
+  "value": 48.3,
+  "how": "WDI lfpf JPN 2010"
+ },
+ "lfpm_JPN_2010": {
+  "value": 71.5,
+  "how": "WDI lfpm JPN 2010"
+ },
+ "un_JPN_2010": {
+  "value": 5.1,
+  "how": "WDI un JPN 2010"
+ },
+ "yun_JPN_2010": {
+  "value": 9.5,
+  "how": "WDI yun JPN 2010"
+ },
+ "agr_JPN_2010": {
+  "value": 4.4,
+  "how": "WDI agr JPN 2010"
+ },
+ "lfpf_JPN_2019": {
+  "value": 53.2,
+  "how": "WDI lfpf JPN 2019"
+ },
+ "lfpm_JPN_2019": {
+  "value": 71.3,
+  "how": "WDI lfpm JPN 2019"
+ },
+ "un_JPN_2019": {
+  "value": 2.4,
+  "how": "WDI un JPN 2019"
+ },
+ "yun_JPN_2019": {
+  "value": 3.9,
+  "how": "WDI yun JPN 2019"
+ },
+ "agr_JPN_2019": {
+  "value": 3.4,
+  "how": "WDI agr JPN 2019"
+ },
+ "lfpf_JPN_2025": {
+  "value": 55.9,
+  "how": "WDI lfpf JPN 2025"
+ },
+ "lfpm_JPN_2025": {
+  "value": 71.5,
+  "how": "WDI lfpm JPN 2025"
+ },
+ "un_JPN_2025": {
+  "value": 2.5,
+  "how": "WDI un JPN 2025"
+ },
+ "yun_JPN_2025": {
+  "value": 3.9,
+  "how": "WDI yun JPN 2025"
+ },
+ "agr_JPN_2025": {
+  "value": 2.8,
+  "how": "WDI agr JPN 2025"
+ },
+ "lfpf_BRA_2000": {
+  "value": 51.9,
+  "how": "WDI lfpf BRA 2000"
+ },
+ "lfpm_BRA_2000": {
+  "value": 80.2,
+  "how": "WDI lfpm BRA 2000"
+ },
+ "un_BRA_2000": {
+  "value": 10.9,
+  "how": "WDI un BRA 2000"
+ },
+ "yun_BRA_2000": {
+  "value": 20.3,
+  "how": "WDI yun BRA 2000"
+ },
+ "agr_BRA_2000": {
+  "value": 14.2,
+  "how": "WDI agr BRA 2000"
+ },
+ "lfpf_BRA_2010": {
+  "value": 55.0,
+  "how": "WDI lfpf BRA 2010"
+ },
+ "lfpm_BRA_2010": {
+  "value": 77.7,
+  "how": "WDI lfpm BRA 2010"
+ },
+ "un_BRA_2010": {
+  "value": 8.4,
+  "how": "WDI un BRA 2010"
+ },
+ "yun_BRA_2010": {
+  "value": 18.2,
+  "how": "WDI yun BRA 2010"
+ },
+ "agr_BRA_2010": {
+  "value": 10.5,
+  "how": "WDI agr BRA 2010"
+ },
+ "lfpf_BRA_2019": {
+  "value": 55.3,
+  "how": "WDI lfpf BRA 2019"
+ },
+ "lfpm_BRA_2019": {
+  "value": 74.9,
+  "how": "WDI lfpm BRA 2019"
+ },
+ "un_BRA_2019": {
+  "value": 11.9,
+  "how": "WDI un BRA 2019"
+ },
+ "yun_BRA_2019": {
+  "value": 27.1,
+  "how": "WDI yun BRA 2019"
+ },
+ "agr_BRA_2019": {
+  "value": 8.9,
+  "how": "WDI agr BRA 2019"
+ },
+ "lfpf_BRA_2025": {
+  "value": 53.4,
+  "how": "WDI lfpf BRA 2025"
+ },
+ "lfpm_BRA_2025": {
+  "value": 73.4,
+  "how": "WDI lfpm BRA 2025"
+ },
+ "un_BRA_2025": {
+  "value": 6.0,
+  "how": "WDI un BRA 2025"
+ },
+ "yun_BRA_2025": {
+  "value": 14.0,
+  "how": "WDI yun BRA 2025"
+ },
+ "agr_BRA_2025": {
+  "value": 7.6,
+  "how": "WDI agr BRA 2025"
+ },
+ "lfpf_SSF_2000": {
+  "value": 67.0,
+  "how": "WDI lfpf SSF 2000"
+ },
+ "lfpm_SSF_2000": {
+  "value": 80.3,
+  "how": "WDI lfpm SSF 2000"
+ },
+ "un_SSF_2000": {
+  "value": 6.4,
+  "how": "WDI un SSF 2000"
+ },
+ "yun_SSF_2000": {
+  "value": 12.1,
+  "how": "WDI yun SSF 2000"
+ },
+ "agr_SSF_2000": {
+  "value": 59.8,
+  "how": "WDI agr SSF 2000"
+ },
+ "lfpf_SSF_2010": {
+  "value": 66.0,
+  "how": "WDI lfpf SSF 2010"
+ },
+ "lfpm_SSF_2010": {
+  "value": 77.9,
+  "how": "WDI lfpm SSF 2010"
+ },
+ "un_SSF_2010": {
+  "value": 5.9,
+  "how": "WDI un SSF 2010"
+ },
+ "yun_SSF_2010": {
+  "value": 12.2,
+  "how": "WDI yun SSF 2010"
+ },
+ "agr_SSF_2010": {
+  "value": 56.1,
+  "how": "WDI agr SSF 2010"
+ },
+ "lfpf_SSF_2019": {
+  "value": 62.6,
+  "how": "WDI lfpf SSF 2019"
+ },
+ "lfpm_SSF_2019": {
+  "value": 75.7,
+  "how": "WDI lfpm SSF 2019"
+ },
+ "un_SSF_2019": {
+  "value": 6.2,
+  "how": "WDI un SSF 2019"
+ },
+ "yun_SSF_2019": {
+  "value": 11.5,
+  "how": "WDI yun SSF 2019"
+ },
+ "agr_SSF_2019": {
+  "value": 50.7,
+  "how": "WDI agr SSF 2019"
+ },
+ "lfpf_SSF_2025": {
+  "value": 65.2,
+  "how": "WDI lfpf SSF 2025"
+ },
+ "lfpm_SSF_2025": {
+  "value": 75.6,
+  "how": "WDI lfpm SSF 2025"
+ },
+ "un_SSF_2025": {
+  "value": 5.7,
+  "how": "WDI un SSF 2025"
+ },
+ "yun_SSF_2025": {
+  "value": 10.1,
+  "how": "WDI yun SSF 2025"
+ },
+ "agr_SSF_2025": {
+  "value": 49.3,
+  "how": "WDI agr SSF 2025"
+ },
+ "lfpf_BGD_2000": {
+  "value": 28.7,
+  "how": "WDI lfpf BGD 2000"
+ },
+ "lfpm_BGD_2000": {
+  "value": 86.6,
+  "how": "WDI lfpm BGD 2000"
+ },
+ "un_BGD_2000": {
+  "value": 3.3,
+  "how": "WDI un BGD 2000"
+ },
+ "yun_BGD_2000": {
+  "value": 9.7,
+  "how": "WDI yun BGD 2000"
+ },
+ "agr_BGD_2000": {
+  "value": 67.6,
+  "how": "WDI agr BGD 2000"
+ },
+ "lfpf_BGD_2010": {
+  "value": 35.7,
+  "how": "WDI lfpf BGD 2010"
+ },
+ "lfpm_BGD_2010": {
+  "value": 82.2,
+  "how": "WDI lfpm BGD 2010"
+ },
+ "un_BGD_2010": {
+  "value": 3.4,
+  "how": "WDI un BGD 2010"
+ },
+ "yun_BGD_2010": {
+  "value": 6.3,
+  "how": "WDI yun BGD 2010"
+ },
+ "agr_BGD_2010": {
+  "value": 47.6,
+  "how": "WDI agr BGD 2010"
+ },
+ "lfpf_BGD_2019": {
+  "value": 39.3,
+  "how": "WDI lfpf BGD 2019"
+ },
+ "lfpm_BGD_2019": {
+  "value": 81.0,
+  "how": "WDI lfpm BGD 2019"
+ },
+ "un_BGD_2019": {
+  "value": 4.5,
+  "how": "WDI un BGD 2019"
+ },
+ "yun_BGD_2019": {
+  "value": 11.7,
+  "how": "WDI yun BGD 2019"
+ },
+ "agr_BGD_2019": {
+  "value": 40.8,
+  "how": "WDI agr BGD 2019"
+ },
+ "lfpf_BGD_2025": {
+  "value": 38.6,
+  "how": "WDI lfpf BGD 2025"
+ },
+ "lfpm_BGD_2025": {
+  "value": 80.4,
+  "how": "WDI lfpm BGD 2025"
+ },
+ "un_BGD_2025": {
+  "value": 3.8,
+  "how": "WDI un BGD 2025"
+ },
+ "yun_BGD_2025": {
+  "value": 9.4,
+  "how": "WDI yun BGD 2025"
+ },
+ "agr_BGD_2025": {
+  "value": 44.3,
+  "how": "WDI agr BGD 2025"
+ },
+ "lfpf_SAS_2000": {
+  "value": 33.6,
+  "how": "WDI lfpf SAS 2000"
+ },
+ "lfpm_SAS_2000": {
+  "value": 84.0,
+  "how": "WDI lfpm SAS 2000"
+ },
+ "un_SAS_2000": {
+  "value": 7.2,
+  "how": "WDI un SAS 2000"
+ },
+ "yun_SAS_2000": {
+  "value": 19.0,
+  "how": "WDI yun SAS 2000"
+ },
+ "agr_SAS_2000": {
+  "value": 59.8,
+  "how": "WDI agr SAS 2000"
+ },
+ "lfpf_SAS_2010": {
+  "value": 29.2,
+  "how": "WDI lfpf SAS 2010"
+ },
+ "lfpm_SAS_2010": {
+  "value": 79.5,
+  "how": "WDI lfpm SAS 2010"
+ },
+ "un_SAS_2010": {
+  "value": 7.2,
+  "how": "WDI un SAS 2010"
+ },
+ "yun_SAS_2010": {
+  "value": 21.3,
+  "how": "WDI yun SAS 2010"
+ },
+ "agr_SAS_2010": {
+  "value": 50.1,
+  "how": "WDI agr SAS 2010"
+ },
+ "lfpf_SAS_2019": {
+  "value": 28.0,
+  "how": "WDI lfpf SAS 2019"
+ },
+ "lfpm_SAS_2019": {
+  "value": 76.6,
+  "how": "WDI lfpm SAS 2019"
+ },
+ "un_SAS_2019": {
+  "value": 6.3,
+  "how": "WDI un SAS 2019"
+ },
+ "yun_SAS_2019": {
+  "value": 21.6,
+  "how": "WDI yun SAS 2019"
+ },
+ "agr_SAS_2019": {
+  "value": 40.2,
+  "how": "WDI agr SAS 2019"
+ },
+ "lfpf_SAS_2025": {
+  "value": 33.0,
+  "how": "WDI lfpf SAS 2025"
+ },
+ "lfpm_SAS_2025": {
+  "value": 77.4,
+  "how": "WDI lfpm SAS 2025"
+ },
+ "un_SAS_2025": {
+  "value": 4.2,
+  "how": "WDI un SAS 2025"
+ },
+ "yun_SAS_2025": {
+  "value": 15.4,
+  "how": "WDI yun SAS 2025"
+ },
+ "agr_SAS_2025": {
+  "value": 41.5,
+  "how": "WDI agr SAS 2025"
+ },
+ "lfpf_MEA_2000": {
+  "value": 17.8,
+  "how": "WDI lfpf MEA 2000"
+ },
+ "lfpm_MEA_2000": {
+  "value": 76.6,
+  "how": "WDI lfpm MEA 2000"
+ },
+ "un_MEA_2000": {
+  "value": 8.4,
+  "how": "WDI un MEA 2000"
+ },
+ "yun_MEA_2000": {
+  "value": 17.6,
+  "how": "WDI yun MEA 2000"
+ },
+ "agr_MEA_2000": {
+  "value": 31.4,
+  "how": "WDI agr MEA 2000"
+ },
+ "lfpf_MEA_2010": {
+  "value": 20.2,
+  "how": "WDI lfpf MEA 2010"
+ },
+ "lfpm_MEA_2010": {
+  "value": 74.3,
+  "how": "WDI lfpm MEA 2010"
+ },
+ "un_MEA_2010": {
+  "value": 6.9,
+  "how": "WDI un MEA 2010"
+ },
+ "yun_MEA_2010": {
+  "value": 15.8,
+  "how": "WDI yun MEA 2010"
+ },
+ "agr_MEA_2010": {
+  "value": 27.6,
+  "how": "WDI agr MEA 2010"
+ },
+ "lfpf_MEA_2019": {
+  "value": 20.0,
+  "how": "WDI lfpf MEA 2019"
+ },
+ "lfpm_MEA_2019": {
+  "value": 73.2,
+  "how": "WDI lfpm MEA 2019"
+ },
+ "un_MEA_2019": {
+  "value": 8.3,
+  "how": "WDI un MEA 2019"
+ },
+ "yun_MEA_2019": {
+  "value": 19.8,
+  "how": "WDI yun MEA 2019"
+ },
+ "agr_MEA_2019": {
+  "value": 23.3,
+  "how": "WDI agr MEA 2019"
+ },
+ "lfpf_MEA_2025": {
+  "value": 19.7,
+  "how": "WDI lfpf MEA 2025"
+ },
+ "lfpm_MEA_2025": {
+  "value": 73.3,
+  "how": "WDI lfpm MEA 2025"
+ },
+ "un_MEA_2025": {
+  "value": 7.8,
+  "how": "WDI un MEA 2025"
+ },
+ "yun_MEA_2025": {
+  "value": 18.7,
+  "how": "WDI yun MEA 2025"
+ },
+ "agr_MEA_2025": {
+  "value": 21.7,
+  "how": "WDI agr MEA 2025"
+ },
+ "lfpf_KOR_2000": {
+  "value": 49.4,
+  "how": "WDI lfpf KOR 2000"
+ },
+ "lfpm_KOR_2000": {
+  "value": 71.9,
+  "how": "WDI lfpm KOR 2000"
+ },
+ "un_KOR_2000": {
+  "value": 4.1,
+  "how": "WDI un KOR 2000"
+ },
+ "yun_KOR_2000": {
+  "value": 10.0,
+  "how": "WDI yun KOR 2000"
+ },
+ "agr_KOR_2000": {
+  "value": 10.4,
+  "how": "WDI agr KOR 2000"
+ },
+ "lfpf_KOR_2010": {
+  "value": 49.8,
+  "how": "WDI lfpf KOR 2010"
+ },
+ "lfpm_KOR_2010": {
+  "value": 70.7,
+  "how": "WDI lfpm KOR 2010"
+ },
+ "un_KOR_2010": {
+  "value": 3.3,
+  "how": "WDI un KOR 2010"
+ },
+ "yun_KOR_2010": {
+  "value": 8.5,
+  "how": "WDI yun KOR 2010"
+ },
+ "agr_KOR_2010": {
+  "value": 6.2,
+  "how": "WDI agr KOR 2010"
+ },
+ "lfpf_KOR_2019": {
+  "value": 53.8,
+  "how": "WDI lfpf KOR 2019"
+ },
+ "lfpm_KOR_2019": {
+  "value": 72.3,
+  "how": "WDI lfpm KOR 2019"
+ },
+ "un_KOR_2019": {
+  "value": 3.7,
+  "how": "WDI un KOR 2019"
+ },
+ "yun_KOR_2019": {
+  "value": 9.8,
+  "how": "WDI yun KOR 2019"
+ },
+ "agr_KOR_2019": {
+  "value": 5.1,
+  "how": "WDI agr KOR 2019"
+ },
+ "lfpf_KOR_2025": {
+  "value": 56.8,
+  "how": "WDI lfpf KOR 2025"
+ },
+ "lfpm_KOR_2025": {
+  "value": 72.0,
+  "how": "WDI lfpm KOR 2025"
+ },
+ "un_KOR_2025": {
+  "value": 2.7,
+  "how": "WDI un KOR 2025"
+ },
+ "yun_KOR_2025": {
+  "value": 6.7,
+  "how": "WDI yun KOR 2025"
+ },
+ "agr_KOR_2025": {
+  "value": 5.1,
+  "how": "WDI agr KOR 2025"
+ },
+ "lfpf_ESP_2000": {
+  "value": 40.7,
+  "how": "WDI lfpf ESP 2000"
+ },
+ "lfpm_ESP_2000": {
+  "value": 65.8,
+  "how": "WDI lfpm ESP 2000"
+ },
+ "un_ESP_2000": {
+  "value": 13.8,
+  "how": "WDI un ESP 2000"
+ },
+ "yun_ESP_2000": {
+  "value": 25.3,
+  "how": "WDI yun ESP 2000"
+ },
+ "agr_ESP_2000": {
+  "value": 6.7,
+  "how": "WDI agr ESP 2000"
+ },
+ "lfpf_ESP_2010": {
+  "value": 51.7,
+  "how": "WDI lfpf ESP 2010"
+ },
+ "lfpm_ESP_2010": {
+  "value": 67.3,
+  "how": "WDI lfpm ESP 2010"
+ },
+ "un_ESP_2010": {
+  "value": 19.9,
+  "how": "WDI un ESP 2010"
+ },
+ "yun_ESP_2010": {
+  "value": 41.5,
+  "how": "WDI yun ESP 2010"
+ },
+ "agr_ESP_2010": {
+  "value": 4.1,
+  "how": "WDI agr ESP 2010"
+ },
+ "lfpf_ESP_2019": {
+  "value": 52.0,
+  "how": "WDI lfpf ESP 2019"
+ },
+ "lfpm_ESP_2019": {
+  "value": 63.5,
+  "how": "WDI lfpm ESP 2019"
+ },
+ "un_ESP_2019": {
+  "value": 14.1,
+  "how": "WDI un ESP 2019"
+ },
+ "yun_ESP_2019": {
+  "value": 32.6,
+  "how": "WDI yun ESP 2019"
+ },
+ "agr_ESP_2019": {
+  "value": 4.1,
+  "how": "WDI agr ESP 2019"
+ },
+ "lfpf_ESP_2025": {
+  "value": 52.8,
+  "how": "WDI lfpf ESP 2025"
+ },
+ "lfpm_ESP_2025": {
+  "value": 62.2,
+  "how": "WDI lfpm ESP 2025"
+ },
+ "un_ESP_2025": {
+  "value": 10.4,
+  "how": "WDI un ESP 2025"
+ },
+ "yun_ESP_2025": {
+  "value": 24.7,
+  "how": "WDI yun ESP 2025"
+ },
+ "agr_ESP_2025": {
+  "value": 3.4,
+  "how": "WDI agr ESP 2025"
+ },
+ "lfpf_GRC_2000": {
+  "value": 39.5,
+  "how": "WDI lfpf GRC 2000"
+ },
+ "lfpm_GRC_2000": {
+  "value": 63.9,
+  "how": "WDI lfpm GRC 2000"
+ },
+ "un_GRC_2000": {
+  "value": 11.3,
+  "how": "WDI un GRC 2000"
+ },
+ "yun_GRC_2000": {
+  "value": 29.0,
+  "how": "WDI yun GRC 2000"
+ },
+ "agr_GRC_2000": {
+  "value": 16.7,
+  "how": "WDI agr GRC 2000"
+ },
+ "lfpf_GRC_2010": {
+  "value": 43.2,
+  "how": "WDI lfpf GRC 2010"
+ },
+ "lfpm_GRC_2010": {
+  "value": 63.1,
+  "how": "WDI lfpm GRC 2010"
+ },
+ "un_GRC_2010": {
+  "value": 12.7,
+  "how": "WDI un GRC 2010"
+ },
+ "yun_GRC_2010": {
+  "value": 33.0,
+  "how": "WDI yun GRC 2010"
+ },
+ "agr_GRC_2010": {
+  "value": 11.9,
+  "how": "WDI agr GRC 2010"
+ },
+ "lfpf_GRC_2019": {
+  "value": 43.5,
+  "how": "WDI lfpf GRC 2019"
+ },
+ "lfpm_GRC_2019": {
+  "value": 58.8,
+  "how": "WDI lfpm GRC 2019"
+ },
+ "un_GRC_2019": {
+  "value": 17.0,
+  "how": "WDI un GRC 2019"
+ },
+ "yun_GRC_2019": {
+  "value": 34.8,
+  "how": "WDI yun GRC 2019"
+ },
+ "agr_GRC_2019": {
+  "value": 11.2,
+  "how": "WDI agr GRC 2019"
+ },
+ "lfpf_GRC_2025": {
+  "value": 44.7,
+  "how": "WDI lfpf GRC 2025"
+ },
+ "lfpm_GRC_2025": {
+  "value": 59.9,
+  "how": "WDI lfpm GRC 2025"
+ },
+ "un_GRC_2025": {
+  "value": 8.5,
+  "how": "WDI un GRC 2025"
+ },
+ "yun_GRC_2025": {
+  "value": 21.4,
+  "how": "WDI yun GRC 2025"
+ },
+ "agr_GRC_2025": {
+  "value": 10.7,
+  "how": "WDI agr GRC 2025"
+ },
+ "lfpf_ZAF_2000": {
+  "value": 46.6,
+  "how": "WDI lfpf ZAF 2000"
+ },
+ "lfpm_ZAF_2000": {
+  "value": 69.9,
+  "how": "WDI lfpm ZAF 2000"
+ },
+ "un_ZAF_2000": {
+  "value": 22.8,
+  "how": "WDI un ZAF 2000"
+ },
+ "yun_ZAF_2000": {
+  "value": 43.2,
+  "how": "WDI yun ZAF 2000"
+ },
+ "agr_ZAF_2000": {
+  "value": 8.5,
+  "how": "WDI agr ZAF 2000"
+ },
+ "lfpf_ZAF_2010": {
+  "value": 44.8,
+  "how": "WDI lfpf ZAF 2010"
+ },
+ "lfpm_ZAF_2010": {
+  "value": 60.7,
+  "how": "WDI lfpm ZAF 2010"
+ },
+ "un_ZAF_2010": {
+  "value": 24.7,
+  "how": "WDI un ZAF 2010"
+ },
+ "yun_ZAF_2010": {
+  "value": 50.5,
+  "how": "WDI yun ZAF 2010"
+ },
+ "agr_ZAF_2010": {
+  "value": 4.8,
+  "how": "WDI agr ZAF 2010"
+ },
+ "lfpf_ZAF_2019": {
+  "value": 48.6,
+  "how": "WDI lfpf ZAF 2019"
+ },
+ "lfpm_ZAF_2019": {
+  "value": 62.6,
+  "how": "WDI lfpm ZAF 2019"
+ },
+ "un_ZAF_2019": {
+  "value": 28.5,
+  "how": "WDI un ZAF 2019"
+ },
+ "yun_ZAF_2019": {
+  "value": 57.3,
+  "how": "WDI yun ZAF 2019"
+ },
+ "agr_ZAF_2019": {
+  "value": 5.2,
+  "how": "WDI agr ZAF 2019"
+ },
+ "lfpf_ZAF_2025": {
+  "value": 49.9,
+  "how": "WDI lfpf ZAF 2025"
+ },
+ "lfpm_ZAF_2025": {
+  "value": 61.7,
+  "how": "WDI lfpm ZAF 2025"
+ },
+ "un_ZAF_2025": {
+  "value": 32.4,
+  "how": "WDI un ZAF 2025"
+ },
+ "yun_ZAF_2025": {
+  "value": 59.9,
+  "how": "WDI yun ZAF 2025"
+ },
+ "agr_ZAF_2025": {
+  "value": 5.4,
+  "how": "WDI agr ZAF 2025"
+ },
+ "un_USA_pk0816": {
+  "value": 9.6,
+  "how": "WDI unemployment peak 2008-16, USA (2010)"
+ },
+ "un_USA_pk0816_y": {
+  "value": 2010,
+  "how": "year of that peak, USA"
+ },
+ "yun_USA_pk0816": {
+  "value": 18.4,
+  "how": "WDI youth unemployment peak 2008-16, USA (2010)"
+ },
+ "un_EMU_pk0816": {
+  "value": 12.0,
+  "how": "WDI unemployment peak 2008-16, EMU (2013)"
+ },
+ "un_EMU_pk0816_y": {
+  "value": 2013,
+  "how": "year of that peak, EMU"
+ },
+ "yun_EMU_pk0816": {
+  "value": 27.7,
+  "how": "WDI youth unemployment peak 2008-16, EMU (2013)"
+ },
+ "un_ESP_pk0816": {
+  "value": 26.1,
+  "how": "WDI unemployment peak 2008-16, ESP (2013)"
+ },
+ "un_ESP_pk0816_y": {
+  "value": 2013,
+  "how": "year of that peak, ESP"
+ },
+ "yun_ESP_pk0816": {
+  "value": 55.4,
+  "how": "WDI youth unemployment peak 2008-16, ESP (2013)"
+ },
+ "un_GRC_pk0816": {
+  "value": 27.7,
+  "how": "WDI unemployment peak 2008-16, GRC (2013)"
+ },
+ "un_GRC_pk0816_y": {
+  "value": 2013,
+  "how": "year of that peak, GRC"
+ },
+ "yun_GRC_pk0816": {
+  "value": 58.5,
+  "how": "WDI youth unemployment peak 2008-16, GRC (2013)"
+ },
+ "un_ZAF_pk0816": {
+  "value": 26.5,
+  "how": "WDI unemployment peak 2008-16, ZAF (2016)"
+ },
+ "un_ZAF_pk0816_y": {
+  "value": 2016,
+  "how": "year of that peak, ZAF"
+ },
+ "yun_ZAF_pk0816": {
+  "value": 53.5,
+  "how": "WDI youth unemployment peak 2008-16, ZAF (2016)"
+ },
+ "un_WLD_pk0816": {
+  "value": 6.4,
+  "how": "WDI unemployment peak 2008-16, WLD (2009)"
+ },
+ "un_WLD_pk0816_y": {
+  "value": 2009,
+  "how": "year of that peak, WLD"
+ },
+ "yun_WLD_pk0816": {
+  "value": 16.0,
+  "how": "WDI youth unemployment peak 2008-16, WLD (2016)"
+ },
+ "rem_IND_last": {
+  "value": 150.7,
+  "how": "WDI remittances received, US$ bn, IND, 2025"
+ },
+ "rem_IND_last_y": {
+  "value": 2025,
+  "how": "latest year, IND"
+ },
+ "rem_IND_2000": {
+  "value": 12.9,
+  "how": "WDI remittances received, US$ bn, IND, 2000"
+ },
+ "rem_MEX_last": {
+  "value": 65.1,
+  "how": "WDI remittances received, US$ bn, MEX, 2025"
+ },
+ "rem_MEX_last_y": {
+  "value": 2025,
+  "how": "latest year, MEX"
+ },
+ "rem_MEX_2000": {
+  "value": 7.5,
+  "how": "WDI remittances received, US$ bn, MEX, 2000"
+ },
+ "rem_CHN_last": {
+  "value": 30.0,
+  "how": "WDI remittances received, US$ bn, CHN, 2025"
+ },
+ "rem_CHN_last_y": {
+  "value": 2025,
+  "how": "latest year, CHN"
+ },
+ "rem_CHN_2000": {
+  "value": 0.8,
+  "how": "WDI remittances received, US$ bn, CHN, 2000"
+ },
+ "rem_PHL_last": {
+  "value": 41.6,
+  "how": "WDI remittances received, US$ bn, PHL, 2025"
+ },
+ "rem_PHL_last_y": {
+  "value": 2025,
+  "how": "latest year, PHL"
+ },
+ "rem_PHL_2000": {
+  "value": 6.9,
+  "how": "WDI remittances received, US$ bn, PHL, 2000"
+ },
+ "rem_PAK_last": {
+  "value": 40.5,
+  "how": "WDI remittances received, US$ bn, PAK, 2025"
+ },
+ "rem_PAK_last_y": {
+  "value": 2025,
+  "how": "latest year, PAK"
+ },
+ "rem_PAK_2000": {
+  "value": 1.1,
+  "how": "WDI remittances received, US$ bn, PAK, 2000"
+ },
+ "rem_EGY_last": {
+  "value": 41.5,
+  "how": "WDI remittances received, US$ bn, EGY, 2025"
+ },
+ "rem_EGY_last_y": {
+  "value": 2025,
+  "how": "latest year, EGY"
+ },
+ "rem_EGY_2000": {
+  "value": 2.9,
+  "how": "WDI remittances received, US$ bn, EGY, 2000"
+ },
+ "rem_BGD_last": {
+  "value": 33.9,
+  "how": "WDI remittances received, US$ bn, BGD, 2025"
+ },
+ "rem_BGD_last_y": {
+  "value": 2025,
+  "how": "latest year, BGD"
+ },
+ "rem_BGD_2000": {
+  "value": 2.0,
+  "how": "WDI remittances received, US$ bn, BGD, 2000"
+ },
+ "rem_FRA_last": {
+  "value": 44.5,
+  "how": "WDI remittances received, US$ bn, FRA, 2025"
+ },
+ "rem_FRA_last_y": {
+  "value": 2025,
+  "how": "latest year, FRA"
+ },
+ "rem_FRA_2000": {
+  "value": 8.9,
+  "how": "WDI remittances received, US$ bn, FRA, 2000"
+ },
+ "rem_NGA_last": {
+  "value": 22.8,
+  "how": "WDI remittances received, US$ bn, NGA, 2025"
+ },
+ "rem_NGA_last_y": {
+  "value": 2025,
+  "how": "latest year, NGA"
+ },
+ "rem_NGA_2000": {
+  "value": 1.4,
+  "how": "WDI remittances received, US$ bn, NGA, 2000"
+ },
+ "rem_LMY_last": {
+  "value": 703.6,
+  "how": "WDI remittances received, US$ bn, LMY, 2025"
+ },
+ "rem_LMY_last_y": {
+  "value": 2025,
+  "how": "latest year, LMY"
+ },
+ "rem_LMY_2000": {
+  "value": 73.4,
+  "how": "WDI remittances received, US$ bn, LMY, 2000"
+ },
+ "rem_WLD_last": {
+  "value": 925.6,
+  "how": "WDI remittances received, US$ bn, WLD, 2025"
+ },
+ "rem_WLD_last_y": {
+  "value": 2025,
+  "how": "latest year, WLD"
+ },
+ "rem_WLD_2000": {
+  "value": 121.8,
+  "how": "WDI remittances received, US$ bn, WLD, 2000"
+ },
+ "remgdp_IND_last": {
+  "value": 3.8,
+  "how": "WDI remittances % GDP, India, 2025"
+ },
+ "tight_pk": {
+  "value": 2.04,
+  "how": "US job openings per unemployed, peak (2022-03)"
+ },
+ "tight_pk_y": {
+  "value": 2022,
+  "how": "year of that peak"
+ },
+ "tight_low09": {
+  "value": 0.15,
+  "how": "US job openings per unemployed, low after 2009 (2009-07)"
+ },
+ "tight_last": {
+  "value": 1.06,
+  "how": "US job openings per unemployed, latest (2026-09)"
+ },
+ "quits_pk": {
+  "value": 3.0,
+  "how": "US quits rate, peak (2021-11)"
+ },
+ "quits_2019": {
+  "value": 2.3,
+  "how": "US quits rate, 2019 average"
+ },
+ "prime_2000": {
+  "value": 84.0,
+  "how": "US prime-age (25-54) participation, 2000 average"
+ },
+ "prime_low": {
+  "value": 80.6,
+  "how": "US prime-age participation, 2010-15 low"
+ },
+ "prime_last": {
+  "value": 83.7,
+  "how": "US prime-age participation, latest (2026-10)"
+ },
+ "lshare_2000": {
+  "value": 111.6,
+  "how": "US nonfarm business labour share index (2017=100), 2000 average"
+ },
+ "lshare_2014": {
+  "value": 98.7,
+  "how": "US nonfarm business labour share index (2017=100), 2014 average"
+ },
+ "lshare_2025": {
+  "value": 96.0,
+  "how": "US nonfarm business labour share index (2017=100), 2025 average"
+ },
+ "us_un_pk2009": {
+  "value": 10.0,
+  "how": "US unemployment peak 2009-10"
+ },
+ "us_un_pk2020": {
+  "value": 14.8,
+  "how": "US unemployment peak 2020 (April)"
+ },
+ "us_un_last": {
+  "value": 4.1,
+  "how": "US unemployment, latest (2026-10)"
+ }
+}

@@ -1,0 +1,18 @@
+/* Print: one column, no chrome; charts print as their SVG with title, source and notes. */
+@media print {
+  :root { --page: #fff; --surface: #fff; --ink: #000; --ink-2: #222; --muted: #444; }
+  body { font-size: 10.5pt; background: #fff; }
+  .topbar, .sidebar, .progress, .chart-controls, .pager, .skip, .search-dialog, .tl-scrub, .tl-controls, .pop { display: none !important; }
+  .layout { display: block; }
+  main { padding: 0; }
+  .prose, .wide, .prose > .wide { max-width: none; margin: 0; }
+  figure.chart { break-inside: avoid; border: 1px solid #bbb; }
+  .chart-canvas { height: 300px; }
+  .box { break-inside: avoid; border: 1px solid #bbb; background: #fff !important; }
+  h2, h3 { break-after: avoid; }
+  a { color: #000; text-decoration: none; }
+  .footnotes a[href^="http"]::after { content: " <" attr(href) ">"; font-size: 8pt; word-break: break-all; }
+  .chart-table[hidden] { display: none; }
+  /* tools: controls make no sense on paper */
+  .explorer-bar, .map-controls, #mp-full, .wdr-filter, .map-picked { display: none !important; }
+}

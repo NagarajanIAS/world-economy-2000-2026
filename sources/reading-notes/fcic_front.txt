@@ -1,0 +1,1344 @@
+
+=== pdf page 1 ===
+-4-color process CMYK -gritty matte UV
+THE
+FINANCIAL
+CRISIS
+INQUIRYREPORT
+THE
+FINANCIALCRISIS
+INQUIRYREPORT
+• OFFICIAL GOVERNMENT EDITION •
+OFFICIAL
+GOVERNMENT
+EDITION
+Final Report of the National Commission
+on the Causes of the Financial and
+Economic Crisis in the United StatesISBN 978-0-16-087727-8
+9780160 877278
+90000
+FC_cover.indd 1FC_cover.indd 1 1/20/11 2:07 PM1/20/11 2:07 PM
+
+=== pdf page 2 ===
+THE
+FINANCIAL 
+CRISIS 
+INQUIRY REPORT
+ 
+ 
+This printing includes all corrections contained in the errata sheet issued
+ by
+ 
+the Commission as found on the FCIC website as of February 25, 2011.  
+
+=== pdf page 3 ===
+
+
+=== pdf page 4 ===
+∞
+THE 
+FINANCIAL 
+CRISIS
+INQUIRY REPORT
+FINAL REPORT OF THE NATIONAL COMMISSION 
+ON THE CAUSES OF THE FINANCIAL AND 
+ECONOMIC CRISIS IN THE UNITED STATES
+OFFICIAL GOVERNMENT EDITION
+THE FINANCIAL CRISIS INQUIRY COMMISSION
+Submitted by
+Pursuant to Public Law 111-21
+January 2011
+
+=== pdf page 5 ===
+eciffO gnitnirP tnemnrevoG .S.U  ,stnemucoD fo tnednetnirepuS  eht yb elas roF
+0081-215 )202( aera CD   ;0081-215 )668( eerf llot :enohP   vog.opg.erotskoob :tenretnI
+notgnihsaW ,CCDI potS :liaM 4012-215 )202( :xaF 1000-20402 CD ,
+ISBN 978-0-16-087983-8
+
+=== pdf page 6 ===
+CONTENTS
+Commissioners ...................................................................................................vii
+Commissioner Votes...........................................................................................viii
+Commission Staff List ..........................................................................................ix
+Preface ................................................................................................................xi
+CONCLUSIONS OF THE
+FINANCIAL CRISIS INQUIRY COMMISSION.....................xv
+PART I: CRISIS ON THE HORIZON
+Chapter  Before Our Very Eyes .........................................................................
+PART II: SETTING THE STAGE
+Chapter  Shadow Banking ...............................................................................
+Chapter  Securitization and Derivatives.......................................................
+Chapter  Deregulation Redux .........................................................................
+Chapter  Subprime Lending ............................................................................
+PART III: THE BOOM AND BUST
+Chapter  Credit Expansion ..............................................................................
+Chapter  The Mortgage Machine.................................................................
+Chapter  The CDO Machine ........................................................................
+Chapter  All In ..................................................................................................
+Chapter  The Madness ...................................................................................
+Chapter  The Bust............................................................................................
+v
+
+=== pdf page 7 ===
+PART IV: THE UNRAVELING
+Chapter  Early : Spreading Subprime Worries.................................
+Chapter  Summer : Disruptions in Funding ....................................
+Chapter  Late  to Early : Billions in Subprime Losses ...........
+Chapter  March : The Fall of Bear Stearns ........................................
+Chapter  March to August : Systemic Risk Concerns ....................
+Chapter  September : 
+The Takeover of Fannie Mae and Freddie Mac..................
+Chapter  September : The Bankruptcy of Lehman ........................
+Chapter  September : The Bailout of AIG ........................................
+Chapter  Crisis and Panic ..............................................................................
+PART V: THE AFTERSHOCKS
+Chapter  The Economic Fallout...................................................................
+Chapter  The Foreclosure Crisis ..................................................................
+DISSENTING VIEWS
+By Keith Hennessey, Douglas Holtz-Eakin, and Bill Thomas ........................
+By Peter J. Wallison....................................................................................................
+Appendix A: Glossary .......................................................................................
+Appendix B: List of Hearings and Witnesses ......................................................
+Notes ................................................................................................................
+Index available online at www.publicaffairsbooks.com/fcicindex.pdf
+vi C ONTENTS
+539
+545
+553
+
+=== pdf page 8 ===
+Phil Angelides
+Chairman
+Brooksley Born
+Commissioner
+Byron Georgiou
+Commissioner
+Senator Bob Graham
+Commissioner
+Keith Hennessey
+Commissioner
+Douglas Holtz-Eakin
+Commissioner
+Heather H. Murren, CFA
+Commissioner
+John W. Thompson
+Commissioner
+Peter J. Wallison
+Commissioner
+Hon. Bill Thomas
+Vice Chairman
+MEMBERS OF 
+THE FINANCIAL CRISIS INQUIRY COMMISSION
+
+=== pdf page 9 ===
+COMMISSIONERS VOTING TO ADOPT THE REPORT: 
+Phil Angelides, Brooksley Born, Byron Georgiou, 
+Bob Graham, Heather H. Murren, John W. Thompson
+COMMISSIONERS DISSENTING FROM THE REPORT: 
+ Keith Hennessey, Douglas Holtz-Eakin, 
+Bill Thomas, Peter J. Wallison
+
+=== pdf page 10 ===
+Shaista I. Ahmed
+Hilary J. Allen
+Jonathan E. Armstrong
+Rob Bachmann
+Barton Baker
+Susan Baltake
+Bradley J. Bondi
+Sylvia Boone
+Tom Borgers
+Ron Borzekowski
+Mike Bryan
+Ryan Bubb
+Troy A. Burrus
+R. Richard Cheng 
+Jennifer Vaughn Collins
+Matthew Cooper
+Alberto Crego
+Victor J. Cunicelli
+Jobe G. Danganan 
+Sam Davidson
+Elizabeth A. Del Real
+Kirstin Downey
+Karen Dubas
+Desi Duncker
+Bartly A. Dzivi
+Michael E. Easterly
+Alice Falk
+Megan L. Fasules
+Michael Flagg
+Sean J. Flynn, Jr.
+Scott C. Ganz
+Thomas Greene
+Maryann Haggerty
+Robert C. Hinkley
+Anthony C. Ingoglia
+Ben Jacobs
+Peter Adrian Kavounas
+Michael Keegan
+Thomas J. Keegan
+Brook L. Kellerman
+Sarah Knaus
+Thomas L. Krebs
+Jay N. Lerner
+Jane E. Lewin
+Susan Mandel
+Julie A. Marcacci
+Alexander Maasry
+Courtney Mayo
+Carl McCarden
+Bruce G. McWilliams
+Menjie L. Medina
+Joel Miller
+Steven L. Mintz
+Clara Morain
+Girija Natarajan
+Gretchen Kinney Newsom
+Dixie Noonan
+Donna K. Norman
+Adam M. Paul
+Jane D. Poulin
+Andrew C. Robinson
+Steve Sanderford
+Ryan Thomas Schulte
+Lorretto J. Scott
+Skipper Seabold
+Kim Leslie Shafer  
+Gordon Shemin
+Stuart C. P. Shroff
+Alexis Simendinger
+Mina Simhai
+Jeffrey Smith
+Thomas H. Stanton
+Landon W. Stroebel
+Brian P. Sylvester
+Shirley Tang
+Fereshteh Z. Vahdati
+Antonio A. Vargas Cornejo
+Melana Zyla Vickers   
+George Wahl
+Tucker Warren
+Cassidy D. Waskowicz
+Arthur E. Wilmarth, Jr.
+Sarah Zuckerman
+ix
+COMMISSION STAFF
+Wendy Edelberg, Executive Director
+Gary J. Cohen, General Counsel
+Chris Seefer, Director of Investigations
+Greg Feldberg, Director of Research
+
+=== pdf page 11 ===
+
+
+=== pdf page 12 ===
+PREFACE
+The Financial Crisis Inquiry Commission was created to “examine the causes of the
+current financial and economic crisis in the United States.” In this report, the Com-
+mission presents to the President, the Congress, and the American people the results
+of its examination and its conclusions as to the causes of the crisis. 
+More than two years after the worst of the financial crisis, our economy, as well as
+communities and families across the country, continues to experience the after-
+shocks. Millions of Americans have lost their jobs and their homes, and the economy
+is still struggling to rebound. This report is intended to provide a historical account-
+ing of what brought our financial system and economy to a precipice and to help pol-
+icy makers and the public better understand how this calamity came to be.
+The Commission was established as part of the Fraud Enforcement and Recovery
+Act (Public Law -) passed by Congress and signed by the President in May
+. This independent, -member panel was composed of private citizens with ex-
+perience in areas such as housing, economics, finance, market regulation, banking,
+and consumer protection. Six members of the Commission were appointed by the
+Democratic leadership of Congress and four members by the Republican leadership.
+The Commission’s statutory instructions set out  specific topics for inquiry and
+called for the examination of the collapse of major financial institutions that failed or
+would have failed if not for exceptional assistance from the government. This report
+fulfills these mandates. In addition, the Commission was instructed to refer to the at-
+torney general of the United States and any appropriate state attorney general any
+person that the Commission found may have violated the laws of the United States in
+relation to the crisis. Where the Commission found such potential violations, it re-
+ferred those matters to the appropriate authorities. The Commission used the au-
+thority it was given to issue subpoenas to compel testimony and the production of
+documents, but in the vast majority of instances, companies and individuals volun-
+tarily cooperated with this inquiry.
+In the course of its research and investigation, the Commission reviewed millions
+of pages of documents, interviewed more than  witnesses, and held  days of
+public hearings in New York, Washington, D.C., and communities across the country
+xi
+
+=== pdf page 13 ===
+that were hard hit by the crisis. The Commission also drew from a large body of ex-
+isting work about the crisis developed by congressional committees, government
+agencies, academics, journalists, legal investigators, and many others.
+We have tried in this report to explain in clear, understandable terms how our
+complex financial system worked, how the pieces fit together, and how the crisis oc-
+curred. Doing so required research into broad and sometimes arcane subjects, such
+as mortgage lending and securitization, derivatives, corporate governance, and risk
+management. To bring these subjects out of the realm of the abstract, we conducted
+case study investigations of specific financial firms—and in many cases specific facets
+of these institutions—that played pivotal roles. Those institutions included American
+International Group (AIG), Bear Stearns, Citigroup, Countrywide Financial, Fannie
+Mae, Goldman Sachs, Lehman Brothers, Merrill Lynch, Moody’s, and Wachovia. We
+looked more generally at the roles and actions of scores of other companies.
+We also studied relevant policies put in place by successive Congresses and ad-
+ministrations. And importantly, we examined the roles of policy makers and regula-
+tors, including at the Federal Deposit Insurance Corporation, the Federal Reserve
+Board, the Federal Reserve Bank of New York, the Department of Housing and Ur-
+ban Development, the Office of the Comptroller of the Currency, the Office of Fed-
+eral Housing Enterprise Oversight (and its successor, the Federal Housing Finance
+Agency), the Office of Thrift Supervision, the Securities and Exchange Commission,
+and the Treasury Department. 
+Of course, there is much work the Commission did not undertake. Congress did
+not ask the Commission to offer policy recommendations, but required it to delve
+into what caused the crisis. In that sense, the Commission has functioned somewhat
+like the National Transportation Safety Board, which investigates aviation and other
+transportation accidents so that knowledge of the probable causes can help avoid fu-
+ture accidents. Nor were we tasked with evaluating the federal law (the Troubled As-
+set Relief Program, known as TARP) that provided financial assistance to major
+financial institutions. That duty was assigned to the Congressional Oversight Panel
+and the Special Inspector General for TARP.
+This report is not the sole repository of what the panel found. A website—
+www.fcic.gov—will host a wealth of information beyond what could be presented here.
+It will contain a stockpile of materials—including documents and emails, video of the
+Commission’s public hearings, testimony, and supporting research—that can be stud-
+ied for years to come. Much of what is footnoted in this report can be found on the
+website. In addition, more materials that cannot be released yet for various reasons will
+eventually be made public through the National Archives and Records Administration.
+Our work reflects the extraordinary commitment and knowledge of the mem-
+bers of the Commission who were accorded the honor of this public service. We also
+benefited immensely from the perspectives shared with commissioners by thou-
+sands of concerned Americans through their letters and emails. And we are grateful
+to the hundreds of individuals and organizations that offered expertise, informa-
+tion, and personal accounts in extensive interviews, testimony, and discussions with
+the Commission.
+xii P REFACE
+
+=== pdf page 14 ===
+We want to thank the Commission staff, and in particular, Wendy Edelberg, our
+executive director, for the professionalism, passion, and long hours they brought to
+this mission in service of their country. This report would not have been possible
+without their extraordinary dedication.
+With this report and our website, the Commission’s work comes to a close. We
+present what we have found in the hope that readers can use this report to reach their
+own conclusions, even as the comprehensive historical record of this crisis continues
+to be written.
+P REFACE                                                        xiii
+
+=== pdf page 15 ===
+
+
+=== pdf page 16 ===
+CONCLUSIONS OF THE 
+FINANCIAL CRISIS INQUIRY COMMISSION
+The Financial Crisis Inquiry Commission has been called upon to examine the finan-
+cial and economic crisis that has gripped our country and explain its causes to the
+American people. We are keenly aware of the significance of our charge, given the
+economic damage that America has suffered in the wake of the greatest financial cri-
+sis since the Great Depression. 
+Our task was first to determine what happened and how it happened so that we
+could understand why it happened. Here we present our conclusions. We encourage
+the American people to join us in making their own assessments based on the evi-
+dence gathered in our inquiry. If we do not learn from history, we are unlikely to fully
+recover from it. Some on Wall Street and in Washington with a stake in the status quo
+may be tempted to wipe from memory the events of this crisis, or to suggest that no
+one could have foreseen or prevented them. This report endeavors to expose the
+facts, identify responsibility, unravel myths, and help us understand how the crisis
+could have been avoided. It is an attempt to record history, not to rewrite it, nor allow
+it to be rewritten. 
+To help our fellow citizens better understand this crisis and its causes, we also pres-
+ent specific conclusions at the end of chapters in Parts III, IV, and V of this report.
+The subject of this report is of no small consequence to this nation. The profound
+events of  and  were neither bumps in the road nor an accentuated dip in
+the financial and business cycles we have come to expect in a free market economic
+system. This was a fundamental disruption—a financial upheaval, if you will—that
+wreaked havoc in communities and neighborhoods across this country.
+As this report goes to print, there are more than  million Americans who are
+out of work, cannot find full-time work, or have given up looking for work. About
+four million families have lost their homes to foreclosure and another four and a half
+million have slipped into the foreclosure process or are seriously behind on their
+mortgage payments. Nearly  trillion in household wealth has vanished, with re-
+tirement accounts and life savings swept away. Businesses, large and small, have felt
+xv
+
+=== pdf page 17 ===
+the sting of a deep recession. There is much anger about what has transpired, and jus-
+tifiably so. Many people who abided by all the rules now find themselves out of work
+and uncertain about their future prospects. The collateral damage of this crisis has
+been real people and real communities. The impacts of this crisis are likely to be felt
+for a generation. And the nation faces no easy path to renewed economic strength.
+Like so many Americans, we began our exploration with our own views and some
+preliminary knowledge about how the world’s strongest financial system came to the
+brink of collapse. Even at the time of our appointment to this independent panel,
+much had already been written and said about the crisis. Yet all of us have been
+deeply affected by what we have learned in the course of our inquiry. We have been at
+various times fascinated, surprised, and even shocked by what we saw, heard, and
+read. Ours has been a journey of revelation. 
+Much attention over the past two years has been focused on the decisions by the
+federal government to provide massive financial assistance to stabilize the financial
+system and rescue large financial institutions that were deemed too systemically im-
+portant to fail. Those decisions—and the deep emotions surrounding them—will be
+debated long into the future. But our mission was to ask and answer this central ques-
+tion: how did it come to pass that in  our nation was forced to choose between two
+stark and painful alternatives —either risk the total collapse of our financial system
+and economy or inject trillions of taxpayer dollars into the financial system and an
+array of companies, as millions of Americans still lost their jobs, their savings, and
+their homes? 
+In this report, we detail the events of the crisis. But a simple summary, as we see
+it, is useful at the outset. While the vulnerabilities that created the potential for cri-
+sis were years in the making, it was the collapse of the housing bubble—fueled by
+low interest rates, easy and available credit, scant regulation, and toxic mortgages—
+that was the spark that ignited a string of events, which led to a full-blown crisis in
+the fall of . Trillions of dollars in risky mortgages had become embedded
+throughout the financial system, as mortgage-related securities were packaged,
+repackaged, and sold to investors around the world. When the bubble burst, hun-
+dreds of billions of dollars in losses in mortgages and mortgage-related securities
+shook markets as well as financial institutions that had significant exposures to
+those mortgages and had borrowed heavily against them. This happened not just in
+the United States but around the world. The losses were magnified by derivatives
+such as synthetic securities.
+The crisis reached seismic proportions in September  with the failure of
+Lehman Brothers and the impending collapse of the insurance giant American Interna-
+tional Group (AIG). Panic fanned by a lack of transparency of the balance sheets of ma-
+jor financial institutions, coupled with a tangle of interconnections among inst itutions
+perceived to be “too big to fail,” caused the credit markets to seize up. Trading ground
+to a halt. The stock market plummeted. The economy plunged into a deep recession.
+The financial system we examined bears little resemblance to that of our parents’
+generation. The changes in the past three decades alone have been remarkable. The
+xvi F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 18 ===
+financial markets have become increasingly globalized. Technology has transformed
+the efficiency, speed, and complexity of financial instruments and transactions. There
+is broader access to and lower costs of financing than ever before. And the financial
+sector itself has become a much more dominant force in our economy. 
+From  to , the amount of debt held by the financial sector soared from
+ trillion to  trillion, more than doubling as a share of gross domestic product.
+The very nature of many Wall Street firms changed—from relatively staid private
+partnerships to publicly traded corporations taking greater and more diverse kinds of
+risks. By , the  largest U.S. commercial banks held  of the industry’s assets,
+more than double the level held in . On the eve of the crisis in , financial
+sector profits constituted  of all corporate profits in the United States, up from
+ in . Understanding this transformation has been critical to the Commis-
+sion’s analysis.
+Now to our major findings and conclusions, which are based on the facts con-
+tained in this report: they are offered with the hope that lessons may be learned to
+help avoid future catastrophe.
+• We conclude this financial crisis was avoidable. The crisis was the result of human
+action and inaction, not of Mother Nature or computer models gone haywire. The
+captains of finance and the public stewards of our financial system ignored warnings
+and failed to question, understand, and manage evolving risks within a system essen-
+tial to the well-being of the American public. Theirs was a big miss, not a stumble.
+While the business cycle cannot be repealed, a crisis of this magnitude need not have
+occurred. To paraphrase Shakespeare, the fault lies not in the stars, but in us.
+Despite the expressed view of many on Wall Street and in Washington that the
+crisis could not have been foreseen or avoided, there were warning signs. The tragedy
+was that they were ignored or discounted. There was an explosion in risky subprime
+lending and securitization, an unsustainable rise in housing prices, widespread re-
+ports of egregious and predatory lending practices, dramatic increases in household
+mortgage debt, and exponential growth in financial firms’ trading activities, unregu-
+lated derivatives, and short-term “repo” lending markets, among many other red
+flags. Yet there was pervasive permissiveness; little meaningful action was taken to
+quell the threats in a timely manner. 
+The prime example is the Federal Reserve’s pivotal failure to stem the flow of toxic
+mortgages, which it could have done by setting prudent mortgage-lending standards.
+The Federal Reserve was the one entity empowered to do so and it did not. The
+record of our examination is replete with evidence of other failures: financial institu-
+tions made, bought, and sold mortgage securities they never examined, did not care
+to examine, or knew to be defective; firms depended on tens of billions of dollars of
+borrowing that had to be renewed each and every night, secured by subprime mort-
+gage securities; and major firms and investors blindly relied on credit rating agencies
+as their arbiters of risk. What else could one expect on a highway where there were
+neither speed limits nor neatly painted lines?
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION                xvii
+
+=== pdf page 19 ===
+• We conclude widespread failures in financial regulation and supervision
+proved devastating to the stability of the nation’s financial markets. The sentries
+were not at their posts, in no small part due to the widely accepted faith in the self-
+correcting nature of the markets and the ability of financial institutions to effectively
+police themselves. More than 30 years of deregulation and reliance on self-regulation
+by financial institutions, championed by former Federal Reserve chairman Alan
+Greenspan and others, supported by successive administrations and Congresses, and
+actively pushed by the powerful financial industry at every turn, had stripped away
+key safeguards, which could have helped avoid catastrophe. This approach had
+opened up gaps in oversight of critical areas with trillions of dollars at risk, such as
+the shadow banking system and over-the-counter derivatives markets. In addition,
+the government permitted financial firms to pick their preferred regulators in what
+became a race to the weakest supervisor.
+Yet we do not accept the view that regulators lacked the power to protect the fi-
+nancial system. They had ample power in many arenas and they chose not to use it.
+To give just three examples: the Securities and Exchange Commission could have re-
+quired more capital and halted risky practices at the big investment banks. It did not.
+The Federal Reserve Bank of New York and other regulators could have clamped
+down on Citigroup’s excesses in the run-up to the crisis. They did not. Policy makers
+and regulators could have stopped the runaway mortgage securitization train. They
+did not. In case after case after case, regulators continued to rate the institutions they
+oversaw as safe and sound even in the face of mounting troubles, often downgrading
+them just before their collapse. And where regulators lacked authority, they could
+have sought it. Too often, they lacked the political will—in a political and ideological
+environment that constrained it—as well as the fortitude to critically challenge the
+institutions and the entire system they were entrusted to oversee.
+Changes in the regulatory system occurred in many instances as financial mar-
+kets evolved. But as the report will show, the financial industry itself played a key
+role in weakening regulatory constraints on institutions, markets, and products. It
+did not surprise the Commission that an industry of such wealth and power would
+exert pressure on policy makers and regulators. From  to , the financial
+sector expended . billion in reported federal lobbying expenses; individuals and
+political action committees in the sector made more than  billion in campaign
+contributions. What troubled us was the extent to which the nation was deprived of
+the necessary strength and independence of the oversight necessary to safeguard 
+financial stability.
+• We conclude dramatic failures of corporate governance and risk management
+at many systemically important financial institutions were a key cause of this cri-
+sis. There was a view that instincts for self-preservation inside major financial firms
+would shield them from fatal risk-taking without the need for a steady regulatory
+hand, which, the firms argued, would stifle innovation. Too many of these institu-
+tions acted recklessly, taking on too much risk, with too little capital, and with too
+much dependence on short-term funding. In many respects, this reflected a funda-
+xviii F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 20 ===
+mental change in these institutions, particularly the large investment banks and bank
+holding companies, which focused their activities increasingly on risky trading activ-
+ities that produced hefty profits. They took on enormous exposures in acquiring and
+supporting subprime lenders and creating, packaging, repackaging, and selling tril-
+lions of dollars in mortgage-related securities, including synthetic financial products.
+Like Icarus, they never feared flying ever closer to the sun. 
+Many of these institutions grew aggressively through poorly executed acquisition
+and integration strategies that made effective management more challenging. The
+CEO of Citigroup told the Commission that a  billion position in highly rated
+mortgage securities would “not in any way have excited my attention,” and the co-
+head of Citigroup’s investment bank said he spent “a small fraction of ” of his time
+on those securities. In this instance, too big to fail meant too big to manage.
+Financial institutions and credit rating agencies embraced mathematical models
+as reliable predictors of risks, replacing judgment in too many instances. Too often,
+risk management became risk justification. 
+Compensation systems—designed in an environment of cheap money, intense
+competition, and light regulation—too often rewarded the quick deal, the short-term
+gain—without proper consideration of long-term consequences. Often, those systems
+encouraged the big bet—where the payoff on the upside could be huge and the down-
+side limited. This was the case up and down the line—from the corporate boardroom
+to the mortgage broker on the street.
+Our examination revealed stunning instances of governance breakdowns and irre-
+sponsibility. You will read, among other things, about AIG senior management’s igno-
+rance of the terms and risks of the company’s  billion derivatives exposure to
+mortgage-related securities; Fannie Mae’s quest for bigger market share, profits, and
+bonuses, which led it to ramp up its exposure to risky loans and securities as the hous-
+ing market was peaking; and the costly surprise when Merrill Lynch’s top manage-
+ment realized that the company held  billion in “super-senior” and supposedly
+“super-safe” mortgage-related securities that resulted in billions of dollars in losses.
+• We conclude a combination of excessive borrowing, risky investments, and lack
+of transparency put the financial system on a collision course with crisis. Clearly,
+this vulnerability was related to failures of corporate governance and regulation, but
+it is significant enough by itself to warrant our attention here. 
+In the years leading up to the crisis, too many financial institutions, as well as too
+many households, borrowed to the hilt, leaving them vulnerable to financial distress
+or ruin if the value of their investments declined even modestly. For example, as of
+, the five major investment banks—Bear Stearns, Goldman Sachs, Lehman
+Brothers, Merrill Lynch, and Morgan Stanley—were operating with extraordinarily
+thin capital. By one measure, their leverage ratios were as high as  to , meaning for
+every  in assets, there was only  in capital to cover losses. Less than a  drop in
+asset values could wipe out a firm. To make matters worse, much of their borrowing
+was short-term, in the overnight market—meaning the borrowing had to be renewed
+each and every day. For example, at the end of , Bear Stearns had . billion in
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION                 xix
+
+=== pdf page 21 ===
+equity and . billion in liabilities and was borrowing as much as  billion in
+the overnight market. It was the equivalent of a small business with , in equity
+borrowing . million, with , of that due each and every day. One can’t
+really ask “What were they thinking?” when it seems that too many of them were
+thinking alike.
+And the leverage was often hidden—in derivatives positions, in off-balance-sheet
+entities, and through “window dressing” of financial reports available to the investing
+public. 
+The kings of leverage were Fannie Mae and Freddie Mac, the two behemoth gov-
+ernment-sponsored enterprises (GSEs). For example, by the end of , Fannie’s
+and Freddie’s combined leverage ratio, including loans they owned and guaranteed,
+stood at  to . 
+But financial firms were not alone in the borrowing spree: from  to , na-
+tional mortgage debt almost doubled, and the amount of mortgage debt per house-
+hold rose more than  from , to ,, even while wages were
+essentially stagnant. When the housing downturn hit, heavily indebted financial
+firms and families alike were walloped.
+The heavy debt taken on by some financial institutions was exacerbated by the
+risky assets they were acquiring with that debt. As the mortgage and real estate mar-
+kets churned out riskier and riskier loans and securities, many financial institutions
+loaded up on them. By the end of , Lehman had amassed  billion in com-
+mercial and residential real estate holdings and securities, which was almost twice
+what it held just two years before, and more than four times its total equity. And
+again, the risk wasn’t being taken on just by the big financial firms, but by families,
+too. Nearly one in  mortgage borrowers in  and  took out “option ARM”
+loans, which meant they could choose to make payments so low that their mortgage
+balances rose every month.
+Within the financial system, the dangers of this debt were magnified because
+transparency was not required or desired. Massive, short-term borrowing, combined
+with obligations unseen by others in the market, heightened the chances the system
+could rapidly unravel. In the early part of the th century, we erected a series of pro-
+tections—the Federal Reserve as a lender of last resort, federal deposit insurance, am-
+ple regulations—to provide a bulwark against the panics that had regularly plagued
+America’s banking system in the th century. Yet, over the past -plus years, we
+permitted the growth of a shadow banking system—opaque and laden with short-
+term debt—that rivaled the size of the traditional banking system. Key components
+of the market—for example, the multitrillion-dollar repo lending market, off-bal-
+ance-sheet entities, and the use of over-the-counter derivatives—were hidden from
+view, without the protections we had constructed to prevent financial meltdowns. We
+had a st-century financial system with th-century safeguards.
+When the housing and mortgage markets cratered, the lack of transparency, the
+extraordinary debt loads, the short-term loans, and the risky assets all came home to
+roost. What resulted was panic. We had reaped what we had sown.
+xx F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 22 ===
+• We conclude the government was ill prepared for the crisis, and its inconsistent
+response added to the uncertainty and panic in the financial markets. As part of
+our charge, it was appropriate to review government actions taken in response to the
+developing crisis, not just those policies or actions that preceded it, to determine if
+any of those responses contributed to or exacerbated the crisis.
+As our report shows, key policy makers—the Treasury Department, the Federal
+Reserve Board, and the Federal Reserve Bank of New York—who were best posi-
+tioned to watch over our markets were ill prepared for the events of  and .
+Other agencies were also behind the curve. They were hampered because they did
+not have a clear grasp of the financial system they were charged with overseeing, par-
+ticularly as it had evolved in the years leading up to the crisis. This was in no small
+measure due to the lack of transparency in key markets. They thought risk had been
+diversified when, in fact, it had been concentrated. Time and again, from the spring
+of  on, policy makers and regulators were caught off guard as the contagion
+spread, responding on an ad hoc basis with specific programs to put fingers in the
+dike. There was no comprehensive and strategic plan for containment, because they
+lacked a full understanding of the risks and interconnections in the financial mar-
+kets. Some regulators have conceded this error. We had allowed the system to race
+ahead of our ability to protect it.
+While there was some awareness of, or at least a debate about, the housing bubble,
+the record reflects that senior public officials did not recognize that a bursting of the
+bubble could threaten the entire financial system. Throughout the summer of ,
+both Federal Reserve Chairman Ben Bernanke and Treasury Secretary Henry Paul-
+son offered public assurances that the turmoil in the subprime mortgage markets
+would be contained. When Bear Stearns’s hedge funds, which were heavily invested
+in mortgage-related securities, imploded in June , the Federal Reserve discussed
+the implications of the collapse. Despite the fact that so many other funds were ex-
+posed to the same risks as those hedge funds, the Bear Stearns funds were thought to
+be “relatively unique.” Days before the collapse of Bear Stearns in March , SEC
+Chairman Christopher Cox expressed “comfort about the capital cushions” at the big
+investment banks. It was not until August , just weeks before the government
+takeover of Fannie Mae and Freddie Mac, that the Treasury Department understood
+the full measure of the dire financial conditions of those two institutions. And just a
+month before Lehman’s collapse, the Federal Reserve Bank of New York was still
+seeking information on the exposures created by Lehman’s more than , deriv-
+atives contracts.
+In addition, the government’s inconsistent handling of major financial institutions
+during the crisis—the decision to rescue Bear Stearns and then to place Fannie Mae
+and Freddie Mac into conservatorship, followed by its decision not to save Lehman
+Brothers and then to save AIG—increased uncertainty and panic in the market.
+In making these observations, we deeply respect and appreciate the efforts made
+by Secretary Paulson, Chairman Bernanke, and Timothy Geithner, formerly presi-
+dent of the Federal Reserve Bank of New York and now treasury secretary, and so
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION                 xxi
+
+=== pdf page 23 ===
+many others who labored to stabilize our financial system and our economy in the
+most chaotic and challenging of circumstances.
+• We conclude there was a systemic breakdown in accountability and ethics. The
+integrity of our financial markets and the public’s trust in those markets are essential
+to the economic well-being of our nation. The soundness and the sustained prosper-
+ity of the financial system and our economy rely on the notions of fair dealing, re-
+sponsibility, and transparency. In our economy, we expect businesses and individuals
+to pursue profits, at the same time that they produce products and services of quality
+and conduct themselves well. 
+Unfortunately—as has been the case in past speculative booms and busts—we
+witnessed an erosion of standards of responsibility and ethics that exacerbated the fi-
+nancial crisis. This was not universal, but these breaches stretched from the ground
+level to the corporate suites. They resulted not only in significant financial conse-
+quences but also in damage to the trust of investors, businesses, and the public in the
+financial system.
+For example, our examination found, according to one measure, that the percent-
+age of  borrowers who defaulted on their mortgages within just a matter of months
+after taking a loan nearly doubled from the summer of  to late . This data
+indicates they likely took out mortgages that they never had the capacity or intention
+to pay. You will read about mortgage brokers who were paid “yield spread premiums”
+by lenders to put borrowers into higher-cost loans so they would get bigger fees, of-
+ten never disclosed to borrowers. The report catalogues the rising incidence of mort-
+gage fraud, which flourished in an environment of collapsing lending standards and
+lax regulation. The number of suspicious activity reports—reports of possible finan-
+cial crimes filed by depository banks and their affiliates—related to mortgage fraud
+grew -fold  between  and  and then more than doubled again between
+ and . One study places the losses resulting from fraud on mortgage loans
+made between  and  at  billion. 
+Lenders made loans that they knew borrowers could not afford and that could
+cause massive losses to investors in mortgage securities. As early as September ,
+Countrywide executives recognized that many of the loans they were originating
+could result in “catastrophic consequences.” Less than a year later, they noted that
+certain high-risk loans they were making could result not only in foreclosures but
+also in “financial and reputational catastrophe” for the firm. But they did not stop.
+And the report documents that major financial institutions ineffectively sampled
+loans they were purchasing to package and sell to investors. They knew a significant
+percentage of the sampled loans did not meet their own underwriting standards or
+those of the originators. Nonetheless, they sold those securities to investors. The
+Commission’s review of many prospectuses provided to investors found that this crit-
+ical information was not disclosed.
+THESE CONCLUSIONS must be viewed in the context of human nature and individual
+and societal responsibility. First, to pin this crisis on mortal flaws like greed and
+xxii F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 24 ===
+hubris would be simplistic. It was the failure to account for human weakness that is
+relevant to this crisis.
+Second, we clearly believe the crisis was a result of human mistakes, misjudg-
+ments, and misdeeds that resulted in systemic failures for which our nation has paid
+dearly. As you read this report, you will see that specific firms and individuals acted
+irresponsibly. Yet a crisis of this magnitude cannot be the work of a few bad actors,
+and such was not the case here. At the same time, the breadth of this crisis does not
+mean that “everyone is at fault”; many firms and individuals did not participate in the
+excesses that spawned disaster. 
+We do place special responsibility with the public leaders charged with protecting
+our financial system, those entrusted to run our regulatory agencies, and the chief ex-
+ecutives of companies whose failures drove us to crisis. These individuals sought and
+accepted positions of significant responsibility and obligation. Tone at the top does
+matter and, in this instance, we were let down. No one said “no.”
+But as a nation, we must also accept responsibility for what we permitted to occur.
+Collectively, but certainly not unanimously, we acquiesced to or embraced a system,
+a set of policies and actions, that gave rise to our present predicament.
+* * *
+THIS REPORT DESCRIBES THE EVENTS and the system that propelled our nation to-
+ward crisis. The complex machinery of our financial markets has many essential
+gears—some of which played a critical role as the crisis developed and deepened.
+Here we render our conclusions about specific components of the system that we be-
+lieve contributed significantly to the financial meltdown.
+• We conclude collapsing mortgage-lending standards and the mortgage securi-
+tization pipeline lit and spread the flame of contagion and crisis. When housing
+prices fell and mortgage borrowers defaulted, the lights began to dim on Wall Street.
+This report catalogues the corrosion of mortgage-lending standards and the securiti-
+zation pipeline that transported toxic mortgages from neighborhoods across Amer-
+ica to investors around the globe. 
+Many mortgage lenders set the bar so low that lenders simply took eager borrow-
+ers’ qualifications on faith, often with a willful disregard for a borrower’s ability to
+pay. Nearly one-quarter of all mortgages made in the first half of  were interest-
+only loans. During the same year,  of “option ARM” loans originated by Coun-
+trywide and Washington Mutual had low- or no-documentation requirements.
+These trends were not secret. As irresponsible lending, including predatory and
+fraudulent practices, became more prevalent, the Federal Reserve and other regula-
+tors and authorities heard warnings from many quarters. Yet the Federal Reserve
+neglected its mission “to ensure the safety and soundness of the nation’s banking and
+financial system and to protect the credit rights of consumers.” It failed to build the
+retaining wall before it was too late. And the Office of the Comptroller of the Cur-
+rency and the Office of Thrift Supervision, caught up in turf wars, preempted state
+regulators from reining in abuses. 
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION               xxiii
+
+=== pdf page 25 ===
+While many of these mortgages were kept on banks’ books, the bigger money came
+from global investors who clamored to put their cash into newly created mortgage-re-
+lated securities. It appeared to financial institutions, investors, and regulators alike that
+risk had been conquered: the investors held highly rated securities they thought were
+sure to perform; the banks thought they had taken the riskiest loans off their books;
+and regulators saw firms making profits and borrowing costs reduced. But each step in
+the mortgage securitization pipeline depended on the next step to keep demand go-
+ing. From the speculators who flipped houses to the mortgage brokers who scouted
+the loans, to the lenders who issued the mortgages, to the financial firms that created
+the mortgage-backed securities, collateralized debt obligations (CDOs), CDOs
+squared, and synthetic CDOs: no one in this pipeline of toxic mortgages had enough
+skin in the game. They all believed they could off-load their risks on a moment’s no-
+tice to the next person in line. They were wrong. When borrowers stopped making
+mortgage payments, the losses—amplified by derivatives—rushed through the
+pipeline. As it turned out, these losses were concentrated in a set of systemically im-
+portant financial institutions. 
+In the end, the system that created millions of mortgages so efficiently has proven
+to be difficult  to unwind. Its complexity has erected barriers to modifying mortgages
+so families can stay in their homes and has created further uncertainty about the
+health of the housing market and financial institutions.
+• We conclude over-the-counter derivatives contributed significantly to this 
+crisis. The enactment of legislation in 2000 to ban the regulation by both the federal
+and state governments of over-the-counter (OTC) derivatives was a key turning
+point in the march toward the financial crisis. 
+From financial firms to corporations, to farmers, and to investors, derivatives
+have been used to hedge against, or speculate on, changes in prices, rates, or indices
+or even on events such as the potential defaults on debts. Yet, without any oversight,
+OTC derivatives rapidly spiraled out of control and out of sight, growing to  tril-
+lion in notional amount. This report explains the uncontrolled leverage; lack of
+transparency, capital, and collateral requirements; speculation; interconnections
+among firms; and concentrations of risk in this market. 
+OTC derivatives contributed to the crisis in three significant ways. First, one type
+of derivative—credit default swaps (CDS)—fueled the mortgage securitization
+pipeline. CDS were sold to investors to protect against the default or decline in value
+of mortgage-related securities backed by risky loans. Companies sold protection—to
+the tune of  billion, in AIG’s case—to investors in these newfangled mortgage se-
+curities, helping to launch and expand the market and, in turn, to further fuel the
+housing bubble.
+Second, CDS were essential to the creation of synthetic CDOs. These synthetic
+CDOs were merely bets on the performance of real mortgage-related securities. They
+amplified the losses from the collapse of the housing bubble by allowing multiple bets
+on the same securities and helped spread them throughout the financial system.
+Goldman Sachs alone packaged and sold  billion in synthetic CDOs from July ,
+xxiv F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 26 ===
+, to May , . Synthetic CDOs created by Goldman referenced more than
+, mortgage securities, and  of them were referenced at least twice. This is
+apart from how many times these securities may have been referenced in synthetic
+CDOs created by other firms.
+Finally, when the housing bubble popped and crisis followed, derivatives were in
+the center of the storm. AIG, which had not been required to put aside capital re-
+serves as a cushion for the protection it was selling, was bailed out when it could not
+meet its obligations. The government ultimately committed more than  billion
+because of concerns that AIG’s collapse would trigger cascading losses throughout
+the global financial system. In addition, the existence of millions of derivatives con-
+tracts of all types between systemically important financial institutions—unseen and
+unknown in this unregulated market—added to uncertainty and escalated panic,
+helping to precipitate government assistance to those institutions.
+• We conclude the failures of credit rating agencies were essential cogs in the
+wheel of financial destruction. The three credit rating agencies were key enablers of
+the financial meltdown. The mortgage-related securities at the heart of the crisis
+could not have been marketed and sold without their seal of approval. Investors re-
+lied on them, often blindly. In some cases, they were obligated to use them, or regula-
+tory capital standards were hinged on them. This crisis could not have happened
+without the rating agencies. Their ratings helped the market soar and their down-
+grades through 2007 and 2008 wreaked havoc across markets and firms.
+In our report, you will read about the breakdowns at Moody’s, examined by the
+Commission as a case study. From  to , Moody’s rated nearly , 
+mortgage-related securities as triple-A. This compares with six private-sector com-
+panies in the United States that carried this coveted rating in early . In 
+alone, Moody’s put its triple-A stamp of approval on  mortgage-related securities
+every working day. The results were disastrous:  of the mortgage securities rated
+triple-A that year ultimately were downgraded. 
+You will also read about the forces at work behind the breakdowns at Moody’s, in-
+cluding the flawed computer models, the pressure from financial firms that paid for
+the ratings, the relentless drive for market share, the lack of resources to do the job
+despite record profits, and the absence of meaningful public oversight. And you will
+see that without the active participation of the rating agencies, the market for mort-
+gage-related securities could not have been what it became.
+* * *
+THERE ARE MANY COMPETING VIEWS as to the causes of this crisis. In this regard, the
+Commission has endeavored to address key questions posed to us. Here we discuss
+three: capital availability and excess liquidity, the role of Fannie Mae and Freddie Mac
+(the GSEs), and government housing policy. 
+First, as to the matter of excess liquidity: in our report, we outline monetary poli-
+cies and capital flows during the years leading up to the crisis. Low interest rates,
+widely available capital, and international investors seeking to put their money in real
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION                 xxv
+
+=== pdf page 27 ===
+estate assets in the United States were prerequisites for the creation of a credit bubble.
+Those conditions created increased risks, which should have been recognized by
+market participants, policy makers, and regulators. However, it is the Commission’s
+conclusion that excess liquidity did not need to cause a crisis. It was the failures out-
+lined above—including the failure to effectively rein in excesses in the mortgage and
+financial markets—that were the principal causes of this crisis. Indeed, the availabil-
+ity of well-priced capital—both foreign and domestic—is an opportunity for eco-
+nomic expansion and growth if encouraged to flow in productive directions. 
+Second, we examined the role of the GSEs, with Fannie Mae serving as the Com-
+mission’s case study in this area. These government-sponsored enterprises had a
+deeply flawed business model as publicly traded corporations with the implicit back-
+ing of and subsidies from the federal government and with a public mission. Their 
+ trillion mortgage exposure and market position were significant. In  and
+, they decided to ramp up their purchase and guarantee of risky mortgages, just
+as the housing market was peaking. They used their political power for decades to
+ward off effective regulation and oversight—spending  million on lobbying from
+ to . They suffered from many of the same failures of corporate governance
+and risk management as the Commission discovered in other financial firms.
+Through the third quarter of , the Treasury Department had provided  bil-
+lion in financial support to keep them afloat.
+We conclude that these two entities contributed to the crisis, but were not a pri-
+mary cause. Importantly, GSE mortgage securities essentially maintained their value
+throughout the crisis and did not contribute to the significant financial firm losses
+that were central to the financial crisis. 
+The GSEs participated in the expansion of subprime and other risky mortgages,
+but they followed rather than led Wall Street and other lenders in the rush for fool’s
+gold. They purchased the highest rated non-GSE mortgage-backed securities and
+their participation in this market added helium to the housing balloon, but their pur-
+chases never represented a majority of the market. Those purchases represented .
+of non-GSE subprime mortgage-backed securities in , with the share rising to
+ in , and falling back to  by . They relaxed their underwriting stan-
+dards to purchase or guarantee riskier loans and related securities in order to meet
+stock market analysts’ and investors’ expectations for growth, to regain market share,
+and to ensure generous compensation for their executives and employees—justifying
+their activities on the broad and sustained public policy support for homeownership. 
+The Commission also probed the performance of the loans purchased or guaran-
+teed by Fannie and Freddie. While they generated substantial losses, delinquency
+rates for GSE loans were substantially lower than loans securitized by other financial
+firms. For example, data compiled by the Commission for a subset of borrowers with
+similar credit scores—scores below —show that by the end of , GSE mort-
+gages were far less likely to be seriously delinquent than were non-GSE securitized
+mortgages: .  versus .. 
+We also studied at length how the Department of Housing and Urban Develop-
+ment’s (HUD’s) affordable housing goals for the GSEs affected their investment in
+xxvi F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 28 ===
+risky mortgages. Based on the evidence and interviews with dozens of individuals in-
+volved in this subject area, we determined these goals only contributed marginally to
+Fannie’s and Freddie’s participation in those mortgages.
+Finally, as to the matter of whether government housing policies were a primary
+cause of the crisis: for decades, government policy has encouraged homeownership
+through a set of incentives, assistance programs, and mandates. These policies were
+put in place and promoted by several administrations and Congresses—indeed, both
+Presidents Bill Clinton and George W. Bush set aggressive goals to increase home-
+ownership. 
+In conducting our inquiry, we took a careful look at HUD’s affordable housing
+goals, as noted above, and the Community Reinvestment Act (CRA). The CRA was
+enacted in  to combat “redlining” by banks—the practice of denying credit to in-
+dividuals and businesses in certain neighborhoods without regard to their creditwor-
+thiness. The CRA requires banks and savings and loans to lend, invest, and provide
+services to the communities from which they take deposits, consistent with bank
+safety and soundness. 
+The Commission concludes the CRA was not a significant factor in subprime lend-
+ing or the crisis. Many subprime lenders were not subject to the CRA. Research indi-
+cates only  of high-cost loans—a proxy for subprime loans—had any connection to
+the law. Loans made by CRA-regulated lenders in the neighborhoods in which they
+were required to lend were half as likely to default as similar loans made in the same
+neighborhoods by independent mortgage originators not subject to the law.
+Nonetheless, we make the following observation about government housing poli-
+cies—they failed in this respect: As a nation, we set aggressive homeownership goals
+with the desire to extend credit to families previously denied access to the financial
+markets. Yet the government failed to ensure that the philosophy of opportunity was
+being matched by the practical realities on the ground. Witness again the failure of
+the Federal Reserve and other regulators to rein in irresponsible lending. Homeown-
+ership peaked in the spring of  and then began to decline. From that point on,
+the talk of opportunity was tragically at odds with the reality of a financial disaster in
+the making.
+* * *
+WHEN THIS COMMISSION began its work  months ago, some imagined that the
+events of  and their consequences would be well behind us by the time we issued
+this report. Yet more than two years after the federal government intervened in an
+unprecedented manner in our financial markets, our country finds itself still grap-
+pling with the aftereffects of the calamity. Our financial system is, in many respects,
+still unchanged from what existed on the eve of the crisis. Indeed, in the wake of the
+crisis, the U.S. financial sector is now more concentrated than ever in the hands of a
+few large, systemically significant institutions. 
+While we have not been charged with making policy recommendations, the very
+purpose of our report has been to take stock of what happened so we can plot a new
+course. In our inquiry, we found dramatic breakdowns of corporate governance, 
+C ONCLUSIONS OF THE F INANCIAL C RISIS I NQUIRY C OMMISSION              xxvii
+
+=== pdf page 29 ===
+profound lapses in regulatory oversight, and near fatal flaws in our financial system.
+We also found that a series of choices and actions led us toward a catastrophe for
+which we were ill prepared. These are serious matters that must be addressed and
+resolved to restore faith in our financial markets, to avoid the next crisis, and to re-
+build a system of capital that provides the foundation for a new era of broadly
+shared prosperity.
+The greatest tragedy would be to accept the refrain that no one could have seen
+this coming and thus nothing could have been done. If we accept this notion, it will
+happen again.
+This report should not be viewed as the end of the nation’s examination of this
+crisis. There is still much to learn, much to investigate, and much to fix. 
+This is our collective responsibility. It falls to us to make different choices if we
+want different results. 
+xxviii F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 30 ===
+PA RT  I
+Crisis on the Horizon
+
+=== pdf page 31 ===
+
+
+=== pdf page 32 ===
+1
+BEFORE OUR VERY EYES
+In examining the worst financial meltdown since the Great Depression, the Financial
+Crisis Inquiry Commission reviewed millions of pages of documents and questioned
+hundreds of individuals—financial executives, business leaders, policy makers, regu-
+lators, community leaders, people from all walks of life—to find out how and why it
+happened.
+In public hearings and interviews, many financial industry executives and top
+public officials testified that they had been blindsided by the crisis, describing it as a
+dramatic and mystifying turn of events. Even among those who worried that the
+housing bubble might burst, few—if any—foresaw the magnitude of the crisis that
+would ensue.
+Charles Prince, the former chairman and chief executive officer of Citigroup Inc.,
+called the collapse in housing prices “wholly unanticipated.”  Warren Buffett, the
+chairman and chief executive officer of Berkshire Hathaway Inc., which until 
+was the largest single shareholder of Moody’s Corporation, told the Commission
+that “very, very few people could appreciate the bubble,” which he called a “mass
+delusion” shared by “ million Americans.”  Lloyd Blankfein, the chairman and
+chief executive officer of Goldman Sachs Group, Inc., likened the financial crisis to a
+hurricane.
+Regulators echoed a similar refrain. Ben Bernanke, the chairman of the Federal
+Reserve Board since , told the Commission a “perfect storm” had occurred that
+regulators could not have anticipated; but when asked about whether the Fed’s lack of
+aggressiveness in regulating the mortgage market during the housing boom was a
+failure, Bernanke responded, “It was, indeed. I think it was the most severe failure of
+the Fed in this particular episode.”  Alan Greenspan, the Fed chairman during the
+two decades leading up to the crash, told the Commission that it was beyond the abil-
+ity of regulators to ever foresee such a sharp decline. “History tells us [regulators]
+cannot identify the timing of a crisis, or anticipate exactly where it will be located or
+how large the losses and spillovers will be.”
+In fact, there were warning signs. In the decade preceding the collapse, there were
+many signs that house prices were inflated, that lending practices had spun out of
+control, that too many homeowners were taking on mortgages and debt they could ill
+afford, and that risks to the financial system were growing unchecked. Alarm bells
+
+
+=== pdf page 33 ===
+were clanging inside financial institutions, regulatory offices, consumer service or-
+ganizations, state law enforcement agencies, and corporations throughout America,
+as well as in neighborhoods across the country. Many knowledgeable executives saw
+trouble and managed to avoid the train wreck. While countless Americans joined in
+the financial euphoria that seized the nation, many others were shouting to govern-
+ment officials in Washington and within state legislatures, pointing to what would
+become a human disaster, not just an economic debacle.
+“Everybody in the whole world knew that the mortgage bubble was there,” said
+Richard Breeden, the former chairman of the Securities and Exchange Commission
+appointed by President George H. W. Bush. “I mean, it wasn’t hidden. . . . You cannot
+look at any of this and say that the regulators did their job. This was not some hidden
+problem. It wasn’t out on Mars or Pluto or somewhere. It was right here. . . . You can’t
+make trillions of dollars’ worth of mortgages and not have people notice.”
+Paul McCulley, a managing director at PIMCO, one of the nation’s largest money
+management firms, told the Commission that he and his colleagues began to get wor-
+ried about “serious signs of bubbles” in ; they therefore sent out credit analysts to
+ cities to do what he called “old-fashioned shoe-leather research,” talking to real es-
+tate brokers, mortgage brokers, and local investors about the housing and mortgage
+markets. They witnessed what he called “the outright degradation of underwriting
+standards,” McCulley asserted, and they shared what they had learned when they got
+back home to the company’s Newport Beach, California, headquarters. “And when
+our group came back, they reported what they saw, and we adjusted our risk accord-
+ingly,” McCulley told the Commission. The company “severely limited” its participa-
+tion in risky mortgage securities.
+Veteran bankers, particularly those who remembered the savings and loan crisis,
+knew that age-old rules of prudent lending had been cast aside. Arnold Cattani, the
+chairman of Bakersfield, California–based Mission Bank, told the Commission that
+he grew uncomfortable with the “pure lunacy” he saw in the local home-building
+market, fueled by “voracious” Wall Street investment banks; he thus opted out of cer-
+tain kinds of investments by .
+William Martin, the vice chairman and chief executive officer of Service st Bank
+of Nevada, told the FCIC that the desire for a “high and quick return” blinded people
+to fiscal realities. “You may recall Tommy Lee Jones in Men in Black, where he holds a
+device in the air, and with a bright flash wipes clean the memories of everyone who
+has witnessed an alien event,” he said.
+Unlike so many other bubbles—tulip bulbs in Holland in the s, South Sea
+stocks in the s, Internet stocks in the late s—this one involved not just an-
+other commodity but a building block of community and social life and a corner-
+stone of the economy: the family home. Homes are the foundation upon which many
+of our social, personal, governmental, and economic structures rest. Children usually
+go to schools linked to their home addresses; local governments decide how much
+money they can spend on roads, firehouses, and public safety based on how much
+property tax revenue they have; house prices are tied to consumer spending. Down-
+turns in the housing industry can cause ripple effects almost everywhere.
+ F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 34 ===
+When the Federal Reserve cut interest rates early in the new century and mort-
+gage rates fell, home refinancing surged, climbing from  billion in  to .
+trillion in , allowing people to withdraw equity built up over previous decades
+and to consume more, despite stagnant wages. Home sales volume started to in-
+crease, and average home prices nationwide climbed, rising  in eight years by one
+measure and hitting a national high of , in early .  Home prices in
+many areas skyrocketed: prices increased nearly two and one-half times in Sacra-
+mento, for example, in just five years,  and shot up by about the same percentage in
+Bakersfield, Miami, and Key West. Prices about doubled in more than  metropol-
+itan areas, including Phoenix, Atlantic City, Baltimore, Ft. Lauderdale, Los Angeles,
+Poughkeepsie, San Diego, and West Palm Beach.  Housing starts nationwide
+climbed , from . million in  to more than  million in . Encouraged
+by government policies, homeownership reached a record . in the spring of
+, although it wouldn’t rise an inch further even as the mortgage machine kept
+churning for another three years. By refinancing their homes, Americans extracted
+. trillion in home equity between  and , including  billion in 
+alone, more than seven times the amount they took out in . Real estate specula-
+tors and potential homeowners stood in line outside new subdivisions for a chance to
+buy houses before the ground had even been broken. By the first half of , more
+than one out of every ten home sales was to an investor, speculator, or someone buy-
+ing a second home. Bigger was better, and even the structures themselves ballooned
+in size; the floor area of an average new home grew by , to , square feet, in
+the decade from  to .
+Money washed through the economy like water rushing through a broken dam.
+Low interest rates and then foreign capital helped fuel the boom. Construction work-
+ers, landscape architects, real estate agents, loan brokers, and appraisers profited on
+Main Street, while investment bankers and traders on Wall Street moved even higher
+on the American earnings pyramid and the share prices of the most aggressive finan-
+cial service firms reached all-time highs.  Homeowners pulled cash out of their
+homes to send their kids to college, pay medical bills, install designer kitchens with
+granite counters, take vacations, or launch new businesses. They also paid off credit
+cards, even as personal debt rose nationally. Survey evidence shows that about  of
+homeowners pulled out cash to buy a vehicle and over  spent the cash on a catch-
+all category including tax payments, clothing, gifts, and living expenses.  Renters
+used new forms of loans to buy homes and to move to suburban subdivisions, erect-
+ing swing sets in their backyards and enrolling their children in local schools.
+In an interview with the Commission, Angelo Mozilo, the longtime CEO of
+Countrywide Financial—a lender brought down by its risky mortgages—said that a
+“gold rush” mentality overtook the country during these years, and that he was swept
+up in it as well: “Housing prices were rising so rapidly—at a rate that I’d never seen in
+my  years in the business—that people, regular people, average people got caught
+up in the mania of buying a house, and flipping it, making money. It was happening.
+They buy a house, make , . . . and talk at a cocktail party about it. . . . Housing
+suddenly went from being part of the American dream to house my family to settle
+B EFORE O UR V ERY E YES                                               
+
+=== pdf page 35 ===
+down—it became a commodity. That was a change in the culture. . . . It was sudden,
+unexpected.”
+On the surface, it looked like prosperity. After all, the basic mechanisms making
+the real estate machine hum—the mortgage-lending instruments and the financing
+techniques that turned mortgages into investments called securities, which kept cash
+flowing from Wall Street into the U.S. housing market—were tools that had worked
+well for many years.
+But underneath, something was going wrong. Like a science fiction movie in
+which ordinary household objects turn hostile, familiar market mechanisms were be-
+ing transformed. The time-tested -year fixed-rate mortgage, with a  down pay-
+ment, went out of style. There was a burgeoning global demand for residential
+mortgage–backed securities that offered seemingly solid and secure returns. In-
+vestors around the world clamored to purchase securities built on American real es-
+tate, seemingly one of the safest bets in the world.
+Wall Street labored mightily to meet that demand. Bond salesmen earned multi-
+million-dollar bonuses packaging and selling new kinds of loans, offered by new
+kinds of lenders, into new kinds of investment products that were deemed safe but
+possessed complex and hidden risks. Federal officials praised the changes—these
+financial innovations, they said, had lowered borrowing costs for consumers and
+moved risks away from the biggest and most systemically important financial insti-
+tutions. But the nation’s financial system had become vulnerable and intercon-
+nected in ways that were not understood by either the captains of finance or the
+system’s public stewards. In fact, some of the largest institutions had taken on what
+would prove to be debilitating risks. Trillions of dollars had been wagered on the
+belief that housing prices would always rise and that borrowers would seldom de-
+fault on mortgages, even as their debt grew. Shaky loans had been bundled into in-
+vestment products in ways that seemed to give investors the best of both
+worlds—high-yield, risk-free—but instead, in many cases, would prove to be high-
+risk and yield-free.
+All this financial creativity was a lot “like cheap sangria,” said Michael Mayo, a
+managing director and financial services analyst at Calyon Securities (USA) Inc. “A
+lot of cheap ingredients repackaged to sell at a premium,” he told the Commission. “It
+might taste good for a while, but then you get headaches later and you have no idea
+what’s really inside.”
+The securitization machine began to guzzle these once-rare mortgage products
+with their strange-sounding names: Alt-A, subprime, I-O (interest-only), low-doc,
+no-doc, or ninja (no income, no job, no assets) loans; –s and –s; liar loans;
+piggyback second mortgages; payment-option or pick-a-pay adjustable rate mort-
+gages. New variants on adjustable-rate mortgages, called “exploding” ARMs, featured
+low monthly costs at first, but payments could suddenly double or triple, if borrowers
+were unable to refinance. Loans with negative amortization would eat away the bor-
+rower’s equity. Soon there were a multitude of different kinds of mortgages available
+on the market, confounding consumers who didn’t examine the fine print, baffling
+ F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 36 ===
+conscientious borrowers who tried to puzzle out their implications, and opening the
+door for those who wanted in on the action.
+Many people chose poorly. Some people wanted to live beyond their means, and by
+mid-, nearly one-quarter of all borrowers nationwide were taking out interest-
+only loans that allowed them to defer the payment of principal.  Some borrowers
+opted for nontraditional mortgages because that was the only way they could get a
+foothold in areas such as the sky-high California housing market. Some speculators
+saw the chance to snatch up investment properties and flip them for profit—and
+Florida and Georgia became a particular target for investors who used these loans to
+acquire real estate. Some were misled by salespeople who came to their homes and
+persuaded them to sign loan documents on their kitchen tables. Some borrowers
+naively trusted mortgage brokers who earned more money placing them in risky
+loans than in safe ones.  With these loans, buyers were able to bid up the prices of
+houses even if they didn’t have enough income to qualify for traditional loans.
+Some of these exotic loans had existed in the past, used by high-income, finan-
+cially secure people as a cash-management tool. Some had been targeted to borrow-
+ers with impaired credit, offering them the opportunity to build a stronger payment
+history before they refinanced. But the instruments began to deluge the larger market
+in  and . The changed occurred “almost overnight,” Faith Schwartz, then an
+executive at the subprime lender Option One and later the executive director of Hope
+Now, a lending-industry foreclosure relief group, told the Federal Reserve’s Con-
+sumer Advisory Council. “I would suggest most every lender in the country is in it,
+one way or another.”
+At first not a lot of people really understood the potential hazards of these new
+loans. They were new, they were different, and the consequences were uncertain. But
+it soon became apparent that what had looked like newfound wealth was a mirage
+based on borrowed money. Overall mortgage indebtedness in the United States
+climbed from . trillion in  to . trillion in . The mortgage debt of
+American households rose almost as much in the six years from  to  as it
+had over the course of the country’s more than -year history. The amount of
+mortgage debt per household rose from , in  to , in .  With
+a simple flourish of a pen on paper, millions of Americans traded away decades of eq-
+uity tucked away in their homes.
+Under the radar, the lending and the financial services industry had mutated. In
+the past, lenders had avoided making unsound loans because they would be stuck
+with them in their loan portfolios. But because of the growth of securitization, it
+wasn’t even clear anymore who the lender was. The mortgages would be packaged,
+sliced, repackaged, insured, and sold as incomprehensibly complicated debt securities
+to an assortment of hungry investors. Now even the worst loans could find a buyer.
+More loan sales meant higher profits for everyone in the chain. Business boomed
+for Christopher Cruise, a Maryland-based corporate educator who trained loan offi-
+cers for companies that were expanding mortgage originations. He crisscrossed the
+nation, coaching about , loan originators a year in auditoriums and classrooms.
+B EFORE O UR V ERY E YES                                               
+
+=== pdf page 37 ===
+His clients included many of the largest lenders—Countrywide, Ameriquest, and
+Ditech among them. Most of their new hires were young, with no mortgage experi-
+ence, fresh out of school and with previous jobs “flipping burgers,” he told the FCIC.
+Given the right training, however, the best of them could “easily” earn millions.
+“I was a sales and marketing trainer in terms of helping people to know how to
+sell these products to, in some cases, frankly unsophisticated and unsuspecting bor-
+rowers,” he said. He taught them the new playbook: “You had no incentive whatso-
+ever to be concerned about the quality of the loan, whether it was suitable for the
+borrower or whether the loan performed. In fact, you were in a way encouraged not
+to worry about those macro issues.” He added, “I knew that the risk was being
+shunted off. I knew that we could be writing crap. But in the end it was like a game of
+musical chairs. Volume might go down but we were not going to be hurt.”
+On Wall Street, where many of these loans were packaged into securities and sold
+to investors around the globe, a new term was coined: IBGYBG, “I’ll be gone, you’ll
+be gone.” It referred to deals that brought in big fees up front while risking much
+larger losses in the future. And, for a long time, IBGYBG worked at every level.
+Most home loans entered the pipeline soon after borrowers signed the docu-
+ments and picked up their keys. Loans were put into packages and sold off in bulk to
+securitization firms—including investment banks such as Merrill Lynch, Bear
+Stearns, and Lehman Brothers, and commercial banks and thrifts such as Citibank,
+Wells Fargo, and Washington Mutual. The firms would package the loans into resi-
+dential mortgage–backed securities that would mostly be stamped with triple-A rat-
+ings by the credit rating agencies, and sold to investors. In many cases, the securities
+were repackaged again into collateralized debt obligations (CDOs)—often com-
+posed of the riskier portions of these securities—which would then be sold to other
+investors. Most of these securities would also receive the coveted triple-A ratings
+that investors believed attested to their quality and safety. Some investors would buy
+an invention from the s called a credit default swap (CDS) to protect against the
+securities’ defaulting. For every buyer of a credit default swap, there was a seller: as
+these investors made opposing bets, the layers of entanglement in the securities mar-
+ket increased.
+The instruments grew more and more complex; CDOs were constructed out of
+CDOs, creating CDOs squared. When firms ran out of real product, they started gen-
+erating cheaper-to-produce synthetic CDOs—composed not of real mortgage securi-
+ties but just of bets on other mortgage products. Each new permutation created an
+opportunity to extract more fees and trading profits. And each new layer brought in
+more investors wagering on the mortgage market—even well after the market had
+started to turn. So by the time the process was complete, a mortgage on a home in
+south Florida might become part of dozens of securities owned by hundreds of in-
+vestors—or parts of bets being made by hundreds more. Treasury Secretary Timothy
+Geithner, the president of the New York Federal Reserve Bank during the crisis, de-
+scribed the resulting product as “cooked spaghetti” that became hard to “untangle.”
+Ralph Cioffi spent several years creating CDOs for Bear Stearns and a couple of
+more years on the repurchase or “repo” desk, which was responsible for borrowing
+ F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 38 ===
+money every night to finance Bear Stearns’s broader securities portfolio. In Septem-
+ber , Cioffi created a hedge fund within Bear Stearns with a minimum invest-
+ment of  million. As was common, he used borrowed money—up to  borrowed
+for every  from investors—to buy CDOs. Cioffi’s first fund was extremely success-
+ful; it earned  for investors in  and  in —after the annual manage-
+ment fee and the  slice of the profit for Cioffi and his Bear Stearns team—and
+grew to almost  billion by the end of . In the fall of , he created another,
+more aggressive fund. This one would shoot for leverage of up to  to . By the end
+of , the two hedge funds had  billion invested, half in securities issued by
+CDOs centered on housing. As a CDO manager, Cioffi also managed another  bil-
+lion of mortgage-related CDOs for other investors.
+Cioffi’s investors and others like them wanted high-yielding mortgage securities.
+That, in turn, required high-yielding mortgages. An advertising barrage bombarded
+potential borrowers, urging them to buy or refinance homes. Direct-mail solicita-
+tions flooded people’s mailboxes.  Dancing figures, depicting happy homeowners,
+boogied on computer monitors. Telephones began ringing off the hook with calls
+from loan officers offering the latest loan products: One percent loan! (But only for
+the first year.) No money down! (Leaving no equity if home prices fell.) No income
+documentation needed! (Mortgages soon dubbed “liar loans” by the industry itself.)
+Borrowers answered the call, many believing that with ever-rising prices, housing
+was the investment that couldn’t lose.
+In Washington, four intermingled issues came into play that made it difficult to ac-
+knowledge the looming threats. First, efforts to boost homeownership had broad po-
+litical support—from Presidents Bill Clinton and George W. Bush and successive
+Congresses—even though in reality the homeownership rate had peaked in the spring
+of . Second, the real estate boom was generating a lot of cash on Wall Street and
+creating a lot of jobs in the housing industry at a time when performance in other sec-
+tors of the economy was dreary. Third, many top officials and regulators were reluc-
+tant to challenge the profitable and powerful financial industry. And finally, policy
+makers believed that even if the housing market tanked, the broader financial system
+and economy would hold up.
+As the mortgage market began its transformation in the late s, consumer ad-
+vocates and front-line local government officials were among the first to spot the
+changes: homeowners began streaming into their offices to seek help in dealing with
+mortgages they could not afford to pay. They began raising the issue with the Federal
+Reserve and other banking regulators. Bob Gnaizda, the general counsel and policy
+director of the Greenlining Institute, a California-based nonprofit housing group,
+told the Commission that he began meeting with Greenspan at least once a year
+starting in , each time highlighting to him the growth of predatory lending prac-
+tices and discussing with him the social and economic problems they were creating.
+One of the first places to see the bad lending practices envelop an entire market
+was Cleveland, Ohio. From  to , home prices in Cleveland rose , climb-
+ing from a median of , to ,, while home prices nationally rose about
+ in those same years; at the same time, the city’s unemployment rate, ranging
+B EFORE O UR V ERY E YES                                               
+
+=== pdf page 39 ===
+from . in  to . in , more or less tracked the broader U.S. pattern.
+James Rokakis, the longtime county treasurer of Cuyahoga County, where Cleveland
+is located, told the Commission that the region’s housing market was juiced by “flip-
+ping on mega-steroids,” with rings of real estate agents, appraisers, and loan origina-
+tors earning fees on each transaction and feeding the securitized loans to Wall Street.
+City officials began to hear reports that these activities were being propelled by new
+kinds of nontraditional loans that enabled investors to buy properties with little or no
+money down and gave homeowners the ability to refinance their houses, regardless
+of whether they could afford to repay the loans. Foreclosures shot up in Cuyahoga
+County from , a year in  to , a year in . Rokakis and other public
+officials watched as families who had lived for years in modest residences lost their
+homes. After they were gone, many homes were ultimately abandoned, vandalized,
+and then stripped bare, as scavengers ripped away their copper pipes and aluminum
+siding to sell for scrap.
+“Securitization was one of the most brilliant financial innovations of the th cen-
+tury,” Rokakis told the Commission. “It freed up a lot of capital. If it had been done
+responsibly, it would have been a wondrous thing because nothing is more stable,
+there’s nothing safer, than the American mortgage market. . . . It worked for years.
+But then people realized they could scam it.”
+Officials in Cleveland and other Ohio cities reached out to the federal government
+for help. They asked the Federal Reserve, the one entity with the authority to regulate
+risky lending practices by all mortgage lenders, to use the power it had been granted
+in  under the Home Ownership and Equity Protection Act (HOEPA) to issue
+new mortgage lending rules. In March , Fed Governor Edward Gramlich, an ad-
+vocate for expanding access to credit but only with safeguards in place, attended a
+conference on the topic in Cleveland. He spoke about the Fed’s power under HOEPA,
+declared some of the lending practices to be “clearly illegal,” and said they could be
+“combated with legal enforcement measures.”
+Looking back, Rokakis remarked to the Commission, “I naively believed they’d go
+back and tell Mr. Greenspan and presto, we’d have some new rules. . . . I thought it
+would result in action being taken. It was kind of quaint.”
+In , when Cleveland was looking for help from the federal government, other
+cities around the country were doing the same. John Taylor, the president of the Na-
+tional Community Reinvestment Coalition, with the support of community leaders
+from Nevada, Michigan, Maryland, Delaware, Chicago, Vermont, North Carolina,
+New Jersey, and Ohio, went to the Office of Thrift Supervision (OTS), which regu-
+lated savings and loan institutions, asking the agency to crack down on what they
+called “exploitative” practices they believed were putting both borrowers and lenders
+at risk.
+The California Reinvestment Coalition, a nonprofit housing group based in
+Northern California, also begged regulators to act, CRC officials told the Commis-
+sion. The nonprofit group had reviewed the loans of  borrowers and discovered
+that many individuals were being placed into high-cost loans when they qualified for
+better mortgages and that many had been misled about the terms of their loans.
+ F INANCIAL C RISIS I NQUIRY C OMMISSION R EPORT
+
+=== pdf page 40 ===
+There were government reports, too. The Department of Housing and Urban De-
+velopment and the Treasury Department issued a joint report on predatory lending
+in June  that made a number of recommendations for reducing the risks to bor-
+rowers. In December , the Federal Reserve Board used the HOEPA law to
+amend some regulations; among the changes were new rules aimed at limiting high-
+interest lending and preventing multiple refinancings over a short period of time, if
+they were not in the borrower’s best interest.  As it would turn out, those rules cov-
+ered only  of subprime loans. FDIC Chairman Sheila C. Bair, then an assistant
+treasury secretary in the administration of President George W. Bush, characterized
+the action to the FCIC as addressing only a “narrow range of predatory lending is-
+sues.” In , Gramlich noted again the “increasing reports of abusive, unethical
+and in some cases, illegal, lending practices.”
+Bair told the Commission that this was when “really poorly underwritten loans,
+the payment shock loans” were beginning to proliferate, placing “pressure” on tradi-
+tional banks to follow suit. She said that she and Gramlich considered seeking rules
+to rein in the growth of these kinds of loans, but Gramlich told her that he thought
+the Fed, despite its broad powers in this area, would not support the effort. Instead,
+they sought voluntary rules for lenders, but that effort fell by the wayside as well.
+In an environment of minimal government restrictions, the number of nontradi-
+tional loans surged and lending standards declined. The companies issuing these
+loans made profits that attracted envious eyes. New lenders entered the field. In-
+vestors clamored for mortgage-related securities and borrowers wanted mortgages.
+The volume of subprime and nontraditional lending rose sharply. In , the top 
+nonprime lenders originated  billion in loans. Their volume rose to  billion
+in , and then  billion in .
+California, with its high housing costs, was a particular hotbed for this kind of
+lending. In , nearly  billion, or  of all nontraditional loans nationwide,
+were made in that state; California’s share rose to  by , with these kinds of
+loans growing to  billion or by  in California in just two years.  In those
+years, “subprime and option ARM loans saturated California communities,” Kevin
+Stein, the associate director of the California Reinvestment Coalition, testified to the
+Commission. “We estimated at that time that the average subprime borrower in Cali-
+fornia was paying over  more per month on their mortgage payment as a result
+of having received the subprime loan.”
+Gail Burks, president and CEO of Nevada Fair Housing, Inc., a Las Vegas–based
+housing clinic, told the Commission she and other groups took their concerns di-
+rectly to Greenspan at this time, describing to him in person what she called the
+“metamorphosis” in the lending industry. She told him that besides predatory lend-
+ing practices such as flipping loans or misinforming seniors about reverse mortgages,
+she also witnessed examples of growing sloppiness in paperwork: not crediting pay-
+ments appropriately or miscalculating accounts.
+Lisa Madigan, the attorney general in Illinois, also spotted the emergence of a
+troubling trend. She joined state attorneys general from Minnesota, California,
+Washington, Arizona, Florida, New York, and Massachusetts in pursuing allegations
+B EFORE O UR V ERY E YES                                             

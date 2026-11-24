@@ -1,0 +1,233 @@
+
+=== pdf page 1 ===
+NBER WORKING PAPER SERIES
+THE FINANCIAL CRISIS AND THE POLICY RESPONSES:
+AN EMPIRICAL ANALYSIS OF WHAT WENT WRONG
+John B. Taylor
+Working Paper 14631
+http://www.nber.org/papers/w14631
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+January 2009
+I am grateful to John Cogan, Angelo Melino, John Murray, George Shultz and participants in the Global
+Markets Working Group for helpful comments and suggestions. The views expressed herein are those
+of the author(s) and do not necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been peer-
+reviewed or been subject to the review by the NBER Board of Directors that accompanies official
+NBER publications.
+© 2009 by John B. Taylor. All rights reserved. Short sections of text, not to exceed two paragraphs,
+may be quoted without explicit permission provided that full credit, including © notice, is given to
+the source.
+
+
+=== pdf page 2 ===
+The Financial Crisis and the Policy Responses: An Empirical Analysis of What Went Wrong
+John B. Taylor
+NBER Working Paper No. 14631
+January 2009
+JEL No. E0,G01
+ABSTRACT
+This paper is an empirical investigation of the role of government actions and interventions in the
+financial crisis that flared up in August 2007. It integrates and summarizes several ongoing empirical
+research projects with the aim of learning from past policy. The evidence is presented in a series of
+charts which are backed up by statistical analysis in these research projects.
+John B. Taylor
+Herbert Hoover Memorial Building
+Stanford University
+Stanford, CA 94305-6010
+and NBER
+John.Taylor@stanford.edu
+
+=== pdf page 3 ===
+                                                                                                     
+The Financial Crisis and the Policy Responses: 
+An Empirical Analysis of What Went Wrong  
+ 
+John B. Taylor 
+November 2008 
+ 
+ 
+ 
+What caused the financial crisis? What prolonged it?  Why did it worsen so dramatically 
+more than a year after it began?  Rarely in economics is there a single answer to such questions, 
+but the empirical research I present in this paper strongly suggests that specific government 
+actions and interventions should be first on the list of answers to all three. I focus on the period 
+from the start of the crisis through October 2008 when market conditions deteriorated 
+precipitously and rapidly. I draw on research papers, speeches at central banks, and 
+congressional testimony I have given on the crisis during the past two years.1  
+This paper is based on the keynote lecture delivered in Ottawa on November 14 at a 
+conference in honor of David Dodge, former Governor of the Bank of Canada.  Following an 
+approach to policy advocated by David Dodge throughout his distinguished career in public 
+service, I try to use empirical evidence to the maximum extent possible and explain the analysis 
+in the simplest possible terms, including by using a series of illustrative graphs. 
+ 
+1. What Caused the Financial Crisis? 
+The classic explanation of financial crises, going back hundreds of years, is that they are 
+caused by excesses—frequently monetary excesses—which lead to a boom and an inevitable 
+bust. In the recent crisis we had a housing boom and bust which in turn led to financial turmoil in 
+                                                 
+1 I refer to this research in this paper using the bracketed numbers in the section “Summary of Research Projects” at 
+the end of the paper. 
+
+=== pdf page 4 ===
+ 
+ 2
+the United States and other countries. I begin by showing that monetary excesses were the main 
+cause of that boom and the resulting bust.   
+ 
+1.1 Loose Fitting Monetary Policy 
+Figure 1 was published in The Economist magazine in October 2007 as a simple way to 
+illustrate the story of monetary excesses.  The figure is based on a paper [1] that I presented at 
+the annual Jackson Hole conference in August 2007.  It examines Federal Reserve policy 
+decisions—in terms of the federal funds interest rate—from 2000 to 2006.   
+The line that dips down to one percent in 2003, stays there into 2004, and then rises 
+steadily until 2006 shows the actual interest rate decisions of the Federal Reserve.  The other line 
+shows what the interest rate would have been if the Fed had followed the type of policy that it 
+had followed fairly regularly during the previous 20 year period of good economic performance. 
+The Economist labels that line the Taylor rule because it is a smoothed version of the interest rate 
+one gets by plugging actual inflation and GDP into a policy rule that I proposed in 1992.2  But 
+the important point is that this line shows what the interest rate would have been if the Fed had 
+followed the kind of policy that had worked well during the historical experience of the Great 
+Moderation that began in the early 1980s. 
+                                                 
+2 When he was President of the Federal Reserve Bank of St. Louis, William Poole presented a similar chart covering 
+a longer period and without the smoothing in “Understanding the Fed,” Federal Reserve Bank of St. Louis, Review, 
+January/February, 2007, Vol. 89. No. 1, pp. 3-14  
+   
+
+=== pdf page 5 ===
+ 
+ 3
+ 
+        Figure 1. Chart from The Economist, October 18, 2007 
+ 
+Figure 1 shows that the actual interest rate decisions fell well below what historical experience 
+would suggest policy should be.  It thus provides an empirical measure that monetary policy was 
+too easy during this period, or too “loose fitting” as The Economist puts it.  This was an 
+unusually big deviation from the Taylor rule. There was no greater or more persistent deviation 
+of actual Fed policy since the turbulent days of the 1970s.  So there is clearly evidence that there 
+were monetary excesses during the period leading up to the housing boom.   
+The unusually low interest rates decisions were, of course, made with careful 
+consideration by monetary policymakers.  One can interpret them as purposeful deviations from 
+the “regular” interest rate settings based on the usual macroeconomic variables.  The Fed used 
+transparent language to describe the decisions, saying, for example, that interest rates would be 
+low for “a considerable period” and that they would rise slowly at a “measured pace,” which 
+were ways of clarifying that the decisions were deviations from the rule in some sense.  These 
+actions were thus effectively discretionary government interventions in that they deviated from 
+
+
+=== pdf page 6 ===
+ 
+ 4
+the regular way of conducting policy in order to address a specific problem, in particular a fear of 
+deflation as had occurred in Japan in the 1990s.  
+ 
+1.2 The Counterfactual: No Boom, No Bust 
+In presenting this chart to the central bankers meeting in Jackson Hole in August 2007 I 
+argued that this extra easy policy was responsible for accelerating the housing boom and thereby 
+ultimately leading to the housing bust.  To support such an argument empirically I provided 
+statistical evidence that the interest rate deviation shown in Figure 1 could plausibly bring about 
+a housing boom.   I did this by using regression techniques to estimate a model of the empirical 
+relationship between the interest rate and housing starts, and I then simulated that model to see 
+what would have happened in the counterfactual event that policy had followed the rule shown in 
+Figure 1. In this way an empirical proof was provided that monetary policy was a key cause of 
+the boom and hence the bust and the crisis.  
+ Figure 2 summarizes the results of this empirical approach. It is a picture of housing 
+starts in the United States during the same period as Figure 1; it is drawn from that same 2007 
+Jackson Hole paper [1].  The jagged line shows actual housing starts in thousands of units. Both 
+the housing boom and the housing bust are very clear in this picture.  
+
+=== pdf page 7 ===
+ 
+ 5
+ 
+ 
+Figure 2. The Boom-Bust in Housing Starts Compared 
+With the Counterfactual. (The line with shorter dashes  
+shows model simulations with the actual interest rate.) 
+ 
+The line labeled “counterfactual” in Figure 2 is what a statistically estimated model of housing 
+starts suggests would have happened had interest rates followed along the rule in Figure 1; 
+clearly there would have not been such a big housing boom and bust.  Hence, Figure 2 provides 
+empirical evidence that the unusually low interest rate policy was a factor in the housing boom.  
+One can challenge this conclusion, of course, by challenging the model, but an advantage of 
+using a model and an empirical counterfactual is that one has a formal framework for debating 
+the issue.  
+ Not shown in Figure 2 is the associated boom and bust in housing prices in the United 
+States.  The boom-bust was evident throughout most of the country, but was worse in California, 
+Florida, Arizona and Nevada. The only exceptions were in states like Texas and Michigan where 
+local factors offset the monetary excess stressed here. 
+
+=== pdf page 8 ===
+ 
+ 6
+Though the housing boom was the most noticeable effect of the monetary excesses, they 
+also could be seen in more gradually rising overall prices: CPI inflation, for example, averaged 
+3.2 percent at an annual rate during the past five years, well above the 2 percent target suggested 
+by many policy makers and implicit in the policy rule in Figure 1.  It is always difficult to predict 
+the exact initial impacts of monetary shocks, but housing was also a volatile part of GDP in the 
+1970s another period of monetary instability before the onset of the Great Moderation. The 
+monetary policy followed during the Great Moderation had the advantages of keeping both the 
+overall economy stable and the inflation rate low.  
+ 
+1.3 Competing Explanations: A Global Saving Glut 
+Some argue that the low interest rates in 2002-2004 were caused by global factors beyond 
+the control of the monetary authorities.  If so, then the interest rate decisions by the monetary 
+authorities were not the major factor causing the boom. This explanation is potentially appealing 
+because long term interest rates remained low for a while even after the short-term federal funds 
+rate started increasing.  This alternative explanation focuses on global saving. It argues that there 
+was an excess of world saving—a global saving glut—which pushed interest rates down in the 
+United States and other countries.  
+The main problem with this explanation is that there is actually no evidence for a global 
+saving glut.  On the contrary, as Figure 3 shows in very simple terms, there seems to be a saving 
+shortage. This figure, which was produced by staff at the International Monetary Fund in 2005, 
+shows that the global saving rate—world saving as a fraction of world GDP—was very low in 
+the 2002-2004 period especially when compared with the 1970s and 1980s. So this alternative 
+explanation does not stand up to empirical testing using data that have long been available.  
+
+=== pdf page 9 ===
+ 
+ 7
+ 
+ 
+Figure 3. Global Saving and Investment as a Share of World GDP 
+Source: World Economic Outlook, IMF Sept 2005, Chapter 2, p. 92,  
+  
+           To be sure, there was a gap of saving over investment in the world outside the United 
+States during 2002-2004, and this may be the source of the term “saving glut.” But the United 
+States was saving less than it was investing during this period; it was running a current account 
+deficit which implies that saving was less then investment.  Thus the positive saving gap outside 
+the United States was offset by an equal sized negative saving gap in the United States.  No extra 
+impact on world interest rates would be expected.  As implied by simple global accounting, there 
+is no global gap between saving and investment.   
+ 
+1.4 Monetary Policy in Other Countries: Central Banks Looking at Each Other? 
+Nevertheless there are possible global connections to keep track of when assessing the 
+root cause of the crisis.  Most important is the evidence that interest rates at several other central 
+banks also deviated from what historical regularities, as described by a Taylor rule, would 
+predict.  Even more striking is that housing booms were largest where the deviations from the 
+
+=== pdf page 10 ===
+ 
+ 8
+rule were largest.3  For example, within Europe the deviations from the Taylor rule vary in size 
+because inflation and output data vary from country to country.  The country with the largest 
+deviation from the rule was Spain, and it had the biggest housing boom, measured by the change 
+in housing investment as a share of GDP. The country with the smallest deviation was Austria; it 
+had the smallest change in housing investment as a share of GDP.  The very close correlation is 
+shown in Figure 4 which plots the sum of deviations from the policy rule on the horizontal axis 
+and the change in housing investment as a share of GDP on the vertical axis. 
+  
+ 
+Figure 4. Housing Investment Versus Deviations From the  
+Taylor Rule in Europe (Source: See footnote 3.)   
+ 
+An important question, with implications for reform of the international financial system, is 
+whether these low interest rates at other central banks were influenced by the decisions in the 
+                                                 
+3 R. Ahrend, B. Cournède and R. Price provide a fascinating analysis of the experiences in OECD countries during 
+this period in their paper "Monetary Policy, Market Excesses and Financial Turmoil", OECD Economics 
+Department Working Papers, No. 597, March 2008. They show that the deviations from the Taylor rule explain a 
+large fraction of the cross-country variation in housing booms in OECD countries.   
+ 

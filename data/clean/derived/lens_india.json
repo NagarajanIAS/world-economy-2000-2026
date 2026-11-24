@@ -1,0 +1,610 @@
+{
+ "g_2000": {
+  "value": 3.8,
+  "how": "India real GDP growth FY2000 (WEO Oct 2026)"
+ },
+ "g_2002": {
+  "value": 3.8,
+  "how": "India real GDP growth FY2002 (WEO Oct 2026)"
+ },
+ "g_2003": {
+  "value": 7.9,
+  "how": "India real GDP growth FY2003 (WEO Oct 2026)"
+ },
+ "g_2007": {
+  "value": 7.7,
+  "how": "India real GDP growth FY2007 (WEO Oct 2026)"
+ },
+ "g_2008": {
+  "value": 3.1,
+  "how": "India real GDP growth FY2008 (WEO Oct 2026)"
+ },
+ "g_2009": {
+  "value": 7.9,
+  "how": "India real GDP growth FY2009 (WEO Oct 2026)"
+ },
+ "g_2010": {
+  "value": 8.5,
+  "how": "India real GDP growth FY2010 (WEO Oct 2026)"
+ },
+ "g_2011": {
+  "value": 5.2,
+  "how": "India real GDP growth FY2011 (WEO Oct 2026)"
+ },
+ "g_2012": {
+  "value": 5.5,
+  "how": "India real GDP growth FY2012 (WEO Oct 2026)"
+ },
+ "g_2013": {
+  "value": 6.4,
+  "how": "India real GDP growth FY2013 (WEO Oct 2026)"
+ },
+ "g_2016": {
+  "value": 8.3,
+  "how": "India real GDP growth FY2016 (WEO Oct 2026)"
+ },
+ "g_2019": {
+  "value": 3.9,
+  "how": "India real GDP growth FY2019 (WEO Oct 2026)"
+ },
+ "g_2020": {
+  "value": -5.8,
+  "how": "India real GDP growth FY2020 (WEO Oct 2026)"
+ },
+ "g_2021": {
+  "value": 9.7,
+  "how": "India real GDP growth FY2021 (WEO Oct 2026)"
+ },
+ "g_2022": {
+  "value": 7.6,
+  "how": "India real GDP growth FY2022 (WEO Oct 2026)"
+ },
+ "g_2023": {
+  "value": 7.3,
+  "how": "India real GDP growth FY2023 (WEO Oct 2026)"
+ },
+ "g_2024": {
+  "value": 7.2,
+  "how": "India real GDP growth FY2024 (WEO Oct 2026)"
+ },
+ "g_2025": {
+  "value": 7.8,
+  "how": "India real GDP growth FY2025 (WEO Oct 2026)"
+ },
+ "g_2026": {
+  "value": 7.0,
+  "how": "India real GDP growth FY2026 (WEO Oct 2026, projection)"
+ },
+ "g_2031": {
+  "value": 6.8,
+  "how": "India real GDP growth FY2031 (WEO Oct 2026, projection)"
+ },
+ "g_avg_0025": {
+  "value": 6.3,
+  "how": "India growth, average FY2000-FY2025"
+ },
+ "g_avg_0002": {
+  "value": 4.2,
+  "how": "India growth, average FY2000-FY2002"
+ },
+ "g_avg_0307": {
+  "value": 7.9,
+  "how": "India growth, average FY2003-FY2007"
+ },
+ "g_avg_0810": {
+  "value": 6.5,
+  "how": "India growth, average FY2008-FY2010"
+ },
+ "g_avg_1113": {
+  "value": 5.7,
+  "how": "India growth, average FY2011-FY2013"
+ },
+ "g_avg_1419": {
+  "value": 6.8,
+  "how": "India growth, average FY2014-FY2019"
+ },
+ "g_avg_2225": {
+  "value": 7.5,
+  "how": "India growth, average FY2022-FY2025"
+ },
+ "g_avg_2731": {
+  "value": 6.9,
+  "how": "India growth, average FY2027-FY2031"
+ },
+ "g_cn_avg_0025": {
+  "value": 8.1,
+  "how": "China growth, average 2000-2025"
+ },
+ "g_wd_avg_0025": {
+  "value": 3.5,
+  "how": "world growth, average 2000-2025"
+ },
+ "g_cn_avg_1425": {
+  "value": 5.9,
+  "how": "China growth, average 2014-2025"
+ },
+ "g_wd_avg_1425": {
+  "value": 3.2,
+  "how": "world growth, average 2014-2025"
+ },
+ "g_cn_avg_2225": {
+  "value": 4.6,
+  "how": "China growth, average 2022-2025"
+ },
+ "g_wd_avg_2225": {
+  "value": 3.5,
+  "how": "world growth, average 2022-2025"
+ },
+ "cpi_2009": {
+  "value": 10.6,
+  "how": "India CPI inflation FY2009 (WEO)"
+ },
+ "cpi_2010": {
+  "value": 9.4,
+  "how": "India CPI inflation FY2010 (WEO)"
+ },
+ "cpi_2013": {
+  "value": 9.8,
+  "how": "India CPI inflation FY2013 (WEO)"
+ },
+ "cpi_2017": {
+  "value": 3.6,
+  "how": "India CPI inflation FY2017 (WEO)"
+ },
+ "cpi_2019": {
+  "value": 4.8,
+  "how": "India CPI inflation FY2019 (WEO)"
+ },
+ "cpi_2022": {
+  "value": 6.6,
+  "how": "India CPI inflation FY2022 (WEO)"
+ },
+ "cpi_2024": {
+  "value": 4.6,
+  "how": "India CPI inflation FY2024 (WEO)"
+ },
+ "cpi_2025": {
+  "value": 2.0,
+  "how": "India CPI inflation FY2025 (WEO)"
+ },
+ "cpi_2026": {
+  "value": 5.0,
+  "how": "India CPI inflation FY2026 (WEO, projection)"
+ },
+ "cpi_avg_0007": {
+  "value": 4.7,
+  "how": "India inflation, average FY2000-FY2007"
+ },
+ "cpi_avg_0813": {
+  "value": 9.5,
+  "how": "India inflation, average FY2008-FY2013"
+ },
+ "cpi_avg_1619": {
+  "value": 4.1,
+  "how": "India inflation, average FY2016-FY2019"
+ },
+ "cpi_avg_2225": {
+  "value": 4.7,
+  "how": "India inflation, average FY2022-FY2025"
+ },
+ "cpi_pk_0813": {
+  "value": 10.6,
+  "how": "India inflation, peak FY2008-13 (FY2009)"
+ },
+ "cpi_pk_0813_y": {
+  "value": 2009,
+  "how": "year"
+ },
+ "sav_pk": {
+  "value": 37.8,
+  "how": "India gross domestic saving, % of GDP, peak (FY2007)"
+ },
+ "sav_pk_y": {
+  "value": 2007,
+  "how": "year"
+ },
+ "sav_2000": {
+  "value": 24.8,
+  "how": "India gross domestic saving, % of GDP, FY2000"
+ },
+ "sav_last": {
+  "value": 30.7,
+  "how": "India gross domestic saving, % of GDP, FY2023"
+ },
+ "sav_last_y": {
+  "value": 2023,
+  "how": "year"
+ },
+ "inv_pk": {
+  "value": 42.0,
+  "how": "India gross capital formation, % of GDP, peak (FY2007)"
+ },
+ "inv_pk_y": {
+  "value": 2007,
+  "how": "year"
+ },
+ "inv_2000": {
+  "value": 25.7,
+  "how": "India gross capital formation, % of GDP, FY2000"
+ },
+ "inv_last": {
+  "value": 33.4,
+  "how": "India gross capital formation, % of GDP, FY2023"
+ },
+ "inv_last_y": {
+  "value": 2023,
+  "how": "year"
+ },
+ "ca_lo": {
+  "value": -4.8,
+  "how": "India current account, % of GDP, lowest (FY2012)"
+ },
+ "ca_lo_y": {
+  "value": 2012,
+  "how": "year"
+ },
+ "ca_2003": {
+  "value": 2.3,
+  "how": "India current account, % of GDP, FY2003"
+ },
+ "ca_2025": {
+  "value": -0.6,
+  "how": "India current account, % of GDP, FY2025"
+ },
+ "res_2000": {
+  "value": 42.0,
+  "how": "India foreign exchange reserves, US$ bn, end-March of FY2000"
+ },
+ "res_2007": {
+  "value": 310.0,
+  "how": "India foreign exchange reserves, US$ bn, end-March of FY2007"
+ },
+ "res_2013": {
+  "value": 304.0,
+  "how": "India foreign exchange reserves, US$ bn, end-March of FY2013"
+ },
+ "res_2025": {
+  "value": 691.0,
+  "how": "India foreign exchange reserves, US$ bn, end-March of FY2025"
+ },
+ "cover_2025": {
+  "value": 10.6,
+  "how": "India import cover of reserves, months, FY2025"
+ },
+ "inr_2000": {
+  "value": 45.68,
+  "how": "rupees per US dollar, FY2000 average"
+ },
+ "inr_2007": {
+  "value": 40.26,
+  "how": "rupees per US dollar, FY2007 average"
+ },
+ "inr_2013": {
+  "value": 60.5,
+  "how": "rupees per US dollar, FY2013 average"
+ },
+ "inr_2025": {
+  "value": 88.31,
+  "how": "rupees per US dollar, FY2025 average"
+ },
+ "inr_m_last": {
+  "value": 95.52,
+  "how": "rupees per US dollar, October 2026 average (FRED)"
+ },
+ "repo_2008": {
+  "value": 5.0,
+  "how": "RBI repo rate at end of FY2008"
+ },
+ "repo_2013": {
+  "value": 8.0,
+  "how": "RBI repo rate at end of FY2013"
+ },
+ "repo_2019": {
+  "value": 4.4,
+  "how": "RBI repo rate at end of FY2019"
+ },
+ "repo_2020": {
+  "value": 4.0,
+  "how": "RBI repo rate at end of FY2020"
+ },
+ "repo_2022": {
+  "value": 6.5,
+  "how": "RBI repo rate at end of FY2022"
+ },
+ "repo_2025": {
+  "value": 5.25,
+  "how": "RBI repo rate at end of FY2025"
+ },
+ "cpic_avg_1215": {
+  "value": 7.5,
+  "how": "India CPI (combined) inflation, average FY2012-15"
+ },
+ "cpic_avg_1619": {
+  "value": 4.1,
+  "how": "India CPI (combined) inflation, average FY2016-19"
+ },
+ "cpic_2024": {
+  "value": 4.6,
+  "how": "India CPI (combined) inflation, FY2024"
+ },
+ "debt_2001": {
+  "value": 80.1,
+  "how": "India general government gross debt, % of GDP, FY2001"
+ },
+ "debt_2007": {
+  "value": 75.4,
+  "how": "India general government gross debt, % of GDP, FY2007"
+ },
+ "debt_2010": {
+  "value": 67.7,
+  "how": "India general government gross debt, % of GDP, FY2010"
+ },
+ "debt_2019": {
+  "value": 76.5,
+  "how": "India general government gross debt, % of GDP, FY2019"
+ },
+ "debt_2020": {
+  "value": 90.4,
+  "how": "India general government gross debt, % of GDP, FY2020"
+ },
+ "debt_2025": {
+  "value": 84.3,
+  "how": "India general government gross debt, % of GDP, FY2025"
+ },
+ "debt_2031": {
+  "value": 75.1,
+  "how": "India general government gross debt, % of GDP, FY2031"
+ },
+ "bal_2001": {
+  "value": -11.0,
+  "how": "India general government net lending, % of GDP, FY2001"
+ },
+ "bal_2007": {
+  "value": -3.7,
+  "how": "India general government net lending, % of GDP, FY2007"
+ },
+ "bal_2008": {
+  "value": -8.1,
+  "how": "India general government net lending, % of GDP, FY2008"
+ },
+ "bal_2019": {
+  "value": -7.8,
+  "how": "India general government net lending, % of GDP, FY2019"
+ },
+ "bal_2020": {
+  "value": -13.2,
+  "how": "India general government net lending, % of GDP, FY2020"
+ },
+ "bal_2025": {
+  "value": -7.4,
+  "how": "India general government net lending, % of GDP, FY2025"
+ },
+ "bal_2031": {
+  "value": -6.7,
+  "how": "India general government net lending, % of GDP, FY2031"
+ },
+ "debt_pk": {
+  "value": 90.4,
+  "how": "India gross debt peak (FY2020)"
+ },
+ "debt_pk_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "exgdp_pk": {
+  "value": 25.4,
+  "how": "India exports of goods and services, % of GDP, peak (FY2013)"
+ },
+ "exgdp_pk_y": {
+  "value": 2013,
+  "how": "year"
+ },
+ "exgdp_2000": {
+  "value": 13.0,
+  "how": "India exports of goods and services, % of GDP, FY2000"
+ },
+ "exgdp_2025": {
+  "value": 21.5,
+  "how": "same, FY2025"
+ },
+ "svc_2025": {
+  "value": 421.0,
+  "how": "India gross services exports, US$ bn, FY2025"
+ },
+ "svc_2006": {
+  "value": 74.0,
+  "how": "same, FY2006"
+ },
+ "soft_2025": {
+  "value": 180.0,
+  "how": "India net software services exports, US$ bn, FY2025"
+ },
+ "credit_2001": {
+  "value": 25.5,
+  "how": "scheduled commercial bank credit, % of GDP, FY2001"
+ },
+ "credit_2025": {
+  "value": 61.7,
+  "how": "same, FY2025"
+ },
+ "credit_pk_0520": {
+  "value": 55.1,
+  "how": "bank credit, % of GDP, peak FY2005-20 (FY2020)"
+ },
+ "credit_pk_0520_y": {
+  "value": 2020,
+  "how": "year"
+ },
+ "pov_2004": {
+  "value": 46.4,
+  "how": "India population below $3.00 a day (2021 PPP), %, 2004 (WDI)"
+ },
+ "pov_2011": {
+  "value": 27.1,
+  "how": "India population below $3.00 a day (2021 PPP), %, 2011 (WDI)"
+ },
+ "pov_2022": {
+  "value": 5.3,
+  "how": "India population below $3.00 a day (2021 PPP), %, 2022 (WDI)"
+ },
+ "pov_2023": {
+  "value": 2.6,
+  "how": "India population below $3.00 a day (2021 PPP), %, 2023 (WDI)"
+ },
+ "pc_2000": {
+  "value": 3010.0,
+  "how": "India GDP per person, PPP constant 2021 $, 2000 (WDI)"
+ },
+ "pc_wld_pct_2000": {
+  "value": 24.0,
+  "how": "India GDP per person as % of world average, 2000"
+ },
+ "pc_chn_pct_2000": {
+  "value": 74.0,
+  "how": "India GDP per person as % of China's, 2000"
+ },
+ "pc_2025": {
+  "value": 10039.0,
+  "how": "India GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pc_wld_pct_2025": {
+  "value": 46.0,
+  "how": "India GDP per person as % of world average, 2025"
+ },
+ "pc_chn_pct_2025": {
+  "value": 40.0,
+  "how": "India GDP per person as % of China's, 2025"
+ },
+ "pc_x_0025": {
+  "value": 3.3,
+  "how": "India GDP per person (PPP), 2025 as a multiple of 2000"
+ },
+ "ppp_in_2000": {
+  "value": 3.9,
+  "how": "IND share of world GDP at PPP, %, 2000 (WEO)"
+ },
+ "ppp_in_2025": {
+  "value": 8.2,
+  "how": "IND share of world GDP at PPP, %, 2025 (WEO)"
+ },
+ "ppp_in_2031": {
+  "value": 10.2,
+  "how": "IND share of world GDP at PPP, %, 2031 (WEO)"
+ },
+ "ppp_cn_2000": {
+  "value": 6.7,
+  "how": "CHN share of world GDP at PPP, %, 2000 (WEO)"
+ },
+ "ppp_cn_2025": {
+  "value": 19.6,
+  "how": "CHN share of world GDP at PPP, %, 2025 (WEO)"
+ },
+ "ppp_cn_2031": {
+  "value": 20.3,
+  "how": "CHN share of world GDP at PPP, %, 2031 (WEO)"
+ },
+ "ppp_us_2000": {
+  "value": 20.4,
+  "how": "USA share of world GDP at PPP, %, 2000 (WEO)"
+ },
+ "ppp_us_2025": {
+  "value": 14.6,
+  "how": "USA share of world GDP at PPP, %, 2025 (WEO)"
+ },
+ "ppp_us_2031": {
+  "value": 13.7,
+  "how": "USA share of world GDP at PPP, %, 2031 (WEO)"
+ },
+ "ppp_jp_2000": {
+  "value": 6.8,
+  "how": "JPN share of world GDP at PPP, %, 2000 (WEO)"
+ },
+ "ppp_jp_2025": {
+  "value": 3.3,
+  "how": "JPN share of world GDP at PPP, %, 2025 (WEO)"
+ },
+ "ppp_jp_2031": {
+  "value": 2.9,
+  "how": "JPN share of world GDP at PPP, %, 2031 (WEO)"
+ },
+ "rank_2000": {
+  "value": 13,
+  "how": "India's rank by GDP at market exchange rates, 2000 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2010": {
+  "value": 9,
+  "how": "India's rank by GDP at market exchange rates, 2010 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2019": {
+  "value": 6,
+  "how": "India's rank by GDP at market exchange rates, 2019 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2022": {
+  "value": 5,
+  "how": "India's rank by GDP at market exchange rates, 2022 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2024": {
+  "value": 5,
+  "how": "India's rank by GDP at market exchange rates, 2024 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2025": {
+  "value": 6,
+  "how": "India's rank by GDP at market exchange rates, 2025 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2026": {
+  "value": 6,
+  "how": "India's rank by GDP at market exchange rates, 2026 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2027": {
+  "value": 4,
+  "how": "India's rank by GDP at market exchange rates, 2027 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2028": {
+  "value": 4,
+  "how": "India's rank by GDP at market exchange rates, 2028 (WEO Oct 2026; fiscal year)"
+ },
+ "rank_2031": {
+  "value": 3,
+  "how": "India's rank by GDP at market exchange rates, 2031 (WEO Oct 2026; fiscal year)"
+ },
+ "gdpd_2000": {
+  "value": 0.47,
+  "how": "India GDP, US$ trillion, FY2000"
+ },
+ "gdpd_2025": {
+  "value": 3.91,
+  "how": "India GDP, US$ trillion, FY2025"
+ },
+ "gdpd_2031": {
+  "value": 6.74,
+  "how": "India GDP, US$ trillion, FY2031 (projection)"
+ },
+ "svcsh_2000": {
+  "value": 0.98,
+  "how": "India share of world services exports, %, 2000 (WDI BX.GSR.NFSV.CD)"
+ },
+ "svcsh_2010": {
+  "value": 2.89,
+  "how": "India share of world services exports, %, 2010 (WDI BX.GSR.NFSV.CD)"
+ },
+ "svcsh_2025": {
+  "value": 4.31,
+  "how": "India share of world services exports, %, 2025 (WDI BX.GSR.NFSV.CD)"
+ },
+ "svcsh_cn_2025": {
+  "value": 4.02,
+  "how": "China share of world services exports, %, 2025 (WDI)"
+ },
+ "svcsh_pass_y": {
+  "value": 2023,
+  "how": "first year from which India's share of world services exports stays above China's (WDI)"
+ },
+ "gxsh_2000": {
+  "value": 0.65,
+  "how": "India share of world merchandise exports, %, 2000 (WDI)"
+ },
+ "gxsh_2025": {
+  "value": 1.69,
+  "how": "India share of world merchandise exports, %, 2025 (WDI)"
+ }
+}

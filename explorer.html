@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Compare countries · The World Economy 2000–2026</title>
+<meta name="description" content="Compare up to eight economies on any of the book's IMF and World Bank indicators: growth, inflation, debt, trade, population, poverty, technology and energy.">
+<link rel="stylesheet" href="assets/css/book.css">
+<link rel="stylesheet" href="assets/css/print.css">
+</head>
+<body data-root="." data-page="explorer.html">
+<div class="layout">
+<nav id="sidebar" class="sidebar"></nav>
+<main id="main">
+<article class="prose">
+<p class="kicker">Tools</p>
+<h1>Compare countries</h1>
+<p class="dek">Choose an indicator, then add or remove economies. The chart uses the same data as the chapters.</p>
+
+<div class="explorer-bar" role="group" aria-label="Choose what to compare">
+<label for="ex-ind">Indicator</label>
+<select id="ex-ind"></select>
+<button type="button" class="btn" id="ex-lenses" title="The United States, China, the euro area, Japan, India and Sub-Saharan Africa">The book's lenses</button>
+<a class="btn" id="ex-map" href="map.html">Show on the world map</a>
+</div>
+<p class="explorer-desc" id="ex-desc" aria-live="polite"></p>
+
+<figure id="ex-chart" class="chart wide"></figure>
+
+<h2 id="how">How to use it</h2>
+<ul>
+<li><strong>Economies.</strong> Use <em>Add</em> to bring in up to eight economies or groups, and × to remove one. Each economy keeps the colour it has elsewhere in the book.</li>
+<li><strong>Years.</strong> The <em>From</em> and <em>to</em> boxes set the range; you can also drag the slider under the chart. The chart opens at 1990 or the first year of data, whichever is later.</li>
+<li><strong>Numbers.</strong> <em>Data table</em> shows the values behind the lines and <em>CSV</em> saves them, with the source line.</li>
+<li><strong>Bookmarks.</strong> The page address records the indicator and the economies, so a view can be saved or shared.</li>
+</ul>
+
+<h2 id="data">The data</h2>
+<p>There are <span id="ex-count">47</span> indicators. Those marked IMF come from the World Economic Outlook database, October 2026; those marked World Bank come from the World Development Indicators, retrieved in November 2026. Each indicator's name here is shortened; the source's own label is printed above the chart. Groups follow each source's own definitions: the IMF's Sub-Saharan Africa, for example, has 45 economies and the World Bank's has 48. When you switch between an IMF and a World Bank indicator, the page swaps the world, euro area and Sub-Saharan Africa groups for the other source's. The <a href="sources.html">sources page</a> lists every series with its retrieval date.</p>
+<p>Two cautions. IMF figures for 2026 onward, and for some economies 2025, are estimates or projections; the chart shades them. And World Bank series stop at different years for different countries, so the latest point on a line is not always the same year.</p>
+</article>
+</main>
+</div>
+<script src="assets/vendor/echarts.min.js"></script>
+<script src="assets/js/palette.js"></script>
+<script src="assets/js/book-data.js"></script>
+<script src="assets/js/glossary-data.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/book.js"></script>
+<script src="assets/js/explorer.js"></script>
+</body>
+</html>

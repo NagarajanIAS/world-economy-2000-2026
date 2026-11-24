@@ -1,0 +1,2221 @@
+{
+ "ix_USA_pk07": {
+  "value": 151.0,
+  "how": "share prices USA, 2006-08 peak month (2007-10), Jan 2000 = 100"
+ },
+ "ix_USA_pk07_m": {
+  "value": "2007-10",
+  "how": ""
+ },
+ "ix_USA_tr09": {
+  "value": 71.0,
+  "how": "share prices USA, 2008-09 trough month (2009-03), Jan 2000 = 100"
+ },
+ "ix_USA_tr09_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "ix_USA_fall": {
+  "value": -53.0,
+  "how": "share prices USA, % change peak 2007-10 to trough 2009-03 (monthly averages)"
+ },
+ "ix_USA_2002": {
+  "value": 76.0,
+  "how": "share prices USA, 2002-12, Jan 2000 = 100"
+ },
+ "ix_USA_2007": {
+  "value": 146.0,
+  "how": "share prices USA, 2007-12, Jan 2000 = 100"
+ },
+ "ix_USA_2019": {
+  "value": 204.0,
+  "how": "share prices USA, 2019-12, Jan 2000 = 100"
+ },
+ "ix_USA_2020m3": {
+  "value": 160.0,
+  "how": "share prices USA, 2020-03, Jan 2000 = 100"
+ },
+ "ix_USA_2021": {
+  "value": 250.0,
+  "how": "share prices USA, 2021-12, Jan 2000 = 100"
+ },
+ "ix_USA_2024": {
+  "value": 292.0,
+  "how": "share prices USA, 2024-12, Jan 2000 = 100"
+ },
+ "ix_USA_2025": {
+  "value": 327.0,
+  "how": "share prices USA, 2025-12, Jan 2000 = 100"
+ },
+ "ix_USA_2026": {
+  "value": 358.0,
+  "how": "share prices USA, 2026-10, Jan 2000 = 100"
+ },
+ "ix_USA_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_JPN_pk07": {
+  "value": 107.0,
+  "how": "share prices JPN, 2006-08 peak month (2007-06), Jan 2000 = 100"
+ },
+ "ix_JPN_pk07_m": {
+  "value": "2007-06",
+  "how": ""
+ },
+ "ix_JPN_tr09": {
+  "value": 46.0,
+  "how": "share prices JPN, 2008-09 trough month (2009-03), Jan 2000 = 100"
+ },
+ "ix_JPN_tr09_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "ix_JPN_fall": {
+  "value": -57.0,
+  "how": "share prices JPN, % change peak 2007-06 to trough 2009-03 (monthly averages)"
+ },
+ "ix_JPN_2002": {
+  "value": 51.0,
+  "how": "share prices JPN, 2002-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2007": {
+  "value": 91.0,
+  "how": "share prices JPN, 2007-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2019": {
+  "value": 104.0,
+  "how": "share prices JPN, 2019-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2020m3": {
+  "value": 83.0,
+  "how": "share prices JPN, 2020-03, Jan 2000 = 100"
+ },
+ "ix_JPN_2021": {
+  "value": 119.0,
+  "how": "share prices JPN, 2021-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2024": {
+  "value": 165.0,
+  "how": "share prices JPN, 2024-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2025": {
+  "value": 204.0,
+  "how": "share prices JPN, 2025-12, Jan 2000 = 100"
+ },
+ "ix_JPN_2026": {
+  "value": 245.0,
+  "how": "share prices JPN, 2026-10, Jan 2000 = 100"
+ },
+ "ix_JPN_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_DEU_pk07": {
+  "value": 107.0,
+  "how": "share prices DEU, 2006-08 peak month (2007-10), Jan 2000 = 100"
+ },
+ "ix_DEU_pk07_m": {
+  "value": "2007-10",
+  "how": ""
+ },
+ "ix_DEU_tr09": {
+  "value": 49.0,
+  "how": "share prices DEU, 2008-09 trough month (2009-03), Jan 2000 = 100"
+ },
+ "ix_DEU_tr09_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "ix_DEU_fall": {
+  "value": -54.0,
+  "how": "share prices DEU, % change peak 2007-10 to trough 2009-03 (monthly averages)"
+ },
+ "ix_DEU_2002": {
+  "value": 45.0,
+  "how": "share prices DEU, 2002-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2007": {
+  "value": 106.0,
+  "how": "share prices DEU, 2007-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2019": {
+  "value": 128.0,
+  "how": "share prices DEU, 2019-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2020m3": {
+  "value": 97.0,
+  "how": "share prices DEU, 2020-03, Jan 2000 = 100"
+ },
+ "ix_DEU_2021": {
+  "value": 144.0,
+  "how": "share prices DEU, 2021-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2024": {
+  "value": 154.0,
+  "how": "share prices DEU, 2024-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2025": {
+  "value": 179.0,
+  "how": "share prices DEU, 2025-12, Jan 2000 = 100"
+ },
+ "ix_DEU_2026": {
+  "value": 183.0,
+  "how": "share prices DEU, 2026-10, Jan 2000 = 100"
+ },
+ "ix_DEU_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_GBR_pk07": {
+  "value": 102.0,
+  "how": "share prices GBR, 2006-08 peak month (2007-10), Jan 2000 = 100"
+ },
+ "ix_GBR_pk07_m": {
+  "value": "2007-10",
+  "how": ""
+ },
+ "ix_GBR_tr09": {
+  "value": 58.0,
+  "how": "share prices GBR, 2008-09 trough month (2009-03), Jan 2000 = 100"
+ },
+ "ix_GBR_tr09_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "ix_GBR_fall": {
+  "value": -43.0,
+  "how": "share prices GBR, % change peak 2007-10 to trough 2009-03 (monthly averages)"
+ },
+ "ix_GBR_2002": {
+  "value": 61.0,
+  "how": "share prices GBR, 2002-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2007": {
+  "value": 99.0,
+  "how": "share prices GBR, 2007-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2019": {
+  "value": 114.0,
+  "how": "share prices GBR, 2019-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2020m3": {
+  "value": 88.0,
+  "how": "share prices GBR, 2020-03, Jan 2000 = 100"
+ },
+ "ix_GBR_2021": {
+  "value": 112.0,
+  "how": "share prices GBR, 2021-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2024": {
+  "value": 127.0,
+  "how": "share prices GBR, 2024-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2025": {
+  "value": 151.0,
+  "how": "share prices GBR, 2025-12, Jan 2000 = 100"
+ },
+ "ix_GBR_2026": {
+  "value": 164.0,
+  "how": "share prices GBR, 2026-10, Jan 2000 = 100"
+ },
+ "ix_GBR_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_CHN_pk07": {
+  "value": 394.0,
+  "how": "share prices CHN, 2006-08 peak month (2007-10), Jan 2000 = 100"
+ },
+ "ix_CHN_pk07_m": {
+  "value": "2007-10",
+  "how": ""
+ },
+ "ix_CHN_tr09": {
+  "value": 128.0,
+  "how": "share prices CHN, 2008-09 trough month (2008-11), Jan 2000 = 100"
+ },
+ "ix_CHN_tr09_m": {
+  "value": "2008-11",
+  "how": ""
+ },
+ "ix_CHN_fall": {
+  "value": -67.0,
+  "how": "share prices CHN, % change peak 2007-10 to trough 2008-11 (monthly averages)"
+ },
+ "ix_CHN_2002": {
+  "value": 96.0,
+  "how": "share prices CHN, 2002-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2007": {
+  "value": 347.0,
+  "how": "share prices CHN, 2007-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2019": {
+  "value": 203.0,
+  "how": "share prices CHN, 2019-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2020m3": {
+  "value": 195.0,
+  "how": "share prices CHN, 2020-03, Jan 2000 = 100"
+ },
+ "ix_CHN_2021": {
+  "value": 248.0,
+  "how": "share prices CHN, 2021-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2024": {
+  "value": 232.0,
+  "how": "share prices CHN, 2024-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2025": {
+  "value": 267.0,
+  "how": "share prices CHN, 2025-12, Jan 2000 = 100"
+ },
+ "ix_CHN_2026": {
+  "value": 256.0,
+  "how": "share prices CHN, 2026-10, Jan 2000 = 100"
+ },
+ "ix_CHN_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_BRA_pk07": {
+  "value": 420.0,
+  "how": "share prices BRA, 2006-08 peak month (2008-05), Jan 2000 = 100"
+ },
+ "ix_BRA_pk07_m": {
+  "value": "2008-05",
+  "how": ""
+ },
+ "ix_BRA_tr09": {
+  "value": 211.0,
+  "how": "share prices BRA, 2008-09 trough month (2008-11), Jan 2000 = 100"
+ },
+ "ix_BRA_tr09_m": {
+  "value": "2008-11",
+  "how": ""
+ },
+ "ix_BRA_fall": {
+  "value": -50.0,
+  "how": "share prices BRA, % change peak 2008-05 to trough 2008-11 (monthly averages)"
+ },
+ "ix_BRA_2002": {
+  "value": 64.0,
+  "how": "share prices BRA, 2002-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2007": {
+  "value": 375.0,
+  "how": "share prices BRA, 2007-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2019": {
+  "value": 668.0,
+  "how": "share prices BRA, 2019-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2020m3": {
+  "value": 482.0,
+  "how": "share prices BRA, 2020-03, Jan 2000 = 100"
+ },
+ "ix_BRA_2021": {
+  "value": 625.0,
+  "how": "share prices BRA, 2021-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2024": {
+  "value": 731.0,
+  "how": "share prices BRA, 2024-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2025": {
+  "value": 944.0,
+  "how": "share prices BRA, 2025-12, Jan 2000 = 100"
+ },
+ "ix_BRA_2026": {
+  "value": 1164.0,
+  "how": "share prices BRA, 2026-10, Jan 2000 = 100"
+ },
+ "ix_BRA_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_KOR_pk07": {
+  "value": 210.0,
+  "how": "share prices KOR, 2006-08 peak month (2007-10), Jan 2000 = 100"
+ },
+ "ix_KOR_pk07_m": {
+  "value": "2007-10",
+  "how": ""
+ },
+ "ix_KOR_tr09": {
+  "value": 112.0,
+  "how": "share prices KOR, 2008-09 trough month (2008-11), Jan 2000 = 100"
+ },
+ "ix_KOR_tr09_m": {
+  "value": "2008-11",
+  "how": ""
+ },
+ "ix_KOR_fall": {
+  "value": -46.0,
+  "how": "share prices KOR, % change peak 2007-10 to trough 2008-11 (monthly averages)"
+ },
+ "ix_KOR_2002": {
+  "value": 73.0,
+  "how": "share prices KOR, 2002-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2007": {
+  "value": 199.0,
+  "how": "share prices KOR, 2007-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2019": {
+  "value": 225.0,
+  "how": "share prices KOR, 2019-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2020m3": {
+  "value": 187.0,
+  "how": "share prices KOR, 2020-03, Jan 2000 = 100"
+ },
+ "ix_KOR_2021": {
+  "value": 313.0,
+  "how": "share prices KOR, 2021-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2024": {
+  "value": 255.0,
+  "how": "share prices KOR, 2024-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2025": {
+  "value": 428.0,
+  "how": "share prices KOR, 2025-12, Jan 2000 = 100"
+ },
+ "ix_KOR_2026": {
+  "value": 640.0,
+  "how": "share prices KOR, 2026-10, Jan 2000 = 100"
+ },
+ "ix_KOR_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "ix_IND_pk07": {
+  "value": 366.0,
+  "how": "share prices IND, 2006-08 peak month (2007-12), Jan 2000 = 100"
+ },
+ "ix_IND_pk07_m": {
+  "value": "2007-12",
+  "how": ""
+ },
+ "ix_IND_tr09": {
+  "value": 165.0,
+  "how": "share prices IND, 2008-09 trough month (2009-03), Jan 2000 = 100"
+ },
+ "ix_IND_tr09_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "ix_IND_fall": {
+  "value": -55.0,
+  "how": "share prices IND, % change peak 2007-12 to trough 2009-03 (monthly averages)"
+ },
+ "ix_IND_2002": {
+  "value": 61.0,
+  "how": "share prices IND, 2002-12, Jan 2000 = 100"
+ },
+ "ix_IND_2007": {
+  "value": 366.0,
+  "how": "share prices IND, 2007-12, Jan 2000 = 100"
+ },
+ "ix_IND_2019": {
+  "value": 760.0,
+  "how": "share prices IND, 2019-12, Jan 2000 = 100"
+ },
+ "ix_IND_2020m3": {
+  "value": 600.0,
+  "how": "share prices IND, 2020-03, Jan 2000 = 100"
+ },
+ "ix_IND_2021": {
+  "value": 1067.0,
+  "how": "share prices IND, 2021-12, Jan 2000 = 100"
+ },
+ "ix_IND_2024": {
+  "value": 1482.0,
+  "how": "share prices IND, 2024-12, Jan 2000 = 100"
+ },
+ "ix_IND_2025": {
+  "value": 1574.0,
+  "how": "share prices IND, 2025-12, Jan 2000 = 100"
+ },
+ "ix_IND_2026": {
+  "value": 1354.0,
+  "how": "share prices IND, 2026-10, Jan 2000 = 100"
+ },
+ "ix_IND_last": {
+  "value": "2026-10",
+  "how": "last month of data"
+ },
+ "inr_2000_01": {
+  "value": 43.59,
+  "how": "rupees per US dollar, Jan 2000 (monthly average)"
+ },
+ "inr_2026_10": {
+  "value": 95.52,
+  "how": "rupees per US dollar, Oct 2026 (monthly average)"
+ },
+ "ixusd_IND_2026": {
+  "value": 618.0,
+  "how": "Indian share prices in US dollars, Oct 2026, Jan 2000 = 100"
+ },
+ "ixusd_IND_2007": {
+  "value": 405.0,
+  "how": "Indian share prices in US dollars, Dec 2007, Jan 2000 = 100"
+ },
+ "nas_2000_03": {
+  "value": 4803.0,
+  "how": "Nasdaq Composite, Mar 2000 monthly average"
+ },
+ "nas_lo": {
+  "value": 1242.0,
+  "how": "Nasdaq low monthly average (2002-10)"
+ },
+ "nas_lo_m": {
+  "value": "2002-10",
+  "how": ""
+ },
+ "nas_fall": {
+  "value": -74.0,
+  "how": "Nasdaq % change Mar 2000 to low"
+ },
+ "nas_back_m": {
+  "value": "2015-02",
+  "how": "first month Nasdaq monthly average above Mar 2000"
+ },
+ "cape_1999": {
+  "value": 44.2,
+  "how": "CAPE high in 1999-01..2000-12 (1999-12)"
+ },
+ "cape_1999_m": {
+  "value": "1999-12",
+  "how": ""
+ },
+ "cape_2009": {
+  "value": 13.3,
+  "how": "CAPE low in 2008-06..2009-12 (2009-03)"
+ },
+ "cape_2009_m": {
+  "value": "2009-03",
+  "how": ""
+ },
+ "cape_2021": {
+  "value": 38.6,
+  "how": "CAPE high in 2021-01..2022-06 (2021-11)"
+ },
+ "cape_2021_m": {
+  "value": "2021-11",
+  "how": ""
+ },
+ "cape_2026": {
+  "value": 41.1,
+  "how": "CAPE high in 2025-01..2026-12 (2026-08)"
+ },
+ "cape_2026_m": {
+  "value": "2026-08",
+  "how": ""
+ },
+ "cape_1929": {
+  "value": 32.6,
+  "how": "CAPE high 1928-29 (1929-09)"
+ },
+ "cape_mean": {
+  "value": 17.8,
+  "how": "CAPE mean, all months from 1881"
+ },
+ "cape_mean_1950": {
+  "value": 20.9,
+  "how": "CAPE mean, months from 1950"
+ },
+ "cape_last_m": {
+  "value": "2026-11",
+  "how": ""
+ },
+ "cape_last": {
+  "value": 39.4,
+  "how": "CAPE, last month"
+ },
+ "cape_n_above_now": {
+  "value": 29,
+  "how": "months since 1881 with CAPE above the latest"
+ },
+ "vix_2008_10": {
+  "value": 61.0,
+  "how": "VIX monthly average 2008-10"
+ },
+ "vix_2008_11": {
+  "value": 63.0,
+  "how": "VIX monthly average 2008-11"
+ },
+ "vix_2020_03": {
+  "value": 58.0,
+  "how": "VIX monthly average 2020-03"
+ },
+ "vix_2025_04": {
+  "value": 32.0,
+  "how": "VIX monthly average 2025-04"
+ },
+ "vix_2022_03": {
+  "value": 27.0,
+  "how": "VIX monthly average 2022-03"
+ },
+ "vix_2026_03": {
+  "value": 26.0,
+  "how": "VIX monthly average 2026-03"
+ },
+ "vix_2026_04": {
+  "value": 20.0,
+  "how": "VIX monthly average 2026-04"
+ },
+ "vix_2026_10": {
+  "value": 17.0,
+  "how": "VIX monthly average 2026-10"
+ },
+ "vix_mean": {
+  "value": 19.0,
+  "how": "VIX average of monthly averages, 1990 onwards"
+ },
+ "mc_WLD_2000": {
+  "value": 100.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2000 (WDI)"
+ },
+ "mcs_WLD_2000": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_WLD_2000": {
+  "value": 30.9,
+  "how": "market capitalisation, US$ trillion, WLD 2000 (WDI)"
+ },
+ "mc_WLD_2003": {
+  "value": 84.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2003 (WDI)"
+ },
+ "mcs_WLD_2003": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_WLD_2003": {
+  "value": 31.1,
+  "how": "market capitalisation, US$ trillion, WLD 2003 (WDI)"
+ },
+ "mc_WLD_2007": {
+  "value": 113.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2007 (WDI)"
+ },
+ "mcs_WLD_2007": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_WLD_2007": {
+  "value": 60.5,
+  "how": "market capitalisation, US$ trillion, WLD 2007 (WDI)"
+ },
+ "mc_WLD_2008": {
+  "value": 56.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2008 (WDI)"
+ },
+ "mcs_WLD_2008": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_WLD_2008": {
+  "value": 32.4,
+  "how": "market capitalisation, US$ trillion, WLD 2008 (WDI)"
+ },
+ "mc_WLD_2019": {
+  "value": 107.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2019 (WDI)"
+ },
+ "mcs_WLD_2019": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_WLD_2019": {
+  "value": 78.7,
+  "how": "market capitalisation, US$ trillion, WLD 2019 (WDI)"
+ },
+ "mc_WLD_2020": {
+  "value": 131.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2020 (WDI)"
+ },
+ "mcs_WLD_2020": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_WLD_2020": {
+  "value": 95.0,
+  "how": "market capitalisation, US$ trillion, WLD 2020 (WDI)"
+ },
+ "mc_WLD_2021": {
+  "value": 129.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2021 (WDI)"
+ },
+ "mcs_WLD_2021": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_WLD_2021": {
+  "value": 111.1,
+  "how": "market capitalisation, US$ trillion, WLD 2021 (WDI)"
+ },
+ "mc_WLD_2024": {
+  "value": 129.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, WLD 2024 (WDI)"
+ },
+ "mcs_WLD_2024": {
+  "value": 100.0,
+  "how": "WLD share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_WLD_2024": {
+  "value": 115.1,
+  "how": "market capitalisation, US$ trillion, WLD 2024 (WDI)"
+ },
+ "mc_USA_2000": {
+  "value": 147.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2000 (WDI)"
+ },
+ "mcs_USA_2000": {
+  "value": 48.9,
+  "how": "USA share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_USA_2000": {
+  "value": 15.1,
+  "how": "market capitalisation, US$ trillion, USA 2000 (WDI)"
+ },
+ "mc_USA_2003": {
+  "value": 125.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2003 (WDI)"
+ },
+ "mcs_USA_2003": {
+  "value": 45.9,
+  "how": "USA share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_USA_2003": {
+  "value": 14.3,
+  "how": "market capitalisation, US$ trillion, USA 2003 (WDI)"
+ },
+ "mc_USA_2007": {
+  "value": 138.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2007 (WDI)"
+ },
+ "mcs_USA_2007": {
+  "value": 33.0,
+  "how": "USA share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_USA_2007": {
+  "value": 19.9,
+  "how": "market capitalisation, US$ trillion, USA 2007 (WDI)"
+ },
+ "mc_USA_2008": {
+  "value": 78.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2008 (WDI)"
+ },
+ "mcs_USA_2008": {
+  "value": 35.8,
+  "how": "USA share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_USA_2008": {
+  "value": 11.6,
+  "how": "market capitalisation, US$ trillion, USA 2008 (WDI)"
+ },
+ "mc_USA_2019": {
+  "value": 158.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2019 (WDI)"
+ },
+ "mcs_USA_2019": {
+  "value": 43.3,
+  "how": "USA share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_USA_2019": {
+  "value": 34.1,
+  "how": "market capitalisation, US$ trillion, USA 2019 (WDI)"
+ },
+ "mc_USA_2020": {
+  "value": 194.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2020 (WDI)"
+ },
+ "mcs_USA_2020": {
+  "value": 43.8,
+  "how": "USA share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_USA_2020": {
+  "value": 41.6,
+  "how": "market capitalisation, US$ trillion, USA 2020 (WDI)"
+ },
+ "mc_USA_2021": {
+  "value": 205.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2021 (WDI)"
+ },
+ "mcs_USA_2021": {
+  "value": 43.7,
+  "how": "USA share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_USA_2021": {
+  "value": 48.5,
+  "how": "market capitalisation, US$ trillion, USA 2021 (WDI)"
+ },
+ "mc_USA_2024": {
+  "value": 212.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, USA 2024 (WDI)"
+ },
+ "mcs_USA_2024": {
+  "value": 54.0,
+  "how": "USA share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_USA_2024": {
+  "value": 62.2,
+  "how": "market capitalisation, US$ trillion, USA 2024 (WDI)"
+ },
+ "mc_IND_2000": {
+  "value": 48.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2000 (WDI)"
+ },
+ "mcs_IND_2000": {
+  "value": 0.7,
+  "how": "IND share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_IND_2000": {
+  "value": 0.2,
+  "how": "market capitalisation, US$ trillion, IND 2000 (WDI)"
+ },
+ "mc_IND_2003": {
+  "value": 51.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2003 (WDI)"
+ },
+ "mcs_IND_2003": {
+  "value": 1.0,
+  "how": "IND share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_IND_2003": {
+  "value": 0.3,
+  "how": "market capitalisation, US$ trillion, IND 2003 (WDI)"
+ },
+ "mc_IND_2007": {
+  "value": 161.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2007 (WDI)"
+ },
+ "mcs_IND_2007": {
+  "value": 3.2,
+  "how": "IND share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_IND_2007": {
+  "value": 2.0,
+  "how": "market capitalisation, US$ trillion, IND 2007 (WDI)"
+ },
+ "mc_IND_2008": {
+  "value": 66.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2008 (WDI)"
+ },
+ "mcs_IND_2008": {
+  "value": 2.4,
+  "how": "IND share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_IND_2008": {
+  "value": 0.8,
+  "how": "market capitalisation, US$ trillion, IND 2008 (WDI)"
+ },
+ "mc_IND_2019": {
+  "value": 76.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2019 (WDI)"
+ },
+ "mcs_IND_2019": {
+  "value": 2.7,
+  "how": "IND share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_IND_2019": {
+  "value": 2.2,
+  "how": "market capitalisation, US$ trillion, IND 2019 (WDI)"
+ },
+ "mc_IND_2020": {
+  "value": 95.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2020 (WDI)"
+ },
+ "mcs_IND_2020": {
+  "value": 2.7,
+  "how": "IND share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_IND_2020": {
+  "value": 2.6,
+  "how": "market capitalisation, US$ trillion, IND 2020 (WDI)"
+ },
+ "mc_IND_2021": {
+  "value": 112.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2021 (WDI)"
+ },
+ "mcs_IND_2021": {
+  "value": 3.2,
+  "how": "IND share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_IND_2021": {
+  "value": 3.5,
+  "how": "market capitalisation, US$ trillion, IND 2021 (WDI)"
+ },
+ "mc_IND_2024": {
+  "value": 136.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, IND 2024 (WDI)"
+ },
+ "mcs_IND_2024": {
+  "value": 4.5,
+  "how": "IND share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_IND_2024": {
+  "value": 5.1,
+  "how": "market capitalisation, US$ trillion, IND 2024 (WDI)"
+ },
+ "mc_CHN_2003": {
+  "value": 30.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2003 (WDI)"
+ },
+ "mcs_CHN_2003": {
+  "value": 1.6,
+  "how": "CHN share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_CHN_2003": {
+  "value": 0.5,
+  "how": "market capitalisation, US$ trillion, CHN 2003 (WDI)"
+ },
+ "mc_CHN_2007": {
+  "value": 124.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2007 (WDI)"
+ },
+ "mcs_CHN_2007": {
+  "value": 7.4,
+  "how": "CHN share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_CHN_2007": {
+  "value": 4.5,
+  "how": "market capitalisation, US$ trillion, CHN 2007 (WDI)"
+ },
+ "mc_CHN_2008": {
+  "value": 38.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2008 (WDI)"
+ },
+ "mcs_CHN_2008": {
+  "value": 5.5,
+  "how": "CHN share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_CHN_2008": {
+  "value": 1.8,
+  "how": "market capitalisation, US$ trillion, CHN 2008 (WDI)"
+ },
+ "mc_CHN_2019": {
+  "value": 59.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2019 (WDI)"
+ },
+ "mcs_CHN_2019": {
+  "value": 10.9,
+  "how": "CHN share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_CHN_2019": {
+  "value": 8.6,
+  "how": "market capitalisation, US$ trillion, CHN 2019 (WDI)"
+ },
+ "mc_CHN_2020": {
+  "value": 82.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2020 (WDI)"
+ },
+ "mcs_CHN_2020": {
+  "value": 12.9,
+  "how": "CHN share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_CHN_2020": {
+  "value": 12.3,
+  "how": "market capitalisation, US$ trillion, CHN 2020 (WDI)"
+ },
+ "mc_CHN_2021": {
+  "value": 79.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2021 (WDI)"
+ },
+ "mcs_CHN_2021": {
+  "value": 13.0,
+  "how": "CHN share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_CHN_2021": {
+  "value": 14.4,
+  "how": "market capitalisation, US$ trillion, CHN 2021 (WDI)"
+ },
+ "mc_CHN_2024": {
+  "value": 63.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, CHN 2024 (WDI)"
+ },
+ "mcs_CHN_2024": {
+  "value": 10.2,
+  "how": "CHN share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_CHN_2024": {
+  "value": 11.8,
+  "how": "market capitalisation, US$ trillion, CHN 2024 (WDI)"
+ },
+ "mc_JPN_2000": {
+  "value": 63.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2000 (WDI)"
+ },
+ "mcs_JPN_2000": {
+  "value": 10.2,
+  "how": "JPN share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_JPN_2000": {
+  "value": 3.2,
+  "how": "market capitalisation, US$ trillion, JPN 2000 (WDI)"
+ },
+ "mc_JPN_2003": {
+  "value": 65.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2003 (WDI)"
+ },
+ "mcs_JPN_2003": {
+  "value": 9.5,
+  "how": "JPN share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_JPN_2003": {
+  "value": 3.0,
+  "how": "market capitalisation, US$ trillion, JPN 2003 (WDI)"
+ },
+ "mc_JPN_2007": {
+  "value": 94.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2007 (WDI)"
+ },
+ "mcs_JPN_2007": {
+  "value": 7.2,
+  "how": "JPN share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_JPN_2007": {
+  "value": 4.3,
+  "how": "market capitalisation, US$ trillion, JPN 2007 (WDI)"
+ },
+ "mc_JPN_2008": {
+  "value": 60.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2008 (WDI)"
+ },
+ "mcs_JPN_2008": {
+  "value": 9.6,
+  "how": "JPN share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_JPN_2008": {
+  "value": 3.1,
+  "how": "market capitalisation, US$ trillion, JPN 2008 (WDI)"
+ },
+ "mc_JPN_2019": {
+  "value": 118.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2019 (WDI)"
+ },
+ "mcs_JPN_2019": {
+  "value": 7.9,
+  "how": "JPN share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_JPN_2019": {
+  "value": 6.2,
+  "how": "market capitalisation, US$ trillion, JPN 2019 (WDI)"
+ },
+ "mc_JPN_2020": {
+  "value": 129.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2020 (WDI)"
+ },
+ "mcs_JPN_2020": {
+  "value": 7.1,
+  "how": "JPN share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_JPN_2020": {
+  "value": 6.7,
+  "how": "market capitalisation, US$ trillion, JPN 2020 (WDI)"
+ },
+ "mc_JPN_2021": {
+  "value": 125.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2021 (WDI)"
+ },
+ "mcs_JPN_2021": {
+  "value": 5.9,
+  "how": "JPN share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_JPN_2021": {
+  "value": 6.5,
+  "how": "market capitalisation, US$ trillion, JPN 2021 (WDI)"
+ },
+ "mc_JPN_2024": {
+  "value": 151.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, JPN 2024 (WDI)"
+ },
+ "mcs_JPN_2024": {
+  "value": 5.5,
+  "how": "JPN share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_JPN_2024": {
+  "value": 6.3,
+  "how": "market capitalisation, US$ trillion, JPN 2024 (WDI)"
+ },
+ "mc_DEU_2000": {
+  "value": 65.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2000 (WDI)"
+ },
+ "mcs_DEU_2000": {
+  "value": 4.1,
+  "how": "DEU share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_DEU_2000": {
+  "value": 1.3,
+  "how": "market capitalisation, US$ trillion, DEU 2000 (WDI)"
+ },
+ "mc_DEU_2003": {
+  "value": 43.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2003 (WDI)"
+ },
+ "mcs_DEU_2003": {
+  "value": 3.5,
+  "how": "DEU share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_DEU_2003": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, DEU 2003 (WDI)"
+ },
+ "mc_DEU_2007": {
+  "value": 60.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2007 (WDI)"
+ },
+ "mcs_DEU_2007": {
+  "value": 3.5,
+  "how": "DEU share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_DEU_2007": {
+  "value": 2.1,
+  "how": "market capitalisation, US$ trillion, DEU 2007 (WDI)"
+ },
+ "mc_DEU_2008": {
+  "value": 29.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2008 (WDI)"
+ },
+ "mcs_DEU_2008": {
+  "value": 3.4,
+  "how": "DEU share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_DEU_2008": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, DEU 2008 (WDI)"
+ },
+ "mc_DEU_2019": {
+  "value": 53.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2019 (WDI)"
+ },
+ "mcs_DEU_2019": {
+  "value": 2.7,
+  "how": "DEU share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_DEU_2019": {
+  "value": 2.1,
+  "how": "market capitalisation, US$ trillion, DEU 2019 (WDI)"
+ },
+ "mc_DEU_2020": {
+  "value": 58.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2020 (WDI)"
+ },
+ "mcs_DEU_2020": {
+  "value": 2.4,
+  "how": "DEU share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_DEU_2020": {
+  "value": 2.3,
+  "how": "market capitalisation, US$ trillion, DEU 2020 (WDI)"
+ },
+ "mc_DEU_2021": {
+  "value": 57.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2021 (WDI)"
+ },
+ "mcs_DEU_2021": {
+  "value": 2.3,
+  "how": "DEU share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_DEU_2021": {
+  "value": 2.5,
+  "how": "market capitalisation, US$ trillion, DEU 2021 (WDI)"
+ },
+ "mc_DEU_2024": {
+  "value": 44.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, DEU 2024 (WDI)"
+ },
+ "mcs_DEU_2024": {
+  "value": 1.8,
+  "how": "DEU share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_DEU_2024": {
+  "value": 2.0,
+  "how": "market capitalisation, US$ trillion, DEU 2024 (WDI)"
+ },
+ "mc_BRA_2000": {
+  "value": 35.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2000 (WDI)"
+ },
+ "mcs_BRA_2000": {
+  "value": 0.7,
+  "how": "BRA share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_BRA_2000": {
+  "value": 0.2,
+  "how": "market capitalisation, US$ trillion, BRA 2000 (WDI)"
+ },
+ "mc_BRA_2003": {
+  "value": 42.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2003 (WDI)"
+ },
+ "mcs_BRA_2003": {
+  "value": 0.8,
+  "how": "BRA share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_BRA_2003": {
+  "value": 0.2,
+  "how": "market capitalisation, US$ trillion, BRA 2003 (WDI)"
+ },
+ "mc_BRA_2007": {
+  "value": 98.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2007 (WDI)"
+ },
+ "mcs_BRA_2007": {
+  "value": 2.3,
+  "how": "BRA share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_BRA_2007": {
+  "value": 1.4,
+  "how": "market capitalisation, US$ trillion, BRA 2007 (WDI)"
+ },
+ "mc_BRA_2008": {
+  "value": 35.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2008 (WDI)"
+ },
+ "mcs_BRA_2008": {
+  "value": 1.8,
+  "how": "BRA share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_BRA_2008": {
+  "value": 0.6,
+  "how": "market capitalisation, US$ trillion, BRA 2008 (WDI)"
+ },
+ "mc_BRA_2019": {
+  "value": 63.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2019 (WDI)"
+ },
+ "mcs_BRA_2019": {
+  "value": 1.5,
+  "how": "BRA share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_BRA_2019": {
+  "value": 1.2,
+  "how": "market capitalisation, US$ trillion, BRA 2019 (WDI)"
+ },
+ "mc_BRA_2020": {
+  "value": 67.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2020 (WDI)"
+ },
+ "mcs_BRA_2020": {
+  "value": 1.0,
+  "how": "BRA share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_BRA_2020": {
+  "value": 1.0,
+  "how": "market capitalisation, US$ trillion, BRA 2020 (WDI)"
+ },
+ "mc_BRA_2021": {
+  "value": 49.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2021 (WDI)"
+ },
+ "mcs_BRA_2021": {
+  "value": 0.7,
+  "how": "BRA share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_BRA_2021": {
+  "value": 0.8,
+  "how": "market capitalisation, US$ trillion, BRA 2021 (WDI)"
+ },
+ "mc_BRA_2024": {
+  "value": 30.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, BRA 2024 (WDI)"
+ },
+ "mcs_BRA_2024": {
+  "value": 0.6,
+  "how": "BRA share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_BRA_2024": {
+  "value": 0.7,
+  "how": "market capitalisation, US$ trillion, BRA 2024 (WDI)"
+ },
+ "mc_KOR_2000": {
+  "value": 29.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2000 (WDI)"
+ },
+ "mcs_KOR_2000": {
+  "value": 0.6,
+  "how": "KOR share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_KOR_2000": {
+  "value": 0.2,
+  "how": "market capitalisation, US$ trillion, KOR 2000 (WDI)"
+ },
+ "mc_KOR_2003": {
+  "value": 45.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2003 (WDI)"
+ },
+ "mcs_KOR_2003": {
+  "value": 1.1,
+  "how": "KOR share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_KOR_2003": {
+  "value": 0.3,
+  "how": "market capitalisation, US$ trillion, KOR 2003 (WDI)"
+ },
+ "mc_KOR_2007": {
+  "value": 92.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2007 (WDI)"
+ },
+ "mcs_KOR_2007": {
+  "value": 1.9,
+  "how": "KOR share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_KOR_2007": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, KOR 2007 (WDI)"
+ },
+ "mc_KOR_2008": {
+  "value": 43.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2008 (WDI)"
+ },
+ "mcs_KOR_2008": {
+  "value": 1.5,
+  "how": "KOR share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_KOR_2008": {
+  "value": 0.5,
+  "how": "market capitalisation, US$ trillion, KOR 2008 (WDI)"
+ },
+ "mc_KOR_2019": {
+  "value": 85.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2019 (WDI)"
+ },
+ "mcs_KOR_2019": {
+  "value": 1.9,
+  "how": "KOR share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_KOR_2019": {
+  "value": 1.5,
+  "how": "market capitalisation, US$ trillion, KOR 2019 (WDI)"
+ },
+ "mc_KOR_2020": {
+  "value": 125.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2020 (WDI)"
+ },
+ "mcs_KOR_2020": {
+  "value": 2.3,
+  "how": "KOR share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_KOR_2020": {
+  "value": 2.2,
+  "how": "market capitalisation, US$ trillion, KOR 2020 (WDI)"
+ },
+ "mc_KOR_2021": {
+  "value": 114.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2021 (WDI)"
+ },
+ "mcs_KOR_2021": {
+  "value": 2.0,
+  "how": "KOR share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_KOR_2021": {
+  "value": 2.2,
+  "how": "market capitalisation, US$ trillion, KOR 2021 (WDI)"
+ },
+ "mc_KOR_2024": {
+  "value": 83.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, KOR 2024 (WDI)"
+ },
+ "mcs_KOR_2024": {
+  "value": 1.4,
+  "how": "KOR share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_KOR_2024": {
+  "value": 1.6,
+  "how": "market capitalisation, US$ trillion, KOR 2024 (WDI)"
+ },
+ "mc_ZAF_2000": {
+  "value": 135.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2000 (WDI)"
+ },
+ "mcs_ZAF_2000": {
+  "value": 0.7,
+  "how": "ZAF share of world market capitalisation, % 2000 (WDI, US$)"
+ },
+ "mcd_ZAF_2000": {
+  "value": 0.2,
+  "how": "market capitalisation, US$ trillion, ZAF 2000 (WDI)"
+ },
+ "mc_ZAF_2003": {
+  "value": 132.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2003 (WDI)"
+ },
+ "mcs_ZAF_2003": {
+  "value": 0.8,
+  "how": "ZAF share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_ZAF_2003": {
+  "value": 0.3,
+  "how": "market capitalisation, US$ trillion, ZAF 2003 (WDI)"
+ },
+ "mc_ZAF_2007": {
+  "value": 249.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2007 (WDI)"
+ },
+ "mcs_ZAF_2007": {
+  "value": 1.4,
+  "how": "ZAF share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_ZAF_2007": {
+  "value": 0.8,
+  "how": "market capitalisation, US$ trillion, ZAF 2007 (WDI)"
+ },
+ "mc_ZAF_2008": {
+  "value": 153.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2008 (WDI)"
+ },
+ "mcs_ZAF_2008": {
+  "value": 1.5,
+  "how": "ZAF share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_ZAF_2008": {
+  "value": 0.5,
+  "how": "market capitalisation, US$ trillion, ZAF 2008 (WDI)"
+ },
+ "mc_ZAF_2019": {
+  "value": 271.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2019 (WDI)"
+ },
+ "mcs_ZAF_2019": {
+  "value": 1.3,
+  "how": "ZAF share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_ZAF_2019": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, ZAF 2019 (WDI)"
+ },
+ "mc_ZAF_2020": {
+  "value": 311.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2020 (WDI)"
+ },
+ "mcs_ZAF_2020": {
+  "value": 1.1,
+  "how": "ZAF share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_ZAF_2020": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, ZAF 2020 (WDI)"
+ },
+ "mc_ZAF_2021": {
+  "value": 272.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2021 (WDI)"
+ },
+ "mcs_ZAF_2021": {
+  "value": 1.0,
+  "how": "ZAF share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_ZAF_2021": {
+  "value": 1.1,
+  "how": "market capitalisation, US$ trillion, ZAF 2021 (WDI)"
+ },
+ "mc_ZAF_2024": {
+  "value": 246.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, ZAF 2024 (WDI)"
+ },
+ "mcs_ZAF_2024": {
+  "value": 0.9,
+  "how": "ZAF share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_ZAF_2024": {
+  "value": 1.0,
+  "how": "market capitalisation, US$ trillion, ZAF 2024 (WDI)"
+ },
+ "mc_LMY_2003": {
+  "value": 37.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2003 (WDI)"
+ },
+ "mcs_LMY_2003": {
+  "value": 6.3,
+  "how": "LMY share of world market capitalisation, % 2003 (WDI, US$)"
+ },
+ "mcd_LMY_2003": {
+  "value": 2.0,
+  "how": "market capitalisation, US$ trillion, LMY 2003 (WDI)"
+ },
+ "mc_LMY_2007": {
+  "value": 95.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2007 (WDI)"
+ },
+ "mcs_LMY_2007": {
+  "value": 18.0,
+  "how": "LMY share of world market capitalisation, % 2007 (WDI, US$)"
+ },
+ "mcd_LMY_2007": {
+  "value": 10.9,
+  "how": "market capitalisation, US$ trillion, LMY 2007 (WDI)"
+ },
+ "mc_LMY_2008": {
+  "value": 36.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2008 (WDI)"
+ },
+ "mcs_LMY_2008": {
+  "value": 15.3,
+  "how": "LMY share of world market capitalisation, % 2008 (WDI, US$)"
+ },
+ "mcd_LMY_2008": {
+  "value": 5.0,
+  "how": "market capitalisation, US$ trillion, LMY 2008 (WDI)"
+ },
+ "mc_LMY_2019": {
+  "value": 60.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2019 (WDI)"
+ },
+ "mcs_LMY_2019": {
+  "value": 20.6,
+  "how": "LMY share of world market capitalisation, % 2019 (WDI, US$)"
+ },
+ "mcd_LMY_2019": {
+  "value": 16.2,
+  "how": "market capitalisation, US$ trillion, LMY 2019 (WDI)"
+ },
+ "mc_LMY_2020": {
+  "value": 78.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2020 (WDI)"
+ },
+ "mcs_LMY_2020": {
+  "value": 22.8,
+  "how": "LMY share of world market capitalisation, % 2020 (WDI, US$)"
+ },
+ "mcd_LMY_2020": {
+  "value": 21.7,
+  "how": "market capitalisation, US$ trillion, LMY 2020 (WDI)"
+ },
+ "mc_LMY_2021": {
+  "value": 76.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2021 (WDI)"
+ },
+ "mcs_LMY_2021": {
+  "value": 22.5,
+  "how": "LMY share of world market capitalisation, % 2021 (WDI, US$)"
+ },
+ "mcd_LMY_2021": {
+  "value": 25.0,
+  "how": "market capitalisation, US$ trillion, LMY 2021 (WDI)"
+ },
+ "mc_LMY_2024": {
+  "value": 65.0,
+  "how": "market capitalisation of listed domestic companies, % of GDP, LMY 2024 (WDI)"
+ },
+ "mcs_LMY_2024": {
+  "value": 19.1,
+  "how": "LMY share of world market capitalisation, % 2024 (WDI, US$)"
+ },
+ "mcd_LMY_2024": {
+  "value": 22.0,
+  "how": "market capitalisation, US$ trillion, LMY 2024 (WDI)"
+ },
+ "mcd_IND_2025": {
+  "value": 10.6,
+  "how": "WDI India market capitalisation, US$ trillion, 2025 (looks wrong: doubles in a year)"
+ },
+ "fl_fdi_2000": {
+  "value": 2.0,
+  "how": "EMDE net FDI inflows, % of GDP, 2000"
+ },
+ "fl_port_2000": {
+  "value": -0.7,
+  "how": "EMDE net portfolio inflows, % of GDP, 2000"
+ },
+ "fl_res_2000": {
+  "value": 1.1,
+  "how": "EMDE reserve accumulation, % of GDP, 2000"
+ },
+ "flb_res_2000": {
+  "value": 81.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2000"
+ },
+ "flb_port_2000": {
+  "value": -49.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2000"
+ },
+ "flb_fdi_2000": {
+  "value": 145.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2000"
+ },
+ "fl_fdi_2003": {
+  "value": 1.8,
+  "how": "EMDE net FDI inflows, % of GDP, 2003"
+ },
+ "fl_port_2003": {
+  "value": -0.2,
+  "how": "EMDE net portfolio inflows, % of GDP, 2003"
+ },
+ "fl_res_2003": {
+  "value": 3.1,
+  "how": "EMDE reserve accumulation, % of GDP, 2003"
+ },
+ "flb_res_2003": {
+  "value": 256.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2003"
+ },
+ "flb_port_2003": {
+  "value": -19.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2003"
+ },
+ "flb_fdi_2003": {
+  "value": 145.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2003"
+ },
+ "fl_fdi_2006": {
+  "value": 1.9,
+  "how": "EMDE net FDI inflows, % of GDP, 2006"
+ },
+ "fl_port_2006": {
+  "value": -0.6,
+  "how": "EMDE net portfolio inflows, % of GDP, 2006"
+ },
+ "fl_res_2006": {
+  "value": 5.5,
+  "how": "EMDE reserve accumulation, % of GDP, 2006"
+ },
+ "flb_res_2006": {
+  "value": 753.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2006"
+ },
+ "flb_port_2006": {
+  "value": -79.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2006"
+ },
+ "flb_fdi_2006": {
+  "value": 262.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2006"
+ },
+ "fl_fdi_2007": {
+  "value": 2.4,
+  "how": "EMDE net FDI inflows, % of GDP, 2007"
+ },
+ "fl_port_2007": {
+  "value": 0.2,
+  "how": "EMDE net portfolio inflows, % of GDP, 2007"
+ },
+ "fl_res_2007": {
+  "value": 7.2,
+  "how": "EMDE reserve accumulation, % of GDP, 2007"
+ },
+ "flb_res_2007": {
+  "value": 1210.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2007"
+ },
+ "flb_port_2007": {
+  "value": 38.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2007"
+ },
+ "flb_fdi_2007": {
+  "value": 397.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2007"
+ },
+ "fl_fdi_2008": {
+  "value": 2.1,
+  "how": "EMDE net FDI inflows, % of GDP, 2008"
+ },
+ "fl_port_2008": {
+  "value": -0.7,
+  "how": "EMDE net portfolio inflows, % of GDP, 2008"
+ },
+ "fl_res_2008": {
+  "value": 3.6,
+  "how": "EMDE reserve accumulation, % of GDP, 2008"
+ },
+ "flb_res_2008": {
+  "value": 726.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2008"
+ },
+ "flb_port_2008": {
+  "value": -135.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2008"
+ },
+ "flb_fdi_2008": {
+  "value": 422.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2008"
+ },
+ "fl_fdi_2009": {
+  "value": 1.5,
+  "how": "EMDE net FDI inflows, % of GDP, 2009"
+ },
+ "fl_port_2009": {
+  "value": 0.4,
+  "how": "EMDE net portfolio inflows, % of GDP, 2009"
+ },
+ "fl_res_2009": {
+  "value": 2.7,
+  "how": "EMDE reserve accumulation, % of GDP, 2009"
+ },
+ "flb_res_2009": {
+  "value": 531.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2009"
+ },
+ "flb_port_2009": {
+  "value": 82.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2009"
+ },
+ "flb_fdi_2009": {
+  "value": 286.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2009"
+ },
+ "fl_fdi_2010": {
+  "value": 1.8,
+  "how": "EMDE net FDI inflows, % of GDP, 2010"
+ },
+ "fl_port_2010": {
+  "value": 0.9,
+  "how": "EMDE net portfolio inflows, % of GDP, 2010"
+ },
+ "fl_res_2010": {
+  "value": 3.6,
+  "how": "EMDE reserve accumulation, % of GDP, 2010"
+ },
+ "flb_res_2010": {
+  "value": 852.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2010"
+ },
+ "flb_port_2010": {
+  "value": 219.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2010"
+ },
+ "flb_fdi_2010": {
+  "value": 423.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2010"
+ },
+ "fl_fdi_2013": {
+  "value": 1.5,
+  "how": "EMDE net FDI inflows, % of GDP, 2013"
+ },
+ "fl_port_2013": {
+  "value": 0.5,
+  "how": "EMDE net portfolio inflows, % of GDP, 2013"
+ },
+ "fl_res_2013": {
+  "value": 1.8,
+  "how": "EMDE reserve accumulation, % of GDP, 2013"
+ },
+ "flb_res_2013": {
+  "value": 558.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2013"
+ },
+ "flb_port_2013": {
+  "value": 159.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2013"
+ },
+ "flb_fdi_2013": {
+  "value": 467.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2013"
+ },
+ "fl_fdi_2015": {
+  "value": 1.1,
+  "how": "EMDE net FDI inflows, % of GDP, 2015"
+ },
+ "fl_port_2015": {
+  "value": -0.4,
+  "how": "EMDE net portfolio inflows, % of GDP, 2015"
+ },
+ "fl_res_2015": {
+  "value": -2.0,
+  "how": "EMDE reserve accumulation, % of GDP, 2015"
+ },
+ "flb_res_2015": {
+  "value": -585.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2015"
+ },
+ "flb_port_2015": {
+  "value": -124.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2015"
+ },
+ "flb_fdi_2015": {
+  "value": 327.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2015"
+ },
+ "fl_fdi_2016": {
+  "value": 0.9,
+  "how": "EMDE net FDI inflows, % of GDP, 2016"
+ },
+ "fl_port_2016": {
+  "value": 0.2,
+  "how": "EMDE net portfolio inflows, % of GDP, 2016"
+ },
+ "fl_res_2016": {
+  "value": -1.6,
+  "how": "EMDE reserve accumulation, % of GDP, 2016"
+ },
+ "flb_res_2016": {
+  "value": -485.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2016"
+ },
+ "flb_port_2016": {
+  "value": 51.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2016"
+ },
+ "flb_fdi_2016": {
+  "value": 261.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2016"
+ },
+ "fl_fdi_2019": {
+  "value": 1.0,
+  "how": "EMDE net FDI inflows, % of GDP, 2019"
+ },
+ "fl_port_2019": {
+  "value": 0.2,
+  "how": "EMDE net portfolio inflows, % of GDP, 2019"
+ },
+ "fl_res_2019": {
+  "value": 0.5,
+  "how": "EMDE reserve accumulation, % of GDP, 2019"
+ },
+ "flb_res_2019": {
+  "value": 175.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2019"
+ },
+ "flb_port_2019": {
+  "value": 81.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2019"
+ },
+ "flb_fdi_2019": {
+  "value": 347.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2019"
+ },
+ "fl_fdi_2020": {
+  "value": 0.9,
+  "how": "EMDE net FDI inflows, % of GDP, 2020"
+ },
+ "fl_port_2020": {
+  "value": 0.0,
+  "how": "EMDE net portfolio inflows, % of GDP, 2020"
+ },
+ "fl_res_2020": {
+  "value": 0.3,
+  "how": "EMDE reserve accumulation, % of GDP, 2020"
+ },
+ "flb_res_2020": {
+  "value": 86.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2020"
+ },
+ "flb_port_2020": {
+  "value": 15.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2020"
+ },
+ "flb_fdi_2020": {
+  "value": 311.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2020"
+ },
+ "fl_fdi_2021": {
+  "value": 1.2,
+  "how": "EMDE net FDI inflows, % of GDP, 2021"
+ },
+ "fl_port_2021": {
+  "value": -0.3,
+  "how": "EMDE net portfolio inflows, % of GDP, 2021"
+ },
+ "fl_res_2021": {
+  "value": 1.3,
+  "how": "EMDE reserve accumulation, % of GDP, 2021"
+ },
+ "flb_res_2021": {
+  "value": 529.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2021"
+ },
+ "flb_port_2021": {
+  "value": -114.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2021"
+ },
+ "flb_fdi_2021": {
+  "value": 487.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2021"
+ },
+ "fl_fdi_2022": {
+  "value": 0.6,
+  "how": "EMDE net FDI inflows, % of GDP, 2022"
+ },
+ "fl_port_2022": {
+  "value": -1.2,
+  "how": "EMDE net portfolio inflows, % of GDP, 2022"
+ },
+ "fl_res_2022": {
+  "value": 0.3,
+  "how": "EMDE reserve accumulation, % of GDP, 2022"
+ },
+ "flb_res_2022": {
+  "value": 110.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2022"
+ },
+ "flb_port_2022": {
+  "value": -505.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2022"
+ },
+ "flb_fdi_2022": {
+  "value": 248.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2022"
+ },
+ "fl_fdi_2024": {
+  "value": 0.3,
+  "how": "EMDE net FDI inflows, % of GDP, 2024"
+ },
+ "fl_port_2024": {
+  "value": -0.6,
+  "how": "EMDE net portfolio inflows, % of GDP, 2024"
+ },
+ "fl_res_2024": {
+  "value": 0.1,
+  "how": "EMDE reserve accumulation, % of GDP, 2024"
+ },
+ "flb_res_2024": {
+  "value": 55.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2024"
+ },
+ "flb_port_2024": {
+  "value": -265.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2024"
+ },
+ "flb_fdi_2024": {
+  "value": 125.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2024"
+ },
+ "fl_fdi_2025": {
+  "value": 0.5,
+  "how": "EMDE net FDI inflows, % of GDP, 2025"
+ },
+ "fl_port_2025": {
+  "value": -1.1,
+  "how": "EMDE net portfolio inflows, % of GDP, 2025"
+ },
+ "fl_res_2025": {
+  "value": 0.2,
+  "how": "EMDE reserve accumulation, % of GDP, 2025"
+ },
+ "flb_res_2025": {
+  "value": 77.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2025"
+ },
+ "flb_port_2025": {
+  "value": -520.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2025"
+ },
+ "flb_fdi_2025": {
+  "value": 236.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2025"
+ },
+ "fl_fdi_2026": {
+  "value": 0.7,
+  "how": "EMDE net FDI inflows, % of GDP, 2026"
+ },
+ "fl_port_2026": {
+  "value": -1.3,
+  "how": "EMDE net portfolio inflows, % of GDP, 2026"
+ },
+ "fl_res_2026": {
+  "value": 0.6,
+  "how": "EMDE reserve accumulation, % of GDP, 2026"
+ },
+ "flb_res_2026": {
+  "value": 317.0,
+  "how": "EMDE reserve accumulation, US$ billion, 2026"
+ },
+ "flb_port_2026": {
+  "value": -705.0,
+  "how": "EMDE net portfolio inflows, US$ billion, 2026"
+ },
+ "flb_fdi_2026": {
+  "value": 350.0,
+  "how": "EMDE net FDI inflows, US$ billion, 2026"
+ },
+ "fl_fdi_avg_2000_2025": {
+  "value": 1.4,
+  "how": "EMDE net FDI inflows, % of GDP, average 2000-2025"
+ },
+ "flb_res_2003_2008": {
+  "value": 3.9,
+  "how": "EMDE reserve accumulation, cumulative 2003-2008, US$ trillion"
+ },
+ "ifdi_2004": {
+  "value": 3.7,
+  "how": "India net FDI, US$ bn, FY2004-05 (RBI HBS Table 143)"
+ },
+ "ifpi_2004": {
+  "value": 9.3,
+  "how": "India net portfolio investment, US$ bn, FY2004-05 (RBI HBS Table 143)"
+ },
+ "ifdi_2005": {
+  "value": 3.0,
+  "how": "India net FDI, US$ bn, FY2005-06 (RBI HBS Table 143)"
+ },
+ "ifpi_2005": {
+  "value": 12.5,
+  "how": "India net portfolio investment, US$ bn, FY2005-06 (RBI HBS Table 143)"
+ },
+ "ifdi_2006": {
+  "value": 7.7,
+  "how": "India net FDI, US$ bn, FY2006-07 (RBI HBS Table 143)"
+ },
+ "ifpi_2006": {
+  "value": 7.1,
+  "how": "India net portfolio investment, US$ bn, FY2006-07 (RBI HBS Table 143)"
+ },
+ "ifdi_2007": {
+  "value": 15.9,
+  "how": "India net FDI, US$ bn, FY2007-08 (RBI HBS Table 143)"
+ },
+ "ifpi_2007": {
+  "value": 27.4,
+  "how": "India net portfolio investment, US$ bn, FY2007-08 (RBI HBS Table 143)"
+ },
+ "ifdi_2008": {
+  "value": 22.4,
+  "how": "India net FDI, US$ bn, FY2008-09 (RBI HBS Table 143)"
+ },
+ "ifpi_2008": {
+  "value": -14.0,
+  "how": "India net portfolio investment, US$ bn, FY2008-09 (RBI HBS Table 143)"
+ },
+ "ifdi_2009": {
+  "value": 18.0,
+  "how": "India net FDI, US$ bn, FY2009-10 (RBI HBS Table 143)"
+ },
+ "ifpi_2009": {
+  "value": 32.4,
+  "how": "India net portfolio investment, US$ bn, FY2009-10 (RBI HBS Table 143)"
+ },
+ "ifdi_2010": {
+  "value": 11.8,
+  "how": "India net FDI, US$ bn, FY2010-11 (RBI HBS Table 143)"
+ },
+ "ifpi_2010": {
+  "value": 30.3,
+  "how": "India net portfolio investment, US$ bn, FY2010-11 (RBI HBS Table 143)"
+ },
+ "ifdi_2011": {
+  "value": 22.1,
+  "how": "India net FDI, US$ bn, FY2011-12 (RBI HBS Table 143)"
+ },
+ "ifpi_2011": {
+  "value": 17.2,
+  "how": "India net portfolio investment, US$ bn, FY2011-12 (RBI HBS Table 143)"
+ },
+ "ifdi_2012": {
+  "value": 19.8,
+  "how": "India net FDI, US$ bn, FY2012-13 (RBI HBS Table 143)"
+ },
+ "ifpi_2012": {
+  "value": 26.9,
+  "how": "India net portfolio investment, US$ bn, FY2012-13 (RBI HBS Table 143)"
+ },
+ "ifdi_2013": {
+  "value": 21.6,
+  "how": "India net FDI, US$ bn, FY2013-14 (RBI HBS Table 143)"
+ },
+ "ifpi_2013": {
+  "value": 4.8,
+  "how": "India net portfolio investment, US$ bn, FY2013-14 (RBI HBS Table 143)"
+ },
+ "ifdi_2014": {
+  "value": 31.3,
+  "how": "India net FDI, US$ bn, FY2014-15 (RBI HBS Table 143)"
+ },
+ "ifpi_2014": {
+  "value": 42.2,
+  "how": "India net portfolio investment, US$ bn, FY2014-15 (RBI HBS Table 143)"
+ },
+ "ifdi_2015": {
+  "value": 36.0,
+  "how": "India net FDI, US$ bn, FY2015-16 (RBI HBS Table 143)"
+ },
+ "ifpi_2015": {
+  "value": -4.1,
+  "how": "India net portfolio investment, US$ bn, FY2015-16 (RBI HBS Table 143)"
+ },
+ "ifdi_2016": {
+  "value": 35.6,
+  "how": "India net FDI, US$ bn, FY2016-17 (RBI HBS Table 143)"
+ },
+ "ifpi_2016": {
+  "value": 7.6,
+  "how": "India net portfolio investment, US$ bn, FY2016-17 (RBI HBS Table 143)"
+ },
+ "ifdi_2017": {
+  "value": 30.3,
+  "how": "India net FDI, US$ bn, FY2017-18 (RBI HBS Table 143)"
+ },
+ "ifpi_2017": {
+  "value": 22.1,
+  "how": "India net portfolio investment, US$ bn, FY2017-18 (RBI HBS Table 143)"
+ },
+ "ifdi_2018": {
+  "value": 30.7,
+  "how": "India net FDI, US$ bn, FY2018-19 (RBI HBS Table 143)"
+ },
+ "ifpi_2018": {
+  "value": -0.6,
+  "how": "India net portfolio investment, US$ bn, FY2018-19 (RBI HBS Table 143)"
+ },
+ "ifdi_2019": {
+  "value": 43.0,
+  "how": "India net FDI, US$ bn, FY2019-20 (RBI HBS Table 143)"
+ },
+ "ifpi_2019": {
+  "value": 1.4,
+  "how": "India net portfolio investment, US$ bn, FY2019-20 (RBI HBS Table 143)"
+ },
+ "ifdi_2020": {
+  "value": 44.0,
+  "how": "India net FDI, US$ bn, FY2020-21 (RBI HBS Table 143)"
+ },
+ "ifpi_2020": {
+  "value": 36.1,
+  "how": "India net portfolio investment, US$ bn, FY2020-21 (RBI HBS Table 143)"
+ },
+ "ifdi_2021": {
+  "value": 38.6,
+  "how": "India net FDI, US$ bn, FY2021-22 (RBI HBS Table 143)"
+ },
+ "ifpi_2021": {
+  "value": -16.8,
+  "how": "India net portfolio investment, US$ bn, FY2021-22 (RBI HBS Table 143)"
+ },
+ "ifdi_2022": {
+  "value": 28.0,
+  "how": "India net FDI, US$ bn, FY2022-23 (RBI HBS Table 143)"
+ },
+ "ifpi_2022": {
+  "value": -5.2,
+  "how": "India net portfolio investment, US$ bn, FY2022-23 (RBI HBS Table 143)"
+ },
+ "ifdi_2023": {
+  "value": 10.2,
+  "how": "India net FDI, US$ bn, FY2023-24 (RBI HBS Table 143)"
+ },
+ "ifpi_2023": {
+  "value": 44.1,
+  "how": "India net portfolio investment, US$ bn, FY2023-24 (RBI HBS Table 143)"
+ },
+ "ifdi_2024": {
+  "value": 1.0,
+  "how": "India net FDI, US$ bn, FY2024-25 (RBI HBS Table 143)"
+ },
+ "ifpi_2024": {
+  "value": 3.6,
+  "how": "India net portfolio investment, US$ bn, FY2024-25 (RBI HBS Table 143)"
+ },
+ "ifdi_2025": {
+  "value": 6.9,
+  "how": "India net FDI, US$ bn, FY2025-26 (RBI HBS Table 143)"
+ },
+ "ifpi_2025": {
+  "value": -16.4,
+  "how": "India net portfolio investment, US$ bn, FY2025-26 (RBI HBS Table 143)"
+ },
+ "ifdi_2015_2021_avg": {
+  "value": 36.9,
+  "how": "India net FDI, average FY2015-16 to FY2021-22, US$ bn"
+ },
+ "ifpi_n_neg": {
+  "value": 6,
+  "how": "fiscal years 2004-05 to 2025-26 with net portfolio outflow"
+ },
+ "ifpi_neg_yrs": {
+  "value": [
+   2008,
+   2015,
+   2018,
+   2021,
+   2022,
+   2025
+  ],
+  "how": "start years of fiscal years with net portfolio outflow"
+ },
+ "imc_2001": {
+  "value": 26.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2001-02"
+ },
+ "imc_2002": {
+  "value": 23.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2002-03"
+ },
+ "imc_2007": {
+  "value": 105.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2007-08"
+ },
+ "imc_2008": {
+  "value": 56.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2008-09"
+ },
+ "imc_2009": {
+  "value": 97.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2009-10"
+ },
+ "imc_2019": {
+  "value": 56.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2019-20"
+ },
+ "imc_2020": {
+  "value": 103.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2020-21"
+ },
+ "imc_2023": {
+  "value": 134.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2023-24"
+ },
+ "imc_2024": {
+  "value": 130.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2024-25"
+ },
+ "imc_2025": {
+  "value": 119.0,
+  "how": "BSE market capitalisation, end-March, % of GDP, FY2025-26"
+ },
+ "isx_2001": {
+  "value": 3332.0,
+  "how": "Sensex annual average, FY2001-02"
+ },
+ "isx_2002": {
+  "value": 3206.0,
+  "how": "Sensex annual average, FY2002-03"
+ },
+ "isx_2007": {
+  "value": 16569.0,
+  "how": "Sensex annual average, FY2007-08"
+ },
+ "isx_2008": {
+  "value": 12366.0,
+  "how": "Sensex annual average, FY2008-09"
+ },
+ "isx_2019": {
+  "value": 38757.0,
+  "how": "Sensex annual average, FY2019-20"
+ },
+ "isx_2024": {
+  "value": 78212.0,
+  "how": "Sensex annual average, FY2024-25"
+ },
+ "isx_2025": {
+  "value": 81820.0,
+  "how": "Sensex annual average, FY2025-26"
+ },
+ "isx_x_2001_2025": {
+  "value": 25.0,
+  "how": "Sensex annual average FY2025-26 / FY2001-02"
+ },
+ "ires_2007": {
+  "value": 310.0,
+  "how": "India FX reserves, end-March, US$ bn, FY2007-08"
+ },
+ "ires_2008": {
+  "value": 252.0,
+  "how": "India FX reserves, end-March, US$ bn, FY2008-09"
+ },
+ "ires_2013": {
+  "value": 304.0,
+  "how": "India FX reserves, end-March, US$ bn, FY2013-14"
+ },
+ "ires_2024": {
+  "value": 668.0,
+  "how": "India FX reserves, end-March, US$ bn, FY2024-25"
+ },
+ "ires_2025": {
+  "value": 691.0,
+  "how": "India FX reserves, end-March, US$ bn, FY2025-26"
+ }
+}

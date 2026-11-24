@@ -1,0 +1,758 @@
+{
+ "gdp_G001_avg0307": {
+  "value": 4.9,
+  "how": "WEO NGDP_RPCH G001, average of 2003\u20132007"
+ },
+ "gdp_G001_2002": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH G001 2002"
+ },
+ "gdp_G001_2003": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH G001 2003"
+ },
+ "gdp_G001_2007": {
+  "value": 5.4,
+  "how": "WEO NGDP_RPCH G001 2007"
+ },
+ "gdp_G110_avg0307": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH G110, average of 2003\u20132007"
+ },
+ "gdp_G110_2002": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH G110 2002"
+ },
+ "gdp_G110_2003": {
+  "value": 2.0,
+  "how": "WEO NGDP_RPCH G110 2003"
+ },
+ "gdp_G110_2007": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH G110 2007"
+ },
+ "gdp_G200_avg0307": {
+  "value": 7.3,
+  "how": "WEO NGDP_RPCH G200, average of 2003\u20132007"
+ },
+ "gdp_G200_2002": {
+  "value": 4.4,
+  "how": "WEO NGDP_RPCH G200 2002"
+ },
+ "gdp_G200_2003": {
+  "value": 6.1,
+  "how": "WEO NGDP_RPCH G200 2003"
+ },
+ "gdp_G200_2007": {
+  "value": 8.1,
+  "how": "WEO NGDP_RPCH G200 2007"
+ },
+ "gdp_USA_avg0307": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH USA, average of 2003\u20132007"
+ },
+ "gdp_USA_2002": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH USA 2002"
+ },
+ "gdp_USA_2003": {
+  "value": 2.8,
+  "how": "WEO NGDP_RPCH USA 2003"
+ },
+ "gdp_USA_2007": {
+  "value": 2.0,
+  "how": "WEO NGDP_RPCH USA 2007"
+ },
+ "gdp_CHN_avg0307": {
+  "value": 11.7,
+  "how": "WEO NGDP_RPCH CHN, average of 2003\u20132007"
+ },
+ "gdp_CHN_2002": {
+  "value": 9.2,
+  "how": "WEO NGDP_RPCH CHN 2002"
+ },
+ "gdp_CHN_2003": {
+  "value": 10.1,
+  "how": "WEO NGDP_RPCH CHN 2003"
+ },
+ "gdp_CHN_2007": {
+  "value": 14.2,
+  "how": "WEO NGDP_RPCH CHN 2007"
+ },
+ "gdp_IND_avg0307": {
+  "value": 7.9,
+  "how": "WEO NGDP_RPCH IND, average of 2003\u20132007"
+ },
+ "gdp_IND_2002": {
+  "value": 3.8,
+  "how": "WEO NGDP_RPCH IND 2002"
+ },
+ "gdp_IND_2003": {
+  "value": 7.9,
+  "how": "WEO NGDP_RPCH IND 2003"
+ },
+ "gdp_IND_2007": {
+  "value": 7.7,
+  "how": "WEO NGDP_RPCH IND 2007"
+ },
+ "gdp_G163_avg0307": {
+  "value": 2.2,
+  "how": "WEO NGDP_RPCH G163, average of 2003\u20132007"
+ },
+ "gdp_G163_2002": {
+  "value": 0.9,
+  "how": "WEO NGDP_RPCH G163 2002"
+ },
+ "gdp_G163_2003": {
+  "value": 0.7,
+  "how": "WEO NGDP_RPCH G163 2003"
+ },
+ "gdp_G163_2007": {
+  "value": 3.0,
+  "how": "WEO NGDP_RPCH G163 2007"
+ },
+ "gdp_JPN_avg0307": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH JPN, average of 2003\u20132007"
+ },
+ "gdp_JPN_2002": {
+  "value": 0.1,
+  "how": "WEO NGDP_RPCH JPN 2002"
+ },
+ "gdp_JPN_2003": {
+  "value": 1.4,
+  "how": "WEO NGDP_RPCH JPN 2003"
+ },
+ "gdp_JPN_2007": {
+  "value": 1.7,
+  "how": "WEO NGDP_RPCH JPN 2007"
+ },
+ "gdp_G001_avg9002": {
+  "value": 3.1,
+  "how": "WEO NGDP_RPCH G001, average of 1990\u20132002"
+ },
+ "bca_USA_2002": {
+  "value": -445.0,
+  "how": "WEO BCA USA 2002, US$ bn"
+ },
+ "bca_USA_2006": {
+  "value": -803.0,
+  "how": "WEO BCA USA 2006, US$ bn"
+ },
+ "bca_USA_2007": {
+  "value": -721.0,
+  "how": "WEO BCA USA 2007, US$ bn"
+ },
+ "bca_USA_2008": {
+  "value": -677.0,
+  "how": "WEO BCA USA 2008, US$ bn"
+ },
+ "bca_CHN_2002": {
+  "value": 35.0,
+  "how": "WEO BCA CHN 2002, US$ bn"
+ },
+ "bca_CHN_2006": {
+  "value": 232.0,
+  "how": "WEO BCA CHN 2006, US$ bn"
+ },
+ "bca_CHN_2007": {
+  "value": 353.0,
+  "how": "WEO BCA CHN 2007, US$ bn"
+ },
+ "bca_CHN_2008": {
+  "value": 421.0,
+  "how": "WEO BCA CHN 2008, US$ bn"
+ },
+ "bca_DEU_2002": {
+  "value": 36.0,
+  "how": "WEO BCA DEU 2002, US$ bn"
+ },
+ "bca_DEU_2006": {
+  "value": 168.0,
+  "how": "WEO BCA DEU 2006, US$ bn"
+ },
+ "bca_DEU_2007": {
+  "value": 226.0,
+  "how": "WEO BCA DEU 2007, US$ bn"
+ },
+ "bca_DEU_2008": {
+  "value": 206.0,
+  "how": "WEO BCA DEU 2008, US$ bn"
+ },
+ "bca_JPN_2002": {
+  "value": 109.0,
+  "how": "WEO BCA JPN 2002, US$ bn"
+ },
+ "bca_JPN_2006": {
+  "value": 174.0,
+  "how": "WEO BCA JPN 2006, US$ bn"
+ },
+ "bca_JPN_2007": {
+  "value": 212.0,
+  "how": "WEO BCA JPN 2007, US$ bn"
+ },
+ "bca_JPN_2008": {
+  "value": 143.0,
+  "how": "WEO BCA JPN 2008, US$ bn"
+ },
+ "bca_SAU_2002": {
+  "value": 12.0,
+  "how": "WEO BCA SAU 2002, US$ bn"
+ },
+ "bca_SAU_2006": {
+  "value": 103.0,
+  "how": "WEO BCA SAU 2006, US$ bn"
+ },
+ "bca_SAU_2007": {
+  "value": 99.0,
+  "how": "WEO BCA SAU 2007, US$ bn"
+ },
+ "bca_SAU_2008": {
+  "value": 140.0,
+  "how": "WEO BCA SAU 2008, US$ bn"
+ },
+ "bca_RUS_2002": {
+  "value": 27.0,
+  "how": "WEO BCA RUS 2002, US$ bn"
+ },
+ "bca_RUS_2006": {
+  "value": 92.0,
+  "how": "WEO BCA RUS 2006, US$ bn"
+ },
+ "bca_RUS_2007": {
+  "value": 72.0,
+  "how": "WEO BCA RUS 2007, US$ bn"
+ },
+ "bca_RUS_2008": {
+  "value": 104.0,
+  "how": "WEO BCA RUS 2008, US$ bn"
+ },
+ "bca_IND_2002": {
+  "value": 6.0,
+  "how": "WEO BCA IND 2002, US$ bn"
+ },
+ "bca_IND_2006": {
+  "value": -10.0,
+  "how": "WEO BCA IND 2006, US$ bn"
+ },
+ "bca_IND_2007": {
+  "value": -16.0,
+  "how": "WEO BCA IND 2007, US$ bn"
+ },
+ "bca_IND_2008": {
+  "value": -28.0,
+  "how": "WEO BCA IND 2008, US$ bn"
+ },
+ "bca_G001_2002": {
+  "value": -138.0,
+  "how": "WEO BCA G001 2002, US$ bn"
+ },
+ "bca_G001_2006": {
+  "value": 180.0,
+  "how": "WEO BCA G001 2006, US$ bn"
+ },
+ "bca_G001_2007": {
+  "value": 218.0,
+  "how": "WEO BCA G001 2007, US$ bn"
+ },
+ "bca_G001_2008": {
+  "value": 112.0,
+  "how": "WEO BCA G001 2008, US$ bn"
+ },
+ "ca_USA_2002": {
+  "value": -4.1,
+  "how": "WEO BCA_NGDPD USA 2002, % of GDP"
+ },
+ "ca_USA_2006": {
+  "value": -5.8,
+  "how": "WEO BCA_NGDPD USA 2006, % of GDP"
+ },
+ "ca_USA_2007": {
+  "value": -5.0,
+  "how": "WEO BCA_NGDPD USA 2007, % of GDP"
+ },
+ "ca_CHN_2002": {
+  "value": 2.4,
+  "how": "WEO BCA_NGDPD CHN 2002, % of GDP"
+ },
+ "ca_CHN_2006": {
+  "value": 8.3,
+  "how": "WEO BCA_NGDPD CHN 2006, % of GDP"
+ },
+ "ca_CHN_2007": {
+  "value": 9.8,
+  "how": "WEO BCA_NGDPD CHN 2007, % of GDP"
+ },
+ "ca_DEU_2002": {
+  "value": 1.7,
+  "how": "WEO BCA_NGDPD DEU 2002, % of GDP"
+ },
+ "ca_DEU_2006": {
+  "value": 5.5,
+  "how": "WEO BCA_NGDPD DEU 2006, % of GDP"
+ },
+ "ca_DEU_2007": {
+  "value": 6.5,
+  "how": "WEO BCA_NGDPD DEU 2007, % of GDP"
+ },
+ "ca_JPN_2002": {
+  "value": 2.6,
+  "how": "WEO BCA_NGDPD JPN 2002, % of GDP"
+ },
+ "ca_JPN_2006": {
+  "value": 3.8,
+  "how": "WEO BCA_NGDPD JPN 2006, % of GDP"
+ },
+ "ca_JPN_2007": {
+  "value": 4.6,
+  "how": "WEO BCA_NGDPD JPN 2007, % of GDP"
+ },
+ "ca_IND_2002": {
+  "value": 1.2,
+  "how": "WEO BCA_NGDPD IND 2002, % of GDP"
+ },
+ "ca_IND_2006": {
+  "value": -1.0,
+  "how": "WEO BCA_NGDPD IND 2006, % of GDP"
+ },
+ "ca_IND_2007": {
+  "value": -1.3,
+  "how": "WEO BCA_NGDPD IND 2007, % of GDP"
+ },
+ "energy_2002": {
+  "value": 62.5,
+  "how": "WEO PNRGW 2002"
+ },
+ "energy_2008": {
+  "value": 232.6,
+  "how": "WEO PNRGW 2008"
+ },
+ "energy_x0208": {
+  "value": 3.7,
+  "how": "WEO PNRGW: 2008 \u00f7 2002"
+ },
+ "energy_x0207": {
+  "value": 2.7,
+  "how": "WEO PNRGW: 2007 \u00f7 2002"
+ },
+ "metals_2002": {
+  "value": 41.3,
+  "how": "WEO PMETAW 2002"
+ },
+ "metals_2008": {
+  "value": 144.3,
+  "how": "WEO PMETAW 2008"
+ },
+ "metals_x0208": {
+  "value": 3.5,
+  "how": "WEO PMETAW: 2008 \u00f7 2002"
+ },
+ "metals_x0207": {
+  "value": 3.9,
+  "how": "WEO PMETAW: 2007 \u00f7 2002"
+ },
+ "food_2002": {
+  "value": 62.7,
+  "how": "WEO PFOODW 2002"
+ },
+ "food_2008": {
+  "value": 110.4,
+  "how": "WEO PFOODW 2008"
+ },
+ "food_x0208": {
+  "value": 1.8,
+  "how": "WEO PFOODW: 2008 \u00f7 2002"
+ },
+ "food_x0207": {
+  "value": 1.5,
+  "how": "WEO PFOODW: 2007 \u00f7 2002"
+ },
+ "brent_2002": {
+  "value": 25.11,
+  "how": "WEO POILBRE 2002"
+ },
+ "brent_2008": {
+  "value": 97.33,
+  "how": "WEO POILBRE 2008"
+ },
+ "brent_x0208": {
+  "value": 3.9,
+  "how": "WEO POILBRE: 2008 \u00f7 2002"
+ },
+ "brent_x0207": {
+  "value": 2.9,
+  "how": "WEO POILBRE: 2007 \u00f7 2002"
+ },
+ "res_CHN_2002": {
+  "value": 298.0,
+  "how": "WDI FI.RES.TOTL.CD CHN 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_CHN_2007": {
+  "value": 1546.0,
+  "how": "WDI FI.RES.TOTL.CD CHN 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_CHN_2008": {
+  "value": 1966.0,
+  "how": "WDI FI.RES.TOTL.CD CHN 2008, US$ bn (end-year, incl. gold)"
+ },
+ "res_JPN_2002": {
+  "value": 470.0,
+  "how": "WDI FI.RES.TOTL.CD JPN 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_JPN_2007": {
+  "value": 973.0,
+  "how": "WDI FI.RES.TOTL.CD JPN 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_JPN_2008": {
+  "value": 1031.0,
+  "how": "WDI FI.RES.TOTL.CD JPN 2008, US$ bn (end-year, incl. gold)"
+ },
+ "res_IND_2002": {
+  "value": 72.0,
+  "how": "WDI FI.RES.TOTL.CD IND 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_IND_2007": {
+  "value": 277.0,
+  "how": "WDI FI.RES.TOTL.CD IND 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_IND_2008": {
+  "value": 257.0,
+  "how": "WDI FI.RES.TOTL.CD IND 2008, US$ bn (end-year, incl. gold)"
+ },
+ "res_RUS_2002": {
+  "value": 48.0,
+  "how": "WDI FI.RES.TOTL.CD RUS 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_RUS_2007": {
+  "value": 479.0,
+  "how": "WDI FI.RES.TOTL.CD RUS 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_RUS_2008": {
+  "value": 426.0,
+  "how": "WDI FI.RES.TOTL.CD RUS 2008, US$ bn (end-year, incl. gold)"
+ },
+ "res_SAU_2002": {
+  "value": 22.0,
+  "how": "WDI FI.RES.TOTL.CD SAU 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_SAU_2007": {
+  "value": 309.0,
+  "how": "WDI FI.RES.TOTL.CD SAU 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_SAU_2008": {
+  "value": 451.0,
+  "how": "WDI FI.RES.TOTL.CD SAU 2008, US$ bn (end-year, incl. gold)"
+ },
+ "res_KOR_2002": {
+  "value": 121.0,
+  "how": "WDI FI.RES.TOTL.CD KOR 2002, US$ bn (end-year, incl. gold)"
+ },
+ "res_KOR_2007": {
+  "value": 263.0,
+  "how": "WDI FI.RES.TOTL.CD KOR 2007, US$ bn (end-year, incl. gold)"
+ },
+ "res_KOR_2008": {
+  "value": 202.0,
+  "how": "WDI FI.RES.TOTL.CD KOR 2008, US$ bn (end-year, incl. gold)"
+ },
+ "us_hp_rise": {
+  "value": 85.0,
+  "how": "Case-Shiller US National (FRED CSUSHPINSA), Jan 2000 to peak 2006-07"
+ },
+ "us_hp_rise_0206": {
+  "value": 59.0,
+  "how": "Case-Shiller US National, Jan 2002 to peak 2006-07"
+ },
+ "us_hh_credit_2000": {
+  "value": 69.4,
+  "how": "BIS WS_TC household credit, US, % of GDP, 2000 Q1"
+ },
+ "us_hh_credit_2007": {
+  "value": 98.4,
+  "how": "BIS WS_TC household credit, US, % of GDP, 2007 Q4"
+ },
+ "uk_hh_credit_2000": {
+  "value": 63.1,
+  "how": "BIS WS_TC household credit, GB, % of GDP, 2000 Q1"
+ },
+ "uk_hh_credit_2007": {
+  "value": 94.3,
+  "how": "BIS WS_TC household credit, GB, % of GDP, 2007 Q4"
+ },
+ "spain_hh_credit_2000": {
+  "value": 43.1,
+  "how": "BIS WS_TC household credit, ES, % of GDP, 2000 Q1"
+ },
+ "spain_hh_credit_2007": {
+  "value": 81.9,
+  "how": "BIS WS_TC household credit, ES, % of GDP, 2007 Q4"
+ },
+ "ff_2003_low": {
+  "value": 0.98,
+  "how": "FRED FEDFUNDS, lowest monthly average 2003\u201304"
+ },
+ "ff_2006_high": {
+  "value": 5.26,
+  "how": "FRED FEDFUNDS, highest monthly average 2006\u201307"
+ },
+ "t10_2004_06": {
+  "value": 4.73,
+  "how": "FRED DGS10, monthly average June 2004"
+ },
+ "t10_2005_06": {
+  "value": 4.0,
+  "how": "FRED DGS10, monthly average June 2005"
+ },
+ "fed_2003_07": {
+  "value": 1.0,
+  "how": "BIS WS_CBPOL US, Jul 2003 (target held from Jun 2003 to May 2004)"
+ },
+ "fed_2006_07": {
+  "value": 5.25,
+  "how": "BIS WS_CBPOL US, Jul 2006 (reached Jun 2006, held to Aug 2007)"
+ },
+ "rbi_2004_10": {
+  "value": 6.0,
+  "how": "BIS WS_CBPOL IN, Oct 2004"
+ },
+ "rbi_2008_03": {
+  "value": 7.75,
+  "how": "BIS WS_CBPOL IN, Mar 2008"
+ },
+ "in_gdp04_avg0307": {
+  "value": 8.7,
+  "how": "India GDP at factor cost, 2004-05 base, average FY2003-04 to FY2007-08"
+ },
+ "in_gdp11_avg0307": {
+  "value": 7.9,
+  "how": "India real GDP, 2011-12 base (back series), average FY2003-04 to FY2007-08"
+ },
+ "in_gdp04_2005": {
+  "value": 9.5,
+  "how": "India GDP at factor cost growth, 2004-05 base, FY2005-06"
+ },
+ "in_gdp04_2006": {
+  "value": 9.6,
+  "how": "India GDP at factor cost growth, 2004-05 base, FY2006-07"
+ },
+ "in_gdp04_2007": {
+  "value": 9.3,
+  "how": "India GDP at factor cost growth, 2004-05 base, FY2007-08"
+ },
+ "in_gdp11_2006": {
+  "value": 8.1,
+  "how": "India real GDP growth, 2011-12 base back series, FY2006-07"
+ },
+ "in_gdp_2002": {
+  "value": 3.8,
+  "how": "India real GDP growth, 2011-12 base, FY2002-03"
+ },
+ "in_gfcf_2002": {
+  "value": 28.3,
+  "how": "India gfcf_gdp FY2002-03, % of GDP"
+ },
+ "in_gfcf_2003": {
+  "value": 28.3,
+  "how": "India gfcf_gdp FY2003-04, % of GDP"
+ },
+ "in_gfcf_2007": {
+  "value": 35.8,
+  "how": "India gfcf_gdp FY2007-08, % of GDP"
+ },
+ "in_sav_2002": {
+  "value": 26.8,
+  "how": "India sav_total_gdp FY2002-03, % of GDP"
+ },
+ "in_sav_2003": {
+  "value": 29.6,
+  "how": "India sav_total_gdp FY2003-04, % of GDP"
+ },
+ "in_sav_2007": {
+  "value": 37.8,
+  "how": "India sav_total_gdp FY2007-08, % of GDP"
+ },
+ "in_credit_2002": {
+  "value": 29.3,
+  "how": "India scb_credit_gdp FY2002-03, % of GDP"
+ },
+ "in_credit_2003": {
+  "value": 30.1,
+  "how": "India scb_credit_gdp FY2003-04, % of GDP"
+ },
+ "in_credit_2007": {
+  "value": 48.2,
+  "how": "India scb_credit_gdp FY2007-08, % of GDP"
+ },
+ "in_xgs_2002": {
+  "value": 14.3,
+  "how": "India exports_gs_gdp FY2002-03, % of GDP"
+ },
+ "in_xgs_2003": {
+  "value": 14.9,
+  "how": "India exports_gs_gdp FY2003-04, % of GDP"
+ },
+ "in_xgs_2007": {
+  "value": 20.8,
+  "how": "India exports_gs_gdp FY2007-08, % of GDP"
+ },
+ "in_mcap_2002": {
+  "value": 23.0,
+  "how": "India mcap_bse_gdp FY2002-03, % of GDP"
+ },
+ "in_mcap_2003": {
+  "value": 43.0,
+  "how": "India mcap_bse_gdp FY2003-04, % of GDP"
+ },
+ "in_mcap_2007": {
+  "value": 104.9,
+  "how": "India mcap_bse_gdp FY2007-08, % of GDP"
+ },
+ "in_res_2002": {
+  "value": 76.1,
+  "how": "India fx_reserves FY2002-03, US$ bn"
+ },
+ "in_res_2003": {
+  "value": 113.0,
+  "how": "India fx_reserves FY2003-04, US$ bn"
+ },
+ "in_res_2007": {
+  "value": 309.7,
+  "how": "India fx_reserves FY2007-08, US$ bn"
+ },
+ "in_exp_2002": {
+  "value": 52.7,
+  "how": "India exports_goods FY2002-03, US$ bn"
+ },
+ "in_exp_2003": {
+  "value": 63.8,
+  "how": "India exports_goods FY2003-04, US$ bn"
+ },
+ "in_exp_2007": {
+  "value": 163.1,
+  "how": "India exports_goods FY2007-08, US$ bn"
+ },
+ "in_oil_2002": {
+  "value": 17.6,
+  "how": "India oil_imports FY2002-03, US$ bn"
+ },
+ "in_oil_2003": {
+  "value": 20.6,
+  "how": "India oil_imports FY2003-04, US$ bn"
+ },
+ "in_oil_2007": {
+  "value": 79.6,
+  "how": "India oil_imports FY2007-08, US$ bn"
+ },
+ "in_fi_2002": {
+  "value": 6.0,
+  "how": "India bop_fi FY2002-03, US$ bn"
+ },
+ "in_fi_2003": {
+  "value": 15.7,
+  "how": "India bop_fi FY2003-04, US$ bn"
+ },
+ "in_fi_2007": {
+  "value": 62.0,
+  "how": "India bop_fi FY2007-08, US$ bn"
+ },
+ "in_chinaimp_2003": {
+  "value": 4.1,
+  "how": "India imports_from_china FY2003-04, US$ bn"
+ },
+ "in_chinaimp_2007": {
+  "value": 27.1,
+  "how": "India imports_from_china FY2007-08, US$ bn"
+ },
+ "in_fpi_2007": {
+  "value": 27.4,
+  "how": "India net portfolio investment FY2007-08, US$ bn"
+ },
+ "in_fdi_2007": {
+  "value": 15.9,
+  "how": "India net FDI FY2007-08, US$ bn"
+ },
+ "in_fdi_2004": {
+  "value": 3.7,
+  "how": "India net FDI FY2004-05, US$ bn"
+ },
+ "in_svc_2007": {
+  "value": 90.3,
+  "how": "India gross services exports FY2007-08, US$ bn"
+ },
+ "in_sensex_x": {
+  "value": 5.2,
+  "how": "BSE Sensex, FY2007-08 average \u00f7 FY2002-03 average"
+ },
+ "in_sensex_2002": {
+  "value": 3206.0,
+  "how": "BSE Sensex average FY2002-03"
+ },
+ "in_sensex_2007": {
+  "value": 16569.0,
+  "how": "BSE Sensex average FY2007-08"
+ },
+ "in_inr_2002": {
+  "value": 48.4,
+  "how": "Rupees per US dollar, FY2002-03 average"
+ },
+ "in_inr_2007": {
+  "value": 40.3,
+  "how": "Rupees per US dollar, FY2007-08 average"
+ },
+ "in_cfd_2002": {
+  "value": 5.8,
+  "how": "India centre_fd_gdp FY2002-03, % of GDP"
+ },
+ "in_cfd_2003": {
+  "value": 4.4,
+  "how": "India centre_fd_gdp FY2003-04, % of GDP"
+ },
+ "in_cfd_2007": {
+  "value": 2.6,
+  "how": "India centre_fd_gdp FY2007-08, % of GDP"
+ },
+ "in_ggfd_2002": {
+  "value": 9.4,
+  "how": "India gg_fd_gdp FY2002-03, % of GDP"
+ },
+ "in_ggfd_2003": {
+  "value": 8.4,
+  "how": "India gg_fd_gdp FY2003-04, % of GDP"
+ },
+ "in_ggfd_2007": {
+  "value": 4.1,
+  "how": "India gg_fd_gdp FY2007-08, % of GDP"
+ },
+ "in_ggdebt_2002": {
+  "value": 84.3,
+  "how": "India gg_debt_gdp FY2002-03, % of GDP"
+ },
+ "in_ggdebt_2003": {
+  "value": 84.7,
+  "how": "India gg_debt_gdp FY2003-04, % of GDP"
+ },
+ "in_ggdebt_2007": {
+  "value": 72.7,
+  "how": "India gg_debt_gdp FY2007-08, % of GDP"
+ },
+ "in_cab_2002": {
+  "value": 1.2,
+  "how": "India cab_gdp FY2002-03, % of GDP"
+ },
+ "in_cab_2003": {
+  "value": 2.3,
+  "how": "India cab_gdp FY2003-04, % of GDP"
+ },
+ "in_cab_2007": {
+  "value": -1.3,
+  "how": "India cab_gdp FY2007-08, % of GDP"
+ },
+ "in_wpi_2007": {
+  "value": 4.7,
+  "how": "India WPI inflation FY2007-08 (2004-05 base)"
+ },
+ "in_cpi_2007": {
+  "value": 6.4,
+  "how": "India CPI-IW inflation FY2007-08"
+ }
+}

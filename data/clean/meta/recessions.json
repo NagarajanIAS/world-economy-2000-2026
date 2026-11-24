@@ -1,0 +1,1 @@
+{"id":"meta/recessions","source":"World: years in which World real GDP per capita (WDI NY.GDP.PCAP.KD, constant US$) fell; US: NBER-based recession months (FRED USREC).","data":{"world":[["1991-01","1991-12"],["2009-01","2009-12"],["2020-01","2020-12"]],"us":[["1990-08","1991-03"],["2001-04","2001-11"],["2008-01","2009-06"],["2020-03","2020-04"]]}}

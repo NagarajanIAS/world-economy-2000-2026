@@ -1,0 +1,5523 @@
+{
+ "g_avg_bra_0007": {
+  "value": 3.6,
+  "how": "Brazil real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_bra_1019": {
+  "value": 1.4,
+  "how": "Brazil real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_bra_2025": {
+  "value": 2.2,
+  "how": "Brazil real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_bra_0025": {
+  "value": 2.4,
+  "how": "Brazil real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_mex_0007": {
+  "value": 2.3,
+  "how": "Mexico real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_mex_1019": {
+  "value": 2.3,
+  "how": "Mexico real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_mex_2025": {
+  "value": 1.1,
+  "how": "Mexico real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_mex_0025": {
+  "value": 1.6,
+  "how": "Mexico real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_idn_0007": {
+  "value": 5.1,
+  "how": "Indonesia real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_idn_1019": {
+  "value": 5.4,
+  "how": "Indonesia real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_idn_2025": {
+  "value": 3.7,
+  "how": "Indonesia real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_idn_0025": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_tur_0007": {
+  "value": 5.6,
+  "how": "T\u00fcrkiye real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_tur_1019": {
+  "value": 5.9,
+  "how": "T\u00fcrkiye real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_tur_2025": {
+  "value": 5.2,
+  "how": "T\u00fcrkiye real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_tur_0025": {
+  "value": 5.1,
+  "how": "T\u00fcrkiye real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_zaf_0007": {
+  "value": 4.3,
+  "how": "South Africa real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_zaf_1019": {
+  "value": 1.7,
+  "how": "South Africa real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_zaf_2025": {
+  "value": 0.5,
+  "how": "South Africa real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_zaf_0025": {
+  "value": 2.2,
+  "how": "South Africa real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_rus_0007": {
+  "value": 7.2,
+  "how": "Russia real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_rus_1019": {
+  "value": 2.0,
+  "how": "Russia real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_rus_2025": {
+  "value": 2.0,
+  "how": "Russia real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_rus_0025": {
+  "value": 3.3,
+  "how": "Russia real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_sau_0007": {
+  "value": 4.2,
+  "how": "Saudi Arabia real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_sau_1019": {
+  "value": 4.2,
+  "how": "Saudi Arabia real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_sau_2025": {
+  "value": 3.8,
+  "how": "Saudi Arabia real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_sau_0025": {
+  "value": 4.0,
+  "how": "Saudi Arabia real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_are_0007": {
+  "value": 6.5,
+  "how": "UAE real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_are_1019": {
+  "value": 4.3,
+  "how": "UAE real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_are_2025": {
+  "value": 3.4,
+  "how": "UAE real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_are_0025": {
+  "value": 4.4,
+  "how": "UAE real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_ind_0007": {
+  "value": 6.5,
+  "how": "India real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_ind_1019": {
+  "value": 6.6,
+  "how": "India real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_ind_2025": {
+  "value": 5.6,
+  "how": "India real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_ind_0025": {
+  "value": 6.3,
+  "how": "India real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_chn_0007": {
+  "value": 10.6,
+  "how": "China real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_chn_1019": {
+  "value": 7.7,
+  "how": "China real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_chn_2025": {
+  "value": 4.9,
+  "how": "China real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_chn_0025": {
+  "value": 8.1,
+  "how": "China real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_g200_0007": {
+  "value": 6.3,
+  "how": "EMDEs real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_g200_1019": {
+  "value": 5.0,
+  "how": "EMDEs real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_g200_2025": {
+  "value": 3.8,
+  "how": "EMDEs real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_g200_0025": {
+  "value": 5.1,
+  "how": "EMDEs real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_avg_g001_0007": {
+  "value": 4.3,
+  "how": "world real GDP growth, average 2000-2007 (WEO Oct 2026)"
+ },
+ "g_avg_g001_1019": {
+  "value": 3.7,
+  "how": "world real GDP growth, average 2010-2019 (WEO Oct 2026)"
+ },
+ "g_avg_g001_2025": {
+  "value": 3.0,
+  "how": "world real GDP growth, average 2020-2025 (WEO Oct 2026)"
+ },
+ "g_avg_g001_0025": {
+  "value": 3.5,
+  "how": "world real GDP growth, average 2000-2025 (WEO Oct 2026)"
+ },
+ "g_bra_2015": {
+  "value": -3.5,
+  "how": "Brazil real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "g_bra_2016": {
+  "value": -3.3,
+  "how": "Brazil real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "g_bra_2020": {
+  "value": -3.3,
+  "how": "Brazil real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "g_bra_2025": {
+  "value": 2.3,
+  "how": "Brazil real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_mex_2009": {
+  "value": -6.3,
+  "how": "Mexico real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "g_mex_2020": {
+  "value": -8.4,
+  "how": "Mexico real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "g_mex_2025": {
+  "value": 0.5,
+  "how": "Mexico real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_mex_2026": {
+  "value": 1.5,
+  "how": "Mexico real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_idn_2020": {
+  "value": -2.1,
+  "how": "Indonesia real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "g_idn_2025": {
+  "value": 5.1,
+  "how": "Indonesia real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_tur_2001": {
+  "value": -5.5,
+  "how": "T\u00fcrkiye real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "g_tur_2009": {
+  "value": -4.9,
+  "how": "T\u00fcrkiye real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "g_tur_2021": {
+  "value": 11.8,
+  "how": "T\u00fcrkiye real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "g_tur_2025": {
+  "value": 3.7,
+  "how": "T\u00fcrkiye real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_zaf_2009": {
+  "value": -1.5,
+  "how": "South Africa real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "g_zaf_2020": {
+  "value": -6.2,
+  "how": "South Africa real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "g_zaf_2025": {
+  "value": 1.1,
+  "how": "South Africa real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_rus_2009": {
+  "value": -7.8,
+  "how": "Russia real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "g_rus_2015": {
+  "value": -2.0,
+  "how": "Russia real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "g_rus_2022": {
+  "value": -1.4,
+  "how": "Russia real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "g_rus_2023": {
+  "value": 4.1,
+  "how": "Russia real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "g_rus_2024": {
+  "value": 4.9,
+  "how": "Russia real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "g_rus_2025": {
+  "value": 1.0,
+  "how": "Russia real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_rus_2026": {
+  "value": 0.9,
+  "how": "Russia real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_sau_2009": {
+  "value": -1.1,
+  "how": "Saudi Arabia real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "g_sau_2022": {
+  "value": 12.0,
+  "how": "Saudi Arabia real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "g_sau_2025": {
+  "value": 4.6,
+  "how": "Saudi Arabia real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "g_sau_2026": {
+  "value": -3.3,
+  "how": "Saudi Arabia real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_are_2026": {
+  "value": -3.9,
+  "how": "UAE real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_g200_2026": {
+  "value": 3.7,
+  "how": "EMDEs real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "cpi_tur_2000": {
+  "value": 55.0,
+  "how": "T\u00fcrkiye consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "cpi_tur_2002": {
+  "value": 45.1,
+  "how": "T\u00fcrkiye consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "cpi_tur_2005": {
+  "value": 8.1,
+  "how": "T\u00fcrkiye consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "cpi_tur_2010": {
+  "value": 8.6,
+  "how": "T\u00fcrkiye consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "cpi_tur_2018": {
+  "value": 16.3,
+  "how": "T\u00fcrkiye consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "cpi_tur_2021": {
+  "value": 19.6,
+  "how": "T\u00fcrkiye consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "cpi_tur_2022": {
+  "value": 72.3,
+  "how": "T\u00fcrkiye consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "cpi_tur_2023": {
+  "value": 53.9,
+  "how": "T\u00fcrkiye consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "cpi_tur_2025": {
+  "value": 34.9,
+  "how": "T\u00fcrkiye consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_tur_2026": {
+  "value": 31.2,
+  "how": "T\u00fcrkiye consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "cpi_bra_2002": {
+  "value": 8.4,
+  "how": "Brazil consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "cpi_bra_2003": {
+  "value": 14.7,
+  "how": "Brazil consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "cpi_bra_2015": {
+  "value": 9.0,
+  "how": "Brazil consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "cpi_bra_2025": {
+  "value": 5.0,
+  "how": "Brazil consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_rus_2000": {
+  "value": 20.8,
+  "how": "Russia consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "cpi_rus_2015": {
+  "value": 15.5,
+  "how": "Russia consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "cpi_rus_2022": {
+  "value": 13.8,
+  "how": "Russia consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "cpi_rus_2025": {
+  "value": 8.7,
+  "how": "Russia consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2025": {
+  "value": 3.2,
+  "how": "South Africa consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_mex_2022": {
+  "value": 7.9,
+  "how": "Mexico consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "cpi_mex_2025": {
+  "value": 3.8,
+  "how": "Mexico consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_idn_2005": {
+  "value": 10.5,
+  "how": "Indonesia consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "cpi_idn_2025": {
+  "value": 1.9,
+  "how": "Indonesia consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_sau_2025": {
+  "value": 2.0,
+  "how": "Saudi Arabia consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_g200_2022": {
+  "value": 9.6,
+  "how": "EMDEs consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "cpi_g200_2025": {
+  "value": 5.2,
+  "how": "EMDEs consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_tur_pk": {
+  "value": 72.3,
+  "how": "T\u00fcrkiye inflation, peak 2010-2025 (2022)"
+ },
+ "cpi_tur_pk_y": {
+  "value": 2022,
+  "how": "year"
+ },
+ "g_bra_2000": {
+  "value": 4.4,
+  "how": "Brazil real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_bra_2000": {
+  "value": 7.0,
+  "how": "Brazil consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_bra_2001": {
+  "value": 1.4,
+  "how": "Brazil real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_bra_2001": {
+  "value": 6.8,
+  "how": "Brazil consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_bra_2002": {
+  "value": 3.1,
+  "how": "Brazil real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "g_bra_2003": {
+  "value": 1.1,
+  "how": "Brazil real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "g_bra_2004": {
+  "value": 5.8,
+  "how": "Brazil real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_bra_2004": {
+  "value": 6.6,
+  "how": "Brazil consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_bra_2005": {
+  "value": 3.2,
+  "how": "Brazil real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_bra_2005": {
+  "value": 6.9,
+  "how": "Brazil consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_bra_2006": {
+  "value": 4.0,
+  "how": "Brazil real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_bra_2006": {
+  "value": 4.2,
+  "how": "Brazil consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_bra_2007": {
+  "value": 6.1,
+  "how": "Brazil real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_bra_2007": {
+  "value": 3.6,
+  "how": "Brazil consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_bra_2008": {
+  "value": 5.1,
+  "how": "Brazil real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_bra_2008": {
+  "value": 5.7,
+  "how": "Brazil consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "g_bra_2009": {
+  "value": -0.1,
+  "how": "Brazil real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "cpi_bra_2009": {
+  "value": 4.9,
+  "how": "Brazil consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_bra_2010": {
+  "value": 7.5,
+  "how": "Brazil real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_bra_2010": {
+  "value": 5.0,
+  "how": "Brazil consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_bra_2011": {
+  "value": 4.0,
+  "how": "Brazil real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_bra_2011": {
+  "value": 6.6,
+  "how": "Brazil consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_bra_2012": {
+  "value": 1.9,
+  "how": "Brazil real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_bra_2012": {
+  "value": 5.4,
+  "how": "Brazil consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_bra_2013": {
+  "value": 3.0,
+  "how": "Brazil real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_bra_2013": {
+  "value": 6.2,
+  "how": "Brazil consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_bra_2014": {
+  "value": 0.5,
+  "how": "Brazil real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_bra_2014": {
+  "value": 6.3,
+  "how": "Brazil consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "cpi_bra_2016": {
+  "value": 8.7,
+  "how": "Brazil consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_bra_2017": {
+  "value": 1.3,
+  "how": "Brazil real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_bra_2017": {
+  "value": 3.4,
+  "how": "Brazil consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_bra_2018": {
+  "value": 1.8,
+  "how": "Brazil real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_bra_2018": {
+  "value": 3.7,
+  "how": "Brazil consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_bra_2019": {
+  "value": 1.2,
+  "how": "Brazil real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_bra_2019": {
+  "value": 3.7,
+  "how": "Brazil consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "cpi_bra_2020": {
+  "value": 3.2,
+  "how": "Brazil consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_bra_2021": {
+  "value": 4.8,
+  "how": "Brazil real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_bra_2021": {
+  "value": 8.3,
+  "how": "Brazil consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "g_bra_2022": {
+  "value": 3.0,
+  "how": "Brazil real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "cpi_bra_2022": {
+  "value": 9.3,
+  "how": "Brazil consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "g_bra_2023": {
+  "value": 3.2,
+  "how": "Brazil real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_bra_2023": {
+  "value": 4.6,
+  "how": "Brazil consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_bra_2024": {
+  "value": 3.4,
+  "how": "Brazil real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_bra_2024": {
+  "value": 4.4,
+  "how": "Brazil consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "g_bra_2026": {
+  "value": 2.2,
+  "how": "Brazil real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "cpi_bra_2026": {
+  "value": 4.4,
+  "how": "Brazil consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_mex_2000": {
+  "value": 5.0,
+  "how": "Mexico real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_mex_2000": {
+  "value": 9.5,
+  "how": "Mexico consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_mex_2001": {
+  "value": -0.5,
+  "how": "Mexico real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_mex_2001": {
+  "value": 6.4,
+  "how": "Mexico consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_mex_2002": {
+  "value": -0.2,
+  "how": "Mexico real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_mex_2002": {
+  "value": 5.0,
+  "how": "Mexico consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_mex_2003": {
+  "value": 1.2,
+  "how": "Mexico real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_mex_2003": {
+  "value": 4.5,
+  "how": "Mexico consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_mex_2004": {
+  "value": 3.6,
+  "how": "Mexico real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_mex_2004": {
+  "value": 4.7,
+  "how": "Mexico consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_mex_2005": {
+  "value": 2.1,
+  "how": "Mexico real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_mex_2005": {
+  "value": 4.0,
+  "how": "Mexico consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_mex_2006": {
+  "value": 4.8,
+  "how": "Mexico real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_mex_2006": {
+  "value": 3.6,
+  "how": "Mexico consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_mex_2007": {
+  "value": 2.1,
+  "how": "Mexico real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_mex_2007": {
+  "value": 4.0,
+  "how": "Mexico consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_mex_2008": {
+  "value": 0.9,
+  "how": "Mexico real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_mex_2008": {
+  "value": 5.1,
+  "how": "Mexico consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "cpi_mex_2009": {
+  "value": 5.3,
+  "how": "Mexico consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_mex_2010": {
+  "value": 5.0,
+  "how": "Mexico real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_mex_2010": {
+  "value": 4.2,
+  "how": "Mexico consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_mex_2011": {
+  "value": 3.4,
+  "how": "Mexico real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_mex_2011": {
+  "value": 3.4,
+  "how": "Mexico consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_mex_2012": {
+  "value": 3.6,
+  "how": "Mexico real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_mex_2012": {
+  "value": 4.1,
+  "how": "Mexico consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_mex_2013": {
+  "value": 0.9,
+  "how": "Mexico real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_mex_2013": {
+  "value": 3.8,
+  "how": "Mexico consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_mex_2014": {
+  "value": 2.5,
+  "how": "Mexico real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_mex_2014": {
+  "value": 4.0,
+  "how": "Mexico consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_mex_2015": {
+  "value": 2.7,
+  "how": "Mexico real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_mex_2015": {
+  "value": 2.7,
+  "how": "Mexico consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_mex_2016": {
+  "value": 1.8,
+  "how": "Mexico real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_mex_2016": {
+  "value": 2.8,
+  "how": "Mexico consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_mex_2017": {
+  "value": 1.9,
+  "how": "Mexico real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_mex_2017": {
+  "value": 6.0,
+  "how": "Mexico consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_mex_2018": {
+  "value": 2.0,
+  "how": "Mexico real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_mex_2018": {
+  "value": 4.9,
+  "how": "Mexico consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_mex_2019": {
+  "value": -0.4,
+  "how": "Mexico real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_mex_2019": {
+  "value": 3.6,
+  "how": "Mexico consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "cpi_mex_2020": {
+  "value": 3.4,
+  "how": "Mexico consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_mex_2021": {
+  "value": 6.0,
+  "how": "Mexico real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_mex_2021": {
+  "value": 5.7,
+  "how": "Mexico consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "g_mex_2022": {
+  "value": 3.7,
+  "how": "Mexico real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "g_mex_2023": {
+  "value": 3.1,
+  "how": "Mexico real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_mex_2023": {
+  "value": 5.5,
+  "how": "Mexico consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_mex_2024": {
+  "value": 1.5,
+  "how": "Mexico real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_mex_2024": {
+  "value": 4.7,
+  "how": "Mexico consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "cpi_mex_2026": {
+  "value": 3.8,
+  "how": "Mexico consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_idn_2000": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_idn_2000": {
+  "value": 3.7,
+  "how": "Indonesia consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_idn_2001": {
+  "value": 3.6,
+  "how": "Indonesia real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_idn_2001": {
+  "value": 11.5,
+  "how": "Indonesia consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_idn_2002": {
+  "value": 4.5,
+  "how": "Indonesia real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_idn_2002": {
+  "value": 11.9,
+  "how": "Indonesia consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_idn_2003": {
+  "value": 4.8,
+  "how": "Indonesia real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_idn_2003": {
+  "value": 6.8,
+  "how": "Indonesia consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_idn_2004": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_idn_2004": {
+  "value": 6.1,
+  "how": "Indonesia consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_idn_2005": {
+  "value": 5.7,
+  "how": "Indonesia real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "g_idn_2006": {
+  "value": 5.5,
+  "how": "Indonesia real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_idn_2006": {
+  "value": 13.1,
+  "how": "Indonesia consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_idn_2007": {
+  "value": 6.3,
+  "how": "Indonesia real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_idn_2007": {
+  "value": 6.3,
+  "how": "Indonesia consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_idn_2008": {
+  "value": 7.4,
+  "how": "Indonesia real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_idn_2008": {
+  "value": 9.9,
+  "how": "Indonesia consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "g_idn_2009": {
+  "value": 4.7,
+  "how": "Indonesia real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "cpi_idn_2009": {
+  "value": 4.8,
+  "how": "Indonesia consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_idn_2010": {
+  "value": 6.4,
+  "how": "Indonesia real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_idn_2010": {
+  "value": 5.1,
+  "how": "Indonesia consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_idn_2011": {
+  "value": 6.2,
+  "how": "Indonesia real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_idn_2011": {
+  "value": 5.3,
+  "how": "Indonesia consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_idn_2012": {
+  "value": 6.0,
+  "how": "Indonesia real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_idn_2012": {
+  "value": 4.0,
+  "how": "Indonesia consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_idn_2013": {
+  "value": 5.6,
+  "how": "Indonesia real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_idn_2013": {
+  "value": 6.4,
+  "how": "Indonesia consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_idn_2014": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_idn_2014": {
+  "value": 6.4,
+  "how": "Indonesia consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_idn_2015": {
+  "value": 4.9,
+  "how": "Indonesia real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_idn_2015": {
+  "value": 6.4,
+  "how": "Indonesia consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_idn_2016": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_idn_2016": {
+  "value": 3.5,
+  "how": "Indonesia consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_idn_2017": {
+  "value": 5.1,
+  "how": "Indonesia real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_idn_2017": {
+  "value": 3.8,
+  "how": "Indonesia consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_idn_2018": {
+  "value": 5.2,
+  "how": "Indonesia real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_idn_2018": {
+  "value": 3.3,
+  "how": "Indonesia consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_idn_2019": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_idn_2019": {
+  "value": 2.8,
+  "how": "Indonesia consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "cpi_idn_2020": {
+  "value": 2.0,
+  "how": "Indonesia consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_idn_2021": {
+  "value": 3.7,
+  "how": "Indonesia real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_idn_2021": {
+  "value": 1.6,
+  "how": "Indonesia consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "g_idn_2022": {
+  "value": 5.3,
+  "how": "Indonesia real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "cpi_idn_2022": {
+  "value": 4.1,
+  "how": "Indonesia consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "g_idn_2023": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_idn_2023": {
+  "value": 3.7,
+  "how": "Indonesia consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_idn_2024": {
+  "value": 5.0,
+  "how": "Indonesia real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_idn_2024": {
+  "value": 2.3,
+  "how": "Indonesia consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "g_idn_2026": {
+  "value": 5.1,
+  "how": "Indonesia real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "cpi_idn_2026": {
+  "value": 3.3,
+  "how": "Indonesia consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_tur_2000": {
+  "value": 7.0,
+  "how": "T\u00fcrkiye real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_tur_2001": {
+  "value": 54.2,
+  "how": "T\u00fcrkiye consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_tur_2002": {
+  "value": 6.4,
+  "how": "T\u00fcrkiye real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "g_tur_2003": {
+  "value": 5.8,
+  "how": "T\u00fcrkiye real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_tur_2003": {
+  "value": 25.3,
+  "how": "T\u00fcrkiye consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_tur_2004": {
+  "value": 9.9,
+  "how": "T\u00fcrkiye real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_tur_2004": {
+  "value": 8.6,
+  "how": "T\u00fcrkiye consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_tur_2005": {
+  "value": 9.1,
+  "how": "T\u00fcrkiye real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "g_tur_2006": {
+  "value": 7.1,
+  "how": "T\u00fcrkiye real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_tur_2006": {
+  "value": 9.6,
+  "how": "T\u00fcrkiye consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_tur_2007": {
+  "value": 5.1,
+  "how": "T\u00fcrkiye real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_tur_2007": {
+  "value": 8.8,
+  "how": "T\u00fcrkiye consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_tur_2008": {
+  "value": 0.9,
+  "how": "T\u00fcrkiye real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_tur_2008": {
+  "value": 10.4,
+  "how": "T\u00fcrkiye consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "cpi_tur_2009": {
+  "value": 6.2,
+  "how": "T\u00fcrkiye consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_tur_2010": {
+  "value": 8.5,
+  "how": "T\u00fcrkiye real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "g_tur_2011": {
+  "value": 11.0,
+  "how": "T\u00fcrkiye real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_tur_2011": {
+  "value": 6.5,
+  "how": "T\u00fcrkiye consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_tur_2012": {
+  "value": 4.8,
+  "how": "T\u00fcrkiye real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_tur_2012": {
+  "value": 8.9,
+  "how": "T\u00fcrkiye consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_tur_2013": {
+  "value": 8.5,
+  "how": "T\u00fcrkiye real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_tur_2013": {
+  "value": 7.5,
+  "how": "T\u00fcrkiye consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_tur_2014": {
+  "value": 4.6,
+  "how": "T\u00fcrkiye real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_tur_2014": {
+  "value": 8.9,
+  "how": "T\u00fcrkiye consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_tur_2015": {
+  "value": 5.8,
+  "how": "T\u00fcrkiye real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_tur_2015": {
+  "value": 7.7,
+  "how": "T\u00fcrkiye consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_tur_2016": {
+  "value": 3.3,
+  "how": "T\u00fcrkiye real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_tur_2016": {
+  "value": 7.8,
+  "how": "T\u00fcrkiye consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_tur_2017": {
+  "value": 7.8,
+  "how": "T\u00fcrkiye real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_tur_2017": {
+  "value": 11.2,
+  "how": "T\u00fcrkiye consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_tur_2018": {
+  "value": 3.5,
+  "how": "T\u00fcrkiye real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "g_tur_2019": {
+  "value": 1.3,
+  "how": "T\u00fcrkiye real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_tur_2019": {
+  "value": 15.2,
+  "how": "T\u00fcrkiye consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "g_tur_2020": {
+  "value": 1.8,
+  "how": "T\u00fcrkiye real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "cpi_tur_2020": {
+  "value": 12.3,
+  "how": "T\u00fcrkiye consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_tur_2022": {
+  "value": 5.4,
+  "how": "T\u00fcrkiye real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "g_tur_2023": {
+  "value": 5.0,
+  "how": "T\u00fcrkiye real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "g_tur_2024": {
+  "value": 3.5,
+  "how": "T\u00fcrkiye real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_tur_2024": {
+  "value": 58.5,
+  "how": "T\u00fcrkiye consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "g_tur_2026": {
+  "value": 2.6,
+  "how": "T\u00fcrkiye real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_zaf_2000": {
+  "value": 4.2,
+  "how": "South Africa real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2000": {
+  "value": 5.3,
+  "how": "South Africa consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_zaf_2001": {
+  "value": 2.7,
+  "how": "South Africa real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2001": {
+  "value": 5.7,
+  "how": "South Africa consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_zaf_2002": {
+  "value": 3.7,
+  "how": "South Africa real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2002": {
+  "value": 9.1,
+  "how": "South Africa consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_zaf_2003": {
+  "value": 2.9,
+  "how": "South Africa real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2003": {
+  "value": 5.9,
+  "how": "South Africa consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_zaf_2004": {
+  "value": 4.6,
+  "how": "South Africa real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2004": {
+  "value": 1.4,
+  "how": "South Africa consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_zaf_2005": {
+  "value": 5.3,
+  "how": "South Africa real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2005": {
+  "value": 3.4,
+  "how": "South Africa consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_zaf_2006": {
+  "value": 5.6,
+  "how": "South Africa real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2006": {
+  "value": 4.7,
+  "how": "South Africa consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_zaf_2007": {
+  "value": 5.4,
+  "how": "South Africa real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2007": {
+  "value": 7.1,
+  "how": "South Africa consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_zaf_2008": {
+  "value": 3.2,
+  "how": "South Africa real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2008": {
+  "value": 10.9,
+  "how": "South Africa consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2009": {
+  "value": 7.2,
+  "how": "South Africa consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_zaf_2010": {
+  "value": 3.0,
+  "how": "South Africa real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2010": {
+  "value": 4.2,
+  "how": "South Africa consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_zaf_2011": {
+  "value": 3.2,
+  "how": "South Africa real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2011": {
+  "value": 5.0,
+  "how": "South Africa consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_zaf_2012": {
+  "value": 2.4,
+  "how": "South Africa real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2012": {
+  "value": 5.7,
+  "how": "South Africa consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_zaf_2013": {
+  "value": 2.5,
+  "how": "South Africa real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2013": {
+  "value": 5.7,
+  "how": "South Africa consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_zaf_2014": {
+  "value": 1.4,
+  "how": "South Africa real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2014": {
+  "value": 6.1,
+  "how": "South Africa consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_zaf_2015": {
+  "value": 1.3,
+  "how": "South Africa real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2015": {
+  "value": 4.6,
+  "how": "South Africa consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_zaf_2016": {
+  "value": 0.7,
+  "how": "South Africa real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2016": {
+  "value": 6.3,
+  "how": "South Africa consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_zaf_2017": {
+  "value": 1.2,
+  "how": "South Africa real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2017": {
+  "value": 5.3,
+  "how": "South Africa consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_zaf_2018": {
+  "value": 1.6,
+  "how": "South Africa real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2018": {
+  "value": 4.6,
+  "how": "South Africa consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_zaf_2019": {
+  "value": 0.3,
+  "how": "South Africa real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2019": {
+  "value": 4.1,
+  "how": "South Africa consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2020": {
+  "value": 3.3,
+  "how": "South Africa consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_zaf_2021": {
+  "value": 4.9,
+  "how": "South Africa real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2021": {
+  "value": 4.6,
+  "how": "South Africa consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "g_zaf_2022": {
+  "value": 2.1,
+  "how": "South Africa real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2022": {
+  "value": 6.9,
+  "how": "South Africa consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "g_zaf_2023": {
+  "value": 0.8,
+  "how": "South Africa real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2023": {
+  "value": 5.9,
+  "how": "South Africa consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_zaf_2024": {
+  "value": 0.5,
+  "how": "South Africa real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_zaf_2024": {
+  "value": 4.4,
+  "how": "South Africa consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "g_zaf_2026": {
+  "value": 1.0,
+  "how": "South Africa real GDP growth, 2026 (WEO Oct 2026, projection)"
+ },
+ "cpi_zaf_2026": {
+  "value": 4.4,
+  "how": "South Africa consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_rus_2000": {
+  "value": 10.1,
+  "how": "Russia real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "g_rus_2001": {
+  "value": 5.1,
+  "how": "Russia real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_rus_2001": {
+  "value": 21.5,
+  "how": "Russia consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_rus_2002": {
+  "value": 4.7,
+  "how": "Russia real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_rus_2002": {
+  "value": 15.8,
+  "how": "Russia consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_rus_2003": {
+  "value": 7.4,
+  "how": "Russia real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_rus_2003": {
+  "value": 13.7,
+  "how": "Russia consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_rus_2004": {
+  "value": 7.1,
+  "how": "Russia real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_rus_2004": {
+  "value": 10.9,
+  "how": "Russia consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_rus_2005": {
+  "value": 6.4,
+  "how": "Russia real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_rus_2005": {
+  "value": 12.7,
+  "how": "Russia consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_rus_2006": {
+  "value": 8.2,
+  "how": "Russia real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_rus_2006": {
+  "value": 9.7,
+  "how": "Russia consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_rus_2007": {
+  "value": 8.6,
+  "how": "Russia real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_rus_2007": {
+  "value": 9.0,
+  "how": "Russia consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_rus_2008": {
+  "value": 5.2,
+  "how": "Russia real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_rus_2008": {
+  "value": 14.1,
+  "how": "Russia consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "cpi_rus_2009": {
+  "value": 11.6,
+  "how": "Russia consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_rus_2010": {
+  "value": 4.5,
+  "how": "Russia real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_rus_2010": {
+  "value": 6.8,
+  "how": "Russia consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_rus_2011": {
+  "value": 4.0,
+  "how": "Russia real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_rus_2011": {
+  "value": 8.4,
+  "how": "Russia consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_rus_2012": {
+  "value": 4.0,
+  "how": "Russia real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_rus_2012": {
+  "value": 5.1,
+  "how": "Russia consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_rus_2013": {
+  "value": 1.8,
+  "how": "Russia real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_rus_2013": {
+  "value": 6.8,
+  "how": "Russia consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_rus_2014": {
+  "value": 0.7,
+  "how": "Russia real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_rus_2014": {
+  "value": 7.8,
+  "how": "Russia consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_rus_2016": {
+  "value": 0.2,
+  "how": "Russia real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_rus_2016": {
+  "value": 7.0,
+  "how": "Russia consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_rus_2017": {
+  "value": 1.8,
+  "how": "Russia real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_rus_2017": {
+  "value": 3.7,
+  "how": "Russia consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_rus_2018": {
+  "value": 2.8,
+  "how": "Russia real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_rus_2018": {
+  "value": 2.9,
+  "how": "Russia consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_rus_2019": {
+  "value": 2.2,
+  "how": "Russia real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_rus_2019": {
+  "value": 4.5,
+  "how": "Russia consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "g_rus_2020": {
+  "value": -2.7,
+  "how": "Russia real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "cpi_rus_2020": {
+  "value": 3.4,
+  "how": "Russia consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_rus_2021": {
+  "value": 5.9,
+  "how": "Russia real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_rus_2021": {
+  "value": 6.7,
+  "how": "Russia consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "cpi_rus_2023": {
+  "value": 5.9,
+  "how": "Russia consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "cpi_rus_2024": {
+  "value": 8.4,
+  "how": "Russia consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "cpi_rus_2026": {
+  "value": 6.1,
+  "how": "Russia consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_sau_2000": {
+  "value": 4.7,
+  "how": "Saudi Arabia real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_sau_2000": {
+  "value": -1.0,
+  "how": "Saudi Arabia consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_sau_2001": {
+  "value": 0.3,
+  "how": "Saudi Arabia real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_sau_2001": {
+  "value": -1.1,
+  "how": "Saudi Arabia consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_sau_2002": {
+  "value": -0.7,
+  "how": "Saudi Arabia real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_sau_2002": {
+  "value": 0.1,
+  "how": "Saudi Arabia consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_sau_2003": {
+  "value": 8.8,
+  "how": "Saudi Arabia real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_sau_2003": {
+  "value": 0.5,
+  "how": "Saudi Arabia consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_sau_2004": {
+  "value": 8.6,
+  "how": "Saudi Arabia real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_sau_2004": {
+  "value": 0.3,
+  "how": "Saudi Arabia consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_sau_2005": {
+  "value": 5.9,
+  "how": "Saudi Arabia real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_sau_2005": {
+  "value": 0.6,
+  "how": "Saudi Arabia consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_sau_2006": {
+  "value": 3.3,
+  "how": "Saudi Arabia real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_sau_2006": {
+  "value": 1.9,
+  "how": "Saudi Arabia consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_sau_2007": {
+  "value": 2.2,
+  "how": "Saudi Arabia real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_sau_2007": {
+  "value": 5.0,
+  "how": "Saudi Arabia consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_sau_2008": {
+  "value": 6.2,
+  "how": "Saudi Arabia real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_sau_2008": {
+  "value": 6.1,
+  "how": "Saudi Arabia consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "cpi_sau_2009": {
+  "value": 4.3,
+  "how": "Saudi Arabia consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_sau_2010": {
+  "value": 5.0,
+  "how": "Saudi Arabia real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_sau_2010": {
+  "value": 3.7,
+  "how": "Saudi Arabia consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_sau_2011": {
+  "value": 11.8,
+  "how": "Saudi Arabia real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_sau_2011": {
+  "value": 3.7,
+  "how": "Saudi Arabia consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_sau_2012": {
+  "value": 5.8,
+  "how": "Saudi Arabia real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_sau_2012": {
+  "value": 2.9,
+  "how": "Saudi Arabia consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_sau_2013": {
+  "value": 2.9,
+  "how": "Saudi Arabia real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_sau_2013": {
+  "value": 3.1,
+  "how": "Saudi Arabia consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_sau_2014": {
+  "value": 4.0,
+  "how": "Saudi Arabia real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_sau_2014": {
+  "value": 1.8,
+  "how": "Saudi Arabia consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_sau_2015": {
+  "value": 4.7,
+  "how": "Saudi Arabia real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_sau_2015": {
+  "value": 1.2,
+  "how": "Saudi Arabia consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_sau_2016": {
+  "value": 1.7,
+  "how": "Saudi Arabia real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_sau_2016": {
+  "value": 2.9,
+  "how": "Saudi Arabia consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_sau_2017": {
+  "value": 1.2,
+  "how": "Saudi Arabia real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_sau_2017": {
+  "value": -0.9,
+  "how": "Saudi Arabia consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_sau_2018": {
+  "value": 3.2,
+  "how": "Saudi Arabia real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_sau_2018": {
+  "value": 2.5,
+  "how": "Saudi Arabia consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_sau_2019": {
+  "value": 1.7,
+  "how": "Saudi Arabia real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_sau_2019": {
+  "value": -2.0,
+  "how": "Saudi Arabia consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "g_sau_2020": {
+  "value": -3.8,
+  "how": "Saudi Arabia real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "cpi_sau_2020": {
+  "value": 3.2,
+  "how": "Saudi Arabia consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_sau_2021": {
+  "value": 6.5,
+  "how": "Saudi Arabia real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_sau_2021": {
+  "value": 3.1,
+  "how": "Saudi Arabia consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "cpi_sau_2022": {
+  "value": 2.5,
+  "how": "Saudi Arabia consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "g_sau_2023": {
+  "value": 0.5,
+  "how": "Saudi Arabia real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_sau_2023": {
+  "value": 2.5,
+  "how": "Saudi Arabia consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_sau_2024": {
+  "value": 2.6,
+  "how": "Saudi Arabia real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_sau_2024": {
+  "value": 1.5,
+  "how": "Saudi Arabia consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "cpi_sau_2026": {
+  "value": 1.9,
+  "how": "Saudi Arabia consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "g_are_2000": {
+  "value": 12.3,
+  "how": "UAE real GDP growth, 2000 (WEO Oct 2026)"
+ },
+ "cpi_are_2000": {
+  "value": 1.3,
+  "how": "UAE consumer price inflation, 2000 (WEO Oct 2026)"
+ },
+ "g_are_2001": {
+  "value": 1.4,
+  "how": "UAE real GDP growth, 2001 (WEO Oct 2026)"
+ },
+ "cpi_are_2001": {
+  "value": 2.8,
+  "how": "UAE consumer price inflation, 2001 (WEO Oct 2026)"
+ },
+ "g_are_2002": {
+  "value": 2.4,
+  "how": "UAE real GDP growth, 2002 (WEO Oct 2026)"
+ },
+ "cpi_are_2002": {
+  "value": 2.9,
+  "how": "UAE consumer price inflation, 2002 (WEO Oct 2026)"
+ },
+ "g_are_2003": {
+  "value": 8.8,
+  "how": "UAE real GDP growth, 2003 (WEO Oct 2026)"
+ },
+ "cpi_are_2003": {
+  "value": 3.1,
+  "how": "UAE consumer price inflation, 2003 (WEO Oct 2026)"
+ },
+ "g_are_2004": {
+  "value": 9.6,
+  "how": "UAE real GDP growth, 2004 (WEO Oct 2026)"
+ },
+ "cpi_are_2004": {
+  "value": 5.0,
+  "how": "UAE consumer price inflation, 2004 (WEO Oct 2026)"
+ },
+ "g_are_2005": {
+  "value": 4.9,
+  "how": "UAE real GDP growth, 2005 (WEO Oct 2026)"
+ },
+ "cpi_are_2005": {
+  "value": 6.2,
+  "how": "UAE consumer price inflation, 2005 (WEO Oct 2026)"
+ },
+ "g_are_2006": {
+  "value": 9.8,
+  "how": "UAE real GDP growth, 2006 (WEO Oct 2026)"
+ },
+ "cpi_are_2006": {
+  "value": 9.3,
+  "how": "UAE consumer price inflation, 2006 (WEO Oct 2026)"
+ },
+ "g_are_2007": {
+  "value": 3.2,
+  "how": "UAE real GDP growth, 2007 (WEO Oct 2026)"
+ },
+ "cpi_are_2007": {
+  "value": 11.1,
+  "how": "UAE consumer price inflation, 2007 (WEO Oct 2026)"
+ },
+ "g_are_2008": {
+  "value": 3.2,
+  "how": "UAE real GDP growth, 2008 (WEO Oct 2026)"
+ },
+ "cpi_are_2008": {
+  "value": 12.3,
+  "how": "UAE consumer price inflation, 2008 (WEO Oct 2026)"
+ },
+ "g_are_2009": {
+  "value": -5.2,
+  "how": "UAE real GDP growth, 2009 (WEO Oct 2026)"
+ },
+ "cpi_are_2009": {
+  "value": -4.7,
+  "how": "UAE consumer price inflation, 2009 (WEO Oct 2026)"
+ },
+ "g_are_2010": {
+  "value": 7.9,
+  "how": "UAE real GDP growth, 2010 (WEO Oct 2026)"
+ },
+ "cpi_are_2010": {
+  "value": 0.9,
+  "how": "UAE consumer price inflation, 2010 (WEO Oct 2026)"
+ },
+ "g_are_2011": {
+  "value": 6.7,
+  "how": "UAE real GDP growth, 2011 (WEO Oct 2026)"
+ },
+ "cpi_are_2011": {
+  "value": 0.9,
+  "how": "UAE consumer price inflation, 2011 (WEO Oct 2026)"
+ },
+ "g_are_2012": {
+  "value": 4.7,
+  "how": "UAE real GDP growth, 2012 (WEO Oct 2026)"
+ },
+ "cpi_are_2012": {
+  "value": 0.7,
+  "how": "UAE consumer price inflation, 2012 (WEO Oct 2026)"
+ },
+ "g_are_2013": {
+  "value": 4.9,
+  "how": "UAE real GDP growth, 2013 (WEO Oct 2026)"
+ },
+ "cpi_are_2013": {
+  "value": 1.1,
+  "how": "UAE consumer price inflation, 2013 (WEO Oct 2026)"
+ },
+ "g_are_2014": {
+  "value": 4.6,
+  "how": "UAE real GDP growth, 2014 (WEO Oct 2026)"
+ },
+ "cpi_are_2014": {
+  "value": 2.3,
+  "how": "UAE consumer price inflation, 2014 (WEO Oct 2026)"
+ },
+ "g_are_2015": {
+  "value": 7.1,
+  "how": "UAE real GDP growth, 2015 (WEO Oct 2026)"
+ },
+ "cpi_are_2015": {
+  "value": 4.1,
+  "how": "UAE consumer price inflation, 2015 (WEO Oct 2026)"
+ },
+ "g_are_2016": {
+  "value": 5.7,
+  "how": "UAE real GDP growth, 2016 (WEO Oct 2026)"
+ },
+ "cpi_are_2016": {
+  "value": 1.6,
+  "how": "UAE consumer price inflation, 2016 (WEO Oct 2026)"
+ },
+ "g_are_2017": {
+  "value": -1.1,
+  "how": "UAE real GDP growth, 2017 (WEO Oct 2026)"
+ },
+ "cpi_are_2017": {
+  "value": 2.0,
+  "how": "UAE consumer price inflation, 2017 (WEO Oct 2026)"
+ },
+ "g_are_2018": {
+  "value": 1.5,
+  "how": "UAE real GDP growth, 2018 (WEO Oct 2026)"
+ },
+ "cpi_are_2018": {
+  "value": 3.1,
+  "how": "UAE consumer price inflation, 2018 (WEO Oct 2026)"
+ },
+ "g_are_2019": {
+  "value": 1.3,
+  "how": "UAE real GDP growth, 2019 (WEO Oct 2026)"
+ },
+ "cpi_are_2019": {
+  "value": -1.9,
+  "how": "UAE consumer price inflation, 2019 (WEO Oct 2026)"
+ },
+ "g_are_2020": {
+  "value": -8.7,
+  "how": "UAE real GDP growth, 2020 (WEO Oct 2026)"
+ },
+ "cpi_are_2020": {
+  "value": -2.1,
+  "how": "UAE consumer price inflation, 2020 (WEO Oct 2026)"
+ },
+ "g_are_2021": {
+  "value": 4.6,
+  "how": "UAE real GDP growth, 2021 (WEO Oct 2026)"
+ },
+ "cpi_are_2021": {
+  "value": -0.1,
+  "how": "UAE consumer price inflation, 2021 (WEO Oct 2026)"
+ },
+ "g_are_2022": {
+  "value": 7.5,
+  "how": "UAE real GDP growth, 2022 (WEO Oct 2026)"
+ },
+ "cpi_are_2022": {
+  "value": 4.8,
+  "how": "UAE consumer price inflation, 2022 (WEO Oct 2026)"
+ },
+ "g_are_2023": {
+  "value": 4.3,
+  "how": "UAE real GDP growth, 2023 (WEO Oct 2026)"
+ },
+ "cpi_are_2023": {
+  "value": 1.6,
+  "how": "UAE consumer price inflation, 2023 (WEO Oct 2026)"
+ },
+ "g_are_2024": {
+  "value": 6.6,
+  "how": "UAE real GDP growth, 2024 (WEO Oct 2026)"
+ },
+ "cpi_are_2024": {
+  "value": 1.7,
+  "how": "UAE consumer price inflation, 2024 (WEO Oct 2026)"
+ },
+ "g_are_2025": {
+  "value": 6.2,
+  "how": "UAE real GDP growth, 2025 (WEO Oct 2026)"
+ },
+ "cpi_are_2025": {
+  "value": 1.3,
+  "how": "UAE consumer price inflation, 2025 (WEO Oct 2026)"
+ },
+ "cpi_are_2026": {
+  "value": 4.5,
+  "how": "UAE consumer price inflation, 2026 (WEO Oct 2026, projection)"
+ },
+ "ca_sau_2008": {
+  "value": 26.9,
+  "how": "Saudi Arabia current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_sau_2015": {
+  "value": -7.9,
+  "how": "Saudi Arabia current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_sau_2022": {
+  "value": 11.7,
+  "how": "Saudi Arabia current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_sau_2025": {
+  "value": -2.6,
+  "how": "Saudi Arabia current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_rus_2000": {
+  "value": 16.3,
+  "how": "Russia current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_rus_2022": {
+  "value": 10.4,
+  "how": "Russia current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_rus_2025": {
+  "value": 1.5,
+  "how": "Russia current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_tur_2022": {
+  "value": -5.0,
+  "how": "T\u00fcrkiye current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_tur_2025": {
+  "value": -1.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_zaf_2025": {
+  "value": -0.5,
+  "how": "South Africa current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_bra_2025": {
+  "value": -2.9,
+  "how": "Brazil current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_idn_2013": {
+  "value": -3.2,
+  "how": "Indonesia current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_idn_2025": {
+  "value": -0.1,
+  "how": "Indonesia current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_mex_2025": {
+  "value": -0.5,
+  "how": "Mexico current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_are_2025": {
+  "value": 13.3,
+  "how": "UAE current account, % of GDP, 2025 (WEO)"
+ },
+ "ca_sau_pk": {
+  "value": 28.1,
+  "how": "Saudi current account, % of GDP, peak 2000-2014 (2005)"
+ },
+ "ca_sau_pk_y": {
+  "value": 2005,
+  "how": "year"
+ },
+ "ca_tur_lo": {
+  "value": -8.8,
+  "how": "T\u00fcrkiye current account, % of GDP, lowest 2000-2025 (2011)"
+ },
+ "ca_tur_lo_y": {
+  "value": 2011,
+  "how": "year"
+ },
+ "ca_zaf_lo": {
+  "value": -5.3,
+  "how": "South Africa current account, % of GDP, lowest 2000-2025 (2013)"
+ },
+ "ca_zaf_lo_y": {
+  "value": 2013,
+  "how": "year"
+ },
+ "ca_bra_lo": {
+  "value": -4.5,
+  "how": "Brazil current account, % of GDP, lowest 2005-2025 (2014)"
+ },
+ "ca_bra_lo_y": {
+  "value": 2014,
+  "how": "year"
+ },
+ "debt_bra_2013": {
+  "value": 59.6,
+  "how": "Brazil general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_bra_2025": {
+  "value": 93.3,
+  "how": "Brazil general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_bra_2031": {
+  "value": 105.3,
+  "how": "Brazil general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_zaf_2008": {
+  "value": 24.0,
+  "how": "South Africa general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_zaf_2025": {
+  "value": 78.4,
+  "how": "South Africa general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_zaf_2031": {
+  "value": 79.8,
+  "how": "South Africa general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_mex_2007": {
+  "value": 35.5,
+  "how": "Mexico general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_mex_2025": {
+  "value": 61.7,
+  "how": "Mexico general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_idn_2000": {
+  "value": 87.4,
+  "how": "Indonesia general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_idn_2012": {
+  "value": 23.0,
+  "how": "Indonesia general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_idn_2025": {
+  "value": 40.9,
+  "how": "Indonesia general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_tur_2001": {
+  "value": 75.6,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_tur_2013": {
+  "value": 29.5,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_tur_2025": {
+  "value": 23.7,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_rus_2007": {
+  "value": 8.0,
+  "how": "Russia general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_rus_2025": {
+  "value": 16.6,
+  "how": "Russia general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_rus_2031": {
+  "value": 30.7,
+  "how": "Russia general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_sau_2000": {
+  "value": 86.7,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_sau_2013": {
+  "value": 2.1,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_sau_2025": {
+  "value": 31.8,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_sau_2031": {
+  "value": 48.7,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_ind_2025": {
+  "value": 84.3,
+  "how": "India general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_g200_2025": {
+  "value": 73.7,
+  "how": "EMDEs general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "bal_sau_2008": {
+  "value": 29.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_sau_2015": {
+  "value": -14.9,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_sau_2016": {
+  "value": -13.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_sau_2025": {
+  "value": -5.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_sau_2026": {
+  "value": -6.5,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_bra_2015": {
+  "value": -9.3,
+  "how": "Brazil general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_bra_2025": {
+  "value": -7.4,
+  "how": "Brazil general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_rus_2008": {
+  "value": 4.5,
+  "how": "Russia general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_rus_2025": {
+  "value": -3.9,
+  "how": "Russia general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_zaf_2025": {
+  "value": -5.6,
+  "how": "South Africa general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_are_2015": {
+  "value": -6.4,
+  "how": "UAE general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "debt_tur_pk": {
+  "value": 75.6,
+  "how": "T\u00fcrkiye gross debt, peak 2000-2025 (2001)"
+ },
+ "debt_tur_pk_y": {
+  "value": 2001,
+  "how": "year"
+ },
+ "debt_bra_2000": {
+  "value": 62.2,
+  "how": "Brazil general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_bra_2001": {
+  "value": 67.3,
+  "how": "Brazil general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_bra_2002": {
+  "value": 76.1,
+  "how": "Brazil general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_bra_2003": {
+  "value": 71.5,
+  "how": "Brazil general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_bra_2004": {
+  "value": 68.0,
+  "how": "Brazil general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_bra_2005": {
+  "value": 67.0,
+  "how": "Brazil general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_bra_2006": {
+  "value": 64.6,
+  "how": "Brazil general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_bra_2007": {
+  "value": 63.0,
+  "how": "Brazil general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_bra_2008": {
+  "value": 61.4,
+  "how": "Brazil general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_bra_2009": {
+  "value": 64.7,
+  "how": "Brazil general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_bra_2010": {
+  "value": 62.4,
+  "how": "Brazil general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_bra_2011": {
+  "value": 60.6,
+  "how": "Brazil general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_bra_2012": {
+  "value": 61.6,
+  "how": "Brazil general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_bra_2014": {
+  "value": 61.6,
+  "how": "Brazil general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_bra_2015": {
+  "value": 71.7,
+  "how": "Brazil general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_bra_2016": {
+  "value": 77.4,
+  "how": "Brazil general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_bra_2017": {
+  "value": 82.7,
+  "how": "Brazil general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_bra_2018": {
+  "value": 84.8,
+  "how": "Brazil general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_bra_2019": {
+  "value": 87.1,
+  "how": "Brazil general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_bra_2020": {
+  "value": 96.0,
+  "how": "Brazil general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_bra_2021": {
+  "value": 88.9,
+  "how": "Brazil general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_bra_2022": {
+  "value": 83.9,
+  "how": "Brazil general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_bra_2023": {
+  "value": 84.0,
+  "how": "Brazil general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_bra_2024": {
+  "value": 87.0,
+  "how": "Brazil general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_bra_2026": {
+  "value": 97.0,
+  "how": "Brazil general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_bra_2027": {
+  "value": 99.3,
+  "how": "Brazil general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_bra_2028": {
+  "value": 101.3,
+  "how": "Brazil general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_bra_2029": {
+  "value": 103.2,
+  "how": "Brazil general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_bra_2030": {
+  "value": 104.5,
+  "how": "Brazil general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_bra_2001": {
+  "value": -3.5,
+  "how": "Brazil general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_bra_2002": {
+  "value": -4.1,
+  "how": "Brazil general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_bra_2003": {
+  "value": -5.4,
+  "how": "Brazil general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_bra_2004": {
+  "value": -3.0,
+  "how": "Brazil general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_bra_2005": {
+  "value": -3.4,
+  "how": "Brazil general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_bra_2006": {
+  "value": -4.9,
+  "how": "Brazil general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_bra_2007": {
+  "value": -2.7,
+  "how": "Brazil general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_bra_2008": {
+  "value": -2.4,
+  "how": "Brazil general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_bra_2009": {
+  "value": -4.2,
+  "how": "Brazil general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_bra_2010": {
+  "value": -3.6,
+  "how": "Brazil general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_bra_2011": {
+  "value": -2.7,
+  "how": "Brazil general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_bra_2012": {
+  "value": -2.4,
+  "how": "Brazil general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_bra_2013": {
+  "value": -3.4,
+  "how": "Brazil general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_bra_2014": {
+  "value": -6.3,
+  "how": "Brazil general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_bra_2016": {
+  "value": -8.0,
+  "how": "Brazil general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_bra_2017": {
+  "value": -8.0,
+  "how": "Brazil general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_bra_2018": {
+  "value": -7.0,
+  "how": "Brazil general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_bra_2019": {
+  "value": -4.9,
+  "how": "Brazil general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_bra_2020": {
+  "value": -11.6,
+  "how": "Brazil general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_bra_2021": {
+  "value": -2.6,
+  "how": "Brazil general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_bra_2022": {
+  "value": -4.0,
+  "how": "Brazil general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_bra_2023": {
+  "value": -7.7,
+  "how": "Brazil general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_bra_2024": {
+  "value": -6.3,
+  "how": "Brazil general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_bra_2026": {
+  "value": -8.1,
+  "how": "Brazil general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_bra_2027": {
+  "value": -7.7,
+  "how": "Brazil general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_bra_2028": {
+  "value": -6.6,
+  "how": "Brazil general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_bra_2029": {
+  "value": -6.6,
+  "how": "Brazil general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_bra_2030": {
+  "value": -6.4,
+  "how": "Brazil general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_bra_2031": {
+  "value": -6.4,
+  "how": "Brazil general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_bra_2000": {
+  "value": -4.0,
+  "how": "Brazil current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_bra_2001": {
+  "value": -4.4,
+  "how": "Brazil current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_bra_2002": {
+  "value": -1.8,
+  "how": "Brazil current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_bra_2003": {
+  "value": 0.4,
+  "how": "Brazil current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_bra_2004": {
+  "value": 1.3,
+  "how": "Brazil current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_bra_2005": {
+  "value": 1.3,
+  "how": "Brazil current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_bra_2006": {
+  "value": 1.0,
+  "how": "Brazil current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_bra_2007": {
+  "value": -0.2,
+  "how": "Brazil current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_bra_2008": {
+  "value": -2.1,
+  "how": "Brazil current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_bra_2009": {
+  "value": -1.8,
+  "how": "Brazil current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_bra_2010": {
+  "value": -3.9,
+  "how": "Brazil current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_bra_2011": {
+  "value": -3.2,
+  "how": "Brazil current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_bra_2012": {
+  "value": -3.8,
+  "how": "Brazil current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_bra_2013": {
+  "value": -3.6,
+  "how": "Brazil current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_bra_2014": {
+  "value": -4.5,
+  "how": "Brazil current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_bra_2015": {
+  "value": -3.5,
+  "how": "Brazil current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_bra_2016": {
+  "value": -1.7,
+  "how": "Brazil current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_bra_2017": {
+  "value": -1.2,
+  "how": "Brazil current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_bra_2018": {
+  "value": -2.8,
+  "how": "Brazil current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_bra_2019": {
+  "value": -3.4,
+  "how": "Brazil current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_bra_2020": {
+  "value": -1.6,
+  "how": "Brazil current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_bra_2021": {
+  "value": -2.4,
+  "how": "Brazil current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_bra_2022": {
+  "value": -2.1,
+  "how": "Brazil current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_bra_2023": {
+  "value": -1.2,
+  "how": "Brazil current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_bra_2024": {
+  "value": -3.0,
+  "how": "Brazil current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_bra_2026": {
+  "value": -2.4,
+  "how": "Brazil current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_bra_2027": {
+  "value": -2.0,
+  "how": "Brazil current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_bra_2028": {
+  "value": -2.1,
+  "how": "Brazil current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_bra_2029": {
+  "value": -1.9,
+  "how": "Brazil current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_bra_2030": {
+  "value": -1.7,
+  "how": "Brazil current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_bra_2031": {
+  "value": -1.6,
+  "how": "Brazil current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_mex_2000": {
+  "value": 38.5,
+  "how": "Mexico general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_mex_2001": {
+  "value": 37.3,
+  "how": "Mexico general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_mex_2002": {
+  "value": 39.9,
+  "how": "Mexico general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_mex_2003": {
+  "value": 42.1,
+  "how": "Mexico general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_mex_2004": {
+  "value": 38.9,
+  "how": "Mexico general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_mex_2005": {
+  "value": 36.8,
+  "how": "Mexico general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_mex_2006": {
+  "value": 35.8,
+  "how": "Mexico general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_mex_2008": {
+  "value": 40.6,
+  "how": "Mexico general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_mex_2009": {
+  "value": 41.7,
+  "how": "Mexico general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_mex_2010": {
+  "value": 40.2,
+  "how": "Mexico general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_mex_2011": {
+  "value": 41.2,
+  "how": "Mexico general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_mex_2012": {
+  "value": 40.8,
+  "how": "Mexico general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_mex_2013": {
+  "value": 44.1,
+  "how": "Mexico general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_mex_2014": {
+  "value": 47.1,
+  "how": "Mexico general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_mex_2015": {
+  "value": 51.0,
+  "how": "Mexico general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_mex_2016": {
+  "value": 55.0,
+  "how": "Mexico general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_mex_2017": {
+  "value": 52.5,
+  "how": "Mexico general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_mex_2018": {
+  "value": 52.2,
+  "how": "Mexico general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_mex_2019": {
+  "value": 51.9,
+  "how": "Mexico general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_mex_2020": {
+  "value": 58.5,
+  "how": "Mexico general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_mex_2021": {
+  "value": 56.7,
+  "how": "Mexico general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_mex_2022": {
+  "value": 53.8,
+  "how": "Mexico general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_mex_2023": {
+  "value": 52.7,
+  "how": "Mexico general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_mex_2024": {
+  "value": 59.0,
+  "how": "Mexico general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_mex_2026": {
+  "value": 62.1,
+  "how": "Mexico general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_mex_2027": {
+  "value": 62.9,
+  "how": "Mexico general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_mex_2028": {
+  "value": 63.4,
+  "how": "Mexico general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_mex_2029": {
+  "value": 64.0,
+  "how": "Mexico general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_mex_2030": {
+  "value": 64.3,
+  "how": "Mexico general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "debt_mex_2031": {
+  "value": 64.5,
+  "how": "Mexico general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "bal_mex_2000": {
+  "value": -2.7,
+  "how": "Mexico general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_mex_2001": {
+  "value": -2.6,
+  "how": "Mexico general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_mex_2002": {
+  "value": -2.2,
+  "how": "Mexico general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_mex_2003": {
+  "value": -2.2,
+  "how": "Mexico general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_mex_2004": {
+  "value": -1.3,
+  "how": "Mexico general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_mex_2005": {
+  "value": -1.4,
+  "how": "Mexico general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_mex_2006": {
+  "value": -1.2,
+  "how": "Mexico general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_mex_2007": {
+  "value": -1.5,
+  "how": "Mexico general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_mex_2008": {
+  "value": -0.7,
+  "how": "Mexico general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_mex_2009": {
+  "value": -3.9,
+  "how": "Mexico general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_mex_2010": {
+  "value": -3.8,
+  "how": "Mexico general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_mex_2011": {
+  "value": -3.2,
+  "how": "Mexico general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_mex_2012": {
+  "value": -3.6,
+  "how": "Mexico general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_mex_2013": {
+  "value": -3.6,
+  "how": "Mexico general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_mex_2014": {
+  "value": -4.4,
+  "how": "Mexico general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_mex_2015": {
+  "value": -3.9,
+  "how": "Mexico general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_mex_2016": {
+  "value": -2.7,
+  "how": "Mexico general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_mex_2017": {
+  "value": -1.0,
+  "how": "Mexico general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_mex_2018": {
+  "value": -2.1,
+  "how": "Mexico general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_mex_2019": {
+  "value": -2.3,
+  "how": "Mexico general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_mex_2020": {
+  "value": -4.3,
+  "how": "Mexico general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_mex_2021": {
+  "value": -3.7,
+  "how": "Mexico general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_mex_2022": {
+  "value": -4.3,
+  "how": "Mexico general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_mex_2023": {
+  "value": -4.3,
+  "how": "Mexico general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_mex_2024": {
+  "value": -5.8,
+  "how": "Mexico general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_mex_2025": {
+  "value": -4.9,
+  "how": "Mexico general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_mex_2026": {
+  "value": -4.2,
+  "how": "Mexico general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_mex_2027": {
+  "value": -3.9,
+  "how": "Mexico general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_mex_2028": {
+  "value": -3.6,
+  "how": "Mexico general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_mex_2029": {
+  "value": -3.5,
+  "how": "Mexico general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_mex_2030": {
+  "value": -3.3,
+  "how": "Mexico general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_mex_2031": {
+  "value": -3.1,
+  "how": "Mexico general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_mex_2000": {
+  "value": -2.5,
+  "how": "Mexico current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_mex_2001": {
+  "value": -2.2,
+  "how": "Mexico current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_mex_2002": {
+  "value": -1.5,
+  "how": "Mexico current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_mex_2003": {
+  "value": -0.5,
+  "how": "Mexico current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_mex_2004": {
+  "value": -0.5,
+  "how": "Mexico current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_mex_2005": {
+  "value": -0.6,
+  "how": "Mexico current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_mex_2006": {
+  "value": -0.3,
+  "how": "Mexico current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_mex_2007": {
+  "value": -0.8,
+  "how": "Mexico current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_mex_2008": {
+  "value": -1.4,
+  "how": "Mexico current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_mex_2009": {
+  "value": -0.8,
+  "how": "Mexico current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_mex_2010": {
+  "value": -0.3,
+  "how": "Mexico current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_mex_2011": {
+  "value": -0.9,
+  "how": "Mexico current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_mex_2012": {
+  "value": -1.4,
+  "how": "Mexico current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_mex_2013": {
+  "value": -2.4,
+  "how": "Mexico current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_mex_2014": {
+  "value": -1.8,
+  "how": "Mexico current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_mex_2015": {
+  "value": -2.6,
+  "how": "Mexico current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_mex_2016": {
+  "value": -2.3,
+  "how": "Mexico current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_mex_2017": {
+  "value": -1.8,
+  "how": "Mexico current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_mex_2018": {
+  "value": -2.1,
+  "how": "Mexico current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_mex_2019": {
+  "value": -0.3,
+  "how": "Mexico current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_mex_2020": {
+  "value": 2.4,
+  "how": "Mexico current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_mex_2021": {
+  "value": -0.3,
+  "how": "Mexico current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_mex_2022": {
+  "value": -1.0,
+  "how": "Mexico current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_mex_2023": {
+  "value": -0.6,
+  "how": "Mexico current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_mex_2024": {
+  "value": -0.9,
+  "how": "Mexico current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_mex_2026": {
+  "value": -0.3,
+  "how": "Mexico current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_mex_2027": {
+  "value": -0.5,
+  "how": "Mexico current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_mex_2028": {
+  "value": -0.7,
+  "how": "Mexico current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_mex_2029": {
+  "value": -0.7,
+  "how": "Mexico current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_mex_2030": {
+  "value": -0.8,
+  "how": "Mexico current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_mex_2031": {
+  "value": -0.8,
+  "how": "Mexico current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_idn_2001": {
+  "value": 73.7,
+  "how": "Indonesia general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_idn_2002": {
+  "value": 62.3,
+  "how": "Indonesia general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_idn_2003": {
+  "value": 55.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_idn_2004": {
+  "value": 51.3,
+  "how": "Indonesia general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_idn_2005": {
+  "value": 42.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_idn_2006": {
+  "value": 35.8,
+  "how": "Indonesia general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_idn_2007": {
+  "value": 38.1,
+  "how": "Indonesia general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_idn_2008": {
+  "value": 30.3,
+  "how": "Indonesia general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_idn_2009": {
+  "value": 26.5,
+  "how": "Indonesia general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_idn_2010": {
+  "value": 26.4,
+  "how": "Indonesia general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_idn_2011": {
+  "value": 23.1,
+  "how": "Indonesia general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_idn_2013": {
+  "value": 24.9,
+  "how": "Indonesia general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_idn_2014": {
+  "value": 24.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_idn_2015": {
+  "value": 27.0,
+  "how": "Indonesia general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_idn_2016": {
+  "value": 28.0,
+  "how": "Indonesia general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_idn_2017": {
+  "value": 29.4,
+  "how": "Indonesia general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_idn_2018": {
+  "value": 30.4,
+  "how": "Indonesia general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_idn_2019": {
+  "value": 30.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_idn_2020": {
+  "value": 39.7,
+  "how": "Indonesia general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_idn_2021": {
+  "value": 41.1,
+  "how": "Indonesia general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_idn_2022": {
+  "value": 40.1,
+  "how": "Indonesia general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_idn_2023": {
+  "value": 39.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_idn_2024": {
+  "value": 40.2,
+  "how": "Indonesia general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_idn_2026": {
+  "value": 41.7,
+  "how": "Indonesia general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_idn_2027": {
+  "value": 41.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_idn_2028": {
+  "value": 41.4,
+  "how": "Indonesia general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_idn_2029": {
+  "value": 41.5,
+  "how": "Indonesia general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_idn_2030": {
+  "value": 41.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "debt_idn_2031": {
+  "value": 41.6,
+  "how": "Indonesia general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "bal_idn_2000": {
+  "value": -1.9,
+  "how": "Indonesia general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_idn_2001": {
+  "value": -1.8,
+  "how": "Indonesia general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_idn_2002": {
+  "value": -0.6,
+  "how": "Indonesia general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_idn_2003": {
+  "value": -1.1,
+  "how": "Indonesia general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_idn_2004": {
+  "value": -0.3,
+  "how": "Indonesia general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_idn_2005": {
+  "value": 0.5,
+  "how": "Indonesia general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_idn_2006": {
+  "value": 0.5,
+  "how": "Indonesia general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_idn_2007": {
+  "value": -1.0,
+  "how": "Indonesia general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_idn_2008": {
+  "value": 0.1,
+  "how": "Indonesia general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_idn_2009": {
+  "value": -1.6,
+  "how": "Indonesia general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_idn_2010": {
+  "value": -1.2,
+  "how": "Indonesia general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_idn_2011": {
+  "value": -0.7,
+  "how": "Indonesia general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_idn_2012": {
+  "value": -1.6,
+  "how": "Indonesia general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_idn_2013": {
+  "value": -2.0,
+  "how": "Indonesia general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_idn_2014": {
+  "value": -1.8,
+  "how": "Indonesia general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_idn_2015": {
+  "value": -2.7,
+  "how": "Indonesia general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_idn_2016": {
+  "value": -2.6,
+  "how": "Indonesia general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_idn_2017": {
+  "value": -2.3,
+  "how": "Indonesia general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_idn_2018": {
+  "value": -1.7,
+  "how": "Indonesia general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_idn_2019": {
+  "value": -2.1,
+  "how": "Indonesia general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_idn_2020": {
+  "value": -6.1,
+  "how": "Indonesia general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_idn_2021": {
+  "value": -4.4,
+  "how": "Indonesia general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_idn_2022": {
+  "value": -2.3,
+  "how": "Indonesia general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_idn_2023": {
+  "value": -1.6,
+  "how": "Indonesia general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_idn_2024": {
+  "value": -2.3,
+  "how": "Indonesia general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_idn_2025": {
+  "value": -2.9,
+  "how": "Indonesia general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_idn_2026": {
+  "value": -2.9,
+  "how": "Indonesia general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_idn_2027": {
+  "value": -2.9,
+  "how": "Indonesia general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_idn_2028": {
+  "value": -2.9,
+  "how": "Indonesia general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_idn_2029": {
+  "value": -2.9,
+  "how": "Indonesia general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_idn_2030": {
+  "value": -2.8,
+  "how": "Indonesia general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_idn_2031": {
+  "value": -2.8,
+  "how": "Indonesia general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_idn_2000": {
+  "value": 4.5,
+  "how": "Indonesia current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_idn_2001": {
+  "value": 4.0,
+  "how": "Indonesia current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_idn_2002": {
+  "value": 3.7,
+  "how": "Indonesia current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_idn_2003": {
+  "value": 3.2,
+  "how": "Indonesia current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_idn_2004": {
+  "value": 1.9,
+  "how": "Indonesia current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_idn_2005": {
+  "value": 0.5,
+  "how": "Indonesia current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_idn_2006": {
+  "value": 2.4,
+  "how": "Indonesia current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_idn_2007": {
+  "value": 1.4,
+  "how": "Indonesia current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_idn_2008": {
+  "value": 0.0,
+  "how": "Indonesia current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_idn_2009": {
+  "value": 1.8,
+  "how": "Indonesia current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_idn_2010": {
+  "value": 0.7,
+  "how": "Indonesia current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_idn_2011": {
+  "value": 0.2,
+  "how": "Indonesia current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_idn_2012": {
+  "value": -2.7,
+  "how": "Indonesia current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_idn_2014": {
+  "value": -3.1,
+  "how": "Indonesia current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_idn_2015": {
+  "value": -2.0,
+  "how": "Indonesia current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_idn_2016": {
+  "value": -1.8,
+  "how": "Indonesia current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_idn_2017": {
+  "value": -1.6,
+  "how": "Indonesia current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_idn_2018": {
+  "value": -2.9,
+  "how": "Indonesia current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_idn_2019": {
+  "value": -2.7,
+  "how": "Indonesia current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_idn_2020": {
+  "value": -0.4,
+  "how": "Indonesia current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_idn_2021": {
+  "value": 0.3,
+  "how": "Indonesia current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_idn_2022": {
+  "value": 1.0,
+  "how": "Indonesia current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_idn_2023": {
+  "value": -0.1,
+  "how": "Indonesia current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_idn_2024": {
+  "value": -0.6,
+  "how": "Indonesia current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_idn_2026": {
+  "value": -1.6,
+  "how": "Indonesia current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_idn_2027": {
+  "value": -1.0,
+  "how": "Indonesia current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_idn_2028": {
+  "value": -0.8,
+  "how": "Indonesia current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_idn_2029": {
+  "value": -0.7,
+  "how": "Indonesia current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_idn_2030": {
+  "value": -0.7,
+  "how": "Indonesia current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_idn_2031": {
+  "value": -0.6,
+  "how": "Indonesia current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_tur_2000": {
+  "value": 51.2,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_tur_2002": {
+  "value": 71.2,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_tur_2003": {
+  "value": 63.6,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_tur_2004": {
+  "value": 57.0,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_tur_2005": {
+  "value": 50.2,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_tur_2006": {
+  "value": 44.2,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_tur_2007": {
+  "value": 37.1,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_tur_2008": {
+  "value": 37.0,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_tur_2009": {
+  "value": 42.4,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_tur_2010": {
+  "value": 38.6,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_tur_2011": {
+  "value": 34.8,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_tur_2012": {
+  "value": 30.8,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_tur_2014": {
+  "value": 27.4,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_tur_2015": {
+  "value": 26.5,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_tur_2016": {
+  "value": 27.0,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_tur_2017": {
+  "value": 26.9,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_tur_2018": {
+  "value": 28.8,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_tur_2019": {
+  "value": 31.2,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_tur_2020": {
+  "value": 38.3,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_tur_2021": {
+  "value": 38.9,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_tur_2022": {
+  "value": 29.4,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_tur_2023": {
+  "value": 28.3,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_tur_2024": {
+  "value": 23.6,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_tur_2026": {
+  "value": 22.4,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_tur_2027": {
+  "value": 22.6,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_tur_2028": {
+  "value": 23.1,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_tur_2029": {
+  "value": 24.1,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_tur_2030": {
+  "value": 25.1,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "debt_tur_2031": {
+  "value": 25.4,
+  "how": "T\u00fcrkiye general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "bal_tur_2000": {
+  "value": -8.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_tur_2001": {
+  "value": -11.6,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_tur_2002": {
+  "value": -11.3,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_tur_2003": {
+  "value": -7.6,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_tur_2004": {
+  "value": -4.1,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_tur_2005": {
+  "value": -0.7,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_tur_2006": {
+  "value": -0.2,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_tur_2007": {
+  "value": -1.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_tur_2008": {
+  "value": -2.1,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_tur_2009": {
+  "value": -5.1,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_tur_2010": {
+  "value": -3.0,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_tur_2011": {
+  "value": -0.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_tur_2012": {
+  "value": -1.8,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_tur_2013": {
+  "value": -1.5,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_tur_2014": {
+  "value": -1.3,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_tur_2015": {
+  "value": -1.0,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_tur_2016": {
+  "value": -2.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_tur_2017": {
+  "value": -2.5,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_tur_2018": {
+  "value": -3.7,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_tur_2019": {
+  "value": -5.2,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_tur_2020": {
+  "value": -5.0,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_tur_2021": {
+  "value": -3.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_tur_2022": {
+  "value": -1.4,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_tur_2023": {
+  "value": -5.6,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_tur_2024": {
+  "value": -5.0,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_tur_2025": {
+  "value": -2.8,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_tur_2026": {
+  "value": -3.1,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_tur_2027": {
+  "value": -3.9,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_tur_2028": {
+  "value": -3.6,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_tur_2029": {
+  "value": -3.1,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_tur_2030": {
+  "value": -2.9,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_tur_2031": {
+  "value": -2.8,
+  "how": "T\u00fcrkiye general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_tur_2000": {
+  "value": -3.6,
+  "how": "T\u00fcrkiye current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_tur_2001": {
+  "value": 1.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_tur_2002": {
+  "value": -0.3,
+  "how": "T\u00fcrkiye current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_tur_2003": {
+  "value": -2.4,
+  "how": "T\u00fcrkiye current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_tur_2004": {
+  "value": -3.5,
+  "how": "T\u00fcrkiye current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_tur_2005": {
+  "value": -4.1,
+  "how": "T\u00fcrkiye current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_tur_2006": {
+  "value": -5.6,
+  "how": "T\u00fcrkiye current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_tur_2007": {
+  "value": -5.4,
+  "how": "T\u00fcrkiye current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_tur_2008": {
+  "value": -5.0,
+  "how": "T\u00fcrkiye current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_tur_2009": {
+  "value": -1.7,
+  "how": "T\u00fcrkiye current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_tur_2010": {
+  "value": -5.7,
+  "how": "T\u00fcrkiye current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_tur_2011": {
+  "value": -8.8,
+  "how": "T\u00fcrkiye current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_tur_2012": {
+  "value": -4.7,
+  "how": "T\u00fcrkiye current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_tur_2013": {
+  "value": -5.1,
+  "how": "T\u00fcrkiye current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_tur_2014": {
+  "value": -3.4,
+  "how": "T\u00fcrkiye current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_tur_2015": {
+  "value": -2.5,
+  "how": "T\u00fcrkiye current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_tur_2016": {
+  "value": -2.5,
+  "how": "T\u00fcrkiye current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_tur_2017": {
+  "value": -4.1,
+  "how": "T\u00fcrkiye current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_tur_2018": {
+  "value": -1.8,
+  "how": "T\u00fcrkiye current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_tur_2019": {
+  "value": 1.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_tur_2020": {
+  "value": -4.2,
+  "how": "T\u00fcrkiye current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_tur_2021": {
+  "value": -0.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_tur_2023": {
+  "value": -3.6,
+  "how": "T\u00fcrkiye current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_tur_2024": {
+  "value": -1.0,
+  "how": "T\u00fcrkiye current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_tur_2026": {
+  "value": -2.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_tur_2027": {
+  "value": -2.4,
+  "how": "T\u00fcrkiye current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_tur_2028": {
+  "value": -2.1,
+  "how": "T\u00fcrkiye current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_tur_2029": {
+  "value": -2.0,
+  "how": "T\u00fcrkiye current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_tur_2030": {
+  "value": -1.9,
+  "how": "T\u00fcrkiye current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_tur_2031": {
+  "value": -1.8,
+  "how": "T\u00fcrkiye current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_zaf_2000": {
+  "value": 37.9,
+  "how": "South Africa general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_zaf_2001": {
+  "value": 38.0,
+  "how": "South Africa general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_zaf_2002": {
+  "value": 31.8,
+  "how": "South Africa general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_zaf_2003": {
+  "value": 31.5,
+  "how": "South Africa general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_zaf_2004": {
+  "value": 30.7,
+  "how": "South Africa general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_zaf_2005": {
+  "value": 29.6,
+  "how": "South Africa general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_zaf_2006": {
+  "value": 28.0,
+  "how": "South Africa general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_zaf_2007": {
+  "value": 24.3,
+  "how": "South Africa general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_zaf_2009": {
+  "value": 27.0,
+  "how": "South Africa general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_zaf_2010": {
+  "value": 31.2,
+  "how": "South Africa general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_zaf_2011": {
+  "value": 34.7,
+  "how": "South Africa general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_zaf_2012": {
+  "value": 37.4,
+  "how": "South Africa general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_zaf_2013": {
+  "value": 40.4,
+  "how": "South Africa general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_zaf_2014": {
+  "value": 43.3,
+  "how": "South Africa general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_zaf_2015": {
+  "value": 45.2,
+  "how": "South Africa general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_zaf_2016": {
+  "value": 47.1,
+  "how": "South Africa general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_zaf_2017": {
+  "value": 48.6,
+  "how": "South Africa general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_zaf_2018": {
+  "value": 51.5,
+  "how": "South Africa general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_zaf_2019": {
+  "value": 56.1,
+  "how": "South Africa general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_zaf_2020": {
+  "value": 68.9,
+  "how": "South Africa general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_zaf_2021": {
+  "value": 68.8,
+  "how": "South Africa general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_zaf_2022": {
+  "value": 70.7,
+  "how": "South Africa general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_zaf_2023": {
+  "value": 73.2,
+  "how": "South Africa general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_zaf_2024": {
+  "value": 76.0,
+  "how": "South Africa general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_zaf_2026": {
+  "value": 78.0,
+  "how": "South Africa general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_zaf_2027": {
+  "value": 78.1,
+  "how": "South Africa general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_zaf_2028": {
+  "value": 78.8,
+  "how": "South Africa general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_zaf_2029": {
+  "value": 79.5,
+  "how": "South Africa general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_zaf_2030": {
+  "value": 79.7,
+  "how": "South Africa general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_zaf_2000": {
+  "value": -1.4,
+  "how": "South Africa general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_zaf_2001": {
+  "value": -1.0,
+  "how": "South Africa general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_zaf_2002": {
+  "value": -1.0,
+  "how": "South Africa general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_zaf_2003": {
+  "value": -1.6,
+  "how": "South Africa general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_zaf_2004": {
+  "value": -1.0,
+  "how": "South Africa general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_zaf_2005": {
+  "value": -0.1,
+  "how": "South Africa general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_zaf_2006": {
+  "value": 0.8,
+  "how": "South Africa general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_zaf_2007": {
+  "value": 1.2,
+  "how": "South Africa general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_zaf_2008": {
+  "value": -0.5,
+  "how": "South Africa general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_zaf_2009": {
+  "value": -4.7,
+  "how": "South Africa general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_zaf_2010": {
+  "value": -4.5,
+  "how": "South Africa general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_zaf_2011": {
+  "value": -3.7,
+  "how": "South Africa general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_zaf_2012": {
+  "value": -4.0,
+  "how": "South Africa general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_zaf_2013": {
+  "value": -3.9,
+  "how": "South Africa general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_zaf_2014": {
+  "value": -3.9,
+  "how": "South Africa general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_zaf_2015": {
+  "value": -4.4,
+  "how": "South Africa general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_zaf_2016": {
+  "value": -3.7,
+  "how": "South Africa general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_zaf_2017": {
+  "value": -4.0,
+  "how": "South Africa general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_zaf_2018": {
+  "value": -3.7,
+  "how": "South Africa general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_zaf_2019": {
+  "value": -5.1,
+  "how": "South Africa general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_zaf_2020": {
+  "value": -9.6,
+  "how": "South Africa general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_zaf_2021": {
+  "value": -5.5,
+  "how": "South Africa general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_zaf_2022": {
+  "value": -4.2,
+  "how": "South Africa general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_zaf_2023": {
+  "value": -5.6,
+  "how": "South Africa general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_zaf_2024": {
+  "value": -5.7,
+  "how": "South Africa general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_zaf_2026": {
+  "value": -4.4,
+  "how": "South Africa general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_zaf_2027": {
+  "value": -3.9,
+  "how": "South Africa general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_zaf_2028": {
+  "value": -3.9,
+  "how": "South Africa general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_zaf_2029": {
+  "value": -3.7,
+  "how": "South Africa general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_zaf_2030": {
+  "value": -3.5,
+  "how": "South Africa general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_zaf_2031": {
+  "value": -3.4,
+  "how": "South Africa general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_zaf_2000": {
+  "value": -0.1,
+  "how": "South Africa current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_zaf_2001": {
+  "value": 0.2,
+  "how": "South Africa current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_zaf_2002": {
+  "value": 0.8,
+  "how": "South Africa current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_zaf_2003": {
+  "value": -0.7,
+  "how": "South Africa current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_zaf_2004": {
+  "value": -2.5,
+  "how": "South Africa current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_zaf_2005": {
+  "value": -2.8,
+  "how": "South Africa current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_zaf_2006": {
+  "value": -4.0,
+  "how": "South Africa current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_zaf_2007": {
+  "value": -4.8,
+  "how": "South Africa current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_zaf_2008": {
+  "value": -5.0,
+  "how": "South Africa current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_zaf_2009": {
+  "value": -2.4,
+  "how": "South Africa current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_zaf_2010": {
+  "value": -1.3,
+  "how": "South Africa current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_zaf_2011": {
+  "value": -2.0,
+  "how": "South Africa current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_zaf_2012": {
+  "value": -4.7,
+  "how": "South Africa current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_zaf_2013": {
+  "value": -5.3,
+  "how": "South Africa current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_zaf_2014": {
+  "value": -4.8,
+  "how": "South Africa current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_zaf_2015": {
+  "value": -4.3,
+  "how": "South Africa current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_zaf_2016": {
+  "value": -2.7,
+  "how": "South Africa current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_zaf_2017": {
+  "value": -2.4,
+  "how": "South Africa current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_zaf_2018": {
+  "value": -2.9,
+  "how": "South Africa current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_zaf_2019": {
+  "value": -2.6,
+  "how": "South Africa current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_zaf_2020": {
+  "value": 2.0,
+  "how": "South Africa current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_zaf_2021": {
+  "value": 3.7,
+  "how": "South Africa current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_zaf_2022": {
+  "value": -0.3,
+  "how": "South Africa current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_zaf_2023": {
+  "value": -1.1,
+  "how": "South Africa current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_zaf_2024": {
+  "value": -0.7,
+  "how": "South Africa current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_zaf_2026": {
+  "value": -0.7,
+  "how": "South Africa current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_zaf_2027": {
+  "value": -0.9,
+  "how": "South Africa current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_zaf_2028": {
+  "value": -1.1,
+  "how": "South Africa current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_zaf_2029": {
+  "value": -1.5,
+  "how": "South Africa current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_zaf_2030": {
+  "value": -1.7,
+  "how": "South Africa current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_zaf_2031": {
+  "value": -1.9,
+  "how": "South Africa current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_rus_2000": {
+  "value": 55.9,
+  "how": "Russia general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_rus_2001": {
+  "value": 44.4,
+  "how": "Russia general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_rus_2002": {
+  "value": 37.6,
+  "how": "Russia general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_rus_2003": {
+  "value": 28.3,
+  "how": "Russia general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_rus_2004": {
+  "value": 20.8,
+  "how": "Russia general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_rus_2005": {
+  "value": 14.9,
+  "how": "Russia general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_rus_2006": {
+  "value": 9.8,
+  "how": "Russia general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_rus_2008": {
+  "value": 7.4,
+  "how": "Russia general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_rus_2009": {
+  "value": 9.9,
+  "how": "Russia general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_rus_2010": {
+  "value": 10.1,
+  "how": "Russia general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_rus_2011": {
+  "value": 10.3,
+  "how": "Russia general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_rus_2012": {
+  "value": 11.2,
+  "how": "Russia general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_rus_2013": {
+  "value": 12.3,
+  "how": "Russia general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_rus_2014": {
+  "value": 15.1,
+  "how": "Russia general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_rus_2015": {
+  "value": 15.3,
+  "how": "Russia general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_rus_2016": {
+  "value": 14.8,
+  "how": "Russia general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_rus_2017": {
+  "value": 14.3,
+  "how": "Russia general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_rus_2018": {
+  "value": 13.6,
+  "how": "Russia general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_rus_2019": {
+  "value": 13.7,
+  "how": "Russia general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_rus_2020": {
+  "value": 19.2,
+  "how": "Russia general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_rus_2021": {
+  "value": 16.5,
+  "how": "Russia general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_rus_2022": {
+  "value": 15.1,
+  "how": "Russia general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_rus_2023": {
+  "value": 15.2,
+  "how": "Russia general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_rus_2024": {
+  "value": 14.8,
+  "how": "Russia general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_rus_2026": {
+  "value": 19.3,
+  "how": "Russia general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_rus_2027": {
+  "value": 22.2,
+  "how": "Russia general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_rus_2028": {
+  "value": 24.8,
+  "how": "Russia general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_rus_2029": {
+  "value": 27.2,
+  "how": "Russia general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_rus_2030": {
+  "value": 29.1,
+  "how": "Russia general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_rus_2000": {
+  "value": 3.1,
+  "how": "Russia general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_rus_2001": {
+  "value": 3.0,
+  "how": "Russia general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_rus_2002": {
+  "value": 0.7,
+  "how": "Russia general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_rus_2003": {
+  "value": 1.4,
+  "how": "Russia general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_rus_2004": {
+  "value": 4.6,
+  "how": "Russia general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_rus_2005": {
+  "value": 7.6,
+  "how": "Russia general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_rus_2006": {
+  "value": 7.8,
+  "how": "Russia general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_rus_2007": {
+  "value": 5.6,
+  "how": "Russia general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_rus_2009": {
+  "value": -5.9,
+  "how": "Russia general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_rus_2010": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_rus_2011": {
+  "value": 1.4,
+  "how": "Russia general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_rus_2012": {
+  "value": 0.4,
+  "how": "Russia general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_rus_2013": {
+  "value": -1.2,
+  "how": "Russia general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_rus_2014": {
+  "value": -1.1,
+  "how": "Russia general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_rus_2015": {
+  "value": -3.4,
+  "how": "Russia general government net lending, % of GDP, 2015 (WEO)"
+ },
+ "bal_rus_2016": {
+  "value": -3.7,
+  "how": "Russia general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_rus_2017": {
+  "value": -1.5,
+  "how": "Russia general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_rus_2018": {
+  "value": 2.9,
+  "how": "Russia general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_rus_2019": {
+  "value": 1.9,
+  "how": "Russia general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_rus_2020": {
+  "value": -4.0,
+  "how": "Russia general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_rus_2021": {
+  "value": 0.8,
+  "how": "Russia general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_rus_2022": {
+  "value": -1.3,
+  "how": "Russia general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_rus_2023": {
+  "value": -2.2,
+  "how": "Russia general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_rus_2024": {
+  "value": -1.6,
+  "how": "Russia general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_rus_2026": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_rus_2027": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_rus_2028": {
+  "value": -3.3,
+  "how": "Russia general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_rus_2029": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_rus_2030": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_rus_2031": {
+  "value": -3.2,
+  "how": "Russia general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_rus_2001": {
+  "value": 9.8,
+  "how": "Russia current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_rus_2002": {
+  "value": 7.4,
+  "how": "Russia current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_rus_2003": {
+  "value": 7.2,
+  "how": "Russia current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_rus_2004": {
+  "value": 9.2,
+  "how": "Russia current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_rus_2005": {
+  "value": 10.3,
+  "how": "Russia current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_rus_2006": {
+  "value": 8.7,
+  "how": "Russia current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_rus_2007": {
+  "value": 5.2,
+  "how": "Russia current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_rus_2008": {
+  "value": 5.8,
+  "how": "Russia current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_rus_2009": {
+  "value": 3.9,
+  "how": "Russia current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_rus_2010": {
+  "value": 4.1,
+  "how": "Russia current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_rus_2011": {
+  "value": 4.8,
+  "how": "Russia current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_rus_2012": {
+  "value": 3.3,
+  "how": "Russia current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_rus_2013": {
+  "value": 1.5,
+  "how": "Russia current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_rus_2014": {
+  "value": 2.8,
+  "how": "Russia current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_rus_2015": {
+  "value": 5.0,
+  "how": "Russia current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_rus_2016": {
+  "value": 1.9,
+  "how": "Russia current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_rus_2017": {
+  "value": 2.0,
+  "how": "Russia current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_rus_2018": {
+  "value": 7.0,
+  "how": "Russia current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_rus_2019": {
+  "value": 3.9,
+  "how": "Russia current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_rus_2020": {
+  "value": 2.4,
+  "how": "Russia current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_rus_2021": {
+  "value": 6.8,
+  "how": "Russia current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_rus_2023": {
+  "value": 2.4,
+  "how": "Russia current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_rus_2024": {
+  "value": 2.9,
+  "how": "Russia current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_rus_2026": {
+  "value": 3.8,
+  "how": "Russia current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_rus_2027": {
+  "value": 3.2,
+  "how": "Russia current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_rus_2028": {
+  "value": 2.5,
+  "how": "Russia current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_rus_2029": {
+  "value": 1.9,
+  "how": "Russia current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_rus_2030": {
+  "value": 1.4,
+  "how": "Russia current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_rus_2031": {
+  "value": 1.0,
+  "how": "Russia current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_sau_2001": {
+  "value": 93.1,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_sau_2002": {
+  "value": 96.4,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_sau_2003": {
+  "value": 81.6,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_sau_2004": {
+  "value": 62.9,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_sau_2005": {
+  "value": 37.3,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_sau_2006": {
+  "value": 25.8,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_sau_2007": {
+  "value": 17.1,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_sau_2008": {
+  "value": 12.1,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_sau_2009": {
+  "value": 14.0,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_sau_2010": {
+  "value": 8.4,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_sau_2011": {
+  "value": 5.3,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_sau_2012": {
+  "value": 3.0,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_sau_2014": {
+  "value": 1.5,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_sau_2015": {
+  "value": 5.5,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_sau_2016": {
+  "value": 12.2,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_sau_2017": {
+  "value": 15.9,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_sau_2018": {
+  "value": 16.8,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_sau_2019": {
+  "value": 20.3,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_sau_2020": {
+  "value": 29.7,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_sau_2021": {
+  "value": 25.5,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_sau_2022": {
+  "value": 21.3,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_sau_2023": {
+  "value": 23.0,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_sau_2024": {
+  "value": 25.9,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_sau_2026": {
+  "value": 35.4,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_sau_2027": {
+  "value": 37.3,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_sau_2028": {
+  "value": 40.2,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_sau_2029": {
+  "value": 43.1,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_sau_2030": {
+  "value": 45.9,
+  "how": "Saudi Arabia general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_sau_2000": {
+  "value": 3.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_sau_2001": {
+  "value": -3.9,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_sau_2002": {
+  "value": -5.9,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_sau_2003": {
+  "value": 1.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_sau_2004": {
+  "value": 9.7,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_sau_2005": {
+  "value": 18.0,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_sau_2006": {
+  "value": 20.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_sau_2007": {
+  "value": 11.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_sau_2009": {
+  "value": -5.4,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_sau_2010": {
+  "value": 4.4,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_sau_2011": {
+  "value": 11.4,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_sau_2012": {
+  "value": 11.7,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_sau_2013": {
+  "value": 5.5,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_sau_2014": {
+  "value": -3.4,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_sau_2017": {
+  "value": -8.6,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_sau_2018": {
+  "value": -5.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_sau_2019": {
+  "value": -4.0,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_sau_2020": {
+  "value": -10.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_sau_2021": {
+  "value": -2.0,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_sau_2022": {
+  "value": 2.2,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_sau_2023": {
+  "value": -1.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_sau_2024": {
+  "value": -2.5,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_sau_2027": {
+  "value": -4.0,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_sau_2028": {
+  "value": -4.1,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_sau_2029": {
+  "value": -4.4,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_sau_2030": {
+  "value": -4.6,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_sau_2031": {
+  "value": -4.8,
+  "how": "Saudi Arabia general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_sau_2000": {
+  "value": 7.6,
+  "how": "Saudi Arabia current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_sau_2001": {
+  "value": 5.1,
+  "how": "Saudi Arabia current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_sau_2002": {
+  "value": 6.3,
+  "how": "Saudi Arabia current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_sau_2003": {
+  "value": 13.0,
+  "how": "Saudi Arabia current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_sau_2004": {
+  "value": 20.1,
+  "how": "Saudi Arabia current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_sau_2005": {
+  "value": 28.1,
+  "how": "Saudi Arabia current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_sau_2006": {
+  "value": 27.4,
+  "how": "Saudi Arabia current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_sau_2007": {
+  "value": 23.9,
+  "how": "Saudi Arabia current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_sau_2009": {
+  "value": 6.6,
+  "how": "Saudi Arabia current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_sau_2010": {
+  "value": 14.1,
+  "how": "Saudi Arabia current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_sau_2011": {
+  "value": 24.2,
+  "how": "Saudi Arabia current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_sau_2012": {
+  "value": 22.6,
+  "how": "Saudi Arabia current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_sau_2013": {
+  "value": 18.3,
+  "how": "Saudi Arabia current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_sau_2014": {
+  "value": 9.9,
+  "how": "Saudi Arabia current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_sau_2016": {
+  "value": -3.9,
+  "how": "Saudi Arabia current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_sau_2017": {
+  "value": 1.2,
+  "how": "Saudi Arabia current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_sau_2018": {
+  "value": 7.9,
+  "how": "Saudi Arabia current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_sau_2019": {
+  "value": 3.6,
+  "how": "Saudi Arabia current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_sau_2020": {
+  "value": -4.5,
+  "how": "Saudi Arabia current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_sau_2021": {
+  "value": 4.6,
+  "how": "Saudi Arabia current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_sau_2023": {
+  "value": 2.1,
+  "how": "Saudi Arabia current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_sau_2024": {
+  "value": -1.3,
+  "how": "Saudi Arabia current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_sau_2026": {
+  "value": -3.5,
+  "how": "Saudi Arabia current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_sau_2027": {
+  "value": -1.3,
+  "how": "Saudi Arabia current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_sau_2028": {
+  "value": -1.7,
+  "how": "Saudi Arabia current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_sau_2029": {
+  "value": -2.2,
+  "how": "Saudi Arabia current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_sau_2030": {
+  "value": -2.7,
+  "how": "Saudi Arabia current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_sau_2031": {
+  "value": -3.1,
+  "how": "Saudi Arabia current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "debt_are_2000": {
+  "value": 3.1,
+  "how": "UAE general government gross debt, % of GDP, 2000 (WEO)"
+ },
+ "debt_are_2001": {
+  "value": 2.7,
+  "how": "UAE general government gross debt, % of GDP, 2001 (WEO)"
+ },
+ "debt_are_2002": {
+  "value": 3.4,
+  "how": "UAE general government gross debt, % of GDP, 2002 (WEO)"
+ },
+ "debt_are_2003": {
+  "value": 3.3,
+  "how": "UAE general government gross debt, % of GDP, 2003 (WEO)"
+ },
+ "debt_are_2004": {
+  "value": 4.1,
+  "how": "UAE general government gross debt, % of GDP, 2004 (WEO)"
+ },
+ "debt_are_2005": {
+  "value": 4.5,
+  "how": "UAE general government gross debt, % of GDP, 2005 (WEO)"
+ },
+ "debt_are_2006": {
+  "value": 5.1,
+  "how": "UAE general government gross debt, % of GDP, 2006 (WEO)"
+ },
+ "debt_are_2007": {
+  "value": 8.9,
+  "how": "UAE general government gross debt, % of GDP, 2007 (WEO)"
+ },
+ "debt_are_2008": {
+  "value": 8.9,
+  "how": "UAE general government gross debt, % of GDP, 2008 (WEO)"
+ },
+ "debt_are_2009": {
+  "value": 21.1,
+  "how": "UAE general government gross debt, % of GDP, 2009 (WEO)"
+ },
+ "debt_are_2010": {
+  "value": 18.3,
+  "how": "UAE general government gross debt, % of GDP, 2010 (WEO)"
+ },
+ "debt_are_2011": {
+  "value": 20.4,
+  "how": "UAE general government gross debt, % of GDP, 2011 (WEO)"
+ },
+ "debt_are_2012": {
+  "value": 20.2,
+  "how": "UAE general government gross debt, % of GDP, 2012 (WEO)"
+ },
+ "debt_are_2013": {
+  "value": 15.3,
+  "how": "UAE general government gross debt, % of GDP, 2013 (WEO)"
+ },
+ "debt_are_2014": {
+  "value": 13.5,
+  "how": "UAE general government gross debt, % of GDP, 2014 (WEO)"
+ },
+ "debt_are_2015": {
+  "value": 15.6,
+  "how": "UAE general government gross debt, % of GDP, 2015 (WEO)"
+ },
+ "debt_are_2016": {
+  "value": 18.6,
+  "how": "UAE general government gross debt, % of GDP, 2016 (WEO)"
+ },
+ "debt_are_2017": {
+  "value": 21.2,
+  "how": "UAE general government gross debt, % of GDP, 2017 (WEO)"
+ },
+ "debt_are_2018": {
+  "value": 20.7,
+  "how": "UAE general government gross debt, % of GDP, 2018 (WEO)"
+ },
+ "debt_are_2019": {
+  "value": 25.8,
+  "how": "UAE general government gross debt, % of GDP, 2019 (WEO)"
+ },
+ "debt_are_2020": {
+  "value": 30.1,
+  "how": "UAE general government gross debt, % of GDP, 2020 (WEO)"
+ },
+ "debt_are_2021": {
+  "value": 35.7,
+  "how": "UAE general government gross debt, % of GDP, 2021 (WEO)"
+ },
+ "debt_are_2022": {
+  "value": 31.5,
+  "how": "UAE general government gross debt, % of GDP, 2022 (WEO)"
+ },
+ "debt_are_2023": {
+  "value": 31.9,
+  "how": "UAE general government gross debt, % of GDP, 2023 (WEO)"
+ },
+ "debt_are_2024": {
+  "value": 33.2,
+  "how": "UAE general government gross debt, % of GDP, 2024 (WEO)"
+ },
+ "debt_are_2025": {
+  "value": 33.9,
+  "how": "UAE general government gross debt, % of GDP, 2025 (WEO)"
+ },
+ "debt_are_2026": {
+  "value": 32.8,
+  "how": "UAE general government gross debt, % of GDP, 2026 (WEO, projection)"
+ },
+ "debt_are_2027": {
+  "value": 30.8,
+  "how": "UAE general government gross debt, % of GDP, 2027 (WEO, projection)"
+ },
+ "debt_are_2028": {
+  "value": 29.0,
+  "how": "UAE general government gross debt, % of GDP, 2028 (WEO, projection)"
+ },
+ "debt_are_2029": {
+  "value": 27.4,
+  "how": "UAE general government gross debt, % of GDP, 2029 (WEO, projection)"
+ },
+ "debt_are_2030": {
+  "value": 27.0,
+  "how": "UAE general government gross debt, % of GDP, 2030 (WEO, projection)"
+ },
+ "debt_are_2031": {
+  "value": 26.1,
+  "how": "UAE general government gross debt, % of GDP, 2031 (WEO, projection)"
+ },
+ "bal_are_2000": {
+  "value": 10.7,
+  "how": "UAE general government net lending, % of GDP, 2000 (WEO)"
+ },
+ "bal_are_2001": {
+  "value": 1.2,
+  "how": "UAE general government net lending, % of GDP, 2001 (WEO)"
+ },
+ "bal_are_2002": {
+  "value": -1.2,
+  "how": "UAE general government net lending, % of GDP, 2002 (WEO)"
+ },
+ "bal_are_2003": {
+  "value": 2.4,
+  "how": "UAE general government net lending, % of GDP, 2003 (WEO)"
+ },
+ "bal_are_2004": {
+  "value": 6.4,
+  "how": "UAE general government net lending, % of GDP, 2004 (WEO)"
+ },
+ "bal_are_2005": {
+  "value": 16.0,
+  "how": "UAE general government net lending, % of GDP, 2005 (WEO)"
+ },
+ "bal_are_2006": {
+  "value": 20.1,
+  "how": "UAE general government net lending, % of GDP, 2006 (WEO)"
+ },
+ "bal_are_2007": {
+  "value": 17.1,
+  "how": "UAE general government net lending, % of GDP, 2007 (WEO)"
+ },
+ "bal_are_2008": {
+  "value": 17.6,
+  "how": "UAE general government net lending, % of GDP, 2008 (WEO)"
+ },
+ "bal_are_2009": {
+  "value": -6.1,
+  "how": "UAE general government net lending, % of GDP, 2009 (WEO)"
+ },
+ "bal_are_2010": {
+  "value": 0.5,
+  "how": "UAE general government net lending, % of GDP, 2010 (WEO)"
+ },
+ "bal_are_2011": {
+  "value": 5.1,
+  "how": "UAE general government net lending, % of GDP, 2011 (WEO)"
+ },
+ "bal_are_2012": {
+  "value": 8.6,
+  "how": "UAE general government net lending, % of GDP, 2012 (WEO)"
+ },
+ "bal_are_2013": {
+  "value": 8.0,
+  "how": "UAE general government net lending, % of GDP, 2013 (WEO)"
+ },
+ "bal_are_2014": {
+  "value": 1.7,
+  "how": "UAE general government net lending, % of GDP, 2014 (WEO)"
+ },
+ "bal_are_2016": {
+  "value": -3.0,
+  "how": "UAE general government net lending, % of GDP, 2016 (WEO)"
+ },
+ "bal_are_2017": {
+  "value": -0.2,
+  "how": "UAE general government net lending, % of GDP, 2017 (WEO)"
+ },
+ "bal_are_2018": {
+  "value": 3.7,
+  "how": "UAE general government net lending, % of GDP, 2018 (WEO)"
+ },
+ "bal_are_2019": {
+  "value": 2.5,
+  "how": "UAE general government net lending, % of GDP, 2019 (WEO)"
+ },
+ "bal_are_2020": {
+  "value": -2.4,
+  "how": "UAE general government net lending, % of GDP, 2020 (WEO)"
+ },
+ "bal_are_2021": {
+  "value": 4.0,
+  "how": "UAE general government net lending, % of GDP, 2021 (WEO)"
+ },
+ "bal_are_2022": {
+  "value": 9.8,
+  "how": "UAE general government net lending, % of GDP, 2022 (WEO)"
+ },
+ "bal_are_2023": {
+  "value": 5.8,
+  "how": "UAE general government net lending, % of GDP, 2023 (WEO)"
+ },
+ "bal_are_2024": {
+  "value": 6.2,
+  "how": "UAE general government net lending, % of GDP, 2024 (WEO)"
+ },
+ "bal_are_2025": {
+  "value": 3.9,
+  "how": "UAE general government net lending, % of GDP, 2025 (WEO)"
+ },
+ "bal_are_2026": {
+  "value": 1.5,
+  "how": "UAE general government net lending, % of GDP, 2026 (WEO, projection)"
+ },
+ "bal_are_2027": {
+  "value": 4.4,
+  "how": "UAE general government net lending, % of GDP, 2027 (WEO, projection)"
+ },
+ "bal_are_2028": {
+  "value": 4.1,
+  "how": "UAE general government net lending, % of GDP, 2028 (WEO, projection)"
+ },
+ "bal_are_2029": {
+  "value": 3.8,
+  "how": "UAE general government net lending, % of GDP, 2029 (WEO, projection)"
+ },
+ "bal_are_2030": {
+  "value": 3.6,
+  "how": "UAE general government net lending, % of GDP, 2030 (WEO, projection)"
+ },
+ "bal_are_2031": {
+  "value": 3.5,
+  "how": "UAE general government net lending, % of GDP, 2031 (WEO, projection)"
+ },
+ "ca_are_2000": {
+  "value": 16.3,
+  "how": "UAE current account, % of GDP, 2000 (WEO)"
+ },
+ "ca_are_2001": {
+  "value": 9.1,
+  "how": "UAE current account, % of GDP, 2001 (WEO)"
+ },
+ "ca_are_2002": {
+  "value": 3.3,
+  "how": "UAE current account, % of GDP, 2002 (WEO)"
+ },
+ "ca_are_2003": {
+  "value": 5.8,
+  "how": "UAE current account, % of GDP, 2003 (WEO)"
+ },
+ "ca_are_2004": {
+  "value": 6.4,
+  "how": "UAE current account, % of GDP, 2004 (WEO)"
+ },
+ "ca_are_2005": {
+  "value": 13.2,
+  "how": "UAE current account, % of GDP, 2005 (WEO)"
+ },
+ "ca_are_2006": {
+  "value": 17.3,
+  "how": "UAE current account, % of GDP, 2006 (WEO)"
+ },
+ "ca_are_2007": {
+  "value": 7.6,
+  "how": "UAE current account, % of GDP, 2007 (WEO)"
+ },
+ "ca_are_2008": {
+  "value": 7.1,
+  "how": "UAE current account, % of GDP, 2008 (WEO)"
+ },
+ "ca_are_2009": {
+  "value": 3.1,
+  "how": "UAE current account, % of GDP, 2009 (WEO)"
+ },
+ "ca_are_2010": {
+  "value": 4.0,
+  "how": "UAE current account, % of GDP, 2010 (WEO)"
+ },
+ "ca_are_2011": {
+  "value": 11.8,
+  "how": "UAE current account, % of GDP, 2011 (WEO)"
+ },
+ "ca_are_2012": {
+  "value": 18.6,
+  "how": "UAE current account, % of GDP, 2012 (WEO)"
+ },
+ "ca_are_2013": {
+  "value": 17.9,
+  "how": "UAE current account, % of GDP, 2013 (WEO)"
+ },
+ "ca_are_2014": {
+  "value": 12.8,
+  "how": "UAE current account, % of GDP, 2014 (WEO)"
+ },
+ "ca_are_2015": {
+  "value": 4.6,
+  "how": "UAE current account, % of GDP, 2015 (WEO)"
+ },
+ "ca_are_2016": {
+  "value": 3.5,
+  "how": "UAE current account, % of GDP, 2016 (WEO)"
+ },
+ "ca_are_2017": {
+  "value": 6.8,
+  "how": "UAE current account, % of GDP, 2017 (WEO)"
+ },
+ "ca_are_2018": {
+  "value": 9.4,
+  "how": "UAE current account, % of GDP, 2018 (WEO)"
+ },
+ "ca_are_2019": {
+  "value": 8.6,
+  "how": "UAE current account, % of GDP, 2019 (WEO)"
+ },
+ "ca_are_2020": {
+  "value": 5.9,
+  "how": "UAE current account, % of GDP, 2020 (WEO)"
+ },
+ "ca_are_2021": {
+  "value": 11.4,
+  "how": "UAE current account, % of GDP, 2021 (WEO)"
+ },
+ "ca_are_2022": {
+  "value": 13.0,
+  "how": "UAE current account, % of GDP, 2022 (WEO)"
+ },
+ "ca_are_2023": {
+  "value": 13.9,
+  "how": "UAE current account, % of GDP, 2023 (WEO)"
+ },
+ "ca_are_2024": {
+  "value": 15.0,
+  "how": "UAE current account, % of GDP, 2024 (WEO)"
+ },
+ "ca_are_2026": {
+  "value": 4.8,
+  "how": "UAE current account, % of GDP, 2026 (WEO, projection)"
+ },
+ "ca_are_2027": {
+  "value": 7.8,
+  "how": "UAE current account, % of GDP, 2027 (WEO, projection)"
+ },
+ "ca_are_2028": {
+  "value": 8.9,
+  "how": "UAE current account, % of GDP, 2028 (WEO, projection)"
+ },
+ "ca_are_2029": {
+  "value": 8.8,
+  "how": "UAE current account, % of GDP, 2029 (WEO, projection)"
+ },
+ "ca_are_2030": {
+  "value": 8.9,
+  "how": "UAE current account, % of GDP, 2030 (WEO, projection)"
+ },
+ "ca_are_2031": {
+  "value": 9.0,
+  "how": "UAE current account, % of GDP, 2031 (WEO, projection)"
+ },
+ "pcus_bra_2000": {
+  "value": 25.0,
+  "how": "Brazil GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_bra_2013": {
+  "value": 31.0,
+  "how": "Brazil GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_bra_2025": {
+  "value": 26.0,
+  "how": "Brazil GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_bra_2025": {
+  "value": 20025.0,
+  "how": "Brazil GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_mex_2000": {
+  "value": 37.0,
+  "how": "Mexico GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_mex_2013": {
+  "value": 34.0,
+  "how": "Mexico GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_mex_2025": {
+  "value": 28.0,
+  "how": "Mexico GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_mex_2025": {
+  "value": 21912.0,
+  "how": "Mexico GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_idn_2000": {
+  "value": 11.0,
+  "how": "Indonesia GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_idn_2013": {
+  "value": 16.0,
+  "how": "Indonesia GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_idn_2025": {
+  "value": 20.0,
+  "how": "Indonesia GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_idn_2025": {
+  "value": 15091.0,
+  "how": "Indonesia GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_tur_2000": {
+  "value": 27.0,
+  "how": "T\u00fcrkiye GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_tur_2013": {
+  "value": 39.0,
+  "how": "T\u00fcrkiye GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_tur_2025": {
+  "value": 48.0,
+  "how": "T\u00fcrkiye GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_tur_2025": {
+  "value": 37301.0,
+  "how": "T\u00fcrkiye GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_zaf_2000": {
+  "value": 20.0,
+  "how": "South Africa GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_zaf_2013": {
+  "value": 24.0,
+  "how": "South Africa GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_zaf_2025": {
+  "value": 18.0,
+  "how": "South Africa GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_zaf_2025": {
+  "value": 13592.0,
+  "how": "South Africa GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_rus_2000": {
+  "value": 37.0,
+  "how": "Russia GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_rus_2013": {
+  "value": 59.0,
+  "how": "Russia GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_rus_2025": {
+  "value": 55.0,
+  "how": "Russia GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_rus_2025": {
+  "value": 42358.0,
+  "how": "Russia GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_sau_2000": {
+  "value": 102.0,
+  "how": "Saudi Arabia GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_sau_2013": {
+  "value": 94.0,
+  "how": "Saudi Arabia GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_sau_2025": {
+  "value": 82.0,
+  "how": "Saudi Arabia GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_sau_2025": {
+  "value": 63051.0,
+  "how": "Saudi Arabia GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_ind_2000": {
+  "value": 5.0,
+  "how": "India GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_ind_2013": {
+  "value": 9.0,
+  "how": "India GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_ind_2025": {
+  "value": 13.0,
+  "how": "India GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_ind_2025": {
+  "value": 10039.0,
+  "how": "India GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "pcus_chn_2000": {
+  "value": 7.0,
+  "how": "China GDP per person (PPP) as % of the US, 2000 (WDI)"
+ },
+ "pcus_chn_2013": {
+  "value": 21.0,
+  "how": "China GDP per person (PPP) as % of the US, 2013 (WDI)"
+ },
+ "pcus_chn_2025": {
+  "value": 33.0,
+  "how": "China GDP per person (PPP) as % of the US, 2025 (WDI)"
+ },
+ "pc_chn_2025": {
+  "value": 25067.0,
+  "how": "China GDP per person, PPP constant 2021 $, 2025 (WDI)"
+ },
+ "ppp_seven_2000": {
+  "value": 13.8,
+  "how": "combined share of world GDP at PPP of the seven, 2000 (WEO)"
+ },
+ "ppp_ind_2000": {
+  "value": 3.9,
+  "how": "India share of world GDP at PPP, 2000 (WEO)"
+ },
+ "ppp_chn_2000": {
+  "value": 6.7,
+  "how": "China share of world GDP at PPP, 2000 (WEO)"
+ },
+ "ppp_rus_2000": {
+  "value": 3.1,
+  "how": "Russia share of world GDP at PPP, 2000 (WEO)"
+ },
+ "ppp_bra_2000": {
+  "value": 2.9,
+  "how": "Brazil share of world GDP at PPP, 2000 (WEO)"
+ },
+ "ppp_idn_2000": {
+  "value": 1.7,
+  "how": "Indonesia share of world GDP at PPP, 2000 (WEO)"
+ },
+ "ppp_seven_2025": {
+  "value": 13.4,
+  "how": "combined share of world GDP at PPP of the seven, 2025 (WEO)"
+ },
+ "ppp_ind_2025": {
+  "value": 8.2,
+  "how": "India share of world GDP at PPP, 2025 (WEO)"
+ },
+ "ppp_chn_2025": {
+  "value": 19.6,
+  "how": "China share of world GDP at PPP, 2025 (WEO)"
+ },
+ "ppp_rus_2025": {
+  "value": 3.4,
+  "how": "Russia share of world GDP at PPP, 2025 (WEO)"
+ },
+ "ppp_bra_2025": {
+  "value": 2.4,
+  "how": "Brazil share of world GDP at PPP, 2025 (WEO)"
+ },
+ "ppp_idn_2025": {
+  "value": 2.4,
+  "how": "Indonesia share of world GDP at PPP, 2025 (WEO)"
+ },
+ "ppp_seven_2031": {
+  "value": 13.1,
+  "how": "combined share of world GDP at PPP of the seven, 2031 (WEO)"
+ },
+ "ppp_ind_2031": {
+  "value": 10.2,
+  "how": "India share of world GDP at PPP, 2031 (WEO)"
+ },
+ "ppp_chn_2031": {
+  "value": 20.3,
+  "how": "China share of world GDP at PPP, 2031 (WEO)"
+ },
+ "ppp_rus_2031": {
+  "value": 3.0,
+  "how": "Russia share of world GDP at PPP, 2031 (WEO)"
+ },
+ "ppp_bra_2031": {
+  "value": 2.3,
+  "how": "Brazil share of world GDP at PPP, 2031 (WEO)"
+ },
+ "ppp_idn_2031": {
+  "value": 2.7,
+  "how": "Indonesia share of world GDP at PPP, 2031 (WEO)"
+ },
+ "ppp_bric_2000": {
+  "value": 16.6,
+  "how": "combined share of world GDP at PPP of Brazil, Russia, India and China, 2000 (WEO Oct 2026)"
+ },
+ "ppp_bric_2011": {
+  "value": 25.2,
+  "how": "combined share of world GDP at PPP of Brazil, Russia, India and China, 2011 (WEO Oct 2026)"
+ },
+ "ppp_bric_2025": {
+  "value": 33.6,
+  "how": "combined share of world GDP at PPP of Brazil, Russia, India and China, 2025 (WEO Oct 2026)"
+ },
+ "gdpd_bra_2025": {
+  "value": 2.28,
+  "how": "Brazil GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_mex_2025": {
+  "value": 1.84,
+  "how": "Mexico GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_idn_2025": {
+  "value": 1.45,
+  "how": "Indonesia GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_tur_2025": {
+  "value": 1.6,
+  "how": "T\u00fcrkiye GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_zaf_2025": {
+  "value": 0.43,
+  "how": "South Africa GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_rus_2025": {
+  "value": 2.57,
+  "how": "Russia GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_sau_2025": {
+  "value": 1.27,
+  "how": "Saudi Arabia GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_are_2025": {
+  "value": 0.61,
+  "how": "UAE GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_ind_2025": {
+  "value": 3.91,
+  "how": "India GDP, US$ trillion, 2025 (WEO)"
+ },
+ "gdpd_seven_2025": {
+  "value": 11.44,
+  "how": "combined GDP of the seven, US$ trillion, 2025"
+ },
+ "gdpd_bra_2011": {
+  "value": 2.61,
+  "how": "Brazil GDP, US$ trillion, 2011 (WEO)"
+ },
+ "gdpd_rus_2013": {
+  "value": 2.29,
+  "how": "Russia GDP, US$ trillion, 2013 (WEO)"
+ },
+ "pr_br_pk15": {
+  "value": 14.25,
+  "how": "Brazil policy rate, highest 2014-01 to 2017-12 (July 2015, BIS)",
+  "month": "July 2015"
+ },
+ "pr_br_lo20": {
+  "value": 2.0,
+  "how": "Brazil policy rate, lowest 2019-01 to 2022-12 (August 2020, BIS)",
+  "month": "August 2020"
+ },
+ "pr_br_pk25": {
+  "value": 15.0,
+  "how": "Brazil policy rate, highest 2023-01 to 2026-10 (June 2025, BIS)",
+  "month": "June 2025"
+ },
+ "pr_br_last": {
+  "value": 13.75,
+  "how": "Brazil policy rate, end of October 2026 (BIS)"
+ },
+ "pr_tr_lo21": {
+  "value": 8.5,
+  "how": "T\u00fcrkiye policy rate, lowest 2021-01 to 2023-05 (February 2023, BIS)",
+  "month": "February 2023"
+ },
+ "pr_tr_pk24": {
+  "value": 50.0,
+  "how": "T\u00fcrkiye policy rate, highest 2023-06 to 2026-10 (March 2024, BIS)",
+  "month": "March 2024"
+ },
+ "pr_tr_last": {
+  "value": 36.0,
+  "how": "T\u00fcrkiye policy rate, end of October 2026 (BIS)"
+ },
+ "pr_tr_2021_08": {
+  "value": 19.0,
+  "how": "T\u00fcrkiye policy rate, end of August 2021 (BIS)"
+ },
+ "pr_tr_2023_05": {
+  "value": 8.5,
+  "how": "T\u00fcrkiye policy rate, end of May 2023 (BIS)"
+ },
+ "pr_ru_2014_11": {
+  "value": 9.5,
+  "how": "Russia policy rate, end of November 2014 (BIS)"
+ },
+ "pr_ru_2014_12": {
+  "value": 17.0,
+  "how": "Russia policy rate, end of December 2014 (BIS)"
+ },
+ "pr_ru_2022_01": {
+  "value": 8.5,
+  "how": "Russia policy rate, end of January 2022 (BIS)"
+ },
+ "pr_ru_2022_02": {
+  "value": 20.0,
+  "how": "Russia policy rate, end of February 2022 (BIS)"
+ },
+ "pr_ru_pk24": {
+  "value": 21.0,
+  "how": "Russia policy rate, highest 2023-01 to 2026-10 (October 2024, BIS)",
+  "month": "October 2024"
+ },
+ "pr_ru_last": {
+  "value": 14.0,
+  "how": "Russia policy rate, end of October 2026 (BIS)"
+ },
+ "pr_mx_pk23": {
+  "value": 11.25,
+  "how": "Mexico policy rate, highest 2022-01 to 2026-10 (March 2023, BIS)",
+  "month": "March 2023"
+ },
+ "pr_mx_last": {
+  "value": 6.5,
+  "how": "Mexico policy rate, end of October 2026 (BIS)"
+ },
+ "pr_za_pk": {
+  "value": 8.25,
+  "how": "South Africa policy rate, highest 2022-01 to 2026-10 (May 2023, BIS)",
+  "month": "May 2023"
+ },
+ "pr_za_last": {
+  "value": 7.25,
+  "how": "South Africa policy rate, end of October 2026 (BIS)"
+ },
+ "pr_id_last": {
+  "value": 5.75,
+  "how": "Indonesia policy rate, end of October 2026 (BIS)"
+ },
+ "fx13_in_lo": {
+  "value": -14.8,
+  "how": "India nominal effective exchange rate, change from April 2013 to its 2013 low (September 2013), % (BIS)",
+  "month": "September 2013"
+ },
+ "fx13_in_dec14": {
+  "value": -8.4,
+  "how": "India nominal effective exchange rate, change April 2013 to December 2014, % (BIS)"
+ },
+ "fx13_br_lo": {
+  "value": -13.5,
+  "how": "Brazil nominal effective exchange rate, change from April 2013 to its 2013 low (August 2013), % (BIS)",
+  "month": "August 2013"
+ },
+ "fx13_br_dec14": {
+  "value": -15.9,
+  "how": "Brazil nominal effective exchange rate, change April 2013 to December 2014, % (BIS)"
+ },
+ "fx13_id_lo": {
+  "value": -17.7,
+  "how": "Indonesia nominal effective exchange rate, change from April 2013 to its 2013 low (December 2013), % (BIS)",
+  "month": "December 2013"
+ },
+ "fx13_id_dec14": {
+  "value": -15.7,
+  "how": "Indonesia nominal effective exchange rate, change April 2013 to December 2014, % (BIS)"
+ },
+ "fx13_tr_lo": {
+  "value": -14.9,
+  "how": "T\u00fcrkiye nominal effective exchange rate, change from April 2013 to its 2013 low (December 2013), % (BIS)",
+  "month": "December 2013"
+ },
+ "fx13_tr_dec14": {
+  "value": -16.2,
+  "how": "T\u00fcrkiye nominal effective exchange rate, change April 2013 to December 2014, % (BIS)"
+ },
+ "fx13_za_lo": {
+  "value": -12.6,
+  "how": "South Africa nominal effective exchange rate, change from April 2013 to its 2013 low (December 2013), % (BIS)",
+  "month": "December 2013"
+ },
+ "fx13_za_dec14": {
+  "value": -15.7,
+  "how": "South Africa nominal effective exchange rate, change April 2013 to December 2014, % (BIS)"
+ },
+ "fx18_tr": {
+  "value": -37.2,
+  "how": "T\u00fcrkiye nominal effective exchange rate, % change January to September 2018 (BIS, monthly averages)"
+ },
+ "rem_ind_2000": {
+  "value": 12.9,
+  "how": "India personal remittances received, US$ bn, 2000 (WDI)"
+ },
+ "rem_ind_2025": {
+  "value": 150.7,
+  "how": "India personal remittances received, US$ bn, 2025 (WDI)"
+ },
+ "rem_mex_2000": {
+  "value": 7.5,
+  "how": "Mexico personal remittances received, US$ bn, 2000 (WDI)"
+ },
+ "rem_mex_2025": {
+  "value": 65.1,
+  "how": "Mexico personal remittances received, US$ bn, 2025 (WDI)"
+ },
+ "rem_phl_2000": {
+  "value": 6.9,
+  "how": "Philippines personal remittances received, US$ bn, 2000 (WDI)"
+ },
+ "rem_phl_2025": {
+  "value": 41.6,
+  "how": "Philippines personal remittances received, US$ bn, 2025 (WDI)"
+ },
+ "rem_egy_2000": {
+  "value": 2.9,
+  "how": "Egypt personal remittances received, US$ bn, 2000 (WDI)"
+ },
+ "rem_egy_2025": {
+  "value": 41.5,
+  "how": "Egypt personal remittances received, US$ bn, 2025 (WDI)"
+ },
+ "rem_ind_sh_2025": {
+  "value": 16.3,
+  "how": "India share of world remittances received, %, 2025 (WDI)"
+ },
+ "rem_ind_gdp_2025": {
+  "value": 3.8,
+  "how": "India remittances received, % of GDP, 2025 (WDI)"
+ },
+ "rem_wld_2025": {
+  "value": 926.0,
+  "how": "world personal remittances received, US$ bn, 2025 (WDI)"
+ },
+ "rem_ind_top_since": {
+  "value": 2006,
+  "how": "first year from which India has been the largest recipient of remittances every year (WDI, IMF-listed economies)"
+ },
+ "rem_mex_rank2_2025": {
+  "value": 1,
+  "how": "1 if Mexico was the second-largest recipient in 2025"
+ }
+}

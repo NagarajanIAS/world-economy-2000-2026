@@ -1,0 +1,582 @@
+{
+ "r_US_2000_01": {
+  "value": 5.5,
+  "how": "policy rate US 2000-01"
+ },
+ "r_US_2007_06": {
+  "value": 5.25,
+  "how": "policy rate US 2007-06"
+ },
+ "r_US_2019_12": {
+  "value": 1.62,
+  "how": "policy rate US 2019-12"
+ },
+ "r_US_2021_12": {
+  "value": 0.12,
+  "how": "policy rate US 2021-12"
+ },
+ "r_US_2023_12": {
+  "value": 5.38,
+  "how": "policy rate US 2023-12"
+ },
+ "r_US_2026_10": {
+  "value": 3.88,
+  "how": "policy rate US 2026-10"
+ },
+ "r_GB_2000_01": {
+  "value": 5.75,
+  "how": "policy rate GB 2000-01"
+ },
+ "r_GB_2007_06": {
+  "value": 5.5,
+  "how": "policy rate GB 2007-06"
+ },
+ "r_GB_2019_12": {
+  "value": 0.75,
+  "how": "policy rate GB 2019-12"
+ },
+ "r_GB_2021_12": {
+  "value": 0.25,
+  "how": "policy rate GB 2021-12"
+ },
+ "r_GB_2023_12": {
+  "value": 5.25,
+  "how": "policy rate GB 2023-12"
+ },
+ "r_GB_2026_10": {
+  "value": 3.75,
+  "how": "policy rate GB 2026-10"
+ },
+ "r_JP_2000_01": {
+  "value": 0.25,
+  "how": "policy rate JP 2000-01"
+ },
+ "r_JP_2007_06": {
+  "value": 0.5,
+  "how": "policy rate JP 2007-06"
+ },
+ "r_JP_2019_12": {
+  "value": -0.1,
+  "how": "policy rate JP 2019-12"
+ },
+ "r_JP_2021_12": {
+  "value": -0.1,
+  "how": "policy rate JP 2021-12"
+ },
+ "r_JP_2023_12": {
+  "value": -0.1,
+  "how": "policy rate JP 2023-12"
+ },
+ "r_JP_2026_10": {
+  "value": 1.25,
+  "how": "policy rate JP 2026-10"
+ },
+ "r_EA_2000_01": {
+  "value": 2.0,
+  "how": "policy rate EA 2000-01"
+ },
+ "r_EA_2007_06": {
+  "value": 3.0,
+  "how": "policy rate EA 2007-06"
+ },
+ "r_EA_2019_12": {
+  "value": -0.5,
+  "how": "policy rate EA 2019-12"
+ },
+ "r_EA_2021_12": {
+  "value": -0.5,
+  "how": "policy rate EA 2021-12"
+ },
+ "r_EA_2023_12": {
+  "value": 4.0,
+  "how": "policy rate EA 2023-12"
+ },
+ "r_EA_2026_10": {
+  "value": 2.5,
+  "how": "policy rate EA 2026-10"
+ },
+ "zlb_US_months": {
+  "value": 108,
+  "how": "months since 2008 with US policy rate at or below 0.25%"
+ },
+ "zlb_US_years": {
+  "value": 9.0,
+  "how": "years since 2008 with US policy rate at or below 0.25%"
+ },
+ "neg_EA_months": {
+  "value": 97,
+  "how": "months with ECB deposit rate below zero"
+ },
+ "neg_EA_years": {
+  "value": 8.0,
+  "how": "years with ECB deposit rate below zero"
+ },
+ "neg_EA_first": {
+  "value": "2014-06",
+  "how": "first month ECB deposit rate negative"
+ },
+ "neg_EA_last": {
+  "value": "2022-06",
+  "how": "last month ECB deposit rate negative"
+ },
+ "neg_JP_last": {
+  "value": "2024-02",
+  "how": "last month BoJ rate negative"
+ },
+ "hike_US": {
+  "value": 5.25,
+  "how": "US rise in policy rate Jan 2022 to peak (2024-08), percentage points"
+ },
+ "hike_EA": {
+  "value": 4.5,
+  "how": "EA rise in policy rate Jan 2022 to peak (2024-05), percentage points"
+ },
+ "hike_GB": {
+  "value": 5.0,
+  "how": "GB rise in policy rate Jan 2022 to peak (2024-07), percentage points"
+ },
+ "n_cb": {
+  "value": 39,
+  "how": "central banks in BIS policy-rate data (euro area counted once) with data for Dec 2021 and Dec 2022"
+ },
+ "n_cb_up_2022": {
+  "value": 35,
+  "how": "of which raised their policy rate between Dec 2021 and Dec 2022"
+ },
+ "n_cb_zero_2020": {
+  "value": 15,
+  "how": "central banks with policy rate at or below 0.25% in Dec 2020"
+ },
+ "first_up_BR": {
+  "value": "2021-03",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, BR"
+ },
+ "first_up_RU": {
+  "value": "2021-03",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, RU"
+ },
+ "first_up_MX": {
+  "value": "2021-06",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, MX"
+ },
+ "first_up_CL": {
+  "value": "2021-07",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, CL"
+ },
+ "first_up_KR": {
+  "value": "2021-08",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, KR"
+ },
+ "first_up_ZA": {
+  "value": "2021-11",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, ZA"
+ },
+ "first_up_IN": {
+  "value": "2022-05",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, IN"
+ },
+ "first_up_GB": {
+  "value": "2021-12",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, GB"
+ },
+ "first_up_US": {
+  "value": "2022-03",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, US"
+ },
+ "first_up_CA": {
+  "value": "2022-03",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, CA"
+ },
+ "first_up_AU": {
+  "value": "2022-05",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, AU"
+ },
+ "first_up_JP": {
+  "value": "2024-03",
+  "how": "first month after mid-2020 with a higher policy rate than the month before, JP"
+ },
+ "first_up_EA": {
+  "value": "2022-07",
+  "how": "first ECB deposit rate rise after mid-2020"
+ },
+ "bs_US_2007": {
+  "value": 6.1,
+  "how": "US central bank assets, % of GDP, end-2007 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_US_2019": {
+  "value": 19.1,
+  "how": "US central bank assets, % of GDP, end-2019 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_US_2021": {
+  "value": 36.7,
+  "how": "US central bank assets, % of GDP, end-2021 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_US_2025": {
+  "value": 21.3,
+  "how": "US central bank assets, % of GDP, end-2025 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_US_2026": {
+  "value": 20.7,
+  "how": "US central bank assets, % of GDP, end-2026 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_US_peak": {
+  "value": 36.7,
+  "how": "US peak central bank assets % GDP"
+ },
+ "bs_US_peak_y": {
+  "value": 2021,
+  "how": ""
+ },
+ "bs_EA_2007": {
+  "value": 14.8,
+  "how": "EA central bank assets, % of GDP, end-2007 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_EA_2019": {
+  "value": 38.5,
+  "how": "EA central bank assets, % of GDP, end-2019 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_EA_2021": {
+  "value": 66.9,
+  "how": "EA central bank assets, % of GDP, end-2021 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_EA_2025": {
+  "value": 38.5,
+  "how": "EA central bank assets, % of GDP, end-2025 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_EA_2026": {
+  "value": 35.4,
+  "how": "EA central bank assets, % of GDP, end-2026 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_EA_peak": {
+  "value": 66.9,
+  "how": "EA peak central bank assets % GDP"
+ },
+ "bs_EA_peak_y": {
+  "value": 2021,
+  "how": ""
+ },
+ "bs_JP_2007": {
+  "value": 20.4,
+  "how": "JP central bank assets, % of GDP, end-2007 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_JP_2019": {
+  "value": 100.2,
+  "how": "JP central bank assets, % of GDP, end-2019 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_JP_2021": {
+  "value": 126.2,
+  "how": "JP central bank assets, % of GDP, end-2021 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_JP_2025": {
+  "value": 101.7,
+  "how": "JP central bank assets, % of GDP, end-2025 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_JP_2026": {
+  "value": 90.8,
+  "how": "JP central bank assets, % of GDP, end-2026 (2026: latest month / WEO 2026 GDP)"
+ },
+ "bs_JP_peak": {
+  "value": 126.8,
+  "how": "JP peak central bank assets % GDP"
+ },
+ "bs_JP_peak_y": {
+  "value": 2020,
+  "how": ""
+ },
+ "pi_G001_2000_2007": {
+  "value": 4.1,
+  "how": "WEO PCPIPCH G001 2000-2007 average"
+ },
+ "pi_G001_2010_2019": {
+  "value": 3.5,
+  "how": "WEO PCPIPCH G001 2010-2019 average"
+ },
+ "pi_G001_2020": {
+  "value": 3.3,
+  "how": "WEO PCPIPCH G001 2020-2020 average"
+ },
+ "pi_G001_2022": {
+  "value": 8.7,
+  "how": "WEO PCPIPCH G001 2022-2022 average"
+ },
+ "pi_G001_2026": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH G001 2026-2026 average"
+ },
+ "pi_G110_2000_2007": {
+  "value": 2.1,
+  "how": "WEO PCPIPCH G110 2000-2007 average"
+ },
+ "pi_G110_2010_2019": {
+  "value": 1.5,
+  "how": "WEO PCPIPCH G110 2010-2019 average"
+ },
+ "pi_G110_2020": {
+  "value": 0.7,
+  "how": "WEO PCPIPCH G110 2020-2020 average"
+ },
+ "pi_G110_2022": {
+  "value": 7.3,
+  "how": "WEO PCPIPCH G110 2022-2022 average"
+ },
+ "pi_G110_2026": {
+  "value": 3.1,
+  "how": "WEO PCPIPCH G110 2026-2026 average"
+ },
+ "pi_G200_2000_2007": {
+  "value": 6.9,
+  "how": "WEO PCPIPCH G200 2000-2007 average"
+ },
+ "pi_G200_2010_2019": {
+  "value": 5.3,
+  "how": "WEO PCPIPCH G200 2010-2019 average"
+ },
+ "pi_G200_2020": {
+  "value": 5.3,
+  "how": "WEO PCPIPCH G200 2020-2020 average"
+ },
+ "pi_G200_2022": {
+  "value": 9.6,
+  "how": "WEO PCPIPCH G200 2022-2022 average"
+ },
+ "pi_G200_2026": {
+  "value": 5.7,
+  "how": "WEO PCPIPCH G200 2026-2026 average"
+ },
+ "pi_USA_2000_2007": {
+  "value": 2.8,
+  "how": "WEO PCPIPCH USA 2000-2007 average"
+ },
+ "pi_USA_2010_2019": {
+  "value": 1.8,
+  "how": "WEO PCPIPCH USA 2010-2019 average"
+ },
+ "pi_USA_2020": {
+  "value": 1.3,
+  "how": "WEO PCPIPCH USA 2020-2020 average"
+ },
+ "pi_USA_2022": {
+  "value": 8.0,
+  "how": "WEO PCPIPCH USA 2022-2022 average"
+ },
+ "pi_USA_2026": {
+  "value": 3.6,
+  "how": "WEO PCPIPCH USA 2026-2026 average"
+ },
+ "pi_IND_2000_2007": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH IND 2000-2007 average"
+ },
+ "pi_IND_2010_2019": {
+  "value": 6.4,
+  "how": "WEO PCPIPCH IND 2010-2019 average"
+ },
+ "pi_IND_2020": {
+  "value": 6.2,
+  "how": "WEO PCPIPCH IND 2020-2020 average"
+ },
+ "pi_IND_2022": {
+  "value": 6.6,
+  "how": "WEO PCPIPCH IND 2022-2022 average"
+ },
+ "pi_IND_2026": {
+  "value": 5.0,
+  "how": "WEO PCPIPCH IND 2026-2026 average"
+ },
+ "pi_JPN_2000_2007": {
+  "value": -0.3,
+  "how": "WEO PCPIPCH JPN 2000-2007 average"
+ },
+ "pi_JPN_2010_2019": {
+  "value": 0.5,
+  "how": "WEO PCPIPCH JPN 2010-2019 average"
+ },
+ "pi_JPN_2020": {
+  "value": -0.0,
+  "how": "WEO PCPIPCH JPN 2020-2020 average"
+ },
+ "pi_JPN_2022": {
+  "value": 2.5,
+  "how": "WEO PCPIPCH JPN 2022-2022 average"
+ },
+ "pi_JPN_2026": {
+  "value": 2.0,
+  "how": "WEO PCPIPCH JPN 2026-2026 average"
+ },
+ "pi_TUR_2000_2007": {
+  "value": 26.9,
+  "how": "WEO PCPIPCH TUR 2000-2007 average"
+ },
+ "pi_TUR_2010_2019": {
+  "value": 9.8,
+  "how": "WEO PCPIPCH TUR 2010-2019 average"
+ },
+ "pi_TUR_2020": {
+  "value": 12.3,
+  "how": "WEO PCPIPCH TUR 2020-2020 average"
+ },
+ "pi_TUR_2022": {
+  "value": 72.3,
+  "how": "WEO PCPIPCH TUR 2022-2022 average"
+ },
+ "pi_TUR_2026": {
+  "value": 31.2,
+  "how": "WEO PCPIPCH TUR 2026-2026 average"
+ },
+ "pi_ARG_2000_2007": {
+  "value": 8.9,
+  "how": "WEO PCPIPCH ARG 2000-2007 average"
+ },
+ "pi_ARG_2020": {
+  "value": 42.0,
+  "how": "WEO PCPIPCH ARG 2020-2020 average"
+ },
+ "pi_ARG_2022": {
+  "value": 72.4,
+  "how": "WEO PCPIPCH ARG 2022-2022 average"
+ },
+ "pi_ARG_2026": {
+  "value": 32.5,
+  "how": "WEO PCPIPCH ARG 2026-2026 average"
+ },
+ "pi_G110_peak": {
+  "value": 7.3,
+  "how": "G110 peak inflation 2000-2025"
+ },
+ "pi_G110_peak_y": {
+  "value": 2022,
+  "how": ""
+ },
+ "pi_G200_peak": {
+  "value": 9.6,
+  "how": "G200 peak inflation 2000-2025"
+ },
+ "pi_G200_peak_y": {
+  "value": 2022,
+  "how": ""
+ },
+ "pi_G001_peak": {
+  "value": 8.7,
+  "how": "G001 peak inflation 2000-2025"
+ },
+ "pi_G001_peak_y": {
+  "value": 2022,
+  "how": ""
+ },
+ "pi_G110_low_y": {
+  "value": 2009,
+  "how": "AE lowest inflation year 2000-2021"
+ },
+ "pi_G110_low": {
+  "value": 0.2,
+  "how": "AE lowest inflation 2000-2021"
+ },
+ "us_core_below2_share": {
+  "value": 97.0,
+  "how": "share of months 2009-2020 with US core PCE inflation below 2%"
+ },
+ "us_core_peak": {
+  "value": 5.6,
+  "how": "US core PCE inflation peak since 2021"
+ },
+ "us_core_peak_m": {
+  "value": "2022-09",
+  "how": ""
+ },
+ "us_core_last": {
+  "value": 3.1,
+  "how": "US core PCE inflation latest"
+ },
+ "us_core_last_m": {
+  "value": "2026-09",
+  "how": ""
+ },
+ "in_pi_2000_2007": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2000-FY2007"
+ },
+ "in_pi_2008_2013": {
+  "value": 9.5,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2008-FY2013"
+ },
+ "in_pi_2014_2019": {
+  "value": 4.5,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2014-FY2019"
+ },
+ "in_pi_2016_2025": {
+  "value": 4.7,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2016-FY2025"
+ },
+ "in_pi_2020_2022": {
+  "value": 6.1,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2020-FY2022"
+ },
+ "in_pi_2023_2025": {
+  "value": 4.0,
+  "how": "WEO PCPIPCH IND (fiscal years) average FY2023-FY2025"
+ },
+ "in_pi_2010": {
+  "value": 9.4,
+  "how": "WEO PCPIPCH IND FY2010"
+ },
+ "in_pi_2012": {
+  "value": 10.0,
+  "how": "WEO PCPIPCH IND FY2012"
+ },
+ "in_pi_2013": {
+  "value": 9.8,
+  "how": "WEO PCPIPCH IND FY2013"
+ },
+ "in_pi_2019": {
+  "value": 4.8,
+  "how": "WEO PCPIPCH IND FY2019"
+ },
+ "in_pi_2022": {
+  "value": 6.6,
+  "how": "WEO PCPIPCH IND FY2022"
+ },
+ "in_pi_2024": {
+  "value": 4.6,
+  "how": "WEO PCPIPCH IND FY2024"
+ },
+ "in_pi_2025": {
+  "value": 2.0,
+  "how": "WEO PCPIPCH IND FY2025"
+ },
+ "in_pi_2026": {
+  "value": 5.0,
+  "how": "WEO PCPIPCH IND FY2026"
+ },
+ "in_repo_2008": {
+  "value": 5.0,
+  "how": "RBI repo rate end of FY2008"
+ },
+ "in_repo_2013": {
+  "value": 8.0,
+  "how": "RBI repo rate end of FY2013"
+ },
+ "in_repo_2019": {
+  "value": 4.4,
+  "how": "RBI repo rate end of FY2019"
+ },
+ "in_repo_2020": {
+  "value": 4.0,
+  "how": "RBI repo rate end of FY2020"
+ },
+ "in_repo_2022": {
+  "value": 6.5,
+  "how": "RBI repo rate end of FY2022"
+ },
+ "in_repo_2025": {
+  "value": 5.25,
+  "how": "RBI repo rate end of FY2025"
+ },
+ "in_repo_last": {
+  "value": 5.25,
+  "how": "RBI policy rate latest month (BIS)"
+ },
+ "in_repo_last_m": {
+  "value": "2026-09",
+  "how": ""
+ }
+}

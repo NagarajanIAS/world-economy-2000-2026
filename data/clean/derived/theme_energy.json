@@ -1,0 +1,1358 @@
+{
+ "brent_2000_01": {
+  "value": 25.4,
+  "how": "Brent, US$/bbl, Jan 2000 (World Bank Pink Sheet)"
+ },
+ "brent_pk2008": {
+  "value": 133.9,
+  "how": "Brent monthly peak 2008 (2008M07), $/bbl"
+ },
+ "brent_pk2008_m": {
+  "value": "2008M07",
+  "how": ""
+ },
+ "brent_tr2008": {
+  "value": 41.6,
+  "how": "Brent monthly low after 2008 peak (2008M12), $/bbl"
+ },
+ "brent_pk2014": {
+  "value": 124.9,
+  "how": "Brent monthly high 2011-mid 2014 (2012M03), $/bbl"
+ },
+ "brent_2014_06": {
+  "value": 111.9,
+  "how": "Brent, $/bbl, June 2014"
+ },
+ "brent_tr2016": {
+  "value": 30.8,
+  "how": "Brent monthly low 2014-17 (2016M01), $/bbl"
+ },
+ "brent_tr2016_m": {
+  "value": "2016M01",
+  "how": ""
+ },
+ "brent_2020_04": {
+  "value": 23.3,
+  "how": "Brent, $/bbl, April 2020 (monthly average)"
+ },
+ "brent_pk2022": {
+  "value": 120.1,
+  "how": "Brent monthly peak 2022 (2022M06), $/bbl"
+ },
+ "brent_pk2022_m": {
+  "value": "2022M06",
+  "how": ""
+ },
+ "brent_2025_12": {
+  "value": 62.7,
+  "how": "Brent, $/bbl, Dec 2025"
+ },
+ "brent_last": {
+  "value": 125.0,
+  "how": "Brent, $/bbl, latest month (2026M10)"
+ },
+ "brent_last_m": {
+  "value": "2026M10",
+  "how": ""
+ },
+ "brent_pk2026": {
+  "value": 125.0,
+  "how": "Brent monthly high 2026 (2026M10), $/bbl"
+ },
+ "brent_pk2026_m": {
+  "value": "2026M10",
+  "how": ""
+ },
+ "brent_2020_04_wti": {
+  "value": 16.5,
+  "how": "WTI, $/bbl, April 2020 (monthly average)"
+ },
+ "gaseu_pk2022": {
+  "value": 70.0,
+  "how": "Natural gas, Europe, $/mmbtu, monthly peak 2022 (2022M08)"
+ },
+ "gaseu_pk2022_m": {
+  "value": "2022M08",
+  "how": ""
+ },
+ "gaseu_2019": {
+  "value": 4.8,
+  "how": "Natural gas, Europe, $/mmbtu, 2019 average"
+ },
+ "ix_ENERGY_2002": {
+  "value": 34.0,
+  "how": "Pink Sheet ENERGY index (2010 = 100), 2002 average"
+ },
+ "ix_ENERGY_pk2008": {
+  "value": 173.5,
+  "how": "Pink Sheet ENERGY index, peak 2007-08 (2008M07)"
+ },
+ "ix_ENERGY_pk2022": {
+  "value": 173.5,
+  "how": "Pink Sheet ENERGY index, peak 2021-22 (2022M06)"
+ },
+ "ix_ENERGY_pk2022_m": {
+  "value": "2022M06",
+  "how": ""
+ },
+ "ix_ENERGY_2016": {
+  "value": 56.0,
+  "how": "Pink Sheet ENERGY index, 2016 average"
+ },
+ "ix_ENERGY_last": {
+  "value": 159.6,
+  "how": "Pink Sheet ENERGY index, 2026M10"
+ },
+ "ix_METALS_2002": {
+  "value": 33.1,
+  "how": "Pink Sheet METALS index (2010 = 100), 2002 average"
+ },
+ "ix_METALS_pk2008": {
+  "value": 126.3,
+  "how": "Pink Sheet METALS index, peak 2007-08 (2008M03)"
+ },
+ "ix_METALS_pk2022": {
+  "value": 141.3,
+  "how": "Pink Sheet METALS index, peak 2021-22 (2022M03)"
+ },
+ "ix_METALS_pk2022_m": {
+  "value": "2022M03",
+  "how": ""
+ },
+ "ix_METALS_2016": {
+  "value": 63.0,
+  "how": "Pink Sheet METALS index, 2016 average"
+ },
+ "ix_METALS_last": {
+  "value": 143.1,
+  "how": "Pink Sheet METALS index, 2026M10"
+ },
+ "ix_FOOD_2002": {
+  "value": 51.8,
+  "how": "Pink Sheet FOOD index (2010 = 100), 2002 average"
+ },
+ "ix_FOOD_pk2008": {
+  "value": 131.2,
+  "how": "Pink Sheet FOOD index, peak 2007-08 (2008M06)"
+ },
+ "ix_FOOD_pk2022": {
+  "value": 153.1,
+  "how": "Pink Sheet FOOD index, peak 2021-22 (2022M05)"
+ },
+ "ix_FOOD_pk2022_m": {
+  "value": "2022M05",
+  "how": ""
+ },
+ "ix_FOOD_2016": {
+  "value": 89.6,
+  "how": "Pink Sheet FOOD index, 2016 average"
+ },
+ "ix_FOOD_last": {
+  "value": 121.9,
+  "how": "Pink Sheet FOOD index, 2026M10"
+ },
+ "ix_FERT_2002": {
+  "value": 34.9,
+  "how": "Pink Sheet FERT index (2010 = 100), 2002 average"
+ },
+ "ix_FERT_pk2008": {
+  "value": 256.1,
+  "how": "Pink Sheet FERT index, peak 2007-08 (2008M08)"
+ },
+ "ix_FERT_pk2022": {
+  "value": 293.7,
+  "how": "Pink Sheet FERT index, peak 2021-22 (2022M04)"
+ },
+ "ix_FERT_pk2022_m": {
+  "value": "2022M04",
+  "how": ""
+ },
+ "ix_FERT_2016": {
+  "value": 77.7,
+  "how": "Pink Sheet FERT index, 2016 average"
+ },
+ "ix_FERT_last": {
+  "value": 148.2,
+  "how": "Pink Sheet FERT index, 2026M10"
+ },
+ "ix_ENERGY_x_02_08": {
+  "value": 5.1,
+  "how": "energy index 2008 peak / 2002 average"
+ },
+ "ix_METALS_x_02_08": {
+  "value": 3.8,
+  "how": "metals index 2007-08 peak / 2002 average"
+ },
+ "co2_WLD_2000": {
+  "value": 25.5,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2000"
+ },
+ "co2pc_WLD_2000": {
+  "value": 4.1,
+  "how": "CO2 per person, tonnes, WLD 2000"
+ },
+ "co2_WLD_2005": {
+  "value": 29.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2005"
+ },
+ "co2pc_WLD_2005": {
+  "value": 4.5,
+  "how": "CO2 per person, tonnes, WLD 2005"
+ },
+ "co2_WLD_2010": {
+  "value": 33.3,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2010"
+ },
+ "co2pc_WLD_2010": {
+  "value": 4.7,
+  "how": "CO2 per person, tonnes, WLD 2010"
+ },
+ "co2_WLD_2015": {
+  "value": 35.5,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2015"
+ },
+ "co2pc_WLD_2015": {
+  "value": 4.8,
+  "how": "CO2 per person, tonnes, WLD 2015"
+ },
+ "co2_WLD_2019": {
+  "value": 37.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2019"
+ },
+ "co2pc_WLD_2019": {
+  "value": 4.7,
+  "how": "CO2 per person, tonnes, WLD 2019"
+ },
+ "co2_WLD_2020": {
+  "value": 35.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2020"
+ },
+ "co2pc_WLD_2020": {
+  "value": 4.5,
+  "how": "CO2 per person, tonnes, WLD 2020"
+ },
+ "co2_WLD_2023": {
+  "value": 38.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2023"
+ },
+ "co2pc_WLD_2023": {
+  "value": 4.7,
+  "how": "CO2 per person, tonnes, WLD 2023"
+ },
+ "co2_WLD_2024": {
+  "value": 38.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2024"
+ },
+ "co2pc_WLD_2024": {
+  "value": 4.7,
+  "how": "CO2 per person, tonnes, WLD 2024"
+ },
+ "co2_WLD_2025": {
+  "value": 39.0,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, WLD 2025"
+ },
+ "co2pc_WLD_2025": {
+  "value": 4.7,
+  "how": "CO2 per person, tonnes, WLD 2025"
+ },
+ "co2sh_WLD_2025": {
+  "value": 100.0,
+  "how": "share of world CO2, % WLD 2025"
+ },
+ "co2sh_WLD_2000": {
+  "value": 100.0,
+  "how": "share of world CO2, % WLD 2000"
+ },
+ "cumsh_WLD": {
+  "value": 100.0,
+  "how": "share of cumulative CO2 since 1750, % WLD, to 2025"
+ },
+ "co2_CHN_2000": {
+  "value": 3.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2000"
+ },
+ "co2pc_CHN_2000": {
+  "value": 2.9,
+  "how": "CO2 per person, tonnes, CHN 2000"
+ },
+ "co2_CHN_2005": {
+  "value": 5.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2005"
+ },
+ "co2pc_CHN_2005": {
+  "value": 4.5,
+  "how": "CO2 per person, tonnes, CHN 2005"
+ },
+ "co2_CHN_2010": {
+  "value": 8.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2010"
+ },
+ "co2pc_CHN_2010": {
+  "value": 6.4,
+  "how": "CO2 per person, tonnes, CHN 2010"
+ },
+ "co2_CHN_2015": {
+  "value": 9.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2015"
+ },
+ "co2pc_CHN_2015": {
+  "value": 7.1,
+  "how": "CO2 per person, tonnes, CHN 2015"
+ },
+ "co2_CHN_2019": {
+  "value": 10.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2019"
+ },
+ "co2pc_CHN_2019": {
+  "value": 7.5,
+  "how": "CO2 per person, tonnes, CHN 2019"
+ },
+ "co2_CHN_2020": {
+  "value": 10.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2020"
+ },
+ "co2pc_CHN_2020": {
+  "value": 7.6,
+  "how": "CO2 per person, tonnes, CHN 2020"
+ },
+ "co2_CHN_2023": {
+  "value": 12.3,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2023"
+ },
+ "co2pc_CHN_2023": {
+  "value": 8.6,
+  "how": "CO2 per person, tonnes, CHN 2023"
+ },
+ "co2_CHN_2024": {
+  "value": 12.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2024"
+ },
+ "co2pc_CHN_2024": {
+  "value": 8.7,
+  "how": "CO2 per person, tonnes, CHN 2024"
+ },
+ "co2_CHN_2025": {
+  "value": 12.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, CHN 2025"
+ },
+ "co2pc_CHN_2025": {
+  "value": 8.8,
+  "how": "CO2 per person, tonnes, CHN 2025"
+ },
+ "co2sh_CHN_2025": {
+  "value": 32.0,
+  "how": "share of world CO2, % CHN 2025"
+ },
+ "co2sh_CHN_2000": {
+  "value": 14.0,
+  "how": "share of world CO2, % CHN 2000"
+ },
+ "cumsh_CHN": {
+  "value": 16.0,
+  "how": "share of cumulative CO2 since 1750, % CHN, to 2025"
+ },
+ "co2_USA_2000": {
+  "value": 6.0,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2000"
+ },
+ "co2pc_USA_2000": {
+  "value": 21.4,
+  "how": "CO2 per person, tonnes, USA 2000"
+ },
+ "co2_USA_2005": {
+  "value": 6.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2005"
+ },
+ "co2pc_USA_2005": {
+  "value": 20.7,
+  "how": "CO2 per person, tonnes, USA 2005"
+ },
+ "co2_USA_2010": {
+  "value": 5.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2010"
+ },
+ "co2pc_USA_2010": {
+  "value": 18.2,
+  "how": "CO2 per person, tonnes, USA 2010"
+ },
+ "co2_USA_2015": {
+  "value": 5.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2015"
+ },
+ "co2pc_USA_2015": {
+  "value": 16.5,
+  "how": "CO2 per person, tonnes, USA 2015"
+ },
+ "co2_USA_2019": {
+  "value": 5.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2019"
+ },
+ "co2pc_USA_2019": {
+  "value": 15.5,
+  "how": "CO2 per person, tonnes, USA 2019"
+ },
+ "co2_USA_2020": {
+  "value": 4.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2020"
+ },
+ "co2pc_USA_2020": {
+  "value": 13.8,
+  "how": "CO2 per person, tonnes, USA 2020"
+ },
+ "co2_USA_2023": {
+  "value": 4.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2023"
+ },
+ "co2pc_USA_2023": {
+  "value": 14.3,
+  "how": "CO2 per person, tonnes, USA 2023"
+ },
+ "co2_USA_2024": {
+  "value": 4.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2024"
+ },
+ "co2pc_USA_2024": {
+  "value": 14.2,
+  "how": "CO2 per person, tonnes, USA 2024"
+ },
+ "co2_USA_2025": {
+  "value": 5.0,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, USA 2025"
+ },
+ "co2pc_USA_2025": {
+  "value": 14.5,
+  "how": "CO2 per person, tonnes, USA 2025"
+ },
+ "co2sh_USA_2025": {
+  "value": 13.0,
+  "how": "share of world CO2, % USA 2025"
+ },
+ "co2sh_USA_2000": {
+  "value": 24.0,
+  "how": "share of world CO2, % USA 2000"
+ },
+ "cumsh_USA": {
+  "value": 23.0,
+  "how": "share of cumulative CO2 since 1750, % USA, to 2025"
+ },
+ "co2_EU27_2000": {
+  "value": 3.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2000"
+ },
+ "co2pc_EU27_2000": {
+  "value": 8.4,
+  "how": "CO2 per person, tonnes, EU27 2000"
+ },
+ "co2_EU27_2005": {
+  "value": 3.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2005"
+ },
+ "co2pc_EU27_2005": {
+  "value": 8.6,
+  "how": "CO2 per person, tonnes, EU27 2005"
+ },
+ "co2_EU27_2010": {
+  "value": 3.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2010"
+ },
+ "co2pc_EU27_2010": {
+  "value": 7.8,
+  "how": "CO2 per person, tonnes, EU27 2010"
+ },
+ "co2_EU27_2015": {
+  "value": 3.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2015"
+ },
+ "co2pc_EU27_2015": {
+  "value": 6.9,
+  "how": "CO2 per person, tonnes, EU27 2015"
+ },
+ "co2_EU27_2019": {
+  "value": 2.9,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2019"
+ },
+ "co2pc_EU27_2019": {
+  "value": 6.5,
+  "how": "CO2 per person, tonnes, EU27 2019"
+ },
+ "co2_EU27_2020": {
+  "value": 2.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2020"
+ },
+ "co2pc_EU27_2020": {
+  "value": 5.8,
+  "how": "CO2 per person, tonnes, EU27 2020"
+ },
+ "co2_EU27_2023": {
+  "value": 2.5,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2023"
+ },
+ "co2pc_EU27_2023": {
+  "value": 5.5,
+  "how": "CO2 per person, tonnes, EU27 2023"
+ },
+ "co2_EU27_2024": {
+  "value": 2.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2024"
+ },
+ "co2pc_EU27_2024": {
+  "value": 5.4,
+  "how": "CO2 per person, tonnes, EU27 2024"
+ },
+ "co2_EU27_2025": {
+  "value": 2.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, EU27 2025"
+ },
+ "co2pc_EU27_2025": {
+  "value": 5.4,
+  "how": "CO2 per person, tonnes, EU27 2025"
+ },
+ "co2sh_EU27_2025": {
+  "value": 6.0,
+  "how": "share of world CO2, % EU27 2025"
+ },
+ "co2sh_EU27_2000": {
+  "value": 14.0,
+  "how": "share of world CO2, % EU27 2000"
+ },
+ "cumsh_EU27": {
+  "value": 16.0,
+  "how": "share of cumulative CO2 since 1750, % EU27, to 2025"
+ },
+ "co2_IND_2000": {
+  "value": 0.96,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2000"
+ },
+ "co2pc_IND_2000": {
+  "value": 0.9,
+  "how": "CO2 per person, tonnes, IND 2000"
+ },
+ "co2_IND_2005": {
+  "value": 1.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2005"
+ },
+ "co2pc_IND_2005": {
+  "value": 1.0,
+  "how": "CO2 per person, tonnes, IND 2005"
+ },
+ "co2_IND_2010": {
+  "value": 1.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2010"
+ },
+ "co2pc_IND_2010": {
+  "value": 1.4,
+  "how": "CO2 per person, tonnes, IND 2010"
+ },
+ "co2_IND_2015": {
+  "value": 2.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2015"
+ },
+ "co2pc_IND_2015": {
+  "value": 1.7,
+  "how": "CO2 per person, tonnes, IND 2015"
+ },
+ "co2_IND_2019": {
+  "value": 2.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2019"
+ },
+ "co2pc_IND_2019": {
+  "value": 1.9,
+  "how": "CO2 per person, tonnes, IND 2019"
+ },
+ "co2_IND_2020": {
+  "value": 2.4,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2020"
+ },
+ "co2pc_IND_2020": {
+  "value": 1.7,
+  "how": "CO2 per person, tonnes, IND 2020"
+ },
+ "co2_IND_2023": {
+  "value": 3.0,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2023"
+ },
+ "co2pc_IND_2023": {
+  "value": 2.1,
+  "how": "CO2 per person, tonnes, IND 2023"
+ },
+ "co2_IND_2024": {
+  "value": 3.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2024"
+ },
+ "co2pc_IND_2024": {
+  "value": 2.2,
+  "how": "CO2 per person, tonnes, IND 2024"
+ },
+ "co2_IND_2025": {
+  "value": 3.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, IND 2025"
+ },
+ "co2pc_IND_2025": {
+  "value": 2.2,
+  "how": "CO2 per person, tonnes, IND 2025"
+ },
+ "co2sh_IND_2025": {
+  "value": 8.0,
+  "how": "share of world CO2, % IND 2025"
+ },
+ "co2sh_IND_2000": {
+  "value": 4.0,
+  "how": "share of world CO2, % IND 2000"
+ },
+ "cumsh_IND": {
+  "value": 4.0,
+  "how": "share of cumulative CO2 since 1750, % IND, to 2025"
+ },
+ "co2_JPN_2000": {
+  "value": 1.3,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2000"
+ },
+ "co2pc_JPN_2000": {
+  "value": 9.9,
+  "how": "CO2 per person, tonnes, JPN 2000"
+ },
+ "co2_JPN_2005": {
+  "value": 1.3,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2005"
+ },
+ "co2pc_JPN_2005": {
+  "value": 10.0,
+  "how": "CO2 per person, tonnes, JPN 2005"
+ },
+ "co2_JPN_2010": {
+  "value": 1.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2010"
+ },
+ "co2pc_JPN_2010": {
+  "value": 9.4,
+  "how": "CO2 per person, tonnes, JPN 2010"
+ },
+ "co2_JPN_2015": {
+  "value": 1.2,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2015"
+ },
+ "co2pc_JPN_2015": {
+  "value": 9.6,
+  "how": "CO2 per person, tonnes, JPN 2015"
+ },
+ "co2_JPN_2019": {
+  "value": 1.1,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2019"
+ },
+ "co2pc_JPN_2019": {
+  "value": 8.7,
+  "how": "CO2 per person, tonnes, JPN 2019"
+ },
+ "co2_JPN_2020": {
+  "value": 1.0,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2020"
+ },
+ "co2pc_JPN_2020": {
+  "value": 8.2,
+  "how": "CO2 per person, tonnes, JPN 2020"
+ },
+ "co2_JPN_2023": {
+  "value": 0.99,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2023"
+ },
+ "co2pc_JPN_2023": {
+  "value": 7.9,
+  "how": "CO2 per person, tonnes, JPN 2023"
+ },
+ "co2_JPN_2024": {
+  "value": 0.97,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2024"
+ },
+ "co2pc_JPN_2024": {
+  "value": 7.8,
+  "how": "CO2 per person, tonnes, JPN 2024"
+ },
+ "co2_JPN_2025": {
+  "value": 0.96,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, JPN 2025"
+ },
+ "co2pc_JPN_2025": {
+  "value": 7.8,
+  "how": "CO2 per person, tonnes, JPN 2025"
+ },
+ "co2sh_JPN_2025": {
+  "value": 2.0,
+  "how": "share of world CO2, % JPN 2025"
+ },
+ "co2sh_JPN_2000": {
+  "value": 5.0,
+  "how": "share of world CO2, % JPN 2000"
+ },
+ "cumsh_JPN": {
+  "value": 4.0,
+  "how": "share of cumulative CO2 since 1750, % JPN, to 2025"
+ },
+ "co2_RUS_2000": {
+  "value": 1.5,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2000"
+ },
+ "co2pc_RUS_2000": {
+  "value": 10.1,
+  "how": "CO2 per person, tonnes, RUS 2000"
+ },
+ "co2_RUS_2005": {
+  "value": 1.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2005"
+ },
+ "co2pc_RUS_2005": {
+  "value": 10.8,
+  "how": "CO2 per person, tonnes, RUS 2005"
+ },
+ "co2_RUS_2010": {
+  "value": 1.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2010"
+ },
+ "co2pc_RUS_2010": {
+  "value": 11.4,
+  "how": "CO2 per person, tonnes, RUS 2010"
+ },
+ "co2_RUS_2015": {
+  "value": 1.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2015"
+ },
+ "co2pc_RUS_2015": {
+  "value": 11.3,
+  "how": "CO2 per person, tonnes, RUS 2015"
+ },
+ "co2_RUS_2019": {
+  "value": 1.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2019"
+ },
+ "co2pc_RUS_2019": {
+  "value": 11.6,
+  "how": "CO2 per person, tonnes, RUS 2019"
+ },
+ "co2_RUS_2020": {
+  "value": 1.6,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2020"
+ },
+ "co2pc_RUS_2020": {
+  "value": 11.2,
+  "how": "CO2 per person, tonnes, RUS 2020"
+ },
+ "co2_RUS_2023": {
+  "value": 1.7,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2023"
+ },
+ "co2pc_RUS_2023": {
+  "value": 11.9,
+  "how": "CO2 per person, tonnes, RUS 2023"
+ },
+ "co2_RUS_2024": {
+  "value": 1.8,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2024"
+ },
+ "co2pc_RUS_2024": {
+  "value": 12.3,
+  "how": "CO2 per person, tonnes, RUS 2024"
+ },
+ "co2_RUS_2025": {
+  "value": 1.8,
+  "how": "CO2 emissions (fossil fuels and industry, excl. land use), Gt, RUS 2025"
+ },
+ "co2pc_RUS_2025": {
+  "value": 12.3,
+  "how": "CO2 per person, tonnes, RUS 2025"
+ },
+ "co2sh_RUS_2025": {
+  "value": 5.0,
+  "how": "share of world CO2, % RUS 2025"
+ },
+ "co2sh_RUS_2000": {
+  "value": 6.0,
+  "how": "share of world CO2, % RUS 2000"
+ },
+ "cumsh_RUS": {
+  "value": 7.0,
+  "how": "share of cumulative CO2 since 1750, % RUS, to 2025"
+ },
+ "co2_WLD_x_2000_2025": {
+  "value": 53.0,
+  "how": "world CO2 2025 vs 2000, % change"
+ },
+ "co2_CHN_x_2000_2025": {
+  "value": 3.4,
+  "how": "China CO2 2025 / 2000"
+ },
+ "co2_USA_ch_2005_2025": {
+  "value": -18.0,
+  "how": "US CO2 2025 vs 2005, % change"
+ },
+ "co2_EU27_ch_2000_2025": {
+  "value": -33.0,
+  "how": "EU27 CO2 2025 vs 2000, % change"
+ },
+ "co2_IND_x_2000_2025": {
+  "value": 3.3,
+  "how": "India CO2 2025 / 2000"
+ },
+ "co2_REST_2025": {
+  "value": 15.9,
+  "how": "CO2 outside China, US, EU27 and India, Gt 2025"
+ },
+ "temp_2000": {
+  "value": 0.39,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2000 (GISTEMP v4)"
+ },
+ "temp_2010": {
+  "value": 0.72,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2010 (GISTEMP v4)"
+ },
+ "temp_2015": {
+  "value": 0.9,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2015 (GISTEMP v4)"
+ },
+ "temp_2016": {
+  "value": 1.01,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2016 (GISTEMP v4)"
+ },
+ "temp_2020": {
+  "value": 1.01,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2020 (GISTEMP v4)"
+ },
+ "temp_2023": {
+  "value": 1.17,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2023 (GISTEMP v4)"
+ },
+ "temp_2024": {
+  "value": 1.28,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2024 (GISTEMP v4)"
+ },
+ "temp_2025": {
+  "value": 1.19,
+  "how": "global surface temperature anomaly vs 1951-80, degrees C, 2025 (GISTEMP v4)"
+ },
+ "temp_warmest": {
+  "value": 2024,
+  "how": "warmest year in GISTEMP"
+ },
+ "temp_2nd": {
+  "value": 2025,
+  "how": ""
+ },
+ "temp_8090": {
+  "value": 0.25,
+  "how": "mean anomaly 1980-89, C"
+ },
+ "temp_1625": {
+  "value": 1.01,
+  "how": "mean anomaly 2016-25, C"
+ },
+ "sw_WLD_2000": {
+  "value": 0.2,
+  "how": "solar + wind share of electricity, % WLD 2000"
+ },
+ "coal_WLD_2000": {
+  "value": 38.0,
+  "how": "coal share of electricity, % WLD 2000"
+ },
+ "fos_WLD_2000": {
+  "value": 65.0,
+  "how": "fossil share of electricity, % WLD 2000"
+ },
+ "sw_WLD_2010": {
+  "value": 1.8,
+  "how": "solar + wind share of electricity, % WLD 2010"
+ },
+ "coal_WLD_2010": {
+  "value": 40.0,
+  "how": "coal share of electricity, % WLD 2010"
+ },
+ "fos_WLD_2010": {
+  "value": 67.0,
+  "how": "fossil share of electricity, % WLD 2010"
+ },
+ "sw_WLD_2015": {
+  "value": 4.5,
+  "how": "solar + wind share of electricity, % WLD 2015"
+ },
+ "coal_WLD_2015": {
+  "value": 39.0,
+  "how": "coal share of electricity, % WLD 2015"
+ },
+ "fos_WLD_2015": {
+  "value": 66.0,
+  "how": "fossil share of electricity, % WLD 2015"
+ },
+ "sw_WLD_2020": {
+  "value": 9.1,
+  "how": "solar + wind share of electricity, % WLD 2020"
+ },
+ "coal_WLD_2020": {
+  "value": 35.0,
+  "how": "coal share of electricity, % WLD 2020"
+ },
+ "fos_WLD_2020": {
+  "value": 62.0,
+  "how": "fossil share of electricity, % WLD 2020"
+ },
+ "sw_WLD_2024": {
+  "value": 15.0,
+  "how": "solar + wind share of electricity, % WLD 2024"
+ },
+ "coal_WLD_2024": {
+  "value": 34.0,
+  "how": "coal share of electricity, % WLD 2024"
+ },
+ "fos_WLD_2024": {
+  "value": 59.0,
+  "how": "fossil share of electricity, % WLD 2024"
+ },
+ "sw_WLD_2025": {
+  "value": 17.3,
+  "how": "solar + wind share of electricity, % WLD 2025"
+ },
+ "coal_WLD_2025": {
+  "value": 33.0,
+  "how": "coal share of electricity, % WLD 2025"
+ },
+ "fos_WLD_2025": {
+  "value": 57.0,
+  "how": "fossil share of electricity, % WLD 2025"
+ },
+ "sw_CHN_2000": {
+  "value": 0.0,
+  "how": "solar + wind share of electricity, % CHN 2000"
+ },
+ "coal_CHN_2000": {
+  "value": 78.0,
+  "how": "coal share of electricity, % CHN 2000"
+ },
+ "fos_CHN_2000": {
+  "value": 82.0,
+  "how": "fossil share of electricity, % CHN 2000"
+ },
+ "sw_CHN_2010": {
+  "value": 1.2,
+  "how": "solar + wind share of electricity, % CHN 2010"
+ },
+ "coal_CHN_2010": {
+  "value": 77.0,
+  "how": "coal share of electricity, % CHN 2010"
+ },
+ "fos_CHN_2010": {
+  "value": 80.0,
+  "how": "fossil share of electricity, % CHN 2010"
+ },
+ "sw_CHN_2015": {
+  "value": 3.9,
+  "how": "solar + wind share of electricity, % CHN 2015"
+ },
+ "coal_CHN_2015": {
+  "value": 70.0,
+  "how": "coal share of electricity, % CHN 2015"
+ },
+ "fos_CHN_2015": {
+  "value": 73.0,
+  "how": "fossil share of electricity, % CHN 2015"
+ },
+ "sw_CHN_2020": {
+  "value": 9.4,
+  "how": "solar + wind share of electricity, % CHN 2020"
+ },
+ "coal_CHN_2020": {
+  "value": 63.0,
+  "how": "coal share of electricity, % CHN 2020"
+ },
+ "fos_CHN_2020": {
+  "value": 67.0,
+  "how": "fossil share of electricity, % CHN 2020"
+ },
+ "sw_CHN_2024": {
+  "value": 18.2,
+  "how": "solar + wind share of electricity, % CHN 2024"
+ },
+ "coal_CHN_2024": {
+  "value": 58.0,
+  "how": "coal share of electricity, % CHN 2024"
+ },
+ "fos_CHN_2024": {
+  "value": 62.0,
+  "how": "fossil share of electricity, % CHN 2024"
+ },
+ "sw_CHN_2025": {
+  "value": 21.8,
+  "how": "solar + wind share of electricity, % CHN 2025"
+ },
+ "coal_CHN_2025": {
+  "value": 54.0,
+  "how": "coal share of electricity, % CHN 2025"
+ },
+ "fos_CHN_2025": {
+  "value": 58.0,
+  "how": "fossil share of electricity, % CHN 2025"
+ },
+ "sw_IND_2000": {
+  "value": 0.3,
+  "how": "solar + wind share of electricity, % IND 2000"
+ },
+ "coal_IND_2000": {
+  "value": 68.0,
+  "how": "coal share of electricity, % IND 2000"
+ },
+ "fos_IND_2000": {
+  "value": 83.0,
+  "how": "fossil share of electricity, % IND 2000"
+ },
+ "sw_IND_2010": {
+  "value": 2.1,
+  "how": "solar + wind share of electricity, % IND 2010"
+ },
+ "coal_IND_2010": {
+  "value": 69.0,
+  "how": "coal share of electricity, % IND 2010"
+ },
+ "fos_IND_2010": {
+  "value": 82.0,
+  "how": "fossil share of electricity, % IND 2010"
+ },
+ "sw_IND_2015": {
+  "value": 3.0,
+  "how": "solar + wind share of electricity, % IND 2015"
+ },
+ "coal_IND_2015": {
+  "value": 77.0,
+  "how": "coal share of electricity, % IND 2015"
+ },
+ "fos_IND_2015": {
+  "value": 82.0,
+  "how": "fossil share of electricity, % IND 2015"
+ },
+ "sw_IND_2020": {
+  "value": 7.2,
+  "how": "solar + wind share of electricity, % IND 2020"
+ },
+ "coal_IND_2020": {
+  "value": 73.0,
+  "how": "coal share of electricity, % IND 2020"
+ },
+ "fos_IND_2020": {
+  "value": 78.0,
+  "how": "fossil share of electricity, % IND 2020"
+ },
+ "sw_IND_2024": {
+  "value": 11.0,
+  "how": "solar + wind share of electricity, % IND 2024"
+ },
+ "coal_IND_2024": {
+  "value": 75.0,
+  "how": "coal share of electricity, % IND 2024"
+ },
+ "fos_IND_2024": {
+  "value": 78.0,
+  "how": "fossil share of electricity, % IND 2024"
+ },
+ "sw_IND_2025": {
+  "value": 14.4,
+  "how": "solar + wind share of electricity, % IND 2025"
+ },
+ "coal_IND_2025": {
+  "value": 71.0,
+  "how": "coal share of electricity, % IND 2025"
+ },
+ "fos_IND_2025": {
+  "value": 73.0,
+  "how": "fossil share of electricity, % IND 2025"
+ },
+ "sw_USA_2000": {
+  "value": 0.2,
+  "how": "solar + wind share of electricity, % USA 2000"
+ },
+ "coal_USA_2000": {
+  "value": 52.0,
+  "how": "coal share of electricity, % USA 2000"
+ },
+ "fos_USA_2000": {
+  "value": 71.0,
+  "how": "fossil share of electricity, % USA 2000"
+ },
+ "sw_USA_2010": {
+  "value": 2.3,
+  "how": "solar + wind share of electricity, % USA 2010"
+ },
+ "coal_USA_2010": {
+  "value": 45.0,
+  "how": "coal share of electricity, % USA 2010"
+ },
+ "fos_USA_2010": {
+  "value": 70.0,
+  "how": "fossil share of electricity, % USA 2010"
+ },
+ "sw_USA_2015": {
+  "value": 5.6,
+  "how": "solar + wind share of electricity, % USA 2015"
+ },
+ "coal_USA_2015": {
+  "value": 33.0,
+  "how": "coal share of electricity, % USA 2015"
+ },
+ "fos_USA_2015": {
+  "value": 67.0,
+  "how": "fossil share of electricity, % USA 2015"
+ },
+ "sw_USA_2020": {
+  "value": 11.6,
+  "how": "solar + wind share of electricity, % USA 2020"
+ },
+ "coal_USA_2020": {
+  "value": 19.0,
+  "how": "coal share of electricity, % USA 2020"
+ },
+ "fos_USA_2020": {
+  "value": 60.0,
+  "how": "fossil share of electricity, % USA 2020"
+ },
+ "sw_USA_2024": {
+  "value": 17.2,
+  "how": "solar + wind share of electricity, % USA 2024"
+ },
+ "coal_USA_2024": {
+  "value": 15.0,
+  "how": "coal share of electricity, % USA 2024"
+ },
+ "fos_USA_2024": {
+  "value": 58.0,
+  "how": "fossil share of electricity, % USA 2024"
+ },
+ "sw_USA_2025": {
+  "value": 18.9,
+  "how": "solar + wind share of electricity, % USA 2025"
+ },
+ "coal_USA_2025": {
+  "value": 16.0,
+  "how": "coal share of electricity, % USA 2025"
+ },
+ "fos_USA_2025": {
+  "value": 57.0,
+  "how": "fossil share of electricity, % USA 2025"
+ },
+ "coal_EU27_2000": {
+  "value": 31.0,
+  "how": "coal share of electricity, % EU27 2000"
+ },
+ "fos_EU27_2000": {
+  "value": 52.0,
+  "how": "fossil share of electricity, % EU27 2000"
+ },
+ "sw_EU27_2010": {
+  "value": 5.5,
+  "how": "solar + wind share of electricity, % EU27 2010"
+ },
+ "coal_EU27_2010": {
+  "value": 24.0,
+  "how": "coal share of electricity, % EU27 2010"
+ },
+ "fos_EU27_2010": {
+  "value": 49.0,
+  "how": "fossil share of electricity, % EU27 2010"
+ },
+ "sw_EU27_2015": {
+  "value": 12.7,
+  "how": "solar + wind share of electricity, % EU27 2015"
+ },
+ "coal_EU27_2015": {
+  "value": 25.0,
+  "how": "coal share of electricity, % EU27 2015"
+ },
+ "fos_EU27_2015": {
+  "value": 43.0,
+  "how": "fossil share of electricity, % EU27 2015"
+ },
+ "sw_EU27_2020": {
+  "value": 19.7,
+  "how": "solar + wind share of electricity, % EU27 2020"
+ },
+ "coal_EU27_2020": {
+  "value": 13.0,
+  "how": "coal share of electricity, % EU27 2020"
+ },
+ "fos_EU27_2020": {
+  "value": 37.0,
+  "how": "fossil share of electricity, % EU27 2020"
+ },
+ "sw_EU27_2024": {
+  "value": 28.8,
+  "how": "solar + wind share of electricity, % EU27 2024"
+ },
+ "coal_EU27_2024": {
+  "value": 10.0,
+  "how": "coal share of electricity, % EU27 2024"
+ },
+ "fos_EU27_2024": {
+  "value": 29.0,
+  "how": "fossil share of electricity, % EU27 2024"
+ },
+ "sw_EU27_2025": {
+  "value": 30.3,
+  "how": "solar + wind share of electricity, % EU27 2025"
+ },
+ "coal_EU27_2025": {
+  "value": 9.0,
+  "how": "coal share of electricity, % EU27 2025"
+ },
+ "fos_EU27_2025": {
+  "value": 29.0,
+  "how": "fossil share of electricity, % EU27 2025"
+ },
+ "solar_IND_2015": {
+  "value": 0.5,
+  "how": "India solar_share_elec, % 2015"
+ },
+ "wind__IND_2015": {
+  "value": 2.5,
+  "how": "India wind_share_elec, % 2015"
+ },
+ "hydro_IND_2015": {
+  "value": 10.2,
+  "how": "India hydro_share_elec, % 2015"
+ },
+ "nucle_IND_2015": {
+  "value": 2.9,
+  "how": "India nuclear_share_elec, % 2015"
+ },
+ "solar_IND_2020": {
+  "value": 3.4,
+  "how": "India solar_share_elec, % 2020"
+ },
+ "wind__IND_2020": {
+  "value": 3.9,
+  "how": "India wind_share_elec, % 2020"
+ },
+ "hydro_IND_2020": {
+  "value": 10.5,
+  "how": "India hydro_share_elec, % 2020"
+ },
+ "nucle_IND_2020": {
+  "value": 2.9,
+  "how": "India nuclear_share_elec, % 2020"
+ },
+ "solar_IND_2025": {
+  "value": 9.4,
+  "how": "India solar_share_elec, % 2025"
+ },
+ "wind__IND_2025": {
+  "value": 5.0,
+  "how": "India wind_share_elec, % 2025"
+ },
+ "hydro_IND_2025": {
+  "value": 8.6,
+  "how": "India hydro_share_elec, % 2025"
+ },
+ "nucle_IND_2025": {
+  "value": 2.6,
+  "how": "India nuclear_share_elec, % 2025"
+ },
+ "oil_IND_2000": {
+  "value": 16.0,
+  "how": "India oil imports, US$ bn, FY2000-01"
+ },
+ "oil_IND_2003": {
+  "value": 21.0,
+  "how": "India oil imports, US$ bn, FY2003-04"
+ },
+ "oil_IND_2008": {
+  "value": 91.0,
+  "how": "India oil imports, US$ bn, FY2008-09"
+ },
+ "oil_IND_2011": {
+  "value": 155.0,
+  "how": "India oil imports, US$ bn, FY2011-12"
+ },
+ "oil_IND_2013": {
+  "value": 165.0,
+  "how": "India oil imports, US$ bn, FY2013-14"
+ },
+ "oil_IND_2015": {
+  "value": 83.0,
+  "how": "India oil imports, US$ bn, FY2015-16"
+ },
+ "oil_IND_2016": {
+  "value": 87.0,
+  "how": "India oil imports, US$ bn, FY2016-17"
+ },
+ "oil_IND_2020": {
+  "value": 83.0,
+  "how": "India oil imports, US$ bn, FY2020-21"
+ },
+ "oil_IND_2022": {
+  "value": 209.0,
+  "how": "India oil imports, US$ bn, FY2022-23"
+ },
+ "oil_IND_2024": {
+  "value": 186.0,
+  "how": "India oil imports, US$ bn, FY2024-25"
+ },
+ "oil_IND_2025": {
+  "value": 174.0,
+  "how": "India oil imports, US$ bn, FY2025-26"
+ },
+ "cris_IND_2001": {
+  "value": 71.0,
+  "how": "India crude imports, % of crude supply, FY2001-02"
+ },
+ "cris_IND_2010": {
+  "value": 81.0,
+  "how": "India crude imports, % of crude supply, FY2010-11"
+ },
+ "cris_IND_2015": {
+  "value": 85.0,
+  "how": "India crude imports, % of crude supply, FY2015-16"
+ },
+ "cris_IND_2020": {
+  "value": 87.0,
+  "how": "India crude imports, % of crude supply, FY2020-21"
+ },
+ "cris_IND_2024": {
+  "value": 89.0,
+  "how": "India crude imports, % of crude supply, FY2024-25"
+ },
+ "oilgdp_IND_2008": {
+  "value": 7.6,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2008"
+ },
+ "oilgdp_IND_2011": {
+  "value": 8.5,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2011"
+ },
+ "oilgdp_IND_2013": {
+  "value": 8.9,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2013"
+ },
+ "oilgdp_IND_2015": {
+  "value": 4.0,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2015"
+ },
+ "oilgdp_IND_2022": {
+  "value": 6.4,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2022"
+ },
+ "oilgdp_IND_2024": {
+  "value": 4.9,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2024"
+ },
+ "oilgdp_IND_2025": {
+  "value": 4.4,
+  "how": "India oil imports, % of GDP (WEO US$ GDP, fiscal year), FY2025"
+ },
+ "eint_WLD_ch": {
+  "value": -25.0,
+  "how": "energy intensity of GDP, % change 2000-2021, WLD (WDI)"
+ },
+ "eint_IND_ch": {
+  "value": -40.0,
+  "how": "energy intensity of GDP, % change 2000-2021, IND (WDI)"
+ },
+ "eint_CHN_ch": {
+  "value": -42.0,
+  "how": "energy intensity of GDP, % change 2000-2021, CHN (WDI)"
+ },
+ "eint_USA_ch": {
+  "value": -37.0,
+  "how": "energy intensity of GDP, % change 2000-2021, USA (WDI)"
+ }
+}

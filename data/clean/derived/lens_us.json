@@ -1,0 +1,350 @@
+{
+ "g_2000": {
+  "value": 4.1,
+  "how": "US real GDP growth 2000 (WEO Oct 2026)"
+ },
+ "g_2001": {
+  "value": 1.0,
+  "how": "US real GDP growth 2001 (WEO Oct 2026)"
+ },
+ "g_2008": {
+  "value": 0.1,
+  "how": "US real GDP growth 2008 (WEO Oct 2026)"
+ },
+ "g_2009": {
+  "value": -2.6,
+  "how": "US real GDP growth 2009 (WEO Oct 2026)"
+ },
+ "g_2020": {
+  "value": -2.1,
+  "how": "US real GDP growth 2020 (WEO Oct 2026)"
+ },
+ "g_2021": {
+  "value": 6.3,
+  "how": "US real GDP growth 2021 (WEO Oct 2026)"
+ },
+ "g_2024": {
+  "value": 3.0,
+  "how": "US real GDP growth 2024 (WEO Oct 2026)"
+ },
+ "g_2025": {
+  "value": 2.3,
+  "how": "US real GDP growth 2025 (WEO Oct 2026)"
+ },
+ "g_2026": {
+  "value": 2.3,
+  "how": "US real GDP growth 2026 (WEO Oct 2026, projection)"
+ },
+ "g_2027": {
+  "value": 2.3,
+  "how": "US real GDP growth 2027 (WEO Oct 2026, projection)"
+ },
+ "g_2031": {
+  "value": 1.8,
+  "how": "US real GDP growth 2031 (WEO Oct 2026, projection)"
+ },
+ "g_avg_0007": {
+  "value": 2.7,
+  "how": "US real GDP growth, average 2000-07"
+ },
+ "g_avg_1019": {
+  "value": 2.4,
+  "how": "US real GDP growth, average 2010-19"
+ },
+ "g_avg_2225": {
+  "value": 2.7,
+  "how": "US real GDP growth, average 2022-25"
+ },
+ "g_ea_avg_1019": {
+  "value": 1.4,
+  "how": "G163 real GDP growth, average 2010-19"
+ },
+ "g_ea_avg_2225": {
+  "value": 1.6,
+  "how": "G163 real GDP growth, average 2022-25"
+ },
+ "g_ae_avg_1019": {
+  "value": 2.1,
+  "how": "G110 real GDP growth, average 2010-19"
+ },
+ "g_ae_avg_2225": {
+  "value": 2.2,
+  "how": "G110 real GDP growth, average 2022-25"
+ },
+ "cpi_2009": {
+  "value": -0.3,
+  "how": "US CPI inflation 2009, annual average"
+ },
+ "cpi_2015": {
+  "value": 0.1,
+  "how": "US CPI inflation 2015, annual average"
+ },
+ "cpi_2021": {
+  "value": 4.7,
+  "how": "US CPI inflation 2021, annual average"
+ },
+ "cpi_2022": {
+  "value": 8.0,
+  "how": "US CPI inflation 2022, annual average"
+ },
+ "cpi_2025": {
+  "value": 2.7,
+  "how": "US CPI inflation 2025, annual average"
+ },
+ "cpi_2026": {
+  "value": 3.6,
+  "how": "US CPI inflation 2026, annual average"
+ },
+ "cpi_avg_1019": {
+  "value": 1.8,
+  "how": "US CPI inflation, average 2010-19"
+ },
+ "lur_2025": {
+  "value": 4.3,
+  "how": "US unemployment rate 2025 (WEO)"
+ },
+ "ff_2000pk": {
+  "value": 6.54,
+  "how": "effective fed funds, 2000 high (monthly)"
+ },
+ "ff_2007pk": {
+  "value": 5.26,
+  "how": "effective fed funds, 2006-07 high"
+ },
+ "ff_zero_months": {
+  "value": 85,
+  "how": "months with effective fed funds below 0.25%, 2008-12 to 2015-12"
+ },
+ "ff_2019pk": {
+  "value": 2.42,
+  "how": "effective fed funds, 2019 high"
+ },
+ "ff_2023pk": {
+  "value": 5.33,
+  "how": "effective fed funds, 2022-26 high (2023-08)"
+ },
+ "ff_last": {
+  "value": 3.88,
+  "how": "effective fed funds, latest month (2026-10)"
+ },
+ "t10_2000": {
+  "value": 6.03,
+  "how": "10-year Treasury yield, 2000 average"
+ },
+ "t10_low20": {
+  "value": 0.62,
+  "how": "10-year Treasury yield, 2020 monthly low (2020-07)"
+ },
+ "t10_pk": {
+  "value": 5.13,
+  "how": "10-year Treasury yield, high since 2022 (2026-10)"
+ },
+ "t10_last": {
+  "value": 5.13,
+  "how": "10-year Treasury yield, October 2026 average"
+ },
+ "t10_last_since": {
+  "value": 2002,
+  "how": "last month before Oct 2026 with a 10-year yield at least as high (2002-05)"
+ },
+ "ff_low_2526": {
+  "value": 3.63,
+  "how": "effective fed funds, low since Sep 2024 (2026-05)"
+ },
+ "ff_low_2526_m": {
+  "value": 5,
+  "how": "month of that low"
+ },
+ "ff_low_2526_y": {
+  "value": 2026,
+  "how": "year of that low"
+ },
+ "fed_bs_2007": {
+  "value": 0.89,
+  "how": "Fed total assets, Dec 2007, $ trillion"
+ },
+ "fed_bs_pk": {
+  "value": 8.95,
+  "how": "Fed total assets, peak (2022-04), $ trillion"
+ },
+ "fed_bs_last": {
+  "value": 6.75,
+  "how": "Fed total assets, latest (2026-10), $ trillion"
+ },
+ "debt_2001": {
+  "value": 53.5,
+  "how": "US general government gross debt, % of GDP, 2001"
+ },
+ "debt_2007": {
+  "value": 65.0,
+  "how": "US general government gross debt, % of GDP, 2007"
+ },
+ "debt_2009": {
+  "value": 87.1,
+  "how": "US general government gross debt, % of GDP, 2009"
+ },
+ "debt_2012": {
+  "value": 103.7,
+  "how": "US general government gross debt, % of GDP, 2012"
+ },
+ "debt_2019": {
+  "value": 108.8,
+  "how": "US general government gross debt, % of GDP, 2019"
+ },
+ "debt_2020": {
+  "value": 132.6,
+  "how": "US general government gross debt, % of GDP, 2020"
+ },
+ "debt_2025": {
+  "value": 124.4,
+  "how": "US general government gross debt, % of GDP, 2025"
+ },
+ "debt_2031": {
+  "value": 145.0,
+  "how": "US general government gross debt, % of GDP, 2031"
+ },
+ "bal_2001": {
+  "value": -0.5,
+  "how": "US general government net lending/borrowing, % of GDP, 2001"
+ },
+ "bal_2007": {
+  "value": -2.9,
+  "how": "US general government net lending/borrowing, % of GDP, 2007"
+ },
+ "bal_2009": {
+  "value": -13.2,
+  "how": "US general government net lending/borrowing, % of GDP, 2009"
+ },
+ "bal_2019": {
+  "value": -5.8,
+  "how": "US general government net lending/borrowing, % of GDP, 2019"
+ },
+ "bal_2020": {
+  "value": -14.1,
+  "how": "US general government net lending/borrowing, % of GDP, 2020"
+ },
+ "bal_2025": {
+  "value": -7.1,
+  "how": "US general government net lending/borrowing, % of GDP, 2025"
+ },
+ "bal_2026": {
+  "value": -8.5,
+  "how": "US general government net lending/borrowing, % of GDP, 2026"
+ },
+ "bal_2031": {
+  "value": -8.4,
+  "how": "US general government net lending/borrowing, % of GDP, 2031"
+ },
+ "debt_ea_2025": {
+  "value": 87.3,
+  "how": "euro area general government gross debt, % of GDP, 2025"
+ },
+ "debt_ea_2031": {
+  "value": 90.4,
+  "how": "euro area gross debt, % of GDP, 2031 (projection)"
+ },
+ "bal_avg_1519": {
+  "value": -4.8,
+  "how": "US general government balance, average 2015-19, % of GDP"
+ },
+ "bal_avg_2325": {
+  "value": -7.6,
+  "how": "US general government balance, average 2023-25, % of GDP"
+ },
+ "ca_low": {
+  "value": -5.8,
+  "how": "US current account, % of GDP, low 2000-25 (2006)"
+ },
+ "ca_low_y": {
+  "value": 2006,
+  "how": "year of that low"
+ },
+ "ca_2009": {
+  "value": -2.5,
+  "how": "US current account, % of GDP, 2009"
+ },
+ "ca_2025": {
+  "value": -3.8,
+  "how": "US current account, % of GDP, 2025"
+ },
+ "ca_2031": {
+  "value": -3.5,
+  "how": "US current account, % of GDP, 2031"
+ },
+ "ppp_USA_2000": {
+  "value": 20.4,
+  "how": "USA share of world GDP at PPP, 2000, %"
+ },
+ "ppp_USA_2025": {
+  "value": 14.6,
+  "how": "USA share of world GDP at PPP, 2025, %"
+ },
+ "ppp_CHN_2000": {
+  "value": 6.7,
+  "how": "CHN share of world GDP at PPP, 2000, %"
+ },
+ "ppp_CHN_2025": {
+  "value": 19.6,
+  "how": "CHN share of world GDP at PPP, 2025, %"
+ },
+ "ppp_IND_2000": {
+  "value": 3.9,
+  "how": "IND share of world GDP at PPP, 2000, %"
+ },
+ "ppp_IND_2025": {
+  "value": 8.2,
+  "how": "IND share of world GDP at PPP, 2025, %"
+ },
+ "ppp_cross": {
+  "value": 2016,
+  "how": "first year China's PPP share exceeds the US's"
+ },
+ "in_share_2003": {
+  "value": 18.0,
+  "how": "US share of India's merchandise exports, FY2003-04"
+ },
+ "in_share_2010": {
+  "value": 10.1,
+  "how": "US share of India's merchandise exports, FY2010-11"
+ },
+ "in_share_2024": {
+  "value": 19.8,
+  "how": "US share of India's merchandise exports, FY2024-25"
+ },
+ "in_exus_2003": {
+  "value": 11.5,
+  "how": "India's merchandise exports to the US, FY2003-04, US$ bn"
+ },
+ "in_exus_2010": {
+  "value": 25.3,
+  "how": "India's merchandise exports to the US, FY2010-11, US$ bn"
+ },
+ "in_exus_2024": {
+  "value": 86.5,
+  "how": "India's merchandise exports to the US, FY2024-25, US$ bn"
+ },
+ "in_exus_2025": {
+  "value": 87.3,
+  "how": "India's merchandise exports to the US, FY2025-26, US$ bn"
+ },
+ "inr_2013_05": {
+  "value": 54.98,
+  "how": "rupees per dollar, May 2013 average"
+ },
+ "inr_2013_08": {
+  "value": 62.81,
+  "how": "rupees per dollar, August 2013 average"
+ },
+ "inr_2013_fall": {
+  "value": 14.2,
+  "how": "rise in rupees per dollar, May to August 2013, %"
+ },
+ "inr_2000": {
+  "value": 45.0,
+  "how": "rupees per dollar, 2000 average"
+ },
+ "inr_last": {
+  "value": 95.52,
+  "how": "rupees per dollar, latest (2026-10)"
+ }
+}
